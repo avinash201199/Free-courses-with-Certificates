@@ -1,4 +1,4 @@
-#### Free-courses-with-Certificates
+<h1 align="center"> Free-courses-with-Certificates</h1>
 
 <details>
 <summary>Data Science</summary>
