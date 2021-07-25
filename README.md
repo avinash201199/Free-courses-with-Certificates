@@ -3,7 +3,7 @@
 <details>
 <summary>Data Science</summary>
 <br>
-Analytic vidhya-Introduction to Python(Data Science <br>
+Analytic Vidhya- Introduction to Python(Data Science) <br>
 Website-https://courses.analyticsvidhya.com/pages/all-free-courses/<br>
 <br>
 
