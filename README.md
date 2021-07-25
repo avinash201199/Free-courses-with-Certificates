@@ -1,6 +1,16 @@
 ### Free-courses-with-Certificates
 
 <details>
+<summary>Data Science</summary>
+<br>
+Analytic vidhya-Introduction to Python(Data Science <br>
+Website-https://courses.analyticsvidhya.com/pages/all-free-courses/<br>
+<br>
+
+<br>
+</details>
+
+<details>
 <summary>Python</summary>
 <br>
 Newton School-The complete python course for beginners <br>
