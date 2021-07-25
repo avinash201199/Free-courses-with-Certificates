@@ -18,7 +18,7 @@ Website-https://www.udemy.com/course/python-3-for-total-beginners/<br>
 </details>
 
 <details>
-<summary>Python</summary>
+<summary>Java</summary>
 <br>
 Linkedin-Learning Java<br>
 Website-https://www.linkedin.com/learning/learning-java-4/<br>
