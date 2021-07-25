@@ -3,6 +3,9 @@
 <details>
 <summary>Python</summary>
 <br>
+Newton School-The complete python course for beginners <br>
+Website-https://my.newtonschool.co/<br>
+<br>
 Udemy-Introduction To Python Programming <br>
 Website-https://www.udemy.com/course/pythonforbeginnersintro/<br>
 <br>
