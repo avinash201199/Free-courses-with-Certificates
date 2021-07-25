@@ -16,3 +16,13 @@ Udemy-Learn Python 3.6 for Total Beginners <br>
 Website-https://www.udemy.com/course/python-3-for-total-beginners/<br>
 <br>
 </details>
+
+<details>
+<summary>Python</summary>
+<br>
+Linkedin-Learning Java<br>
+Website-https://www.linkedin.com/learning/learning-java-4/<br>
+<br>
+
+</details>
+
