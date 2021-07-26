@@ -1,6 +1,6 @@
 <h1 align="center"> Free-courses-with-Certificates</h1>
 
-Check all domain free courses with certificate,if any course is missing then you can contribute in this repository.<br> 
+Check all domain free courses with certificate,if any course is missing then you can contribute in the repository.<br> 
 
 <hr>
 
@@ -10,6 +10,15 @@ Check all domain free courses with certificate,if any course is missing then you
 Analytic Vidhya- Introduction to Python(Data Science) <br>
 Website-https://courses.analyticsvidhya.com/pages/all-free-courses/<br>
 <br>
+cognitiveclass.ai- Introduction to Data Science<br>
+Website-https://cognitiveclass.ai/courses/data-science-101<br>
+<br>
+cognitiveclass.ai- Data Science Methodology<br>
+Website-https://cognitiveclass.ai/courses/data-science-methodology-2<br>
+<br> 
+cognitiveclass.ai-Data Science Tools<br>
+Website-https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2<br>
+<br> 
 
 <br>
 </details>
