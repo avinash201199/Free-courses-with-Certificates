@@ -19,7 +19,24 @@ Website-https://cognitiveclass.ai/courses/data-science-methodology-2<br>
 cognitiveclass.ai-Data Science Tools<br>
 Website-https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2<br>
 <br> 
-
+GREAT LEARNING ACADEMY-Data Science Foundations<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/data-science-foundations<br>
+<br> 
+GREAT LEARNING ACADEMY-Basics of Exploratory Data Analysis<br>
+Website-https://olympus.greatlearning.in/courses/13687<br>
+<br> 
+GREAT LEARNING ACADEMY-Probability for Data Science<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/probability-for-data-science<br>
+<br>
+GREAT LEARNING ACADEMY-Statistical Methods for Decision Making<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/statistical-methods-for-decision-making<br>
+<br>
+GREAT LEARNING ACADEMY-Predictive Modeling and Analytics - Regression<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/predictive-modeling-and-analytics-regression<br>
+<br>
+GREAT LEARNING ACADEMY-Data Visualization using Tableau<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/data-visualization-using-tableau<br>
+<br
 <br>
 </details>
 
@@ -52,3 +69,14 @@ Website-https://www.udemy.com/course/java-tutorial/<br>
 
 </details>
 
+<details>
+<summary>Web Development</summary>
+<br>
+GREAT LEARNING ACADEMY-Learning Java<br>
+Website-https://www.linkedin.com/learning/learning-java-4/<br>
+<br>
+Udemy- Java Tutorial for Complete Beginners<br>
+Website-https://www.udemy.com/course/java-tutorial/<br>
+<br>
+
+</details>
