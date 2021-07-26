@@ -16,27 +16,39 @@ Website-https://cognitiveclass.ai/courses/data-science-101<br>
 cognitiveclass.ai- Data Science Methodology<br>
 Website-https://cognitiveclass.ai/courses/data-science-methodology-2<br>
 <br> 
-cognitiveclass.ai-Data Science Tools<br>
+cognitiveclass.ai- Data Science Tools<br>
 Website-https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2<br>
 <br> 
-GREAT LEARNING ACADEMY-Data Science Foundations<br>
+GREAT LEARNING ACADEMY- Data Science Foundations<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/data-science-foundations<br>
 <br> 
-GREAT LEARNING ACADEMY-Basics of Exploratory Data Analysis<br>
+GREAT LEARNING ACADEMY- Basics of Exploratory Data Analysis<br>
 Website-https://olympus.greatlearning.in/courses/13687<br>
 <br> 
-GREAT LEARNING ACADEMY-Probability for Data Science<br>
+GREAT LEARNING ACADEMY- Probability for Data Science<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/probability-for-data-science<br>
 <br>
-GREAT LEARNING ACADEMY-Statistical Methods for Decision Making<br>
+GREAT LEARNING ACADEMY- Statistical Methods for Decision Making<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/statistical-methods-for-decision-making<br>
 <br>
-GREAT LEARNING ACADEMY-Predictive Modeling and Analytics - Regression<br>
+GREAT LEARNING ACADEMY- Predictive Modeling and Analytics - Regression<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/predictive-modeling-and-analytics-regression<br>
 <br>
-GREAT LEARNING ACADEMY-Data Visualization using Tableau<br>
+GREAT LEARNING ACADEMY- Data Visualization using Tableau<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/data-visualization-using-tableau<br>
-<br
+<br>
+GREAT LEARNING ACADEMY- Data Visualization With Power BI<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/data-visualization-with-power-bi<br>
+<br>
+GREAT LEARNING ACADEMY- COVID-19 Outbreak Prediction<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/covid-19-outbreak-prediction<br>
+<br> 
+GREAT LEARNING ACADEMY- Data Mining<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/data-mining1<br>
+<br>
+GREAT LEARNING ACADEMY- Kaggle Competition<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/kaggle-competition-for-beginners1<br>
+<br> 
 <br>
 </details>
 
