@@ -52,7 +52,7 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/kaggle-compe
 GREAT LEARNING ACADEMY- Credit Card Fraud Detection<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/credit-card-fraud-detection<br>
 <br> 
-Check more courses related to Data Science on Great Learning Academy
+Check more courses related to Data Science on Great Learning Academy<br>
 Website-https://www.greatlearning.in/academy#our-courses
 <br>
 </details>
@@ -84,15 +84,23 @@ Website-https://www.linkedin.com/learning/learning-java-4/<br>
 Udemy- Java Tutorial for Complete Beginners<br>
 Website-https://www.udemy.com/course/java-tutorial/<br>
 <br>
+GREAT LEARNING ACADEMY-Java Programming<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/java-programming<br>
+<br>
 
+</details>
+<details>
+<summary>Machine Learning</summary>
+<br>
+GREAT LEARNING ACADEMY-Basics of Machine Learning<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-machine-learning-1<br>
+<br>
 </details>
 
 <details>
 <summary>Web Development</summary>
 <br>
-GREAT LEARNING ACADEMY-Learning Java<br>
-Website-https://www.linkedin.com/learning/learning-java-4/<br>
-<br>
+
 Udemy- Java Tutorial for Complete Beginners<br>
 Website-https://www.udemy.com/course/java-tutorial/<br>
 <br>
