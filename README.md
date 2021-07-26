@@ -58,6 +58,16 @@ Website-https://www.greatlearning.in/academy#our-courses
 </details>
 
 <details>
+<summary>Data Structure & Algorithm</summary>
+<br>
+GREAT LEARNING ACADEMY- Data Structure & Algorithms in Java for Intermediate Level<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/master-data-structure-algorithms-in-java<br>
+<br>
+
+<br>
+</details>
+
+<details>
 <summary>Python</summary>
 <br>
 Newton School-The complete python course for beginners <br>
@@ -100,9 +110,17 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-ma
 <details>
 <summary>Web Development</summary>
 <br>
-
-Udemy- Java Tutorial for Complete Beginners<br>
-Website-https://www.udemy.com/course/java-tutorial/<br>
+  
+GREAT LEARNING ACADEMY- HTML Attributes and Tags<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/html-attributes-and-tags<br>
 <br>
-
+GREAT LEARNING ACADEMY- Front End Development - HTML<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/front-end-development-html<br>
+<br>
+GREAT LEARNING ACADEMY- Front End Development - CSS<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/front-end-development-css<br>
+<br>
+GREAT LEARNING ACADEMY- Introduction to JavaScript<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-javascript<br>
+<br>
 </details>
