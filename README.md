@@ -49,6 +49,11 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/data-mining1
 GREAT LEARNING ACADEMY- Kaggle Competition<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/kaggle-competition-for-beginners1<br>
 <br> 
+GREAT LEARNING ACADEMY- Credit Card Fraud Detection<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/credit-card-fraud-detection<br>
+<br> 
+Check more courses related to Data Science on Great Learning Academy
+Website-https://www.greatlearning.in/academy#our-courses
 <br>
 </details>
 
@@ -66,6 +71,7 @@ Website-https://www.udemy.com/course/free-python/<br>
 <br>
 Udemy-Learn Python 3.6 for Total Beginners <br>
 Website-https://www.udemy.com/course/python-3-for-total-beginners/<br>
+
 <br>
 </details>
 
