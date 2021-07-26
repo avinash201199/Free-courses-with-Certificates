@@ -140,10 +140,23 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutori
 <details>
 <summary>Machine Learning</summary>
 <br>
-GREAT LEARNING ACADEMY-Basics of Machine Learning<br>
+GREAT LEARNING ACADEMY- Basics of Machine Learning<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-machine-learning-1<br>
 <br>
+GREAT LEARNING ACADEMY- Supervised Machine Learning with Logistic Regression and Naïve Bayes<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/supervised-machine-learning-with-logistic-regression-and-naive-bayes<br>
+<br>
+GREAT LEARNING ACADEMY- Supervised Machine Learning with Tree Based Models<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/supervised-machine-learning-with-tree-based-models <br>
+<br>
+GREAT LEARNING ACADEMY- Unsupervised Machine Learning with K-means<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/unsupervised-machine-learning-with-k-means <br>
+<br>
+GREAT LEARNING ACADEMY- Statistics for Machine Learning<br>
+Website- https://www.greatlearning.in/academy/learn-for-free/courses/statistics-for-machine-learning <br>
+<br>
 </details>
+
 <details>
 <summary>MongoDB</summary>
 <br>
