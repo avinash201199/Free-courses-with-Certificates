@@ -92,9 +92,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-best-
 <br>
 GREAT LEARNING ACADEMY- GitHub Tutorial for Beginners<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/github-tutorial-for-beginners<br>
-<br>
-  
+<br> 
 </details>
+
 <details>
 <summary>Python</summary>
 <br>
@@ -109,6 +109,26 @@ Website-https://www.udemy.com/course/free-python/<br>
 <br>
 Udemy-Learn Python 3.6 for Total Beginners <br>
 Website-https://www.udemy.com/course/python-3-for-total-beginners/<br>
+<br>
+</details>
+
+<details>
+<summary>Python Libraries/Tools</summary>
+<br>
+GREAT LEARNING ACADEMY- Basics of EDA with Python<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-eda-with-python<br>
+<br>
+GREAT LEARNING ACADEMY- NumPy Tutorial<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/numpy-tutorial<br>
+<br>
+GREAT LEARNING ACADEMY- Jupyter Notebook<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/jupyter-notebook<br>
+<br>
+GREAT LEARNING ACADEMY- Python Matplotlib<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/python-matplotlib<br>
+<br>
+GREAT LEARNING ACADEMY- Python Pandas<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/python-pandas<br>
 <br>
 </details>
 
