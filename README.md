@@ -5,6 +5,33 @@ Check all domain free courses with certificate,if any course is missing then you
 <hr>
 
 <details>
+<summary>AI</summary>
+<br>
+Udemy- Learn basics about A.I. (Artificial Intelligence)<br>
+Website-https://www.udemy.com/course/learn-basics-of-artificial-intelligence/<br>
+<br>  
+GREAT LEARNING ACADEMY- Introduction to Deep Learning<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-deep-learning<br>
+<br>
+GREAT LEARNING ACADEMY- Computer Vision Essentials<br>
+Website- https://www.greatlearning.in/academy/learn-for-free/courses/computer-vision-essentials<br>
+<br>
+GREAT LEARNING ACADEMY- Introduction to Tensorflow and Keras<br>
+Website- https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-tensorflow-and-keras<br>
+<br>
+GREAT LEARNING ACADEMY- How to Build your own Chatbot using Python?<br>
+Website- https://www.greatlearning.in/academy/learn-for-free/courses/how-to-build-your-own-chatbot-using-python<br>
+<br>
+GREAT LEARNING ACADEMY- OpenCV Tutorial<br>
+Website- https://www.greatlearning.in/academy/learn-for-free/courses/face-detection-with-opencv-in-python<br>
+<br>
+GREAT LEARNING ACADEMY- TensorFlow Python<br>
+Website- https://www.greatlearning.in/academy/learn-for-free/courses/tensorflow-python<br>
+<br>
+</details>
+
+
+<details>
 <summary>C</summary>
 <br>
 GREAT LEARNING ACADEMY- C for Beginners<br>
