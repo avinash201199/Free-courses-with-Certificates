@@ -5,6 +5,14 @@ Check all domain free courses with certificate,if any course is missing then you
 <hr>
 
 <details>
+<summary>C</summary>
+<br>
+GREAT LEARNING ACADEMY- C for Beginners<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1<br>
+<br>
+</details>
+
+<details>
 <summary>Data Science</summary>
 <br>
 Analytic Vidhya- Introduction to Python(Data Science) <br>
@@ -63,10 +71,30 @@ Website-https://www.greatlearning.in/academy#our-courses
 GREAT LEARNING ACADEMY- Data Structure & Algorithms in Java for Intermediate Level<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/master-data-structure-algorithms-in-java<br>
 <br>
+</details>
 
+<details>
+<summary>Docker</summary>
+<br>
+GREAT LEARNING ACADEMY- Docker for Intermediate Level<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-for-intermediate-level<br>
+<br>
+GREAT LEARNING ACADEMY- Docker Projects<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-projects<br>
+<br>
+GREAT LEARNING ACADEMY- Docker Best Practices<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-best-practices<br>
 <br>
 </details>
 
+<details>
+<summary>Github</summary>
+<br>
+GREAT LEARNING ACADEMY- GitHub Tutorial for Beginners<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/github-tutorial-for-beginners<br>
+<br>
+  
+</details>
 <details>
 <summary>Python</summary>
 <br>
@@ -81,7 +109,6 @@ Website-https://www.udemy.com/course/free-python/<br>
 <br>
 Udemy-Learn Python 3.6 for Total Beginners <br>
 Website-https://www.udemy.com/course/python-3-for-total-beginners/<br>
-
 <br>
 </details>
 
@@ -94,11 +121,22 @@ Website-https://www.linkedin.com/learning/learning-java-4/<br>
 Udemy- Java Tutorial for Complete Beginners<br>
 Website-https://www.udemy.com/course/java-tutorial/<br>
 <br>
-GREAT LEARNING ACADEMY-Java Programming<br>
+GREAT LEARNING ACADEMY- Java Programming<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/hashing-in-java<br>
+<br>
+GREAT LEARNING ACADEMY- Hashing in Java<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/java-programming<br>
 <br>
-
 </details>
+
+<details>
+<summary>Linux</summary>
+<br>
+GREAT LEARNING ACADEMY- Linux Tutorial<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutorial<br>
+<br>
+</details>
+
 <details>
 <summary>Machine Learning</summary>
 <br>
@@ -106,11 +144,25 @@ GREAT LEARNING ACADEMY-Basics of Machine Learning<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-machine-learning-1<br>
 <br>
 </details>
+<details>
+<summary>MongoDB</summary>
+<br>
+GREAT LEARNING ACADEMY- Mongodb Tutorial<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/mongodb-tutorial<br>
+<br>
+</details>
+
+<details>
+<summary>UI/UX</summary>
+<br>
+GREAT LEARNING ACADEMY- UI/UX<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/ui-ux<br>
+<br>
+</details>
 
 <details>
 <summary>Web Development</summary>
 <br>
-  
 GREAT LEARNING ACADEMY- HTML Attributes and Tags<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/html-attributes-and-tags<br>
 <br>
