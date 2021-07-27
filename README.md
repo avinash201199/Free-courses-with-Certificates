@@ -311,6 +311,12 @@ Website- https://www.udemy.com/course/bash-linux-command-from-scratch/<br>
 <details>
 <summary>Machine Learning</summary>
 <br>
+Udemy - The Top 5 Machine Learning Libraries in Python<br>
+Website- https://www.udemy.com/course/the-top-5-machine-learning-libraries-in-python/<br>
+<br>
+Udemy - What is Machine Learning?<br>
+Website-https://www.udemy.com/course/what-is-machine-learning/<br>
+<br>
 GREAT LEARNING ACADEMY- Basics of Machine Learning<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-machine-learning-1<br>
 <br>
