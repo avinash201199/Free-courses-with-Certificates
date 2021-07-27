@@ -297,6 +297,15 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/java-program
 GREAT LEARNING ACADEMY- Linux Tutorial<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutorial<br>
 <br>
+Udemy- Linux Fundamentals for IT Professionals<br>
+Website- https://www.udemy.com/course/linux-fundamentals-for-it-professionals/<br>
+<br>
+Udemy- Learning Linux with Ubuntu and CentOS: The Easy Way<br>
+Website- https://www.udemy.com/course/learning-linux-with-ubuntu-and-centos-the-easy-way/<br>
+<br>
+Udemy- Linux - Shell Bash Commands From Scratch<br>
+Website- https://www.udemy.com/course/bash-linux-command-from-scratch/<br>
+<br>
 </details>
 
 <details>
