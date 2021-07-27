@@ -203,8 +203,8 @@ Website-https://www.udemy.com/course/data-structures-for-beginners-c-plusplus/<b
 <details>
 <summary>Docker</summary>
 <br>
-GREAT LEARNING ACADEMY- Docker for Intermediate Level<br>
-Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-for-intermediate-level<br>
+Udemy- Docker Essentials<br>
+Website-https://www.udemy.com/course/docker-essentials/<br>
 <br>
 GREAT LEARNING ACADEMY- Docker Projects<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-projects<br>
