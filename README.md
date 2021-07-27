@@ -294,6 +294,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/java-program
 <details>
 <summary>Linux</summary>
 <br>
+Geek University - Free Linux course<br>
+Website- https://geek-university.com/course/free-linux-course/<br>
+<br>
 GREAT LEARNING ACADEMY- Linux Tutorial<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutorial<br>
 <br>
@@ -345,6 +348,14 @@ Website-https://www.udemy.com/course/mongodb-essentials/<br>
 <br>
 GREAT LEARNING ACADEMY- Mongodb Tutorial<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/mongodb-tutorial<br>
+<br>
+</details>
+
+<details>
+<summary> Raspberry Pi</summary>
+<br>
+ Geek University - Raspberry Pi free course<br>
+Website-https://geek-university.com/course/raspberry-pi-free-course/<br>
 <br>
 </details>
 
