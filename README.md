@@ -36,6 +36,12 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/tensorflow-
 Udemy- Amazon Web Services (AWS) - Zero to Hero<br>
 Website- https://www.udemy.com/course/amazon-web-services-aws-v/<br>
 <br>
+Udemy- AWS Certified Solutions Architect Associate Introduction<br>
+Website- https://www.udemy.com/course/aws-certified-solutions-architect-associate-in-30-days/<br>
+<br>
+Udemy- Free AWS Certified Cloud Practitioner 2019<br>
+Website- https://www.udemy.com/course/free-aws-certified-cloud-practitioner/<br>
+<br>
 </details>
 
 <details>
