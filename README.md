@@ -362,6 +362,18 @@ Website- https://www.udemy.com/course/ui-ux-designs/<br>
 <details>
 <summary>Web Development</summary>
 <br>
+Udemy- Web Developer Course HTML CSS JavaScript Learn Web Design<br>
+Website-https://www.udemy.com/course/web-developer-course-on-creating-a-business-website/<br>
+<br>
+Udemy- Cloning Amazon, Netflix & Spotify<br>
+Website-https://www.udemy.com/course/learn-html-css-clone-amazon-netflix-spotify/<br>
+<br>
+Udemy- The Complete Responsive Web Design Course<br>
+Website-https://www.udemy.com/course/the-complete-responsive-web-design-course/<br>
+<br>
+Udemy-Web Development Concepts with Scriptcase<br>
+Website-https://www.udemy.com/course/web-development-concepts-with-scriptcase/<br>
+<br>
 GREAT LEARNING ACADEMY- HTML Attributes and Tags<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/html-attributes-and-tags<br>
 <br>
