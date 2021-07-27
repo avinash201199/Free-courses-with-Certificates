@@ -127,6 +127,9 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/ethical-hac
 <details>
 <summary>Data Science</summary>
 <br>
+Udemy- Introduction to Data Science using Python (Module 1/3) <br>
+Website- https://www.udemy.com/course/introduction-to-data-science-using-python/<br>
+<br>
 Analytic Vidhya- Introduction to Python(Data Science) <br>
 Website-https://courses.analyticsvidhya.com/pages/all-free-courses/<br>
 <br>
