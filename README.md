@@ -186,6 +186,18 @@ Website-https://www.greatlearning.in/academy#our-courses
 GREAT LEARNING ACADEMY- Data Structure & Algorithms in Java for Intermediate Level<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/master-data-structure-algorithms-in-java<br>
 <br>
+Udemy- Introduction to Algorithms and Data structures in C++<br>
+Website-https://www.udemy.com/course/introduction-to-algorithms-and-data-structures-in-c/<br>
+<br>
+Udemy- Data Structure - Part I<br>
+Website- https://www.udemy.com/course/data-structures-part-1-lognacademy/<br>
+<br>
+Udemy- Data Structures in C++<br>
+Website-https://www.udemy.com/course/data-structures-for-beginners-c-plusplus/<br>
+<br>
+Udemy- Data Structures in C++<br>
+Website-https://www.udemy.com/course/data-structures-for-beginners-c-plusplus/<br>
+<br>
 </details>
 
 <details>
