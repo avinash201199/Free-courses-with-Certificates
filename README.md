@@ -368,8 +368,11 @@ Website- https://www.udemy.com/course/real-time-chat-system-using-php-mysql-pdo-
 <details>
 <summary> Raspberry Pi</summary>
 <br>
- Geek University - Raspberry Pi free course<br>
+Geek University - Raspberry Pi free course<br>
 Website-https://geek-university.com/course/raspberry-pi-free-course/<br>
+<br>
+Udemy - Raspberry Pi, Python, and Electronics Bootcamp<br>
+Website-https://www.udemy.com/course/getting-started-with-raspberry-pi/<br>
 <br>
 </details>
 
