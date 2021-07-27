@@ -340,6 +340,9 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/statistics-
 Udemy- MongoDB and Python: Quick start<br>
 Website-https://www.udemy.com/course/mongodb-and-python-quickstart-with-mongoengine/<br>
 <br>
+Udemy- MongoDB Essentials - Understand the Basics of MongoDB<br>
+Website-https://www.udemy.com/course/mongodb-essentials/<br>
+<br>
 GREAT LEARNING ACADEMY- Mongodb Tutorial<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/mongodb-tutorial<br>
 <br>
