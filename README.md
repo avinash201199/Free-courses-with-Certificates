@@ -31,7 +31,21 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/tensorflow-
 </details>
 
 <details>
+<summary>AWS</summary>
+<br>
+Udemy- Amazon Web Services (AWS) - Zero to Hero<br>
+Website- https://www.udemy.com/course/amazon-web-services-aws-v/<br>
+<br>
+</details>
+
+<details>
 <summary>Big Data</summary>
+<br>
+Udemy- Big Data and Hadoop Essentials<br>
+Website- https://www.udemy.com/course/big-data-and-hadoop-essentials-free-tutorial/<br>
+<br>
+Udemy-Big data Internship Program - Foundation<br>
+Website- https://www.udemy.com/course/big-data-internship-program-part-1-foundation/<br>
 <br>
 GREAT LEARNING ACADEMY- Introduction to Big Data and Hadoop<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-big-data-and-hadoop<br>
@@ -47,6 +61,9 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/spark-basic
 <details>
 <summary>C</summary>
 <br>
+Udemy- The Complete C programming<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1<br>
+<br>
 GREAT LEARNING ACADEMY- C for Beginners<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1<br>
 <br>
@@ -54,6 +71,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginn
 
 <details>
 <summary>Cloud Computing</summary>
+<br>
+Udemy- Introduction to Cloud Computing<br>
+Website- https://www.udemy.com/course/introduction-to-cloud-computing/<br>
 <br>
 GREAT LEARNING ACADEMY- Cloud Foundations<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/cloud-foundations<br>
@@ -77,6 +97,18 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/cloud-comput
 
 <details>
 <summary>Cyber Security</summary>
+<br>
+Udemy- Cyber Security Course for Beginners - Level 01<br>
+Website- https://www.udemy.com/course/certified-secure-netizen/<br>
+<br>
+Udemy - Build Your Own Cyber Lab at Home<br>
+Website- https://www.udemy.com/course/build-your-own-cyber-lab-at-home/<br>
+<br>
+Udemy- Fundamentals of Internet Security | Secure Your Environment<br>
+Website- https://www.udemy.com/course/fundamental-of-wordpress-security-secure-your-environment/<br>
+<br>
+Udemy- Cyber Security Fundamentals<br>
+Website- https://www.udemy.com/course/cyber-security-fundamentals/<br>
 <br>
 GREAT LEARNING ACADEMY- Introduction to Cyber Security<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-cyber-security<br>
@@ -172,6 +204,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-best-
 <br>
 GREAT LEARNING ACADEMY- GitHub Tutorial for Beginners<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/github-tutorial-for-beginners<br>
+<br> 
+Udemy- Git & GitHub Crash Course: Create a Repository From Scratch!<br>
+Website- https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/<br>
 <br> 
 </details>
 
