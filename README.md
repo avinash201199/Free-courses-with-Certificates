@@ -354,6 +354,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/mongodb-tuto
 GREAT LEARNING ACADEMY- UI/UX<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/ui-ux<br>
 <br>
+Udemy- Get Started in UI/UX Design<br>
+Website- https://www.udemy.com/course/ui-ux-designs/<br>
+<br>
 </details>
 
 <details>
