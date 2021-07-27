@@ -352,6 +352,20 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/mongodb-tuto
 </details>
 
 <details>
+<summary>MySQL</summary>
+<br>
+Geek University- MySQL course<br>
+Website- https://geek-university.com/course/mysql-course/<br>
+<br>
+Udemy- MongoDB Essentials - Understand the Basics of MongoDB<br>
+Website-https://www.udemy.com/course/mongodb-essentials/<br>
+<br>
+GREAT LEARNING ACADEMY- Mongodb Tutorial<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/mongodb-tutorial<br>
+<br>
+</details>
+
+<details>
 <summary> Raspberry Pi</summary>
 <br>
  Geek University - Raspberry Pi free course<br>
