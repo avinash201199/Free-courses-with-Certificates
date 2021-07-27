@@ -42,6 +42,9 @@ Website- https://www.udemy.com/course/aws-certified-solutions-architect-associat
 Udemy- Free AWS Certified Cloud Practitioner 2019<br>
 Website- https://www.udemy.com/course/free-aws-certified-cloud-practitioner/<br>
 <br>
+Udemy- AWS Certified Security Specialty Exam Introduction<br>
+Website- https://www.udemy.com/course/aws-certified-security-specialty-exam-introduction/<br>
+<br>
 </details>
 
 <details>
