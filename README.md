@@ -30,12 +30,65 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/tensorflow-
 <br>
 </details>
 
+<details>
+<summary>Big Data</summary>
+<br>
+GREAT LEARNING ACADEMY- Introduction to Big Data and Hadoop<br>
+Website- https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-big-data-and-hadoop<br>
+<br>
+GREAT LEARNING ACADEMY- Introduction to Apache Hive<br>
+Website- https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-apache-hive<br>
+<br>
+GREAT LEARNING ACADEMY- Spark Basics<br>
+Website- https://www.greatlearning.in/academy/learn-for-free/courses/spark-basics<br>
+<br>
+</details>
 
 <details>
 <summary>C</summary>
 <br>
 GREAT LEARNING ACADEMY- C for Beginners<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1<br>
+<br>
+</details>
+
+<details>
+<summary>Cloud Computing</summary>
+<br>
+GREAT LEARNING ACADEMY- Cloud Foundations<br>
+Website- https://www.greatlearning.in/academy/learn-for-free/courses/cloud-foundations<br>
+<br>
+GREAT LEARNING ACADEMY- Cloud Foundations - Advanced<br>
+Website- https://www.greatlearning.in/academy/learn-for-free/courses/cloud-foundations-advanced<br>
+<br>
+GREAT LEARNING ACADEMY- AWS For Beginners<br>
+Website- https://www.greatlearning.in/academy/learn-for-free/courses/aws-for-beginners1<br>
+<br>
+GREAT LEARNING ACADEMY- Microsoft Azure Essentials<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/microsoft-azure-essentials<br>
+<br>
+GREAT LEARNING ACADEMY- Google Cloud Platform for Beginners<br>
+Website- https://www.greatlearning.in/academy/learn-for-free/courses/google-cloud-platform-for-beginners1<br>
+<br>
+GREAT LEARNING ACADEMY- Cloud Computing Architecture<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/cloud-computing-architecture<br>
+<br>
+</details>
+
+<details>
+<summary>Cyber Security</summary>
+<br>
+GREAT LEARNING ACADEMY- Introduction to Cyber Security<br>
+Website- https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-cyber-security<br>
+<br>
+GREAT LEARNING ACADEMY- Introduction to Ethical Hacking<br>
+Website- https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-ethical-hacking<br>
+<br>
+GREAT LEARNING ACADEMY- Advanced Cyber Security - Threats and Governance<br>
+Website- https://www.greatlearning.in/academy/learn-for-free/courses/advanced-cyber-security-threats-and-governance<br>
+<br>
+GREAT LEARNING ACADEMY- Ethical Hacking - Mobile Platforms and Network Architecture<br>
+Website- https://www.greatlearning.in/academy/learn-for-free/courses/ethical-hacking-mobile-platforms-and-network-architecture<br>
 <br>
 </details>
 
