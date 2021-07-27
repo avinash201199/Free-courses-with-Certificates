@@ -240,11 +240,23 @@ Website-https://www.udemy.com/course/free-python/<br>
 Udemy-Learn Python 3.6 for Total Beginners <br>
 Website-https://www.udemy.com/course/python-3-for-total-beginners/<br>
 <br>
+ Udemy- Python OOP : Object Oriented Programming in Python<br>
+Website- https://www.udemy.com/course/object-oriented-python-programming/<br>
+<br>
+Udemy-Learn Python 3.6 for Total Beginners <br>
+Website-https://www.udemy.com/course/python-3-for-total-beginners/<br>
+<br>
 </details>
 
 <details>
 <summary>Python Libraries/Tools</summary>
 <br>
+Udemy- Python and Spark - Setup Development Environment<br>
+Website-https://www.udemy.com/course/python-and-spark-setup-development-environment/<br>
+<br>
+Udemy- Build a Twitter Bot with Python, Tweepy and the Twitter API<br>
+Website-https://www.udemy.com/course/build-a-twitter-bot-with-python-tweepy-and-the-twitter-api/<br>
+<br> 
 GREAT LEARNING ACADEMY- Basics of EDA with Python<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-eda-with-python<br>
 <br>
