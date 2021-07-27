@@ -357,11 +357,11 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/mongodb-tuto
 Geek University- MySQL course<br>
 Website- https://geek-university.com/course/mysql-course/<br>
 <br>
-Udemy- MongoDB Essentials - Understand the Basics of MongoDB<br>
-Website-https://www.udemy.com/course/mongodb-essentials/<br>
+Udemy- Beginner PHP and MySQL Tutorial<br>
+Website- https://www.udemy.com/course/php-mysql-tutorial/<br>
 <br>
-GREAT LEARNING ACADEMY- Mongodb Tutorial<br>
-Website-https://www.greatlearning.in/academy/learn-for-free/courses/mongodb-tutorial<br>
+Udemy - Real Time Chat System Using PHP Mysql PDO and AJAX<br>
+Website- https://www.udemy.com/course/real-time-chat-system-using-php-mysql-pdo-and-ajax/<br>
 <br>
 </details>
 
