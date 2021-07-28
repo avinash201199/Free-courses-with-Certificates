@@ -81,6 +81,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginn
 <details>
 <summary>Cloud Computing</summary>
 <br>
+Congnitive.ai- Introduction to Cloud<br>
+Website-https://cognitiveclass.ai/courses/introduction-to-cloud<br>
+<br>
 Udemy- Introduction to Cloud Computing<br>
 Website- https://www.udemy.com/course/introduction-to-cloud-computing/<br>
 <br>
@@ -260,6 +263,9 @@ Website- https://www.udemy.com/course/object-oriented-python-programming/<br>
 <br>
 Udemy-Learn Python 3.6 for Total Beginners <br>
 Website-https://www.udemy.com/course/python-3-for-total-beginners/<br>
+<br>
+Cognitive.ai- Python for Data Science<br>
+Website-<br>
 <br>
 </details>
 
