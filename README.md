@@ -212,6 +212,14 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/github-tutor
 </details>
 
 <details>
+<summary>Go</summary>
+<br>
+Sololearn - Go<br>
+Website-https://www.sololearn.com/learning/1164<br>
+<br> 
+</details>
+
+<details>
 <summary>Java</summary>
 <br>
 Sololearn - Java<br>
