@@ -290,6 +290,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutori
 <details>
 <summary>Machine Learning</summary>
 <br>
+Sololearn - Machine Learning<br>
+Website-https://www.sololearn.com/learning/1094<br>
+<br>
 GREAT LEARNING ACADEMY- Basics of Machine Learning<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-machine-learning-1<br>
 <br>
