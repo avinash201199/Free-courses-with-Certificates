@@ -1,6 +1,6 @@
 <h1 align="center"> Free-courses-with-Certificates</h1>
 
-Check all domain free courses with certificate,if any course is missing then you can contribute in the repository.<br> 
+We all know that getting an internship or a job is challenging, and often these online courses do wonders in making our resume looks good. Since unpaid courses are accessible to everyone, they help many people further their learning, learn new skills, and polish their existing skills. Academic knowledge might not be enough in today’s society. You need to show the world that you have experimented in your life and had enriching experiences. A lot of opportunities open up when you start getting involved in professional activities like training and courses.<br> 
 
 <hr>
 
