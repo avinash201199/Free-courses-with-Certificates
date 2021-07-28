@@ -5,7 +5,7 @@ Check all domain free courses with certificate,if any course is missing then you
 <hr>
 
 <details>
-<summary>AI</summary>
+<summary>Artificial intelligence</summary>
 <br>
 Udemy- Learn basics about A.I. (Artificial Intelligence)<br>
 Website-https://www.udemy.com/course/learn-basics-of-artificial-intelligence/<br>
