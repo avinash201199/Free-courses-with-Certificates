@@ -207,6 +207,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/github-tutor
 Sololearn - Python Core<br>
 website- https://www.sololearn.com/learning/1073<br>
 <br>
+Sololearn - Python for Data Science<br>
+website- https://www.sololearn.com/learning/1161<br>
+<br>
 GeeksforGeeks - Getting Started with Python<br>
 website- https://practice.geeksforgeeks.org/courses/start-with-python-kids<br>
 <br>
