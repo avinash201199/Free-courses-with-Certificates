@@ -399,6 +399,12 @@ Website- https://www.udemy.com/course/ui-ux-designs/<br>
 <details>
 <summary>Web Development</summary>
 <br>
+Linkedin- JavaScript Essential Training<br>
+Website-https://www.linkedin.com/learning/javascript-essential-training-3/<br>
+<br>
+Linkedin- Succeeding in Web Development: Full Stack and Front End<br>
+Website- https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/<br>
+<br>
 Udemy- Web Developer Course HTML CSS JavaScript Learn Web Design<br>
 Website-https://www.udemy.com/course/web-developer-course-on-creating-a-business-website/<br>
 <br>
