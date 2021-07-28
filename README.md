@@ -213,49 +213,6 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/github-tutor
 </details>
 
 <details>
-<summary>Python</summary>
-<br>
-Sololearn - Python Core<br>
-website- https://www.sololearn.com/learning/1073<br>
-<br>
-Sololearn - Python for Data Science<br>
-website- https://www.sololearn.com/learning/1161<br>
-<br>
-GeeksforGeeks - Getting Started with Python<br>
-website- https://practice.geeksforgeeks.org/courses/start-with-python-kids<br>
-<br>
-GeeksforGeeks - Fork Python<br>
-website- https://practice.geeksforgeeks.org/courses/fork-python<br>
-<br>
-Newton School-The complete python course for beginners <br>
-Website https://my.newtonschool.co/<br>
-<br>
-Cognitive.ai- Python for Data Science<br>
-Website-https://cognitiveclass.ai/courses/python-for-data-science<br>
-<br>
-</details>
-
-<details>
-<summary>Python Libraries/Tools</summary>
-<br>
-GREAT LEARNING ACADEMY- Basics of EDA with Python<br>
-Website-https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-eda-with-python<br>
-<br>
-GREAT LEARNING ACADEMY- NumPy Tutorial<br>
-Website-https://www.greatlearning.in/academy/learn-for-free/courses/numpy-tutorial<br>
-<br>
-GREAT LEARNING ACADEMY- Jupyter Notebook<br>
-Website-https://www.greatlearning.in/academy/learn-for-free/courses/jupyter-notebook<br>
-<br>
-GREAT LEARNING ACADEMY- Python Matplotlib<br>
-Website-https://www.greatlearning.in/academy/learn-for-free/courses/python-matplotlib<br>
-<br>
-GREAT LEARNING ACADEMY- Python Pandas<br>
-Website-https://www.greatlearning.in/academy/learn-for-free/courses/python-pandas<br>
-<br>
-</details>
-
-<details>
 <summary>Java</summary>
 <br>
 Sololearn - Java<br>
@@ -331,6 +288,52 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/mongodb-tuto
 <br>
 Geek University- MySQL course<br>
 Website- https://geek-university.com/course/mysql-course/<br>
+<br>
+</details>
+
+<details>
+<summary>Python</summary>
+<br>
+Sololearn - Intermediate Python<br>
+website-https://www.sololearn.com/learning/1158<br>
+<br>
+Sololearn - Python Core<br>
+website- https://www.sololearn.com/learning/1073<br>
+<br>
+Sololearn - Python for Data Science<br>
+website- https://www.sololearn.com/learning/1161<br>
+<br>
+GeeksforGeeks - Getting Started with Python<br>
+website- https://practice.geeksforgeeks.org/courses/start-with-python-kids<br>
+<br>
+GeeksforGeeks - Fork Python<br>
+website- https://practice.geeksforgeeks.org/courses/fork-python<br>
+<br>
+Newton School-The complete python course for beginners <br>
+Website https://my.newtonschool.co/<br>
+<br>
+Cognitive.ai- Python for Data Science<br>
+Website-https://cognitiveclass.ai/courses/python-for-data-science<br>
+<br>
+</details>
+
+<details>
+<summary>Python Libraries/Tools</summary>
+<br>
+GREAT LEARNING ACADEMY- Basics of EDA with Python<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-eda-with-python<br>
+<br>
+GREAT LEARNING ACADEMY- NumPy Tutorial<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/numpy-tutorial<br>
+<br>
+GREAT LEARNING ACADEMY- Jupyter Notebook<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/jupyter-notebook<br>
+<br>
+GREAT LEARNING ACADEMY- Python Matplotlib<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/python-matplotlib<br>
+<br>
+GREAT LEARNING ACADEMY- Python Pandas<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/python-pandas<br>
 <br>
 </details>
 
