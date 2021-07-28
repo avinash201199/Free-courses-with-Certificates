@@ -309,6 +309,15 @@ Website- https://geek-university.com/course/mysql-course/<br>
 </details>
 
 <details>
+<summary>PHP</summary>
+<br>
+Sololearn - PHP<br>
+Website-https://www.sololearn.com/learning/1059<br>
+<br>
+</details>
+
+
+<details>
 <summary>Python</summary>
 <br>
 Sololearn - Intermediate Python<br>
