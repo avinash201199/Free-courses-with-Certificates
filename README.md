@@ -394,10 +394,16 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/ui-ux<br>
 Udemy- Get Started in UI/UX Design<br>
 Website- https://www.udemy.com/course/ui-ux-designs/<br>
 <br>
+Linkedin- Introduction to Graphic Design<br>
+Website-https://www.linkedin.com/learning/introduction-to-graphic-design-3/<br>
+<br>
 </details>
 
 <details>
 <summary>Web Development</summary>
+<br>
+Linkedin- HTML Essential Training<br>
+Website-https://www.linkedin.com/learning/html-essential-training-4/what-is-html<br>
 <br>
 Linkedin- JavaScript Essential Training<br>
 Website-https://www.linkedin.com/learning/javascript-essential-training-3/<br>
