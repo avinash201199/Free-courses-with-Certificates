@@ -222,12 +222,6 @@ Website-https://cognitiveclass.ai/courses/python-for-data-science<br>
 <details>
 <summary>Python Libraries/Tools</summary>
 <br>
-Udemy- Python and Spark - Setup Development Environment<br>
-Website-https://www.udemy.com/course/python-and-spark-setup-development-environment/<br>
-<br>
-Udemy- Build a Twitter Bot with Python, Tweepy and the Twitter API<br>
-Website-https://www.udemy.com/course/build-a-twitter-bot-with-python-tweepy-and-the-twitter-api/<br>
-<br> 
 GREAT LEARNING ACADEMY- Basics of EDA with Python<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-eda-with-python<br>
 <br>
@@ -254,9 +248,6 @@ Website-https://www.linkedin.com/learning/learning-java-4/<br>
 GeeksforGeeks- Fork Java<br>
 https://practice.geeksforgeeks.org/courses/fork-java<br>
 <br>
-Udemy- Java Tutorial for Complete Beginners<br>
-Website-https://www.udemy.com/course/java-tutorial/<br>
-<br>
 GREAT LEARNING ACADEMY- Java Programming<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/hashing-in-java<br>
 <br>
@@ -277,22 +268,10 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutori
 Udemy- Linux Fundamentals for IT Professionals<br>
 Website- https://www.udemy.com/course/linux-fundamentals-for-it-professionals/<br>
 <br>
-Udemy- Learning Linux with Ubuntu and CentOS: The Easy Way<br>
-Website- https://www.udemy.com/course/learning-linux-with-ubuntu-and-centos-the-easy-way/<br>
-<br>
-Udemy- Linux - Shell Bash Commands From Scratch<br>
-Website- https://www.udemy.com/course/bash-linux-command-from-scratch/<br>
-<br>
 </details>
 
 <details>
 <summary>Machine Learning</summary>
-<br>
-Udemy - The Top 5 Machine Learning Libraries in Python<br>
-Website- https://www.udemy.com/course/the-top-5-machine-learning-libraries-in-python/<br>
-<br>
-Udemy - What is Machine Learning?<br>
-Website-https://www.udemy.com/course/what-is-machine-learning/<br>
 <br>
 GREAT LEARNING ACADEMY- Basics of Machine Learning<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-machine-learning-1<br>
@@ -314,12 +293,6 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/statistics-
 <details>
 <summary>MongoDB</summary>
 <br>
-Udemy- MongoDB and Python: Quick start<br>
-Website-https://www.udemy.com/course/mongodb-and-python-quickstart-with-mongoengine/<br>
-<br>
-Udemy- MongoDB Essentials - Understand the Basics of MongoDB<br>
-Website-https://www.udemy.com/course/mongodb-essentials/<br>
-<br>
 GREAT LEARNING ACADEMY- Mongodb Tutorial<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/mongodb-tutorial<br>
 <br>
@@ -331,12 +304,6 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/mongodb-tuto
 Geek University- MySQL course<br>
 Website- https://geek-university.com/course/mysql-course/<br>
 <br>
-Udemy- Beginner PHP and MySQL Tutorial<br>
-Website- https://www.udemy.com/course/php-mysql-tutorial/<br>
-<br>
-Udemy - Real Time Chat System Using PHP Mysql PDO and AJAX<br>
-Website- https://www.udemy.com/course/real-time-chat-system-using-php-mysql-pdo-and-ajax/<br>
-<br>
 </details>
 
 <details>
@@ -345,9 +312,6 @@ Website- https://www.udemy.com/course/real-time-chat-system-using-php-mysql-pdo-
 Geek University - Raspberry Pi free course<br>
 Website-https://geek-university.com/course/raspberry-pi-free-course/<br>
 <br>
-Udemy - Raspberry Pi, Python, and Electronics Bootcamp<br>
-Website-https://www.udemy.com/course/getting-started-with-raspberry-pi/<br>
-<br>
 </details>
 
 <details>
@@ -355,9 +319,6 @@ Website-https://www.udemy.com/course/getting-started-with-raspberry-pi/<br>
 <br>
 GREAT LEARNING ACADEMY- UI/UX<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/ui-ux<br>
-<br>
-Udemy- Get Started in UI/UX Design<br>
-Website- https://www.udemy.com/course/ui-ux-designs/<br>
 <br>
 Linkedin- Introduction to Graphic Design<br>
 Website-https://www.linkedin.com/learning/introduction-to-graphic-design-3/<br>
@@ -375,18 +336,6 @@ Website-https://www.linkedin.com/learning/javascript-essential-training-3/<br>
 <br>
 Linkedin- Succeeding in Web Development: Full Stack and Front End<br>
 Website- https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/<br>
-<br>
-Udemy- Web Developer Course HTML CSS JavaScript Learn Web Design<br>
-Website-https://www.udemy.com/course/web-developer-course-on-creating-a-business-website/<br>
-<br>
-Udemy- Cloning Amazon, Netflix & Spotify<br>
-Website-https://www.udemy.com/course/learn-html-css-clone-amazon-netflix-spotify/<br>
-<br>
-Udemy- The Complete Responsive Web Design Course<br>
-Website-https://www.udemy.com/course/the-complete-responsive-web-design-course/<br>
-<br>
-Udemy-Web Development Concepts with Scriptcase<br>
-Website-https://www.udemy.com/course/web-development-concepts-with-scriptcase/<br>
 <br>
 GREAT LEARNING ACADEMY- HTML Attributes and Tags<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/html-attributes-and-tags<br>
