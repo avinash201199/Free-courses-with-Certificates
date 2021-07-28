@@ -62,7 +62,6 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/spark-basic
 <details>
 <summary>C</summary>
 <br>
-
 GREAT LEARNING ACADEMY- C for Beginners<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1<br>
 <br>
@@ -240,6 +239,13 @@ Website- https://www.sololearn.com/learning/1024<br>
 <br>
 </details>
 
+<details>
+<summary>Kotlin</summary>
+<br>
+Sololearn - Kotlin<br>
+Website-https://www.sololearn.com/learning/1160<br>
+<br>
+</details>
 
 <details>
 <summary>Linux</summary>
