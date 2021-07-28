@@ -9,6 +9,8 @@ You can also contribute to this repository, if you find any free courses with ce
 <br>
 <br>
 At last , please share this repository with your friends, juniors and with seniors also,so they don't miss this opportunity. Follow me for more updates -https://github.com/avinash201199
+<br>
+Linkedin-https://www.linkedin.com/in/avinash-singh-071b79175/
 <hr>
 
 <details>
