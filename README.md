@@ -205,14 +205,17 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/github-tutor
 <details>
 <summary>Python</summary>
 <br>
+Sololearn - Python Core<br>
+website- https://www.sololearn.com/learning/1073<br>
+<br>
 GeeksforGeeks - Getting Started with Python<br>
-https://practice.geeksforgeeks.org/courses/start-with-python-kids<br>
+website- https://practice.geeksforgeeks.org/courses/start-with-python-kids<br>
 <br>
 GeeksforGeeks - Fork Python<br>
-https://practice.geeksforgeeks.org/courses/fork-python<br>
+website- https://practice.geeksforgeeks.org/courses/fork-python<br>
 <br>
 Newton School-The complete python course for beginners <br>
-Website-https://my.newtonschool.co/<br>
+Website https://my.newtonschool.co/<br>
 <br>
 Cognitive.ai- Python for Data Science<br>
 Website-https://cognitiveclass.ai/courses/python-for-data-science<br>
