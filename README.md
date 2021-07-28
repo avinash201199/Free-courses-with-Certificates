@@ -37,23 +37,6 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/tensorflow-
 </details>
 
 <details>
-<summary>AWS</summary>
-<br>
-Udemy- Amazon Web Services (AWS) - Zero to Hero<br>
-Website- https://www.udemy.com/course/amazon-web-services-aws-v/<br>
-<br>
-Udemy- AWS Certified Solutions Architect Associate Introduction<br>
-Website- https://www.udemy.com/course/aws-certified-solutions-architect-associate-in-30-days/<br>
-<br>
-Udemy- Free AWS Certified Cloud Practitioner 2019<br>
-Website- https://www.udemy.com/course/free-aws-certified-cloud-practitioner/<br>
-<br>
-Udemy- AWS Certified Security Specialty Exam Introduction<br>
-Website- https://www.udemy.com/course/aws-certified-security-specialty-exam-introduction/<br>
-<br>
-</details>
-
-<details>
 <summary>Big Data</summary>
 <br>
 
@@ -80,9 +63,16 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginn
 <details>
 <summary>C++</summary>
 <br>
-
 Sololearn- C++<br>
 Website- https://www.sololearn.com/learning/1051<br>
+<br>
+</details>
+
+<details>
+<summary>C#</summary>
+<br>
+Sololearn- C#<br>
+Website- https://www.sololearn.com/learning/1080<br>
 <br>
 </details>
 
