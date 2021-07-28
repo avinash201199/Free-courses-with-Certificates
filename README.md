@@ -8,7 +8,7 @@ After many days work, I have collected some free courses with certificates of di
 You can also contribute to this repository, if you find any free courses with certificates,fork and create pull request, will accept your contribution.
 <br>
 <br>
-At last , please share this repository with your friends, juniors and with seniors alos,so they don't miss this opportunity. 
+At last , please share this repository with your friends, juniors and with seniors also,so they don't miss this opportunity. Follow me for more updates -https://github.com/avinash201199
 <hr>
 
 <details>
