@@ -14,6 +14,15 @@ Linkedin-https://www.linkedin.com/in/avinash-singh-071b79175/
 <hr>
 
 <details>
+<summary>Angular</summary>
+<br>
+Sololearn - Angular + NestJS<br>
+Website-https://www.sololearn.com/learning/1092<br>
+<br>
+</details>
+
+
+<details>
 <summary>Artificial intelligence</summary>
 <br>
 GREAT LEARNING ACADEMY- Introduction to Deep Learning<br>
@@ -39,7 +48,6 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/tensorflow-
 <details>
 <summary>Big Data</summary>
 <br>
-
 GREAT LEARNING ACADEMY- Introduction to Big Data and Hadoop<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-big-data-and-hadoop<br>
 <br>
@@ -333,6 +341,16 @@ Geek University - Raspberry Pi free course<br>
 Website-https://geek-university.com/course/raspberry-pi-free-course/<br>
 <br>
 </details>
+
+
+<details>
+<summary>React</summary>
+<br>
+Sololearn - React + Redux<br>
+Website-https://www.sololearn.com/learning/1097<br>
+<br>
+</details>
+
 
 <details>
 <summary>SQL</summary>
