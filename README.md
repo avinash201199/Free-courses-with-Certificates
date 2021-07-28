@@ -254,6 +254,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/python-panda
 <details>
 <summary>Java</summary>
 <br>
+Sololearn - Java<br>
+Website- https://www.sololearn.com/learning/1068<br>
+<br>
 Linkedin-Learning Java<br>
 Website-https://www.linkedin.com/learning/learning-java-4/<br>
 <br>
