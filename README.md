@@ -262,6 +262,15 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/java-program
 </details>
 
 <details>
+<summary>JavaScript</summary>
+<br>
+Sololearn- JavaScript<br>
+Website- https://www.sololearn.com/learning/1024<br>
+<br>
+</details>
+
+
+<details>
 <summary>Linux</summary>
 <br>
 Geek University - Free Linux course<br>
@@ -269,9 +278,6 @@ Website- https://geek-university.com/course/free-linux-course/<br>
 <br>
 GREAT LEARNING ACADEMY- Linux Tutorial<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutorial<br>
-<br>
-Udemy- Linux Fundamentals for IT Professionals<br>
-Website- https://www.udemy.com/course/linux-fundamentals-for-it-professionals/<br>
 <br>
 </details>
 
