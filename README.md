@@ -16,9 +16,6 @@ Linkedin-https://www.linkedin.com/in/avinash-singh-071b79175/
 <details>
 <summary>Artificial intelligence</summary>
 <br>
-Udemy- Learn basics about A.I. (Artificial Intelligence)<br>
-Website-https://www.udemy.com/course/learn-basics-of-artificial-intelligence/<br>
-<br>  
 GREAT LEARNING ACADEMY- Introduction to Deep Learning<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-deep-learning<br>
 <br>
@@ -59,12 +56,7 @@ Website- https://www.udemy.com/course/aws-certified-security-specialty-exam-intr
 <details>
 <summary>Big Data</summary>
 <br>
-Udemy- Big Data and Hadoop Essentials<br>
-Website- https://www.udemy.com/course/big-data-and-hadoop-essentials-free-tutorial/<br>
-<br>
-Udemy-Big data Internship Program - Foundation<br>
-Website- https://www.udemy.com/course/big-data-internship-program-part-1-foundation/<br>
-<br>
+
 GREAT LEARNING ACADEMY- Introduction to Big Data and Hadoop<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-big-data-and-hadoop<br>
 <br>
@@ -79,9 +71,7 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/spark-basic
 <details>
 <summary>C</summary>
 <br>
-Udemy- The Complete C programming<br>
-Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1<br>
-<br>
+
 GREAT LEARNING ACADEMY- C for Beginners<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1<br>
 <br>
@@ -93,9 +83,7 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginn
 Congnitive.ai- Introduction to Cloud<br>
 Website-https://cognitiveclass.ai/courses/introduction-to-cloud<br>
 <br>
-Udemy- Introduction to Cloud Computing<br>
-Website- https://www.udemy.com/course/introduction-to-cloud-computing/<br>
-<br>
+
 GREAT LEARNING ACADEMY- Cloud Foundations<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/cloud-foundations<br>
 <br>
@@ -119,18 +107,6 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/cloud-comput
 <details>
 <summary>Cyber Security</summary>
 <br>
-Udemy- Cyber Security Course for Beginners - Level 01<br>
-Website- https://www.udemy.com/course/certified-secure-netizen/<br>
-<br>
-Udemy - Build Your Own Cyber Lab at Home<br>
-Website- https://www.udemy.com/course/build-your-own-cyber-lab-at-home/<br>
-<br>
-Udemy- Fundamentals of Internet Security | Secure Your Environment<br>
-Website- https://www.udemy.com/course/fundamental-of-wordpress-security-secure-your-environment/<br>
-<br>
-Udemy- Cyber Security Fundamentals<br>
-Website- https://www.udemy.com/course/cyber-security-fundamentals/<br>
-<br>
 GREAT LEARNING ACADEMY- Introduction to Cyber Security<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-cyber-security<br>
 <br>
@@ -147,9 +123,6 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/ethical-hac
 
 <details>
 <summary>Data Science</summary>
-<br>
-Udemy- Introduction to Data Science using Python (Module 1/3) <br>
-Website- https://www.udemy.com/course/introduction-to-data-science-using-python/<br>
 <br>
 Analytic Vidhya- Introduction to Python(Data Science) <br>
 Website-https://courses.analyticsvidhya.com/pages/all-free-courses/<br>
@@ -207,25 +180,11 @@ Website-https://www.greatlearning.in/academy#our-courses
 GREAT LEARNING ACADEMY- Data Structure & Algorithms in Java for Intermediate Level<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/master-data-structure-algorithms-in-java<br>
 <br>
-Udemy- Introduction to Algorithms and Data structures in C++<br>
-Website-https://www.udemy.com/course/introduction-to-algorithms-and-data-structures-in-c/<br>
-<br>
-Udemy- Data Structure - Part I<br>
-Website- https://www.udemy.com/course/data-structures-part-1-lognacademy/<br>
-<br>
-Udemy- Data Structures in C++<br>
-Website-https://www.udemy.com/course/data-structures-for-beginners-c-plusplus/<br>
-<br>
-Udemy- Data Structures in C++<br>
-Website-https://www.udemy.com/course/data-structures-for-beginners-c-plusplus/<br>
 <br>
 </details>
 
 <details>
 <summary>Docker</summary>
-<br>
-Udemy- Docker Essentials<br>
-Website-https://www.udemy.com/course/docker-essentials/<br>
 <br>
 GREAT LEARNING ACADEMY- Docker Projects<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-projects<br>
@@ -241,9 +200,6 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-best-
 GREAT LEARNING ACADEMY- GitHub Tutorial for Beginners<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/github-tutorial-for-beginners<br>
 <br> 
-Udemy- Git & GitHub Crash Course: Create a Repository From Scratch!<br>
-Website- https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/<br>
-<br> 
 </details>
 
 <details>
@@ -257,21 +213,6 @@ https://practice.geeksforgeeks.org/courses/fork-python<br>
 <br>
 Newton School-The complete python course for beginners <br>
 Website-https://my.newtonschool.co/<br>
-<br>
-Udemy-Introduction To Python Programming <br>
-Website-https://www.udemy.com/course/pythonforbeginnersintro/<br>
-<br>
-Udemy-Python for Absolute Beginners! <br>
-Website-https://www.udemy.com/course/free-python/<br>
-<br>
-Udemy-Learn Python 3.6 for Total Beginners <br>
-Website-https://www.udemy.com/course/python-3-for-total-beginners/<br>
-<br>
- Udemy- Python OOP : Object Oriented Programming in Python<br>
-Website- https://www.udemy.com/course/object-oriented-python-programming/<br>
-<br>
-Udemy-Learn Python 3.6 for Total Beginners <br>
-Website-https://www.udemy.com/course/python-3-for-total-beginners/<br>
 <br>
 Cognitive.ai- Python for Data Science<br>
 Website-https://cognitiveclass.ai/courses/python-for-data-science<br>
