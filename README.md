@@ -339,6 +339,15 @@ Website-https://www.linkedin.com/learning/introduction-to-graphic-design-3/<br>
 <details>
 <summary>Web Development</summary>
 <br>
+Sololearn - HTML<br>
+Website- https://www.sololearn.com/learning/1014<br>
+<br>
+Sololearn - CSS<br>
+Website- https://www.sololearn.com/learning/1014<br>
+<br>
+Sololearn - Responsive Web Design<br>
+Website- https://www.sololearn.com/learning/1162<br>
+<br>
 Linkedin- HTML Essential Training<br>
 Website-https://www.linkedin.com/learning/html-essential-training-4/what-is-html<br>
 <br>
