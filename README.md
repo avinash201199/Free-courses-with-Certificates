@@ -385,6 +385,15 @@ Website-https://www.sololearn.com/learning/1097<br>
 
 
 <details>
+<summary>Ruby</summary>
+<br>
+Sololearn - Ruby<br>
+Website-https://www.sololearn.com/learning/1081<br>
+<br>
+</details>
+
+
+<details>
 <summary>SQL</summary>
 <br>
 Sololearn - SQL<br>
