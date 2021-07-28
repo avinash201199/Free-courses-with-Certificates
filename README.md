@@ -265,7 +265,7 @@ Udemy-Learn Python 3.6 for Total Beginners <br>
 Website-https://www.udemy.com/course/python-3-for-total-beginners/<br>
 <br>
 Cognitive.ai- Python for Data Science<br>
-Website-<br>
+Website-https://cognitiveclass.ai/courses/python-for-data-science<br>
 <br>
 </details>
 
