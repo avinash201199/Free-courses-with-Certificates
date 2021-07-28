@@ -1,7 +1,9 @@
 <h1 align="center"> Free-courses-with-Certificates</h1>
 
 We all know that getting an internship or a job is challenging, and often these online courses do wonders in making our resume looks good. Since unpaid courses are accessible to everyone, they help many people further their learning, learn new skills, and polish their existing skills. Academic knowledge might not be enough in today’s society. You need to show the world that you have experimented in your life and had enriching experiences. A lot of opportunities open up when you start getting involved in professional activities like training and courses.<br> 
-
+After many days work, I have collected some free courses with certificates of different domains. You can enroll in any course of your choice and get certificate to add it on your resume or in Linkedin.
+<br>
+You can also contribute to this repository, if you find any free courses with certificates,fork and create pull request, will accept your contribution.
 <hr>
 
 <details>
