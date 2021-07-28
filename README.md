@@ -329,6 +329,15 @@ Website-https://geek-university.com/course/raspberry-pi-free-course/<br>
 </details>
 
 <details>
+<summary>SQL</summary>
+<br>
+Sololearn - SQL<br>
+Website-https://www.sololearn.com/learning/1060<br>
+<br>
+</details>
+
+
+<details>
 <summary>UI/UX</summary>
 <br>
 GREAT LEARNING ACADEMY- UI/UX<br>
