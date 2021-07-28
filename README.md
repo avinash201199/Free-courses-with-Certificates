@@ -251,6 +251,15 @@ Website- https://www.sololearn.com/learning/1024<br>
 </details>
 
 <details>
+<summary>jQuery</summary>
+<br>
+Sololearn - jQuery<br>
+Website-https://www.sololearn.com/learning/1082<br>
+<br> 
+</details>
+
+
+<details>
 <summary>Kotlin</summary>
 <br>
 Sololearn - Kotlin<br>
