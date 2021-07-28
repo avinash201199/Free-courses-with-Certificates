@@ -11,6 +11,9 @@ You can also contribute to this repository, if you find any free courses with ce
 At last , please share this repository with your friends, juniors and with seniors also,so they don't miss this opportunity. Follow me for more updates -https://github.com/avinash201199
 <br>
 Linkedin-https://www.linkedin.com/in/avinash-singh-071b79175/
+<br>
+<br>
+For any query, comment in the discussion box of this repository-https://github.com/avinash201199/Free-courses-with-Certificates/discussions
 <hr>
 
 <details>
