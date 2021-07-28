@@ -123,6 +123,9 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/ethical-hac
 <details>
 <summary>Data Science</summary>
 <br>
+Sololearn- Data Science <br>
+Website-https://www.sololearn.com/learning/1093<br>
+<br>
 Analytic Vidhya- Introduction to Python(Data Science) <br>
 Website-https://courses.analyticsvidhya.com/pages/all-free-courses/<br>
 <br>
