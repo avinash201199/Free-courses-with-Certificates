@@ -469,6 +469,6 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/introduction
 Geek University - Apache HTTP Server course<br>
 Website-https://geek-university.com/course/apache-online-course/<br>
 <br>
-Responsive Web Design <br>
+FreeCodeCamp - Responsive Web Design <br>
 Website-https://www.freecodecamp.org/learn/responsive-web-design/ <br>
 </details>
