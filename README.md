@@ -2,7 +2,8 @@
 
 We all know that getting an internship or a job is challenging, and often these online courses do wonders in making our resume looks good. Since unpaid courses are accessible to everyone, they help many people further their learning, learn new skills, and polish their existing skills. Academic knowledge might not be enough in today’s society. You need to show the world that you have experimented in your life and had enriching experiences. A lot of opportunities open up when you start getting involved in professional activities like training and courses.<br> 
 <br>
-At last , please share this repository with your friends, juniors and with seniors also,so they don't miss this opportunity. Follow me for more updates -https://github.com/avinash201199
+At last , please share this repository with your friends, juniors and with seniors also,so they don't miss this opportunity.<br>
+Follow me for more updates -https://github.com/avinash201199
 <br>
 Linkedin-https://www.linkedin.com/in/avinash-singh-071b79175/
 <br>
