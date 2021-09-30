@@ -13,8 +13,19 @@ At last , please share this repository with your friends, juniors and with senio
 Linkedin-https://www.linkedin.com/in/avinash-singh-071b79175/
 <br>
 <br>
-For any query, comment in the discussion box of this repository-https://github.com/avinash201199/Free-courses-with-Certificates/discussions
+For any query, contact me -https://www.instagram.com/lets__code/
 <hr>
+
+### How to contribute 😎<br>
+
+* Star this repository
+* Select the course which you want to add
+* Create an issue with description about the course
+* Then fork this repository.
+* In forked repository update the readme file with your course info in a specific topic.
+* Course should be free with certificate.
+* Make pull request after adding the course
+* Wait for review.
 
 <details>
 <summary>Angular</summary>
