@@ -22,6 +22,8 @@ For any query, contact me -https://www.instagram.com/lets__code/
 * Make pull request after adding the course
 * Wait for review.
 
+<hr>
+
 <details>
 <summary>Angular</summary>
 <br>
