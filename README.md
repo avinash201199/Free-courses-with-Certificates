@@ -147,6 +147,9 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/advanced-cy
 GREAT LEARNING ACADEMY- Ethical Hacking - Mobile Platforms and Network Architecture<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/ethical-hacking-mobile-platforms-and-network-architecture<br>
 <br>
+CISCO NETWORKING ACADEMY- Introduction to Cybersecurity<br>
+Website- https://skillsforall.com/course/introduction-to-cybersecurity<br>
+<br>
 </details>
 
 <details>
@@ -295,6 +298,9 @@ Website- https://geek-university.com/course/free-linux-course/<br>
 GREAT LEARNING ACADEMY- Linux Tutorial<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutorial<br>
 <br>
+CISCO NETWORKING ACADEMY- NDG Linux Essentials<br>
+Website- https://www.netacad.com/virtual/wr/linux-essentials<br>
+<br>
 </details>
 
 <details>
@@ -371,6 +377,9 @@ Website https://my.newtonschool.co/<br>
 <br>
 Cognitive.ai- Python for Data Science<br>
 Website-https://cognitiveclass.ai/courses/python-for-data-science<br>
+<br>
+CISCO NETWORKING ACADEMY- PCAP Programming Essentials in Python<br>
+Website- https://www.netacad.com/virtual/wr/pcap-programming-essentials-python<br>
 <br>
 </details>
 
