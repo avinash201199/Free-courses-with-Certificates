@@ -1,6 +1,6 @@
 <h1 align="center"> Free-courses-with-Certificates</h1>
 
-We all know that getting an internship or a job is challenging, and often these online courses do wonders in making our resume looks good. Since unpaid courses are accessible to everyone, they help many people further their learning, learn new skills, and polish their existing skills. Academic knowledge might not be enough in today’s society. You need to show the world that you have experimented in your life and had enriching experiences. A lot of opportunities open up when you start getting involved in professional activities like training and courses.<br> 
+We all know that getting an internship or a job is challenging, and often these online courses do wonders in making our resume looks good. Since unpaid courses are accessible to everyone, they help many people further their learning, learn new skills, and polish their existing skills. Academic knowledge might not be enough in today’s society. You need to show the world that you have experimented in your life and had enriching experiences. A lot of opportunities open up when you start getting involved in professional activities like training and courses.<br>
 <br>
 At last , please share this repository with your friends, juniors and with seniors also,so they don't miss this opportunity.<br>
 Follow me for more updates -https://github.com/avinash201199
@@ -9,18 +9,19 @@ Linkedin-https://www.linkedin.com/in/avinash-singh-071b79175/
 <br>
 <br>
 For any query, contact me -https://www.instagram.com/lets__code/
+
 <hr>
 
 ### How to contribute 😎<br>
 
-* Star this repository
-* Select the course which you want to add
-* Create an issue with description about the course
-* Then fork this repository.
-* In forked repository update the readme file with your course info in a specific topic.
-* Course should be free with certificate.
-* Make pull request after adding the course
-* Wait for review.
+- Star this repository
+- Select the course which you want to add
+- Create an issue with description about the course
+- Then fork this repository.
+- In forked repository update the readme file with your course info in a specific topic.
+- Course should be free with certificate.
+- Make pull request after adding the course
+- Wait for review.
 
 <hr>
 
@@ -41,7 +42,6 @@ Website-https://www.educba.com/software-development/courses/free-android-app-dev
  Basic course on Android Development by greatlearning<br> 
  website: https://www.greatlearning.in/academy/learn-for-free/courses/android-application-development
 </details>
-
 
 <details>
 <summary>Artificial intelligence</summary>
@@ -134,6 +134,7 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/google-clou
 GREAT LEARNING ACADEMY- Cloud Computing Architecture<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/cloud-computing-architecture<br>
 <br>
+
 </details>
 
 <details>
@@ -284,7 +285,6 @@ Website-https://www.sololearn.com/learning/1082<br>
 <br> 
 </details>
 
-
 <details>
 <summary>Kotlin</summary>
 <br>
@@ -344,6 +344,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/mongodb-tuto
 Geek University- MySQL course<br>
 Website- https://geek-university.com/course/mysql-course/<br>
 <br>
+GREAT LEARNING ACADEMY - My SQL basics <br>
+Website- https://www.greatlearning.in/academy/learn-for-free/courses/my-sql-basics <br>
+<br>
 </details>
 
 <details>
@@ -353,7 +356,6 @@ Sololearn - PHP<br>
 Website-https://www.sololearn.com/learning/1059<br>
 <br>
 </details>
-
 
 <details>
 <summary>Python</summary>
@@ -415,7 +417,6 @@ Website-https://geek-university.com/course/raspberry-pi-free-course/<br>
 <br>
 </details>
 
-
 <details>
 <summary>React</summary>
 <br>
@@ -423,7 +424,6 @@ Sololearn - React + Redux<br>
 Website-https://www.sololearn.com/learning/1097<br>
 <br>
 </details>
-
 
 <details>
 <summary>Ruby</summary>
@@ -433,7 +433,6 @@ Website-https://www.sololearn.com/learning/1081<br>
 <br>
 </details>
 
-
 <details>
 <summary>SQL</summary>
 <br>
@@ -441,7 +440,6 @@ Sololearn - SQL<br>
 Website-https://www.sololearn.com/learning/1060<br>
 <br>
 </details>
-
 
 <details>
 <summary>UI/UX</summary>
