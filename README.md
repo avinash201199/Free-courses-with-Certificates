@@ -89,6 +89,8 @@ Website-https://www.sololearn.com/learning/1089<br>
 GREAT LEARNING ACADEMY- C for Beginners<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1<br>
 <br>
+Implementation of Data Structures using C programming language<br>
+website: https://www.greatlearning.in/academy/learn-for-free/courses/data-structures-in-c<br>
 </details>
 
 <details>
