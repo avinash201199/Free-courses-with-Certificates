@@ -275,6 +275,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/java-program
 Sololearn- JavaScript<br>
 Website- https://www.sololearn.com/learning/1024<br>
 <br>
+ freecodecamp- JavaScript Algorithms and Data Structures<br>
+ Website- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/<br>
+ <br>
 </details>
 
 <details>
@@ -328,6 +331,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/unsupervised
 GREAT LEARNING ACADEMY- Statistics for Machine Learning<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/statistics-for-machine-learning <br>
 <br>
+ freecodecamp- Machine Learning with Python<br>
+ Website- https://www.freecodecamp.org/learn/machine-learning-with-python/ <br>
+ <br>
 </details>
 
 <details>
