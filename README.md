@@ -30,8 +30,9 @@ For any query, contact me -https://www.instagram.com/lets__code/
 <br>
 Sololearn - Angular + NestJS<br>
 Website-https://www.sololearn.com/learning/1092<br>
-<br>
-</details>
+<br>Angular basics
+ <br>https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-angularjs1
+<br></details>
 
 <details>
 <summary>Android Development</summary>
@@ -78,6 +79,11 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/introductio
 GREAT LEARNING ACADEMY- Spark Basics<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/spark-basics<br>
 <br>
+</details>
+<details>
+<summary>Blockchain</summary>
+<br> Block chain basics
+<br>website : https://www.greatlearning.in/academy/learn-for-free/courses/blockchain-basics
 </details>
 
 <details>
