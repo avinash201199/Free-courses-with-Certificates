@@ -238,16 +238,6 @@ GREAT LEARNING ACADEMY- Docker Best Practices<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-best-practices<br>
 <br>
 </details>
-<details>
-<summary>Flutter</summary>
-<br>
-</details>
-
-<details>
-<summary>Game Development</summary>
-<br>
-</details>
-
 
 <details>
 <summary>Github</summary>
