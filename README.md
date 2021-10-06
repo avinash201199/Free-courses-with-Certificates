@@ -305,6 +305,10 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/unsupervised
 GREAT LEARNING ACADEMY- Statistics for Machine Learning<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/statistics-for-machine-learning <br>
 <br>
+ML with python by free code camp dot org
+<br>
+website : https://www.freecodecamp.org/learn/machine-learning-with-python/
+<br>
 </details>
 
 <details>
@@ -464,4 +468,7 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/introduction
 Geek University - Apache HTTP Server course<br>
 Website-https://geek-university.com/course/apache-online-course/<br>
 <br>
+Responsive web design by free code camp
+<br>
+website : https://www.freecodecamp.org/learn/responsive-web-design/<br>
 </details>
