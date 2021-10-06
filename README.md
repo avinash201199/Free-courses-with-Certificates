@@ -1,19 +1,28 @@
 <h1 align="center"> Free-courses-with-Certificates</h1>
 
-We all know that getting an internship or a job is challenging, and often these online courses do wonders in making our resume looks good. Since unpaid courses are accessible to everyone, they help many people further their learning, learn new skills, and polish their existing skills. Academic knowledge might not be enough in today’s society. You need to show the world that you have experimented in your life and had enriching experiences. A lot of opportunities open up when you start getting involved in professional activities like training and courses.<br> 
+We all know that getting an internship or a job is challenging, and often these online courses do wonders in making our resume looks good. Since unpaid courses are accessible to everyone, they help many people further their learning, learn new skills, and polish their existing skills. Academic knowledge might not be enough in today’s society. You need to show the world that you have experimented in your life and had enriching experiences. A lot of opportunities open up when you start getting involved in professional activities like training and courses.<br>
 <br>
-After many days work, I have collected some free courses with certificates of different domains. You can enroll in any course of your choice and get certificate to add it on your resume or in Linkedin.
-<br>
-<br>
-You can also contribute to this repository, if you find any free courses with certificates,fork and create pull request, will accept your contribution.
-<br>
-<br>
-At last , please share this repository with your friends, juniors and with seniors also,so they don't miss this opportunity. Follow me for more updates -https://github.com/avinash201199
+At last , please share this repository with your friends, juniors and with seniors also,so they don't miss this opportunity.<br>
+Follow me for more updates -https://github.com/avinash201199
 <br>
 Linkedin-https://www.linkedin.com/in/avinash-singh-071b79175/
 <br>
 <br>
-For any query, comment in the discussion box of this repository-https://github.com/avinash201199/Free-courses-with-Certificates/discussions
+For any query, contact me -https://www.instagram.com/lets__code/
+
+<hr>
+
+### How to contribute 😎<br>
+
+- Star this repository
+- Select the course which you want to add
+- Create an issue with description about the course
+- Then fork this repository.
+- In forked repository update the readme file with your course info in a specific topic.
+- Course should be free with certificate.
+- Make pull request after adding the course
+- Wait for review.
+
 <hr>
 
 <details>
@@ -21,9 +30,19 @@ For any query, comment in the discussion box of this repository-https://github.c
 <br>
 Sololearn - Angular + NestJS<br>
 Website-https://www.sololearn.com/learning/1092<br>
-<br>
-</details>
+<br>Angular basics
+ <br>https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-angularjs1
+<br></details>
 
+<details>
+<summary>Android Development</summary>
+<br>
+EDUCBA - Free Android App Development Course<br>
+Website-https://www.educba.com/software-development/courses/free-android-app-development-course/<br>
+<br>
+ Basic course on Android Development by greatlearning<br> 
+ website: https://www.greatlearning.in/academy/learn-for-free/courses/android-application-development
+</details>
 
 <details>
 <summary>Artificial intelligence</summary>
@@ -61,6 +80,11 @@ GREAT LEARNING ACADEMY- Spark Basics<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/spark-basics<br>
 <br>
 </details>
+<details>
+<summary>Blockchain</summary>
+<br> Block chain basics
+<br>website : https://www.greatlearning.in/academy/learn-for-free/courses/blockchain-basics
+</details>
 
 <details>
 <summary>C</summary>
@@ -71,6 +95,8 @@ Website-https://www.sololearn.com/learning/1089<br>
 GREAT LEARNING ACADEMY- C for Beginners<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1<br>
 <br>
+Implementation of Data Structures using C programming language<br>
+website: https://www.greatlearning.in/academy/learn-for-free/courses/data-structures-in-c<br>
 </details>
 
 <details>
@@ -114,6 +140,7 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/google-clou
 GREAT LEARNING ACADEMY- Cloud Computing Architecture<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/cloud-computing-architecture<br>
 <br>
+
 </details>
 
 <details>
@@ -130,6 +157,9 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/advanced-cy
 <br>
 GREAT LEARNING ACADEMY- Ethical Hacking - Mobile Platforms and Network Architecture<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/ethical-hacking-mobile-platforms-and-network-architecture<br>
+<br>
+CISCO NETWORKING ACADEMY- Introduction to Cybersecurity<br>
+Website- https://skillsforall.com/course/introduction-to-cybersecurity<br>
 <br>
 </details>
 
@@ -251,6 +281,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/java-program
 Sololearn- JavaScript<br>
 Website- https://www.sololearn.com/learning/1024<br>
 <br>
+ freecodecamp- JavaScript Algorithms and Data Structures<br>
+ Website- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/<br>
+ <br>
 </details>
 
 <details>
@@ -260,7 +293,6 @@ Sololearn - jQuery<br>
 Website-https://www.sololearn.com/learning/1082<br>
 <br> 
 </details>
-
 
 <details>
 <summary>Kotlin</summary>
@@ -278,6 +310,9 @@ Website- https://geek-university.com/course/free-linux-course/<br>
 <br>
 GREAT LEARNING ACADEMY- Linux Tutorial<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutorial<br>
+<br>
+CISCO NETWORKING ACADEMY- NDG Linux Essentials<br>
+Website- https://www.netacad.com/virtual/wr/linux-essentials<br>
 <br>
 </details>
 
@@ -302,6 +337,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/unsupervised
 GREAT LEARNING ACADEMY- Statistics for Machine Learning<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/statistics-for-machine-learning <br>
 <br>
+ freecodecamp- Machine Learning with Python<br>
+ Website- https://www.freecodecamp.org/learn/machine-learning-with-python/ <br>
+ <br>
 </details>
 
 <details>
@@ -318,6 +356,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/mongodb-tuto
 Geek University- MySQL course<br>
 Website- https://geek-university.com/course/mysql-course/<br>
 <br>
+GREAT LEARNING ACADEMY - My SQL basics <br>
+Website- https://www.greatlearning.in/academy/learn-for-free/courses/my-sql-basics <br>
+<br>
 </details>
 
 <details>
@@ -327,7 +368,6 @@ Sololearn - PHP<br>
 Website-https://www.sololearn.com/learning/1059<br>
 <br>
 </details>
-
 
 <details>
 <summary>Python</summary>
@@ -355,6 +395,9 @@ Website https://my.newtonschool.co/<br>
 <br>
 Cognitive.ai- Python for Data Science<br>
 Website-https://cognitiveclass.ai/courses/python-for-data-science<br>
+<br>
+CISCO NETWORKING ACADEMY- PCAP Programming Essentials in Python<br>
+Website- https://www.netacad.com/virtual/wr/pcap-programming-essentials-python<br>
 <br>
 </details>
 
@@ -386,7 +429,6 @@ Website-https://geek-university.com/course/raspberry-pi-free-course/<br>
 <br>
 </details>
 
-
 <details>
 <summary>React</summary>
 <br>
@@ -394,7 +436,6 @@ Sololearn - React + Redux<br>
 Website-https://www.sololearn.com/learning/1097<br>
 <br>
 </details>
-
 
 <details>
 <summary>Ruby</summary>
@@ -404,7 +445,6 @@ Website-https://www.sololearn.com/learning/1081<br>
 <br>
 </details>
 
-
 <details>
 <summary>SQL</summary>
 <br>
@@ -412,7 +452,6 @@ Sololearn - SQL<br>
 Website-https://www.sololearn.com/learning/1060<br>
 <br>
 </details>
-
 
 <details>
 <summary>UI/UX</summary>
@@ -461,4 +500,6 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/introduction
 Geek University - Apache HTTP Server course<br>
 Website-https://geek-university.com/course/apache-online-course/<br>
 <br>
+FreeCodeCamp - Responsive Web Design <br>
+Website-https://www.freecodecamp.org/learn/responsive-web-design/ <br>
 </details>
