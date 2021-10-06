@@ -243,6 +243,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/hashing-in-j
 GREAT LEARNING ACADEMY- Hashing in Java<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/java-programming<br>
 <br>
+upGrad- Core Java Basics<br>
+Website-https://learn.upgrad.com/course/1373<br>
+<br>
 </details>
 
 <details>
