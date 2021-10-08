@@ -254,6 +254,9 @@ Website-https://learn.upgrad.com/course/1373<br>
 Sololearn- JavaScript<br>
 Website- https://www.sololearn.com/learning/1024<br>
 <br>
+Java Script course by free code camp dot org<br>
+Website : https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/<br>
+  <br>
 </details>
 
 <details>
@@ -471,4 +474,10 @@ Website-https://geek-university.com/course/apache-online-course/<br>
 Responsive web design by free code camp
 <br>
 website : https://www.freecodecamp.org/learn/responsive-web-design/<br>
+<br>
+Front end developement libraries : React
+<br>
+website : https://www.freecodecamp.org/learn/front-end-development-libraries/
+<br>
+  
 </details>
