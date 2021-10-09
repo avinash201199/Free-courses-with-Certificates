@@ -63,6 +63,25 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/spark-basic
 </details>
 
 <details>
+<summary>Blockchain Technology</summary>
+<br>
+COURSERA - Blockchain Basics<br>
+Website : https://www.coursera.org/learn/blockchain-basics?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-DVWDPTM3td0_wUL_LQyS5Q&siteID=JVFxdTr9V80-DVWDPTM3td0_wUL_LQyS5Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80<br>
+<br>
+COGNITIVE CLASS - Blockchain Essentials<br>
+Website : https://cognitiveclass.ai/courses/blockchain-course<br>
+<br>
+GREAT LEARNING ACADEMY - Blockchain Basics<br>
+Website : https://www.greatlearning.in/academy/learn-for-free/courses/blockchain-basics<br>
+<br>
+DIGITALDEFYND - This page contains 10 best Blockchain free certification courses<br>
+Website : https://digitaldefynd.com/best-blockchain-courses-training-and-certifications-online/#1_Blockchain_Certification_by_INSEAD_Courser<br>
+<br>
+PLURALSIGHT - Blockchain-Principles and Practices<br>
+Website : https://www.pluralsight.com/courses/blockchain-principles-practices?clickid=w3vydT2oUxyIWE2wQIVNPydYUkBXHI1YZ05ezo0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius<br>
+</details>
+
+<details>
 <summary>C</summary>
 <br>
 Sololearn - C<br>
