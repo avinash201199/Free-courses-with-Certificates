@@ -206,7 +206,7 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/credit-card-
 Check more courses related to Data Science on Great Learning Academy<br>
 Website-https://www.greatlearning.in/academy#our-courses
 <br>
- Jovian's courses on Data Science and Machine Learning <br>
+ JOVIAN's courses on Data Science and Machine Learning <br>
   Website-https://www.jovian.ai/
   <br>
 </details>
