@@ -404,6 +404,8 @@ Website https://my.newtonschool.co/<br>
 Cognitive.ai- Python for Data Science<br>
 Website-https://cognitiveclass.ai/courses/python-for-data-science<br>
 <br>
+Coursera- Google IT Automation with Python Professional Certificate<br>
+website-https://www.coursera.org/professional-certificates/google-it-automation?action=enroll&adgroupid=109720736099&adpostion=&campaignid=11168713121&creativeid=516890558600&device=c&devicemodel=&gclid=EAIaIQobChMIh8T608rL8wIVRIJLBR16OgFOEAAYBCAAEgLHJvD_BwE&hide_mobile_promo&keyword=advanced+it+courses&matchtype=b&network=g&utm_campaign=11-GoogleITwithPython-IN&utm_content=11-GoogleITwithPython-IN&utm_medium=sem&utm_source=gg<br>
 </details>
 
 <details>
