@@ -45,9 +45,8 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/face-detect
 <br>
 GREAT LEARNING ACADEMY- TensorFlow Python<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/tensorflow-python<br>
- 
- 
- Future Learn-Digital Skills: Artificial Intelligence<br>
+ <br>
+Future Learn-Digital Skills: Artificial Intelligence<br>
  Website- https://www.futurelearn.com/courses/artificial-intelligence<br>
  
 <br>
