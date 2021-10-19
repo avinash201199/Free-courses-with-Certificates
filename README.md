@@ -60,6 +60,9 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/introductio
 GREAT LEARNING ACADEMY- Spark Basics<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/spark-basics<br>
 <br>
+ FUTURE LEARN- Big Data Analytics: Opportunities, Challenges, and the Future
+ Website-https://www.futurelearn.com/courses/applied-big-data-analytics
+<br>
 </details>
 
 <details>
