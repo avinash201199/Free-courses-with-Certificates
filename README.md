@@ -481,6 +481,8 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/ui-ux<br>
 Linkedin- Introduction to Graphic Design<br>
 Website-https://www.linkedin.com/learning/introduction-to-graphic-design-3/<br>
 <br>
+Linkedin-A FULL PATHWAY TO BECOME A GRAPHIC DESIGNER<br>
+Website-https://opportunity.linkedin.com/skills-for-in-demand-jobs/graphic-designer?trk=li-jobsindemand-graphic-en<br>
 </details>
 
 <details>
