@@ -22,6 +22,9 @@ For any query, comment in the discussion box of this repository-https://github.c
 Great Learning - Android Application Development<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/android-application-development<br>
 <br>
+Udemy- Become an Android Developer from Scratch<br>
+Website- https://www.udemy.com/course/become-an-android-developer-from-scratch/<br>
+<br>
 </details>
 
 
@@ -478,6 +481,14 @@ Website-https://www.sololearn.com/learning/1081<br>
 <br>
 Sololearn - SQL<br>
 Website-https://www.sololearn.com/learning/1060<br>
+<br>
+</details>
+
+<details>
+<summary>Swift iOS Development</summary>
+<br>
+Udemy - Swift iOS Developer<br>
+Website-https://www.udemy.com/course/the-complete-ios-10-developer-course/<br>
 <br>
 </details>
 
