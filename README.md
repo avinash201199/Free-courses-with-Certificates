@@ -492,6 +492,14 @@ Website-https://www.udemy.com/course/the-complete-ios-10-developer-course/<br>
 <br>
 </details>
 
+<details>
+<summary>Tableau</summary>
+<br>
+GREAT LEARNING ACADEMY- Data Visualization using Tableau<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/data-visualization-using-tableau<br>
+<br>
+</details>
+
 
 <details>
 <summary>UI/UX</summary>
