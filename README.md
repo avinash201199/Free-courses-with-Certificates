@@ -5,7 +5,13 @@ We all know that getting an internship or a job is challenging, and often these 
 After many days of work, I have collected some free courses with certificates of different domains. You can enroll in any course of your choice and get the certificate to add it on your resume or on Linkedin.
 <br>
 <br>
-You can also contribute to this repository, if you find any free courses with certificates,fork and create pull request, will accept your contribution.
+### How to contribute 😎<br>
+
+You can contribute in many ways in this repository 
+1. If you are beginner then you can contribute by improving the structure of the repository. <br>
+2. Design the website for this repository with the content. <br>
+3. Add more free courses into the list which are not present. <br>
+
 <br>
 <br>
 At last , please share this repository with your friends, juniors and with seniors also,so they don't miss this opportunity. Follow me for more updates -https://github.com/avinash201199
