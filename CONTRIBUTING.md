@@ -12,7 +12,7 @@ You can contribute in many ways
 
 2. By Desgining the website for this repository so that it can be helpful for more students
 
-- To design the website you can use HTML, CSS and JavaScript or anything you could suggest better then raise the issue.
+ - To design the website you can use HTML, CSS and JavaScript or anything you could suggest better then raise the issue.
 
 3. If you are beginner then you can contribute by improving the structure or the layout or any mistakes in the repository.
 
