@@ -20,9 +20,6 @@ Check [Contributing.md](https://github.com/avinash201199/Free-courses-with-Certi
 <br>
 At last , please share this repository with your friends, juniors and with seniors also,so they don't miss this opportunity. Follow me for more updates -https://github.com/avinash201199
 <br>
-Linkedin-https://www.linkedin.com/in/avinash-singh-071b79175/
-<br>
-<br>
 
 For any doubt contact me  here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
