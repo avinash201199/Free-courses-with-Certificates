@@ -7,7 +7,7 @@ You can contribute in many ways
 - Star this repository.
 - Create an issue.
 - Then fork this repository.
-- Add description about the program ,official website and youtube link in alphabetical order.
+- Add description about the course with the link.
 - Make pull request and wait for review.
 
 2. By Desgining the website for this repository so that it can be helpful for more students
