@@ -12,6 +12,10 @@ You can contribute in many ways in this repository
 2. Design the website for this repository with the content. <br>
 3. Add more free courses into the list which are not present. <br>
 
+Check [Contributing.md](https://github.com/avinash201199/Free-courses-with-Certificates/blob/main/CONTRIBUTING.md) file to get started 
+
+#### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
+
 <br>
 <br>
 At last , please share this repository with your friends, juniors and with seniors also,so they don't miss this opportunity. Follow me for more updates -https://github.com/avinash201199
