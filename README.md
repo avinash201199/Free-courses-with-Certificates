@@ -509,6 +509,11 @@ Website-https://geek-university.com/course/raspberry-pi-free-course/<br>
 Sololearn - React + Redux<br>
 Website-https://www.sololearn.com/learning/1097<br>
 <br>
+Free Code Camp offers certifcations for react:
+https://www.freecodecamp.org/learn/front-end-development-libraries/#sass
+<br>
+<br>
+
 </details>
 
 <details>
