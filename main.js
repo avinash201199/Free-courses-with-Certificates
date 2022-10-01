@@ -32,6 +32,12 @@ const course_details = {
                     "course_description": "Angular + NestJS",
                     "link": "https://www.sololearn.com/learning/1092",
                     "tags": "angular"
+                },
+                {
+                    "website_name": "Udemy",
+                    "course_description": "Angular 4",
+                    "link": "https://www.udemy.com/course/learn-angular-from-scratch/",
+                    "tags": "angular"
                 }
             ]
         },
