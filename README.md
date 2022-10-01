@@ -430,6 +430,12 @@ Website : https://digitaldefynd.com/best-nodejs-courses-class-certification-onli
 Sololearn - PHP<br>
 Website-https://www.sololearn.com/learning/1059<br>
 <br>
+Codecademy - Learn PHP<br>
+Website-https://www.codecademy.com/learn/learn-php <br>
+<br>
+Simplilearn - Introduction to PHP Basics<br>
+Website-https://www.simplilearn.com/learn-php-basics-free-course-skillup <br>
+<br>
 </details>
 
 <details>
