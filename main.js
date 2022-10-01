@@ -19,6 +19,7 @@ const course_details = {
         }
     ]
 }
+
 let technologyTemplate = ``;
 course_details.technology.forEach((tech, index) => {
     const technologyTitle = tech.title;
