@@ -19,27 +19,7 @@ const course_details = {
         }
     ]
 }
-const course_details = {
-    "technology": [
-        {
-            "title": "Android Application Development",
-            "courses": [
-                {
-                    "website_name": "Great Learning",
-                    "course_description": "Android Application Development",
-                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/android-application-development",
-                    "tags": "android"
-                },
-                {
-                    "website_name": "Udemy",
-                    "course_description": "Become an Android Developer from Scratch",
-                    "link": "https://www.udemy.com/course/become-an-android-developer-from-scratch",
-                    "tags": "android,scratch"
-                }
-            ]
-        }
-    ]
-}
+
 let technologyTemplate = ``;
 course_details.technology.forEach((tech, index) => {
     const technologyTitle = tech.title;
