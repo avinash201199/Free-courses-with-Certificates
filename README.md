@@ -260,6 +260,8 @@ Website-=
 GREAT LEARNING ACADEMY- Data Structure & Algorithms in Java for Intermediate Level<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/master-data-structure-algorithms-in-java<br>
 <br>
+GREAT LEARNING ACADEMY- Data Structures and Algorithms for Tech<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/data-structures-and-algorithms-for-tech
 <br>
 </details>
 
@@ -321,9 +323,7 @@ Website- https://www.sololearn.com/learning/1024<br>
 <br>
 Java Script course by free code camp dot org<br>
 Website : https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/<br>
-<br>
-Java Script course by Udacity<br>
-Website : https://www.udacity.com/course/intro-to-javascript--ud803 
+  <br>
 </details>
 
 <details>
@@ -452,6 +452,10 @@ Website https://my.newtonschool.co/<br>
 Cognitive.ai- Python for Data Science<br>
 Website-https://cognitiveclass.ai/courses/python-for-data-science<br>
 <br>
+Udemy- Python OOP : Object Oriented Programming in Python<br>
+Website-https://www.udemy.com/course/object-oriented-python-programming<br>
+<br>
+
 </details>
 
 <details>
