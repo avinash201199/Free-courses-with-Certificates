@@ -14,7 +14,7 @@ const course_details = {
                     "course_description": "Become an Android Developer from Scratch",
                     "link": "https://www.udemy.com/course/become-an-android-developer-from-scratch",
                     "tags": "android,scratch"
-                }
+                },
                 {
                     "website_name": "Udemy",
                     "course_description": "Essential Non Technical Skills of Effective Data Scientists",
@@ -95,6 +95,12 @@ const course_details = {
                     "website_name": "PLURALSIGHT",
                     "course_description": "Blockchain Principles and Practices",
                     "link": "https://www.pluralsight.com/courses/blockchain-principles-practices?clickid=w3vydT2oUxyIWE2wQIVNPydYUkBXHI1YZ05ezo0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius",
+                    "tags": "blockchain"
+                },
+                {
+                    "website_name": "ALISON",
+                    "course_description": "Alternative Applications of Blockchain Technology",
+                    "link": "https://alison.com/course/alternative-applications-of-blockchain-technology?utm_source=bing&utm_medium=cpc&utm_campaign=436347242&utm_content=1360097681508043&utm_term=kwd-85007205781168:loc-90&msclkid=527e81fc576f1f5dde95e2c4d1a0f0b8",
                     "tags": "blockchain"
                 }
             ]
