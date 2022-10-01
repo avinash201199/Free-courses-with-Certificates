@@ -557,6 +557,17 @@ Website-https://opportunity.linkedin.com/skills-for-in-demand-jobs/graphic-desig
 </details>
 
 <details>
+<summary>Introduction to Computer Science</summary>
+<br>
+CS50's Introduction to Computer Science<br>
+Website-https://www.edx.org/course/introduction-computer-science-harvardx-cs50x<br>
+<br>
+Udemy- An introduction to the intellectual enterprises of computer science and the art of programming.<br>
+Website- https://www.edx.org/course/introduction-computer-science-harvardx-cs50x<br>
+<br>
+</details>
+
+<details>
 <summary>Web Development</summary>
 <br>
 Sololearn - HTML<br>
