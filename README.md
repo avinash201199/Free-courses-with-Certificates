@@ -269,8 +269,8 @@ Website-=
 GREAT LEARNING ACADEMY- Data Structure & Algorithms in Java for Intermediate Level<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/master-data-structure-algorithms-in-java<br>
 <br>
-GREAT LEARNING ACADEMY- Data Structures and Algorithms for Tech<br>
-Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/data-structures-and-algorithms-for-tech
+LEARNBAY- Data Structures and Algorithms for Tech<br>
+Website-https://course.learnbay.co/dsa<br>
 <br>
 </details>
 
