@@ -1,18 +1,20 @@
 <h1 align="center"> Free-courses-with-Certificates</h1>
 
-We all know that getting an internship or a job is challenging, and often these online courses do wonders in making our resume look good. Since unpaid courses are accessible to everyone, they help many people further their learning, learn new skills, and polish their existing skills. Academic knowledge might not be enough in today’s society. You need to show the world that you have experimented in your life and have enriching experiences. A lot of opportunities open up when you start getting involved in professional activities like training and courses.<br> 
+We all know that getting an internship or a job is challenging, and often these online courses do wonders in making our resume look good. Since unpaid courses are accessible to everyone, they help many people further their learning, learn new skills, and polish their existing skills. Academic knowledge might not be enough in today’s society. You need to show the world that you have experimented in your life and have enriching experiences. A lot of opportunities open up when you start getting involved in professional activities like training and courses.<br>
 <br>
 After many days of work, I have collected some free courses with certificates of different domains. You can enroll in any course of your choice and get the certificate to add it on your resume or on Linkedin.
 <br>
 <br>
+
 ### How to contribute 😎<br>
 
-You can contribute in many ways in this repository 
+You can contribute in many ways in this repository
+
 1. If you are beginner then you can contribute by improving the structure of the repository. <br>
 2. Design the website for this repository with the content. <br>
 3. Add more free courses into the list which are not present. <br>
 
-Check [Contributing.md](https://github.com/avinash201199/Free-courses-with-Certificates/blob/main/CONTRIBUTING.md) file to get started 
+Check [Contributing.md](https://github.com/avinash201199/Free-courses-with-Certificates/blob/main/CONTRIBUTING.md) file to get started
 
 #### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
 
@@ -21,7 +23,7 @@ Check [Contributing.md](https://github.com/avinash201199/Free-courses-with-Certi
 At last , please share this repository with your friends, juniors and with seniors also,so they don't miss this opportunity. Follow me for more updates -https://github.com/avinash201199
 <br>
 
-For any doubt contact me  here: - <br>
+For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
 <br>(Check My Github profile for more cool stuff !)<br>
 
@@ -38,8 +40,6 @@ Website- https://www.udemy.com/course/become-an-android-developer-from-scratch/<
 <br>
 </details>
 
-
-
 <details>
 <summary>Angular</summary>
 <br>
@@ -47,7 +47,6 @@ Sololearn - Angular + NestJS<br>
 Website-https://www.sololearn.com/learning/1092<br>
 <br>
 </details>
-
 
 <details>
 <summary>Artificial intelligence</summary>
@@ -167,6 +166,7 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/google-clou
 GREAT LEARNING ACADEMY- Cloud Computing Architecture<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/cloud-computing-architecture<br>
 <br>
+
 </details>
 
 <details>
@@ -334,7 +334,6 @@ Website-https://www.sololearn.com/learning/1082<br>
 <br> 
 </details>
 
-
 <details>
 <summary>Kotlin</summary>
 <br>
@@ -390,6 +389,10 @@ website : https://www.freecodecamp.org/learn/machine-learning-with-python/
 GREAT LEARNING ACADEMY- Mongodb Tutorial<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/mongodb-tutorial<br>
 <br>
+<br>
+MongoDB University<br>
+Website-https://university.mongodb.com/<br>
+<br>
 </details>
 
 <details>
@@ -423,7 +426,6 @@ Sololearn - PHP<br>
 Website-https://www.sololearn.com/learning/1059<br>
 <br>
 </details>
-
 
 <details>
 <summary>Python</summary>
@@ -486,7 +488,6 @@ Website-https://geek-university.com/course/raspberry-pi-free-course/<br>
 <br>
 </details>
 
-
 <details>
 <summary>React</summary>
 <br>
@@ -495,7 +496,6 @@ Website-https://www.sololearn.com/learning/1097<br>
 <br>
 </details>
 
-
 <details>
 <summary>Ruby</summary>
 <br>
@@ -503,7 +503,6 @@ Sololearn - Ruby<br>
 Website-https://www.sololearn.com/learning/1081<br>
 <br>
 </details>
-
 
 <details>
 <summary>SQL</summary>
@@ -528,7 +527,6 @@ GREAT LEARNING ACADEMY- Data Visualization using Tableau<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/data-visualization-using-tableau<br>
 <br>
 </details>
-
 
 <details>
 <summary>UI/UX</summary>
