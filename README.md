@@ -95,6 +95,10 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/spark-basic
  FUTURE LEARN- Big Data Analytics: Opportunities, Challenges, and the Future<br>
  Website-https://www.futurelearn.com/courses/applied-big-data-analytics
 <br>
+<br>
+UDEMY: Essential Non Technical Skills of Effective Data Scientists<br>
+ Website- https://www.udemy.com/share/104fI23@HXPESfaal6TkxBGwZVO4s8bsVUcn2pCEvhFwpop5i0kIQeGdP4BlxQn6kiJdDGm_6w==/<br>
+ <br>
 </details>
 
 <details>
