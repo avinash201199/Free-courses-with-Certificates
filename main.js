@@ -29,6 +29,60 @@ const course_details = {
             ]
         },
         {
+            "title": "Artificial intelligence",
+            "courses": [
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Introduction to Deep Learning",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-deep-learning",
+                    "tags": "artificial-intelligence"
+                },
+                {
+
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Computer Vision Essentials",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/computer-vision-essentials",
+                    "tags": "artificial-intelligence"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Introduction to Tensorflow and Keras",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-tensorflow-and-keras",
+                    "tags": "artificial-intelligence"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "How to Build your own Chatbot using Python?",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/how-to-build-your-own-chatbot-using-python",
+                    "tags": "artificial-intelligence"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "OpenCV Tutorial",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/face-detection-with-opencv-in-python",
+                    "tags": "artificial-intelligence"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "TensorFlow Python",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/tensorflow-python",
+                    "tags": "artificial-intelligence"
+                },
+                {
+                    "website_name": "Future Learn",
+                    "course_description": "Digital Skills: Artificial Intelligence",
+                    "link": "https://www.futurelearn.com/courses/artificial-intelligence",
+                    "tags": "artificial-intelligence"
+                },
+                {
+                    "website_name": "UDEMY",
+                    "course_description": "Introduction to Artificial Intelligence in Software Testing",
+                    "link": "https://www.udemy.com/course/introduction-to-artificial-intelligence-in-software-testing",
+                    "tags": "artificial-intelligence"
+                }
+            ]
+        },
+        {
             "title": "Big Data",
             "courses": [
                 {
@@ -89,6 +143,92 @@ const course_details = {
                     "course_description": "Blockchain Principles and Practices",
                     "link": "https://www.pluralsight.com/courses/blockchain-principles-practices?clickid=w3vydT2oUxyIWE2wQIVNPydYUkBXHI1YZ05ezo0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius",
                     "tags": "blockchain"
+                }
+            ]
+        },
+        {
+            "title": "C",
+            "courses": [
+                {
+                    "website_name": "Sololearn",
+                    "course_description": "C",
+                    "link": "https://www.sololearn.com/learning/1089",
+                    "tags": "C"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "C for Beginners",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1",
+                    "tags": "C"
+                }
+            ]
+        },
+        {
+            "title": "C++",
+            "courses": [
+                {
+                    "website_name": "Sololearn",
+                    "course_description": "C++",
+                    "link": "https://www.sololearn.com/learning/1051",
+                    "tags": "C++"
+                }
+            ]
+        },
+        {
+            "title": "C#",
+            "courses": [
+                {
+                    "website_name": "Sololearn",
+                    "course_description": "C#",
+                    "link": "https://www.sololearn.com/learning/1080",
+                    "tags": "C#"
+                }
+            ]
+        },
+        {
+            "title": "Cloud Computing",
+            "courses": [
+                {
+                    "website_name": "Congnitive.ai",
+                    "course_description": "Introduction to Cloud",
+                    "link": "https://cognitiveclass.ai/courses/introduction-to-cloud",
+                    "tags": "cloud-computing"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Cloud Foundations",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/cloud-foundations",
+                    "tags": "cloud-computing"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Cloud Foundations - Advanced",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/cloud-foundations-advanced",
+                    "tags": "cloud-computing"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "AWS For Beginners",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/aws-for-beginners1",
+                    "tags": "cloud-computing"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Microsoft Azure Essentials",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/microsoft-azure-essentials",
+                    "tags": "cloud-computing"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Google Cloud Platform for Beginners",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/google-cloud-platform-for-beginners1",
+                    "tags": "cloud-computing"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Cloud Computing Architecture",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/cloud-computing-architecture",
+                    "tags": "cloud-computing"
                 }
             ]
         }
