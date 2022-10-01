@@ -72,6 +72,9 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/tensorflow-
  <br>
 Future Learn-Digital Skills: Artificial Intelligence<br>
  Website- https://www.futurelearn.com/courses/artificial-intelligence<br>
+ <br>
+UDEMY: Introduction to Artificial Intelligence in Software Testing<br>
+ Website- https://www.udemy.com/course/introduction-to-artificial-intelligence-in-software-testing<br>
  
 <br>
 </details>
