@@ -14,7 +14,7 @@ const course_details = {
                     "course_description": "Become an Android Developer from Scratch",
                     "link": "https://www.udemy.com/course/become-an-android-developer-from-scratch",
                     "tags": "android,scratch"
-                }
+                },
                 {
                     "website_name": "Udemy",
                     "course_description": "Essential Non Technical Skills of Effective Data Scientists",
@@ -31,6 +31,12 @@ const course_details = {
                     "website_name": "Sololearn",
                     "course_description": "Angular + NestJS",
                     "link": "https://www.sololearn.com/learning/1092",
+                    "tags": "angular"
+                },
+                {
+                    "website_name": "Udemy",
+                    "course_description": "Angular 4",
+                    "link": "https://www.udemy.com/course/learn-angular-from-scratch/",
                     "tags": "angular"
                 }
             ]
