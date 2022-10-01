@@ -450,6 +450,10 @@ Website https://my.newtonschool.co/<br>
 Cognitive.ai- Python for Data Science<br>
 Website-https://cognitiveclass.ai/courses/python-for-data-science<br>
 <br>
+Udemy- Python OOP : Object Oriented Programming in Python<br>
+Website-https://www.udemy.com/course/object-oriented-python-programming<br>
+<br>
+
 </details>
 
 <details>
