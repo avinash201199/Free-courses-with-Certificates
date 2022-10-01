@@ -15,6 +15,13 @@ const course_details = {
                     "link": "https://www.udemy.com/course/become-an-android-developer-from-scratch",
                     "tags": "android,scratch"
                 }
+                {
+                    "website_name": "Udemy",
+                    "course_description": "Essential Non Technical Skills of Effective Data Scientists",
+                    "link": "https://www.udemy.com/share/104fI23@HXPESfaal6TkxBGwZVO4s8bsVUcn2pCEvhFwpop5i0kIQeGdP4BlxQn6kiJdDGm_6w==/",
+                    "tags": "Data Scientists, Begineers"
+                }
+
             ]
         }
     ]
