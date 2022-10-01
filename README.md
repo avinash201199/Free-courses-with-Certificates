@@ -431,10 +431,10 @@ Sololearn - PHP<br>
 Website-https://www.sololearn.com/learning/1059<br>
 <br>
 Codecademy - Learn PHP
-https://www.codecademy.com/learn/learn-php
+Website-https://www.codecademy.com/learn/learn-php <br>
 <br>
 Simplilearn - Introduction to PHP Basics
-https://www.simplilearn.com/learn-php-basics-free-course-skillup
+Website-https://www.simplilearn.com/learn-php-basics-free-course-skillup <br>
 <br>
 </details>
 
