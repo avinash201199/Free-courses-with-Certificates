@@ -38,7 +38,6 @@ const course_details = {
                     "tags": "artificial-intelligence"
                 },
                 {
-
                     "website_name": "GREAT LEARNING ACADEMY",
                     "course_description": "Computer Vision Essentials",
                     "link": "https://www.greatlearning.in/academy/learn-for-free/courses/computer-vision-essentials",
@@ -231,8 +230,85 @@ const course_details = {
                     "tags": "cloud-computing"
                 }
             ]
+        },
+        {
+            "title": "Cloud Computing",
+            "courses": [
+                {
+                    "website_name": "Congnitive.ai",
+                    "course_description": "Introduction to Cloud",
+                    "link": "https://cognitiveclass.ai/courses/introduction-to-cloud",
+                    "tags": "cloud-computing"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Cloud Foundations",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/cloud-foundations",
+                    "tags": "cloud-computing"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Cloud Foundations - Advanced",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/cloud-foundations-advanced",
+                    "tags": "cloud-computing"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "AWS For Beginners",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/aws-for-beginners1",
+                    "tags": "cloud-computing"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Microsoft Azure Essentials",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/microsoft-azure-essentials",
+                    "tags": "cloud-computing"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Google Cloud Platform for Beginners",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/google-cloud-platform-for-beginners1",
+                    "tags": "cloud-computing"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Cloud Computing Architecture",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/cloud-computing-architecture",
+                    "tags": "cloud-computing"
+                }
+            ]
+        },
+        {
+            "title": "Cyber Security",
+            "courses": [
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Introduction to Cyber Security",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-cyber-security",
+                    "tags": "cyber-security"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Introduction to Ethical Hacking",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-ethical-hacking",
+                    "tags": "cyber-security"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Advanced Cyber Security - Threats and Governance",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/advanced-cyber-security-threats-and-governance",
+                    "tags": "cyber-security"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Ethical Hacking - Mobile Platforms and Network Architecture",
+                    "link": "https://www.greatlearning.in/academy/learn-for-free/courses/ethical-hacking-mobile-platforms-and-network-architecture",
+                    "tags": "cyber-security"
+                }
+            ]
         }
     ]
+
 }
 
 let technologyTemplate = ``;
