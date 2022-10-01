@@ -321,7 +321,9 @@ Website- https://www.sololearn.com/learning/1024<br>
 <br>
 Java Script course by free code camp dot org<br>
 Website : https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/<br>
-  <br>
+<br>
+Java Script course by Udacity<br>
+Website : https://www.udacity.com/course/intro-to-javascript--ud803 
 </details>
 
 <details>
