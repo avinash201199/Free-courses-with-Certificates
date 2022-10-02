@@ -81,6 +81,13 @@ UDEMY: Introduction to Artificial Intelligence in Software Testing<br>
 </details>
 
 <details>
+<summary>Augmented Reality</summary>
+<br>
+Coursera - Introduction to Augmented Reality and ARCore<br>
+Website-https://www.coursera.org/learn/ar<br>
+<br>
+</details>
+<details>
 <summary>Big Data</summary>
 <br>
 GREAT LEARNING ACADEMY- Introduction to Big Data and Hadoop<br>
