@@ -166,7 +166,14 @@ const course_details = {
                     "course_description": "Blockchain Principles and Practices",
                     "link": "https://www.pluralsight.com/courses/blockchain-principles-practices?clickid=w3vydT2oUxyIWE2wQIVNPydYUkBXHI1YZ05ezo0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius",
                     "tags": "blockchain"
+                },
+                 {
+                    "website_name": "UDEMY",
+                    "course_description": "Free Blockchain Courses and Tutorials",
+                    "link": "https://www.udemy.com/topic/blockchain/free/",
+                    "tags": "blockchain"
                 }
+                
             ]
         },
         {
