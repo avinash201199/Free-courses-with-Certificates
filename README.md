@@ -635,3 +635,23 @@ edX- An introduction to the intellectual enterprises of computer science and the
 Website- https://www.edx.org/course/introduction-computer-science-harvardx-cs50x<br>
 <br>
 </details>
+<details>
+<summary>Front-end Development</summary>
+<br>
+CodeStudio-  Fundamentals of HTML<br>
+Website- https://www.codingninjas.com/codestudio/guided-paths/fundamentals-of-html<br>
+<br>
+CodeStudio - Fundamentals of  CSS<br>
+Website- https://www.codingninjas.com/codestudio/guided-paths/fundamentals-of-css<br>
+<br>
+CodeStudio - Basics Of Javascript<br>
+Website- https://www.codingninjas.com/codestudio/guided-paths/basics-of-javascript<br>
+<br>
+CodeStudio- Basics of React<br>
+Website-https://www.codingninjas.com/codestudio/guided-paths/basics-of-react<br>
+<br>
+CodeStudio- Basics of Angular<br>
+Website-https://www.codingninjas.com/codestudio/guided-paths/basics-of-angular<br>
+<br>
+</details>
+
