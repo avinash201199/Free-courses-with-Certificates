@@ -429,6 +429,14 @@ Website : https://digitaldefynd.com/best-nodejs-courses-class-certification-onli
 </details>
 
 <details>
+<summary>PERL</summary>
+<br>
+UDEMY- PERL<br>
+Website-https://www.udemy.com/course/perl-by-digiflax/<br>
+<br>
+</details>
+
+<details>
 <summary>PHP</summary>
 <br>
 Sololearn - PHP<br>
