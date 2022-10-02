@@ -169,6 +169,7 @@ const course_details = {
                 }
             ]
         },
+
         {
             "title": "C",
             "courses": [
@@ -255,6 +256,7 @@ const course_details = {
                 }
             ]
         },
+      
         {
             "title": "Cloud Computing",
             "courses": [
@@ -299,6 +301,41 @@ const course_details = {
                     "course_description": "Cloud Computing Architecture",
                     "link": "https://www.greatlearning.in/academy/learn-for-free/courses/cloud-computing-architecture",
                     "tags": "cloud-computing"
+                }
+            ]
+        },
+{
+            "title": "Front-end Development",
+            "courses": [
+                {
+                    "website_name": "CodeStudio",
+                    "course_description": "Fundamentals of HTML",
+                    "link": "https://www.codingninjas.com/codestudio/guided-paths/fundamentals-of-html",
+                    "tags": "Front-end Development"
+                },
+                {
+                    "website_name": "CodeStudio",
+                    "course_description": " Fundamentals of CSS",
+                    "link": "https://www.codingninjas.com/codestudio/guided-paths/fundamentals-of-css",
+                    "tags": "Front-end Development"
+                },
+                {
+                    "website_name": "CodeStudio",
+                    "course_description": "Basics Of Javascript",
+                    "link": "https://www.codingninjas.com/codestudio/guided-paths/basics-of-javascript",
+                    "tags": "Front-end Development"
+                },
+                {
+                    "website_name": "CodeStudio",
+                    "course_description": "Basics of React",
+                    "link": "https://www.codingninjas.com/codestudio/guided-paths/basics-of-react",
+                    "tags": "Front-end Development"
+                },
+                {
+                    "website_name": "CodeStudio",
+                    "course_description": "Basics of Angular",
+                    "link": "https://www.codingninjas.com/codestudio/guided-paths/basics-of-angular",
+                    "tags": "Front-end Development"
                 }
             ]
         },
