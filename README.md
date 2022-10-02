@@ -124,7 +124,9 @@ DIGITALDEFYND - This page contains 10 best Blockchain free certification courses
 Website : https://digitaldefynd.com/best-blockchain-courses-training-and-certifications-online/#1_Blockchain_Certification_by_INSEAD_Courser<br>
 <br>
 PLURALSIGHT - Blockchain-Principles and Practices<br>
-Website : https://www.pluralsight.com/courses/blockchain-principles-practices?clickid=w3vydT2oUxyIWE2wQIVNPydYUkBXHI1YZ05ezo0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius<br>
+Website : https://www.pluralsight.com/courses/blockchain-principles-practices?clickid=w3vydT2oUxyIWE2wQIVNPydYUkBXHI1YZ05ezo0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius<br><br>
+UDEMY - Free Blockchain Courses and Tutorials<br>
+Website : https://www.udemy.com/topic/blockchain/free/<br>
 </details>
 
 <details>
