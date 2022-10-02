@@ -397,6 +397,9 @@ ML with python by free code camp dot org
 <br>
 website : https://www.freecodecamp.org/learn/machine-learning-with-python/
 <br>
+DataTalksClub: ML Zoomcamp<br>
+Website- https://airtable.com/shryxwLd0COOEaqXo<br>
+<br>
 </details>
 
 <details>
