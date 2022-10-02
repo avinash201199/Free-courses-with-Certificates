@@ -81,6 +81,13 @@ UDEMY: Introduction to Artificial Intelligence in Software Testing<br>
 </details>
 
 <details>
+<summary>Augmented Reality</summary>
+<br>
+Coursera - Introduction to Augmented Reality and ARCore<br>
+Website-https://www.coursera.org/learn/ar<br>
+<br>
+</details>
+<details>
 <summary>Big Data</summary>
 <br>
 GREAT LEARNING ACADEMY- Introduction to Big Data and Hadoop<br>
@@ -269,8 +276,8 @@ Website-=
 GREAT LEARNING ACADEMY- Data Structure & Algorithms in Java for Intermediate Level<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/master-data-structure-algorithms-in-java<br>
 <br>
-GREAT LEARNING ACADEMY- Data Structures and Algorithms for Tech<br>
-Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/data-structures-and-algorithms-for-tech
+LEARNBAY- Data Structures and Algorithms for Tech<br>
+Website-https://course.learnbay.co/dsa<br>
 <br>
 </details>
 
@@ -509,6 +516,11 @@ Website-https://geek-university.com/course/raspberry-pi-free-course/<br>
 Sololearn - React + Redux<br>
 Website-https://www.sololearn.com/learning/1097<br>
 <br>
+Free Code Camp offers certifcations for react:
+https://www.freecodecamp.org/learn/front-end-development-libraries/#sass
+<br>
+<br>
+
 </details>
 
 <details>
