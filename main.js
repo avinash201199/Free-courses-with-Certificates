@@ -95,6 +95,17 @@ const course_details = {
             ]
         },
         {
+            "title": "Augmented Reality",
+            "courses": [
+                {
+                    "website_name": "Coursera",
+                    "course_description": "Introduction to Augmented Reality and ARCore",
+                    "link": "https://www.coursera.org/learn/ar",
+                    "tags": "Augmented Reality"
+                }
+            ]
+        },
+        {
             "title": "Big Data",
             "courses": [
                 {
