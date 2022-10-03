@@ -487,6 +487,9 @@ Website-https://cognitiveclass.ai/courses/python-for-data-science<br>
 Udemy- Python OOP : Object Oriented Programming in Python<br>
 Website-https://www.udemy.com/course/object-oriented-python-programming<br>
 <br>
+Great Learning - Python Fundamentals for Beginners <br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners
+<br>
 
 </details>
 
