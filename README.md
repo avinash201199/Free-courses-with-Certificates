@@ -663,3 +663,14 @@ Website-https://www.codingninjas.com/codestudio/guided-paths/basics-of-angular<b
 <br>
 </details>
 
+
+
+<details>
+<summary>Negotiation-Skills</summary>
+<br>
+Coursera-  Successful Negotiation: Essential Strategies and Skills<br>
+Website-https://www.coursera.org/learn/negotiation-skills<br>
+<br>
+
+</details>
+
