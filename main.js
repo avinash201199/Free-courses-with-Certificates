@@ -106,6 +106,23 @@ const course_details = {
             ]
         },
         {
+            "title": "Back-end Development",
+            "courses": [
+                {
+                    "website_name": "FreeCodeCamp",
+                    "course_description": "Back End Development and APIs",
+                    "link": "https://www.freecodecamp.org/learn/back-end-development-and-apis/",
+                    "tags": "back-end-development"
+                },
+                {
+                    "website_name": "Udacity",
+                    "course_description": "Intro to Backend",
+                    "link": "https://www.udacity.com/course/intro-to-backend--ud171",
+                    "tags": "back-end-development"
+                }
+            ]
+        },
+        {
             "title": "Big Data",
             "courses": [
                 {
@@ -200,6 +217,13 @@ const course_details = {
                     "website_name": "Sololearn",
                     "course_description": "C++",
                     "link": "https://www.sololearn.com/learning/1051",
+                    "tags": "C++"
+                },
+                "courses": [
+                {
+                    "website_name": "Great Learning Academy",
+                    "course_description": "Introduction to C++",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-c",
                     "tags": "C++"
                 }
             ]
