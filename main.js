@@ -384,6 +384,17 @@ const course_details = {
                     "tags": "machine-learning"
                 }
             ]
+        },
+        {
+            "title": "MATLAB",
+            "courses": [
+                {
+                    "website_name": "ClassCentral",
+                    "course_description": "Matlab basics",
+                    "link": "https://www.classcentral.com/course/matlab-onramp-94369",
+                    "tags": "matlab"
+                }
+            ]
         }
     ]
 
