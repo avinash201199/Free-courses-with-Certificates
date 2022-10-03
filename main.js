@@ -384,6 +384,19 @@ const course_details = {
                     "tags": "machine-learning"
                 }
             ]
+        },
+        
+        {
+            "title": "Python",
+            "course": [
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Python Fundamentals for Beginners",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners",
+                    "tags": "python"
+                }
+                    
+            ]
         }
     ]
 
