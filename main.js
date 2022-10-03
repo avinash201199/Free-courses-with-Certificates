@@ -384,6 +384,17 @@ const course_details = {
                     "tags": "machine-learning"
                 }
             ]
+        },
+        {
+            "title": "Successful Negotiation: Essential Strategies and Skills",
+            "courses": [
+                {
+                    "website_name": "Coursera",
+                    "course_description": "Skills required for Business Essentials",
+                    "link": "https://www.coursera.org/learn/negotiation-skills",
+                    "tags": "Communication"
+                }
+            ]
         }
     ]
 
