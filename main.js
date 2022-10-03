@@ -373,6 +373,17 @@ const course_details = {
                     "tags": "cyber-security"
                 }
             ]
+        },
+        {
+            "title": "Machine Learning",
+            "courses": [
+                {
+                    "website_name": "DataTalksClub",
+                    "course_description": "ML Zoomcamp",
+                    "link": "https://airtable.com/shryxwLd0COOEaqXo",
+                    "tags": "machine-learning"
+                }
+            ]
         }
     ]
 
