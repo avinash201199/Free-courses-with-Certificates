@@ -106,6 +106,17 @@ const course_details = {
             ]
         },
         {
+            "title": "Amazon Web Services (AWS)",
+            "courses": [
+                {
+                    "website_name": "AWS Official Website",
+                    "course_description": "Multiple Offerings",
+                    "link": "https://explore.skillbuilder.aws/learn",
+                    "tags": "AWS"
+                }
+            ]
+        },
+        {
             "title": "Big Data",
             "courses": [
                 {
