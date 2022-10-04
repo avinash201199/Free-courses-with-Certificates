@@ -106,19 +106,13 @@ const course_details = {
             ]
         },
         {
-            "title": "Back-end Development",
+            "title": "Amazon Web Services (AWS)",
             "courses": [
                 {
-                    "website_name": "FreeCodeCamp",
-                    "course_description": "Back End Development and APIs",
-                    "link": "https://www.freecodecamp.org/learn/back-end-development-and-apis/",
-                    "tags": "back-end-development"
-                },
-                {
-                    "website_name": "Udacity",
-                    "course_description": "Intro to Backend",
-                    "link": "https://www.udacity.com/course/intro-to-backend--ud171",
-                    "tags": "back-end-development"
+                    "website_name": "AWS Official Website",
+                    "course_description": "Multiple Offerings",
+                    "link": "https://explore.skillbuilder.aws/learn",
+                    "tags": "AWS"
                 }
             ]
         },

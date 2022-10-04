@@ -121,6 +121,14 @@ UDEMY: Essential Non Technical Skills of Effective Data Scientists<br>
 </details>
 
 <details>
+<summary>Amazon Web Services (AWS)</summary>
+<br>
+Official Website<br>
+Website-https://explore.skillbuilder.aws/learn<br>
+<br>
+</details>
+
+<details>
 <summary>Blockchain Technology</summary>
 <br>
 COURSERA - Blockchain Basics<br>
