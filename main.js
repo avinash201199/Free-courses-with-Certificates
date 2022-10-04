@@ -415,6 +415,18 @@ const course_details = {
                 }
                     
             ]
+        },
+        {
+            "title": "Ruby",
+            "course": [
+                {
+                    "website_name": "Udemy",
+                    "course_description": "Complete Ruby Tutorial for Beginners",
+                    "link": "https://www.udemy.com/course/ruby-tutorial-for-beginners/",
+                    "tags": "ruby"
+                }
+                    
+            ]
         }
     ]
 
