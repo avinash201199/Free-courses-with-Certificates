@@ -369,6 +369,23 @@ const course_details = {
                 }
             ]
         },
+            { "title": "Data Science",
+            "courses": [
+                {
+                    "website_name": "CodeStudio",
+                    "course_description": "Basics Of Machine Learning",
+                    "link": "https://www.codingninjas.com/codestudio/guided-paths/basics-of-machine-learning",
+                    "tags": "Data - Science"
+                },
+                {
+                    "website_name": "CodeStudio",
+                    "course_description": " Data Science",
+                    "link": "https://www.codingninjas.com/codestudio/guided-paths/data-science",
+                    "tags": "Data - Science"
+                },
+               
+            ]
+        },
         {
             "title": "Cyber Security",
             "courses": [
