@@ -420,6 +420,8 @@ website : https://www.freecodecamp.org/learn/machine-learning-with-python/
 DataTalksClub: ML Zoomcamp<br>
 Website- https://airtable.com/shryxwLd0COOEaqXo<br>
 <br>
+KAGGLE- Introduction to machine learning plus other machine learning courses<br>
+Website- https://www.kaggle.com/learn/intro-to-machine-learning<br>
 </details>
 
 <details>
