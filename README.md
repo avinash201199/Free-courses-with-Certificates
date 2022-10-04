@@ -682,6 +682,15 @@ CodeStudio- Basics of Angular<br>
 Website-https://www.codingninjas.com/codestudio/guided-paths/basics-of-angular<br>
 <br>
 </details>
+<details>
+<summary>Data Science</summary>
+<br>
+CodeStudio- Basics Of Machine Learning<br>
+Website-https://www.codingninjas.com/codestudio/guided-paths/basics-of-machine-learning<br>
+<br>
+CodeStudio - Data Science<br>
+Website- https://www.codingninjas.com/codestudio/guided-paths/data-science<br>
+</details>
 
 <details>
 <summary>CYBER-Security-IIRS </summary>
