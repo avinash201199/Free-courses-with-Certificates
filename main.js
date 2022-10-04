@@ -415,7 +415,74 @@ const course_details = {
                 }
                     
             ]
-        }
+        },
+            
+ {
+            "title": "Numpy",
+            "courses": [
+                {
+                    "website_name": "Simplilearn",
+                    "course_description": "Introduction about numpy",
+                    "link": "https://lms.simplilearn.com/courses/4266/Introduction-to-Numpy/syllabus",
+                    "tags": "Introduction to numpy"
+                }
+            ]
+        },
+ {
+            "title": "Software Development",
+            "courses": [
+                {
+                    "website_name": "Simplilearn",
+                    "course_description": "Understanding JVM and the Implications of Sandbox Model",
+                    "link": "https://www.simplilearn.com/jvm-and-the-implications-of-sandbox-model-rar41-article",
+                    "tags": "Understanding JVM and the Implications of Sandbox Model"
+                }
+            ]
+        },   
+   {
+            "title": " Cyber Security",
+            "courses": [
+                {
+                    "website_name": "Simplilearn",
+                    "course_description": "Introduction to Cyber Security",
+                    "link": "https://www.simplilearn.com/learn-cyber-security-basics-skillup?referrer=course-recommended",
+                    "tags": "Introduction to Cyber Security"
+                }
+            ]
+        },    
+     {
+            "title": " Software Development ",
+            "courses": [
+                {
+                    "website_name": "Simplilearn",
+                    "course_description": "Free Online Course to Learn Web Scraping in Python",
+                    "link": "https://www.simplilearn.com/learn-basics-of-web-scraping-in-python-free-course-skillup?referrer=course-recommended",
+                    "tags": "Web Scraping in Python"
+                }
+            ]
+        },    
+  {
+            "title": "Software Development",
+            "courses": [
+                {
+                    "website_name": "Simplilearn",
+                    "course_description": "Java Training",
+                    "link": "https://www.simplilearn.com/learn-java-basics-skillup?referrer=course-recommended",
+                    "tags": "Java Training"
+                }
+            ]
+        },
+   {
+            "title": "Data Science & Business Analytics ",
+            "courses": [
+                {
+                    "website_name": "Simplilearn",
+                    "course_description": "Introduction to Data Analytics Course",
+                    "link": "https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup",
+                    "tags": "Introduction to Data Analytics Course"
+                }
+            ]
+        }            
     ]
 
 }
