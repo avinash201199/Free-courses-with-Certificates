@@ -666,3 +666,11 @@ Website-https://www.codingninjas.com/codestudio/guided-paths/basics-of-angular<b
 <br>
 </details>
 
+<details>
+<summary>CYBER-Security-IIRS </summary>
+<br>
+INDIAN INSITUTE OF REMOTE SENSING <br>
+Website-https://elearning.iirs.gov.in/edusatregistration/student<br>
+<br>
+
+</details>
