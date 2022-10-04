@@ -172,6 +172,9 @@ Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introdu
 Sololearn- C#<br>
 Website- https://www.sololearn.com/learning/1080<br>
 <br>
+W3schools- C#<br>
+Website- https://www.w3schools.com/cs/cs_exam.php<br>
+<br>
 </details>
 
 <details>
