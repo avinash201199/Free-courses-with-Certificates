@@ -593,6 +593,14 @@ Website-https://www.sololearn.com/learning/1081<br>
 </details>
 
 <details>
+  <summary>Software Testing</summary>
+  <br>
+  Udemy - Test Automation using Selenium<br>
+  Website-https://www.udemy.com/course/getting-started-with-test-automation-using-selenium/<br>
+  <br>
+</details>
+
+<details>
 <summary>SQL</summary>
 <br>
 Sololearn - SQL<br>

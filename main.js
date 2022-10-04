@@ -415,6 +415,18 @@ const course_details = {
                 }
                     
             ]
+        },
+        {
+            "title": "Software Testing",
+            "course": [
+                {
+                    "website_name": "Udemy",
+                    "course_description": "Learn about software testing automation with Selenium IDE, Selenium WebDriver and Selenium Grid",
+                    "link": "https://www.udemy.com/course/getting-started-with-test-automation-using-selenium/",
+                    "tags": "software testing"
+                }
+                    
+            ]
         }
     ]
 
