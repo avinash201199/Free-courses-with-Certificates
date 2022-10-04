@@ -87,6 +87,18 @@ Coursera - Introduction to Augmented Reality and ARCore<br>
 Website-https://www.coursera.org/learn/ar<br>
 <br>
 </details>
+
+<details>
+<summary>Back-end Development</summary>
+<br>
+FreeCodeCamp - Back End Development and APIs<br>
+Website-https://www.freecodecamp.org/learn/back-end-development-and-apis<br>
+<br>
+Udacity - Intro to Backend<br>
+Website-https://www.udacity.com/course/intro-to-backend--ud171
+<br>
+</details>
+
 <details>
 <summary>Big Data</summary>
 <br>
@@ -156,6 +168,9 @@ Website- https://www.sololearn.com/learning/1051<br>
 <br>
 Udacity- C++<br>
 Website- https://www.udacity.com/course/c-for-programmers--ud210 <br>
+<br>
+Great Learning - Introduction to C++<br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-c
 <br>
 </details>
 
@@ -413,6 +428,8 @@ website : https://www.freecodecamp.org/learn/machine-learning-with-python/
 DataTalksClub: ML Zoomcamp<br>
 Website- https://airtable.com/shryxwLd0COOEaqXo<br>
 <br>
+KAGGLE- Introduction to machine learning plus other machine learning courses<br>
+Website- https://www.kaggle.com/learn/intro-to-machine-learning<br>
 </details>
 
 <details>
@@ -674,3 +691,11 @@ Website-https://www.codingninjas.com/codestudio/guided-paths/basics-of-angular<b
 <br>
 </details>
 
+<details>
+<summary>CYBER-Security-IIRS </summary>
+<br>
+INDIAN INSITUTE OF REMOTE SENSING <br>
+Website-https://elearning.iirs.gov.in/edusatregistration/student<br>
+<br>
+
+</details>
