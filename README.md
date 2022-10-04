@@ -160,6 +160,18 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginn
 <br>
 </details>
 
+
+<details>
+<summary>GitHub Tutorial</summary>
+<br> GitHub Tutorial for Beginners <br>
+Website-(https://github.com/)<br>
+<br>
+GREAT LEARNING ACADEMY- GitHub Tutorial for Beginners<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1<br>
+<br>
+</details>
+
+
 <details>
 <summary>C++</summary>
 <br>
