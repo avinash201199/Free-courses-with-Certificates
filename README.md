@@ -477,6 +477,10 @@ Website-https://www.simplilearn.com/learn-php-basics-free-course-skillup <br>
 <details>
 <summary>Python</summary>
 <br>
+Cisco-Networking Academy - PCAP: Programming Essentials in Python <br>
+Website - https://www.netacad.com/courses/programming/pcap-programming-essentials-python <br>
+<br>
+<br>
 Sololearn - Intermediate Python<br>
 website-https://www.sololearn.com/learning/1158<br>
 <br>
