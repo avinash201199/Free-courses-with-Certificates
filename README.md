@@ -87,6 +87,18 @@ Coursera - Introduction to Augmented Reality and ARCore<br>
 Website-https://www.coursera.org/learn/ar<br>
 <br>
 </details>
+
+<details>
+<summary>Back-end Development</summary>
+<br>
+FreeCodeCamp - Back End Development and APIs<br>
+Website-https://www.freecodecamp.org/learn/back-end-development-and-apis<br>
+<br>
+Udacity - Intro to Backend<br>
+Website-https://www.udacity.com/course/intro-to-backend--ud171
+<br>
+</details>
+
 <details>
 <summary>Big Data</summary>
 <br>
@@ -148,6 +160,9 @@ Website- https://www.sololearn.com/learning/1051<br>
 <br>
 Udacity- C++<br>
 Website- https://www.udacity.com/course/c-for-programmers--ud210 <br>
+<br>
+Great Learning - Introduction to C++<br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-c
 <br>
 </details>
 
