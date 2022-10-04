@@ -50,6 +50,16 @@ Website-https://www.sololearn.com/learning/1092<br>
 <br>
 </details>
 
+</details>
+
+<details>
+<summary> Data Visualization</summary>
+<br>
+Coursera- Data Visualization using Tableau <br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-using-tableau?career_path_id=2<br>
+<br>
+</details>
+
 <details>
 <summary>Artificial intelligence</summary>
 <br>
