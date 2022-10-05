@@ -595,6 +595,9 @@ https://www.freecodecamp.org/learn/front-end-development-libraries/#sass
 Sololearn - Ruby<br>
 Website-https://www.sololearn.com/learning/1081<br>
 <br>
+Udemy - Complete Ruby Tutorial for Beginners<br>
+Website-https://www.udemy.com/course/ruby-tutorial-for-beginners/<br>
+<br>
 </details>
 
 <details>
