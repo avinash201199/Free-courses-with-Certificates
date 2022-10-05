@@ -540,6 +540,10 @@ Website-https://www.udemy.com/course/object-oriented-python-programming<br>
 Great Learning - Python Fundamentals for Beginners <br>
 Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners
 <br>
+<br>
+Coursera - Python for Everybody Specialization <br>
+Website-https://www.coursera.org/specializations/python?action=enroll<br>
+<br>
 
 </details>
 
@@ -732,3 +736,7 @@ Website-https://elearning.iirs.gov.in/edusatregistration/student<br>
 <br>
 
 </details>
+
+
+
+
