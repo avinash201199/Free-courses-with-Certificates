@@ -493,7 +493,7 @@ const course_details = {
 }
 
 let technologyTemplate = ``;
-course_details.technology.forEach((tech, index) => {
+course_details.technology.forEach(tech, index) => {
     const technologyTitle = tech.title;
     let courseTemplate = ``
     tech.courses.forEach(course => {
