@@ -157,6 +157,8 @@ PLURALSIGHT - Blockchain-Principles and Practices<br>
 Website : https://www.pluralsight.com/courses/blockchain-principles-practices?clickid=w3vydT2oUxyIWE2wQIVNPydYUkBXHI1YZ05ezo0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius<br><br>
 UDEMY - Free Blockchain Courses and Tutorials<br>
 Website : https://www.udemy.com/topic/blockchain/free/<br>
+CryptoZombies - Build DApps By Building Simple Games<br>
+Website : https://cryptozombies.io/<br>
 </details>
 
 <details>
@@ -541,9 +543,6 @@ Great Learning - Python Fundamentals for Beginners <br>
 Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners
 <br>
 <br>
-Coursera - Python for Everybody Specialization <br>
-Website-https://www.coursera.org/specializations/python?action=enroll<br>
-<br>
 
 </details>
 
@@ -564,6 +563,12 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/python-matpl
 <br>
 GREAT LEARNING ACADEMY- Python Pandas<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/python-pandas<br>
+<br>
+Coursera - Python for Everybody Specialization <br>
+Website-https://www.coursera.org/specializations/python?action=enroll<br>
+<br>
+Coursera - Crash Course on Python<br>
+Website - https://www.coursera.org/learn/python-crash-course<br>
 <br>
 </details>
 
@@ -594,6 +599,17 @@ https://www.freecodecamp.org/learn/front-end-development-libraries/#sass
 Sololearn - Ruby<br>
 Website-https://www.sololearn.com/learning/1081<br>
 <br>
+Udemy - Complete Ruby Tutorial for Beginners<br>
+Website-https://www.udemy.com/course/ruby-tutorial-for-beginners/<br>
+<br>
+</details>
+
+<details>
+  <summary>Software Testing</summary>
+  <br>
+  Udemy - Test Automation using Selenium<br>
+  Website-https://www.udemy.com/course/getting-started-with-test-automation-using-selenium/<br>
+  <br>
 </details>
 
 <details>
@@ -692,6 +708,8 @@ website : https://www.freecodecamp.org/learn/front-end-development-libraries/
   
 </details>
 
+
+
 <details>
 <summary>Introduction to Computer Science</summary>
 <br>
@@ -708,6 +726,8 @@ edX- An introduction to the intellectual enterprises of computer science and the
 Website- https://www.edx.org/course/introduction-computer-science-harvardx-cs50x<br>
 <br>
 </details>
+
+
 <details>
 <summary>Front-end Development</summary>
 <br>
@@ -738,5 +758,15 @@ Website-https://elearning.iirs.gov.in/edusatregistration/student<br>
 </details>
 
 
+<details>
+<summary>Power BI for Beginners</summary>
+<br>
+SimpliLearn <br>
+Website-https://www.simplilearn.com/learn-power-bi-basics-free-course-skillup<br>
+<br>
+Power BI Basics free course takes you through desktop layouts, BI reports, dashboards, Power BI DAX commands, and functions. Power BI is a business analytics tool that helps analysts use interactive visualizations to create dashboards and reports. This free course will help you understand how to use Power BI tools to analyze data, create datasets, and more. 
+ <br>
+ 
+</details>
 
 

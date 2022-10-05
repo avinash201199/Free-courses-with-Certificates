@@ -183,6 +183,12 @@ const course_details = {
                     "course_description": "Alternative Applications of Blockchain Technology",
                     "link": "https://alison.com/course/alternative-applications-of-blockchain-technology?utm_source=bing&utm_medium=cpc&utm_campaign=436347242&utm_content=1360097681508043&utm_term=kwd-85007205781168:loc-90&msclkid=527e81fc576f1f5dde95e2c4d1a0f0b8",
                     "tags": "blockchain"
+                },
+                {
+                    "website_name": "CryptoZombies",
+                    "course_description": "Learn to Code Ethereum Dapps by Building Your Own Game",
+                    "link": "https://cryptozombies.io/",
+                    "tags": "blockchain"
                 }
             ]
         },
@@ -361,6 +367,12 @@ const course_details = {
                     "tags": "Front-end Development"
                 },
                 {
+                    "website_name": "Infyspringboard",
+                    "course_description": "ReactJS",
+                    "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_10648877150323546000_shared/overview",
+                    "tags": "Front-end Development, Virtual DOM, Isomorphic, Single Page Application, Props and state, Forms in React,"
+                },
+                {
                     "website_name": "CodeStudio",
                     "course_description": "Basics of Angular",
                     "link": "https://www.codingninjas.com/codestudio/guided-paths/basics-of-angular",
@@ -417,6 +429,36 @@ const course_details = {
                     "course_description": "Python Fundamentals for Beginners",
                     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners",
                     "tags": "python"
+                },
+                {
+                    "website_name": "COURSERA",
+                    "course_description": "Crash Course on Python",
+                    "link": "https://www.coursera.org/learn/python-crash-course",
+                    "tags": "python"
+                }, 
+            ]
+        },
+
+        {
+            "title": "Software Testing",
+            "course": [
+                {
+                    "website_name": "Udemy",
+                    "course_description": "Learn about software testing automation with Selenium IDE, Selenium WebDriver and Selenium Grid",
+                    "link": "https://www.udemy.com/course/getting-started-with-test-automation-using-selenium/",
+                    "tags": "software testing"
+                }
+                    
+            ]
+        },
+        {
+            "title": "Ruby",
+            "course": [
+                {
+                    "website_name": "Udemy",
+                    "course_description": "Complete Ruby Tutorial for Beginners",
+                    "link": "https://www.udemy.com/course/ruby-tutorial-for-beginners/",
+                    "tags": "ruby"
                 }
                     
             ]
