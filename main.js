@@ -367,6 +367,12 @@ const course_details = {
                     "tags": "Front-end Development"
                 },
                 {
+                    "website_name": "Infyspringboard",
+                    "course_description": "ReactJS",
+                    "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_10648877150323546000_shared/overview",
+                    "tags": "Front-end Development, Virtual DOM, Isomorphic, Single Page Application, Props and state, Forms in React,"
+                },
+                {
                     "website_name": "CodeStudio",
                     "course_description": "Basics of Angular",
                     "link": "https://www.codingninjas.com/codestudio/guided-paths/basics-of-angular",
