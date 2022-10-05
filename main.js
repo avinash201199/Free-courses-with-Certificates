@@ -213,7 +213,6 @@ const course_details = {
                     "link": "https://www.sololearn.com/learning/1051",
                     "tags": "C++"
                 },
-                "courses": [
                 {
                     "website_name": "Great Learning Academy",
                     "course_description": "Introduction to C++",
