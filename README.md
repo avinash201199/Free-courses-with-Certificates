@@ -540,6 +540,9 @@ Website-https://www.udemy.com/course/object-oriented-python-programming<br>
 Great Learning - Python Fundamentals for Beginners <br>
 Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners
 <br>
+Coursera - Crash Course on Python<br>
+Website - https://www.coursera.org/learn/python-crash-course
+<br>
 
 </details>
 
