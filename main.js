@@ -325,6 +325,12 @@ const course_details = {
                     "course_description": "Cloud Computing Architecture",
                     "link": "https://www.greatlearning.in/academy/learn-for-free/courses/cloud-computing-architecture",
                     "tags": "cloud-computing"
+                },
+                {
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Cloud Computing Service Models",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/cloud-computing-service-models",
+                    "tags": "cloud-computing"
                 }
             ]
         },
