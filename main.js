@@ -429,8 +429,13 @@ const course_details = {
                     "course_description": "Python Fundamentals for Beginners",
                     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners",
                     "tags": "python"
-                }
-                    
+                },
+                {
+                    "website_name": "COURSERA",
+                    "course_description": "Crash Course on Python",
+                    "link": "https://www.coursera.org/learn/python-crash-course",
+                    "tags": "python"
+                }, 
             ]
         },
             
