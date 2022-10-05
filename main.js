@@ -277,6 +277,12 @@ const course_details = {
                     "course_description": "Cloud Computing Architecture",
                     "link": "https://www.greatlearning.in/academy/learn-for-free/courses/cloud-computing-architecture",
                     "tags": "cloud-computing"
+                },
+                {
+                    "website_name": "Google Cloud Skills Boost",
+                    "course_description": "Google cloud platform for beginners to experts using qwiklabs ",
+                    "link": "https://www.cloudskillsboost.google/",
+                    "tags": "cloud-computing"
                 }
             ]
         },
@@ -324,6 +330,12 @@ const course_details = {
                     "website_name": "GREAT LEARNING ACADEMY",
                     "course_description": "Cloud Computing Architecture",
                     "link": "https://www.greatlearning.in/academy/learn-for-free/courses/cloud-computing-architecture",
+                    "tags": "cloud-computing"
+                },
+                {
+                    "website_name": "Google Cloud Skills Boost",
+                    "course_description": "Google cloud platform for beginners to experts using qwiklabs ",
+                    "link": "https://www.cloudskillsboost.google/",
                     "tags": "cloud-computing"
                 }
             ]

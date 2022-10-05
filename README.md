@@ -232,6 +232,10 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/google-clou
 GREAT LEARNING ACADEMY- Cloud Computing Architecture<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/cloud-computing-architecture<br>
 <br>
+<br>
+Google Cloud training by qwiklabs and google<br>
+Website-https://cloud.google.com/certification<br>
+<br>
 
 </details>
 
