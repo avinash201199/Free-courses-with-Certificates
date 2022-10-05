@@ -417,6 +417,12 @@ const course_details = {
                     "course_description": "Python Fundamentals for Beginners",
                     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners",
                     "tags": "python"
+                },
+                {
+                    "website_name": "Simplilearn",
+                    "course_description": "Programming with Python 3.X",
+                    "link": "https://www.simplilearn.com/free-python-programming-course-skillup",
+                    "tags": "python"
                 }
                     
             ]
