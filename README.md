@@ -4,7 +4,7 @@
 
 We all know that getting an internship or a job is challenging, and often these online courses do wonders in making our resume look good. Since unpaid courses are accessible to everyone, they help many people further their learning, learn new skills, and polish their existing skills. Academic knowledge might not be enough in today’s society. You need to show the world that you have experimented in your life and have enriching experiences. A lot of opportunities open up when you start getting involved in professional activities like training and courses.<br>
 <br>
-After many days of work, I have collected some free courses with certificates of different domains. You can enroll in any course of your choice and get the certificate to add it on your resume or on Linkedin.
+After many days of work, I have collected some free courses with certificates in different domains. You can enroll in any course of your choice and get the certificate to add it to your resume or Linkedin.
 <br>
 <br>
 
@@ -12,13 +12,13 @@ After many days of work, I have collected some free courses with certificates of
 
 You can contribute in many ways in this repository
 
-1. If you are beginner then you can contribute by improving the structure of the repository. <br>
+1. If you are beginner, then you can contribute by improving the structure of the repository. <br>
 2. Design the website for this repository with the content. <br>
-3. Add more free courses into the list below and in the main.js course_details list which are not present <br>
+3. Add more free courses into the list below and in the main.js course_details list which are not present. <br>
 
 Check [Contributing.md](https://github.com/avinash201199/Free-courses-with-Certificates/blob/main/CONTRIBUTING.md) file to get started
 
-#### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
+#### Note- Before contributing, please create an issue first so that I can assign you and you can start working on it.
 
 <br>
 <br>
