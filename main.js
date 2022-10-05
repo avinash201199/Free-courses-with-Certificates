@@ -183,6 +183,12 @@ const course_details = {
                     "course_description": "Alternative Applications of Blockchain Technology",
                     "link": "https://alison.com/course/alternative-applications-of-blockchain-technology?utm_source=bing&utm_medium=cpc&utm_campaign=436347242&utm_content=1360097681508043&utm_term=kwd-85007205781168:loc-90&msclkid=527e81fc576f1f5dde95e2c4d1a0f0b8",
                     "tags": "blockchain"
+                },
+                {
+                    "website_name": "CryptoZombies",
+                    "course_description": "Learn to Code Ethereum Dapps by Building Your Own Game",
+                    "link": "https://cryptozombies.io/",
+                    "tags": "blockchain"
                 }
             ]
         },
