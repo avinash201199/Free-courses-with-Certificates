@@ -227,6 +227,18 @@ const course_details = {
                 }
             ]
         },
+        
+        {
+            "title": "Project Management ",
+            "courses": [
+                {
+                    "website_name": "Coursera",
+                    "course_description": "Google Project Management: Professional Certificate",
+                    "link": "https://www.coursera.org/professional-certificates/google-project-management?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleProjectManagement-IN-GwGexp&utm_content=B2C&campaignid=12609838947&adgroupid=141717124969&device=c&keyword=project%20management%20coursera&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=610544439828&hide_mobile_promo&gclid=Cj0KCQjw1vSZBhDuARIsAKZlijTWzkTDI7BSkEIlZFazlqDJzplACBqXym35H3tZ_c4wYYpYji7eKoUaAq_tEALw_wcB",
+                    "tags": "Project Management"
+                }
+            ]
+        } ,     
         {
             "title": "C#",
             "courses": [
