@@ -751,6 +751,9 @@ Website- https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 <details>
 <summary>Front-end Development</summary>
 <br>
+Coursera-  Introduction to HTML5<br>
+Website- https://www.coursera.org/learn/html<br>
+<br>
 CodeStudio-  Fundamentals of HTML<br>
 Website- https://www.codingninjas.com/codestudio/guided-paths/fundamentals-of-html<br>
 <br>

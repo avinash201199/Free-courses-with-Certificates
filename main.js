@@ -361,6 +361,12 @@ const course_details = {
                     "tags": "Front-end Development"
                 },
                 {
+                    "website_name": "Coursera",
+                    "course_description": " Introduction to HTML5",
+                    "link": "https://www.coursera.org/learn/html",
+                    "tags": "Front-end Development"
+                },
+                {
                     "website_name": "CodeStudio",
                     "course_description": " Fundamentals of CSS",
                     "link": "https://www.codingninjas.com/codestudio/guided-paths/fundamentals-of-css",
