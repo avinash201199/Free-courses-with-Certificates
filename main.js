@@ -415,6 +415,7 @@ const course_details = {
                 }
             ]
         },
+	     
         {
             "title": "Machine Learning",
             "courses": [
@@ -426,7 +427,17 @@ const course_details = {
                 }
             ]
         },
-        
+        {
+            "title": "Python",
+            "courses": [
+                {
+                    "website_name": "edX",
+                    "course_description": "CS50's Introduction to Programming with Python",
+                    "link": "https://www.edx.org/",
+                    "tags": "Python"
+                },
+            ]
+        },
         {
             "title": "Python",
             "course": [
