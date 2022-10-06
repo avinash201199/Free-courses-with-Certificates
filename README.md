@@ -628,6 +628,10 @@ Website-https://www.udemy.com/course/ruby-tutorial-for-beginners/<br>
 Sololearn - SQL<br>
 Website-https://www.sololearn.com/learning/1060<br>
 <br>
+<br>
+Udemy - Advanced Databases and SQL Querying<br>
+Website-https://www.udemy.com/course/advanced-tsql-querying-using-sql-2014/<br>
+<br>
 </details>
 
 <details>
