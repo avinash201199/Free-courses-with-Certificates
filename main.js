@@ -516,6 +516,12 @@ const course_details = {
                     "course_description": "Java Training",
                     "link": "https://www.simplilearn.com/learn-java-basics-skillup?referrer=course-recommended",
                     "tags": "Java Training"
+                },
+                {
+                    "website_name": "Infosys Springboard",
+                    "course_description": "Java Programming Fundamentals",
+                    "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview",
+                    "tags": "Java"
                 }
             ]
         },
