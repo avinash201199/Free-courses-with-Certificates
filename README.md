@@ -172,7 +172,6 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginn
 <br>
 </details>
 
-
 <details>
 <summary>GitHub Tutorial</summary>
 <br> GitHub Tutorial for Beginners <br>
@@ -365,6 +364,24 @@ Sololearn - Go<br>
 Website-https://www.sololearn.com/learning/1164<br>
 <br> 
 </details>
+
+<details>
+<summary>Introduction to Programming with Python</summary>
+<br>About<br>
+
+edX <br>It is an American massive open online free certified course (MOOC) provider created by Harvard and MIT. It hosts online university-level courses in a wide range of disciplines to a worldwide student body, including some courses at no charge.
+
+This course, Introduction to Programming with Python is a introduction to programming using Python, a popular language for general-purpose programming, data science, web programming, and more.
+We can learn how to read and write code as well as how to test and "debug" it. The course is designed for students with or without prior programming experience who'd like to learn Python specifically. We can learn about functions, arguments, and return values, variables and types; conditionals and Boolean expressions; and loops. Learn how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files.
+ 
+ <br>Official Website- <br>
+https://www.edx.org/
+
+<br>Explanation on Youtube- <br>
+https://youtu.be/_MR2mXflc3c
+
+</details>
+
 
 <details>
 <summary>Java</summary>
