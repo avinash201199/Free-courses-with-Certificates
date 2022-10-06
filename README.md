@@ -196,6 +196,12 @@ Website- https://www.udacity.com/course/c-for-programmers--ud210 <br>
 Great Learning - Introduction to C++<br>
 Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-c
 <br>
+ 
+ <br>
+Introduction to C++ course<br>
+Website - https://www.simplilearn.com/free-course-to-learn-cpp-basics-skillup
+<br>
+ 
 </details>
 
 <details>
