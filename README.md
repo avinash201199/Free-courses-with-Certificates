@@ -207,6 +207,9 @@ Website- https://www.sololearn.com/learning/1080<br>
 W3schools- C#<br>
 Website- https://www.w3schools.com/cs/cs_exam.php<br>
 <br>
+Desenvolvedor IO- Iniciando com ASP.NET Core<br>
+Website- https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core<br>
+<br>
 </details>
 
 <details>
