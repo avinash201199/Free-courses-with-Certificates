@@ -91,9 +91,15 @@ const course_details = {
                     "course_description": "Introduction to Artificial Intelligence in Software Testing",
                     "link": "https://www.udemy.com/course/introduction-to-artificial-intelligence-in-software-testing",
                     "tags": "artificial-intelligence"
+                },
+                {
+                    "website_name": "skillup by simplilearn",
+                    "course_description": "Introduction to Artificial Intelligence Course",
+                    "link": "https://www.simplilearn.com/learn-ai-basics-skillup",
+                    "tags": "artificial-intelligence"
                 }
             ]
-        },
+        }, 
         {
             "title": "Augmented Reality",
             "courses": [
