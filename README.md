@@ -48,6 +48,11 @@ Website- https://www.udemy.com/course/become-an-android-developer-from-scratch/<
 Sololearn - Angular + NestJS<br>
 Website-https://www.sololearn.com/learning/1092<br>
 <br>
+
+<br>
+Great Learning - Angular7 for beginners<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/angular7-for-beginners<br>
+<br>
 </details>
 
 </details>
