@@ -224,7 +224,13 @@ const course_details = {
                     "course_description": "Introduction to C++",
                     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-c",
                     "tags": "C++"
-                }
+                },
+                {
+                    "website_name": "Udacity",
+                    "course_description": "C++ For Programmers (Learn features and constructs for C++)",
+                    "link": "https://www.udacity.com/course/c-for-programmers--ud210",
+                    "tags": "c++"
+                }  
             ]
         },
         {
