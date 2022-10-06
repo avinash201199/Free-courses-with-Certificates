@@ -183,6 +183,12 @@ const course_details = {
                     "course_description": "Alternative Applications of Blockchain Technology",
                     "link": "https://alison.com/course/alternative-applications-of-blockchain-technology?utm_source=bing&utm_medium=cpc&utm_campaign=436347242&utm_content=1360097681508043&utm_term=kwd-85007205781168:loc-90&msclkid=527e81fc576f1f5dde95e2c4d1a0f0b8",
                     "tags": "blockchain"
+                },
+                {
+                    "website_name": "CryptoZombies",
+                    "course_description": "Learn to Code Ethereum Dapps by Building Your Own Game",
+                    "link": "https://cryptozombies.io/",
+                    "tags": "blockchain"
                 }
             ]
         },
@@ -213,7 +219,6 @@ const course_details = {
                     "link": "https://www.sololearn.com/learning/1051",
                     "tags": "C++"
                 },
-                "courses": [
                 {
                     "website_name": "Great Learning Academy",
                     "course_description": "Introduction to C++",
@@ -229,6 +234,12 @@ const course_details = {
                     "website_name": "Sololearn",
                     "course_description": "C#",
                     "link": "https://www.sololearn.com/learning/1080",
+                    "tags": "C#"
+                },
+				{
+                    "website_name": "Desenvolvedor IO",
+                    "course_description": "Iniciando com ASP.NET Core",
+                    "link": "https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core",
                     "tags": "C#"
                 }
             ]
@@ -332,10 +343,15 @@ const course_details = {
                     "link": "https://www.greatlearning.in/academy/learn-for-free/courses/cloud-computing-architecture",
                     "tags": "cloud-computing"
                 },
-                {
+                
                     "website_name": "Google Cloud Skills Boost",
                     "course_description": "Google cloud platform for beginners to experts using qwiklabs ",
                     "link": "https://www.cloudskillsboost.google/",
+
+                    "website_name": "GREAT LEARNING ACADEMY",
+                    "course_description": "Cloud Computing Service Models",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/cloud-computing-service-models",
+
                     "tags": "cloud-computing"
                 }
             ]
@@ -366,6 +382,12 @@ const course_details = {
                     "course_description": "Basics of React",
                     "link": "https://www.codingninjas.com/codestudio/guided-paths/basics-of-react",
                     "tags": "Front-end Development"
+                },
+                {
+                    "website_name": "Infyspringboard",
+                    "course_description": "ReactJS",
+                    "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_10648877150323546000_shared/overview",
+                    "tags": "Front-end Development, Virtual DOM, Isomorphic, Single Page Application, Props and state, Forms in React,"
                 },
                 {
                     "website_name": "CodeStudio",
@@ -424,16 +446,119 @@ const course_details = {
                     "course_description": "Python Fundamentals for Beginners",
                     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners",
                     "tags": "python"
+                },
+                {
+                    "website_name": "COURSERA",
+                    "course_description": "Crash Course on Python",
+                    "link": "https://www.coursera.org/learn/python-crash-course",
+                    "tags": "python"
+                }, 
+            ]
+        },
+
+        {
+            "title": "Software Testing",
+            "course": [
+                {
+                    "website_name": "Udemy",
+                    "course_description": "Learn about software testing automation with Selenium IDE, Selenium WebDriver and Selenium Grid",
+                    "link": "https://www.udemy.com/course/getting-started-with-test-automation-using-selenium/",
+                    "tags": "software testing"
                 }
                     
             ]
-        }
+        },
+        {
+            "title": "Ruby",
+            "course": [
+                {
+                    "website_name": "Udemy",
+                    "course_description": "Complete Ruby Tutorial for Beginners",
+                    "link": "https://www.udemy.com/course/ruby-tutorial-for-beginners/",
+                    "tags": "ruby"
+                }
+                    
+            ]
+        },
+            
+ {
+            "title": "Numpy",
+            "courses": [
+                {
+                    "website_name": "Simplilearn",
+                    "course_description": "Introduction about numpy",
+                    "link": "https://lms.simplilearn.com/courses/4266/Introduction-to-Numpy/syllabus",
+                    "tags": "Introduction to numpy"
+                }
+            ]
+        },
+ {
+            "title": "Software Development",
+            "courses": [
+                {
+                    "website_name": "Simplilearn",
+                    "course_description": "Understanding JVM and the Implications of Sandbox Model",
+                    "link": "https://www.simplilearn.com/jvm-and-the-implications-of-sandbox-model-rar41-article",
+                    "tags": "Understanding JVM and the Implications of Sandbox Model"
+                }
+            ]
+        },   
+   {
+            "title": " Cyber Security",
+            "courses": [
+                {
+                    "website_name": "Simplilearn",
+                    "course_description": "Introduction to Cyber Security",
+                    "link": "https://www.simplilearn.com/learn-cyber-security-basics-skillup?referrer=course-recommended",
+                    "tags": "Introduction to Cyber Security"
+                }
+            ]
+        },    
+     {
+            "title": " Software Development ",
+            "courses": [
+                {
+                    "website_name": "Simplilearn",
+                    "course_description": "Free Online Course to Learn Web Scraping in Python",
+                    "link": "https://www.simplilearn.com/learn-basics-of-web-scraping-in-python-free-course-skillup?referrer=course-recommended",
+                    "tags": "Web Scraping in Python"
+                }
+            ]
+        },    
+  {
+            "title": "Software Development",
+            "courses": [
+                {
+                    "website_name": "Simplilearn",
+                    "course_description": "Java Training",
+                    "link": "https://www.simplilearn.com/learn-java-basics-skillup?referrer=course-recommended",
+                    "tags": "Java Training"
+                },
+                {
+                    "website_name": "Infosys Springboard",
+                    "course_description": "Java Programming Fundamentals",
+                    "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview",
+                    "tags": "Java"
+                }
+            ]
+        },
+   {
+            "title": "Data Science & Business Analytics ",
+            "courses": [
+                {
+                    "website_name": "Simplilearn",
+                    "course_description": "Introduction to Data Analytics Course",
+                    "link": "https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup",
+                    "tags": "Introduction to Data Analytics Course"
+                }
+            ]
+        }            
     ]
 
 }
 
 let technologyTemplate = ``;
-course_details.technology.forEach((tech, index) => {
+course_details.technology.forEach(tech, index) => {
     const technologyTitle = tech.title;
     let courseTemplate = ``
     tech.courses.forEach(course => {

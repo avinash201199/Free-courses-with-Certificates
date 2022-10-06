@@ -4,7 +4,7 @@
 
 We all know that getting an internship or a job is challenging, and often these online courses do wonders in making our resume look good. Since unpaid courses are accessible to everyone, they help many people further their learning, learn new skills, and polish their existing skills. Academic knowledge might not be enough in today’s society. You need to show the world that you have experimented in your life and have enriching experiences. A lot of opportunities open up when you start getting involved in professional activities like training and courses.<br>
 <br>
-After many days of work, I have collected some free courses with certificates of different domains. You can enroll in any course of your choice and get the certificate to add it on your resume or on Linkedin.
+After many days of work, I have collected some free courses with certificates in different domains. You can enroll in any course of your choice and get the certificate to add it to your resume or Linkedin.
 <br>
 <br>
 
@@ -12,13 +12,13 @@ After many days of work, I have collected some free courses with certificates of
 
 You can contribute in many ways in this repository
 
-1. If you are beginner then you can contribute by improving the structure of the repository. <br>
+1. If you are beginner, then you can contribute by improving the structure of the repository. <br>
 2. Design the website for this repository with the content. <br>
-3. Add more free courses into the list below and in the main.js course_details list which are not present <br>
+3. Add more free courses into the list below and in the main.js course_details list which are not present. <br>
 
 Check [Contributing.md](https://github.com/avinash201199/Free-courses-with-Certificates/blob/main/CONTRIBUTING.md) file to get started
 
-#### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
+#### Note- Before contributing, please create an issue first so that I can assign you and you can start working on it.
 
 <br>
 <br>
@@ -157,6 +157,8 @@ PLURALSIGHT - Blockchain-Principles and Practices<br>
 Website : https://www.pluralsight.com/courses/blockchain-principles-practices?clickid=w3vydT2oUxyIWE2wQIVNPydYUkBXHI1YZ05ezo0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius<br><br>
 UDEMY - Free Blockchain Courses and Tutorials<br>
 Website : https://www.udemy.com/topic/blockchain/free/<br>
+CryptoZombies - Build DApps By Building Simple Games<br>
+Website : https://cryptozombies.io/<br>
 </details>
 
 <details>
@@ -204,6 +206,9 @@ Website- https://www.sololearn.com/learning/1080<br>
 <br>
 W3schools- C#<br>
 Website- https://www.w3schools.com/cs/cs_exam.php<br>
+<br>
+Desenvolvedor IO- Iniciando com ASP.NET Core<br>
+Website- https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core<br>
 <br>
 </details>
 
@@ -386,6 +391,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/java-program
 upGrad- Core Java Basics<br>
 Website-https://learn.upgrad.com/course/1373<br>
 <br>
+Infosys SpringBoard- Java Programming<br>
+Website-https://infyspringboard.onwingspan.com/web/en/login?ref=%2Fapp%2Ftoc%2Flex_29959473947367270000_shared%2Foverview<br>
+<br>
 </details>
 
 <details>
@@ -544,6 +552,7 @@ Website-https://www.udemy.com/course/object-oriented-python-programming<br>
 Great Learning - Python Fundamentals for Beginners <br>
 Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners
 <br>
+<br>
 
 </details>
 
@@ -565,6 +574,12 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/python-matpl
 GREAT LEARNING ACADEMY- Python Pandas<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/python-pandas<br>
 <br>
+Coursera - Python for Everybody Specialization <br>
+Website-https://www.coursera.org/specializations/python?action=enroll<br>
+<br>
+Coursera - Crash Course on Python<br>
+Website - https://www.coursera.org/learn/python-crash-course<br>
+<br>
 </details>
 
 <details>
@@ -585,6 +600,10 @@ Free Code Camp offers certifcations for react:
 https://www.freecodecamp.org/learn/front-end-development-libraries/#sass
 <br>
 <br>
+Infosys SpringBoard - ReactJS
+Website - https://infyspringboard.onwingspan.com/web/en/login?ref=%2Fapp%2Ftoc%2Flex_10648877150323546000_shared%2Foverview
+<br>
+<br>
 
 </details>
 
@@ -594,6 +613,17 @@ https://www.freecodecamp.org/learn/front-end-development-libraries/#sass
 Sololearn - Ruby<br>
 Website-https://www.sololearn.com/learning/1081<br>
 <br>
+Udemy - Complete Ruby Tutorial for Beginners<br>
+Website-https://www.udemy.com/course/ruby-tutorial-for-beginners/<br>
+<br>
+</details>
+
+<details>
+  <summary>Software Testing</summary>
+  <br>
+  Udemy - Test Automation using Selenium<br>
+  Website-https://www.udemy.com/course/getting-started-with-test-automation-using-selenium/<br>
+  <br>
 </details>
 
 <details>
@@ -692,6 +722,8 @@ website : https://www.freecodecamp.org/learn/front-end-development-libraries/
   
 </details>
 
+
+
 <details>
 <summary>Introduction to Computer Science</summary>
 <br>
@@ -708,6 +740,8 @@ edX- An introduction to the intellectual enterprises of computer science and the
 Website- https://www.edx.org/course/introduction-computer-science-harvardx-cs50x<br>
 <br>
 </details>
+
+
 <details>
 <summary>Front-end Development</summary>
 <br>
@@ -736,3 +770,17 @@ Website-https://elearning.iirs.gov.in/edusatregistration/student<br>
 <br>
 
 </details>
+
+
+<details>
+<summary>Power BI for Beginners</summary>
+<br>
+SimpliLearn <br>
+Website-https://www.simplilearn.com/learn-power-bi-basics-free-course-skillup<br>
+<br>
+Power BI Basics free course takes you through desktop layouts, BI reports, dashboards, Power BI DAX commands, and functions. Power BI is a business analytics tool that helps analysts use interactive visualizations to create dashboards and reports. This free course will help you understand how to use Power BI tools to analyze data, create datasets, and more. 
+ <br>
+ 
+</details>
+
+
