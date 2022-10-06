@@ -236,6 +236,12 @@ const course_details = {
                     "course_description": "Introduction to C++",
                     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-c",
                     "tags": "C++"
+                },
+                {
+                    "website_name": "Skillup",
+                    "course_description": "Learn Advanced C++ Course Online",
+                    "link": "https://www.simplilearn.com/advanced-c-plus-plus-course-skillup",
+                    "tags": "C++"
                 }
             ]
         },
