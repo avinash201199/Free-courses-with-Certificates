@@ -545,8 +545,6 @@ Website-https://www.udemy.com/course/object-oriented-python-programming<br>
 Great Learning - Python Fundamentals for Beginners <br>
 Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners
 <br>
-Coursera - Crash Course on Python<br>
-Website - https://www.coursera.org/learn/python-crash-course
 <br>
 
 </details>
@@ -568,6 +566,12 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/python-matpl
 <br>
 GREAT LEARNING ACADEMY- Python Pandas<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/python-pandas<br>
+<br>
+Coursera - Python for Everybody Specialization <br>
+Website-https://www.coursera.org/specializations/python?action=enroll<br>
+<br>
+Coursera - Crash Course on Python<br>
+Website - https://www.coursera.org/learn/python-crash-course<br>
 <br>
 </details>
 
@@ -760,6 +764,7 @@ Website-https://elearning.iirs.gov.in/edusatregistration/student<br>
 
 </details>
 
+
 <details>
 <summary>Power BI for Beginners</summary>
 <br>
@@ -770,4 +775,5 @@ Power BI Basics free course takes you through desktop layouts, BI reports, dashb
  <br>
  
 </details>
+
 
