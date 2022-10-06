@@ -235,6 +235,12 @@ const course_details = {
                     "course_description": "C#",
                     "link": "https://www.sololearn.com/learning/1080",
                     "tags": "C#"
+                },
+				{
+                    "website_name": "Desenvolvedor IO",
+                    "course_description": "Iniciando com ASP.NET Core",
+                    "link": "https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core",
+                    "tags": "C#"
                 }
             ]
         },
