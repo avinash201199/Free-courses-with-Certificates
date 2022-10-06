@@ -235,12 +235,6 @@ const course_details = {
                     "course_description": "C#",
                     "link": "https://www.sololearn.com/learning/1080",
                     "tags": "C#"
-                },
-				{
-                    "website_name": "Desenvolvedor IO",
-                    "course_description": "Iniciando com ASP.NET Core",
-                    "link": "https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core",
-                    "tags": "C#"
                 }
             ]
         },
@@ -541,7 +535,94 @@ const course_details = {
                     "tags": "Introduction to Data Analytics Course"
                 }
             ]
-        }            
+  } 
+        
+        {
+            "title": "Data Science",
+            "courses": [
+                {
+                    "website_name": "Coursera",
+                    "course_description": "Data Science Fundamentals with Python and SQL Specialization",
+                    "link": "https://www.coursera.org/specializations/data-science-fundamentals-python-sql",
+                    "tags": "Data Science Fundamentals with Python and SQL Specialization"
+                },
+      {
+            "title": " Software Development ",
+            "courses": [
+                {
+                    "website_name": "Coursera",
+                    "course_description": "Programming for Everybody (Getting Started with Python)",
+                    "link": "https://www.coursera.org/learn/python",
+                    "tags": "Programming for Everybody (Getting Started with Python)"
+                }
+            ]
+        },
+      {
+            "title": " Support and Operations ",
+            "courses": [
+                {
+                    "website_name": "Coursera",
+                    "course_description": "Google IT Automation with Python Professional Certificate",
+                    "link": "https://www.coursera.org/professional-certificates/google-it-automation",
+                    "tags": "Google IT Automation with Python Professional Certificate"
+                }
+            ]
+        },
+     {
+            "title": " Finance ",
+            "courses": [
+                {
+                    "website_name": "Coursera",
+                    "course_description": "Introduction to Portfolio Construction and Analysis with Python",
+                    "link": "https://www.coursera.org/learn/introduction-portfolio-construction-python",
+                    "tags": "Introduction to Portfolio Construction and Analysis with Python"
+                }
+            ]
+        }, 
+     {
+            "title": "Mobile and Web Development",
+            "courses": [
+                {
+                    "website_name": "Coursera",
+                    "course_description": "Web Design for Everybody: Basics of Web Development & Coding Specialization",
+                    "link": "https://www.coursera.org/specializations/web-design",
+                    "tags": "Web Design for Everybody: Basics of Web Development & Coding Specialization"
+                }
+            ]
+        }, 
+      {
+            "title": "Cloud Computing",
+            "courses": [
+                {
+                    "website_name": "Coursera",
+                    "course_description": "Introduction to Web Development with HTML, CSS, JavaScript",
+                    "link": "https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript",
+                    "tags": "Introduction to Web Development with HTML, CSS, JavaScript"
+                }
+            ]
+        }, 
+      {
+            "title": "Cloud Computing",
+            "courses": [
+                {
+                    "website_name": "Coursera",
+                    "course_description": "Cybersecurity in the Cloud Specialization",
+                    "link": "https://www.coursera.org/specializations/cybersecurity-cloud",
+                    "tags": "Cybersecurity in the Cloud Specialization"
+                }
+            ]
+        }, 
+      {
+            "title": "Mechanical Engineering",
+            "courses": [
+                {
+                    "website_name": "Coursera",
+                    "course_description": "Modern Robotics, Course 1: Foundations of Robot Motion",
+                    "link": "https://www.coursera.org/learn/modernrobotics-course1",
+                    "tags": "Modern Robotics, Course 1: Foundations of Robot Motion"
+                }
+            ]
+        }      
     ]
 
 }
