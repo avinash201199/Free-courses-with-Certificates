@@ -17,9 +17,15 @@ const course_details = {
                 },
                 {
                     "website_name": "Udemy",
-                    "course_description": "Essential Non Technical Skills of Effective Data Scientists",
-                    "lnk": "https://www.udemy.com/share/104fI23@HXPESfaal6TkxBGwZVO4s8bsVUcn2pCEvhFwpop5i0kIQeGdP4BlxQn6kiJdDGm_6w==/",
+                    "course_description": "Essential Non Technical Skills of Data Scientists",
+                    "link": "https://www.udemy.com/share/104fI23@HXPESfaal6TkxBGwZVO4s8bsVUcn2pCEvhFwpop5i0kIQeGdP4BlxQn6kiJdDGm_6w==/",
                     "tags": "Data Scientists, Begineers"
+                },
+               {
+                    "website_name": Educba",
+                    "course_description": "Learn  Android App Development from Scratch",
+                    "link": "https://www.educba.com/software-development/courses/free-android-app-development-course/",
+                    "tags": "Begineers,scratch,Android"
                 }
 
                 ]
