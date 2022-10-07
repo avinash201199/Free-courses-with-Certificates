@@ -163,7 +163,10 @@ Website : https://www.pluralsight.com/courses/blockchain-principles-practices?cl
 UDEMY - Free Blockchain Courses and Tutorials<br>
 Website : https://www.udemy.com/topic/blockchain/free/<br>
 CryptoZombies - Build DApps By Building Simple Games<br>
-Website : https://cryptozombies.io/<br>
+Website : https://cryptozombies.io/ <br>
+ <br>
+LEARNWEB3.IO - Become a Web3 Developer <br>
+Website : https://learnweb3.io/dashboard <br>
 </details>
 
 <details>
