@@ -167,6 +167,9 @@ Website : https://cryptozombies.io/ <br>
  <br>
 LEARNWEB3.IO - Become a Web3 Developer <br>
 Website : https://learnweb3.io/dashboard <br>
+<br>
+Bitdegree - Learn Solidity with Space Doggo <br>
+Website : https://www.bitdegree.org/course/learn-solidity-space-doggos <br>
 </details>
 
 <details>
