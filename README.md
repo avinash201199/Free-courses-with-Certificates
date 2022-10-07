@@ -614,6 +614,10 @@ Infosys SpringBoard - ReactJS
 Website - https://infyspringboard.onwingspan.com/web/en/login?ref=%2Fapp%2Ftoc%2Flex_10648877150323546000_shared%2Foverview
 <br>
 <br>
+React the complete guide including Redux with certificate - Udemy
+Website - https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+<br>
+<br>
 
 </details>
 
