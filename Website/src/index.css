@@ -1,0 +1,21 @@
+:root {
+  background-color: #F6F6FA;
+}
+
+* {
+  font-family: 'Roboto Condensed';
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button, button:active {
+  background: none;
+  cursor: auto;
+  border: none;
+  outline: none;
+}
+
+ul, ol, li {
+  padding: 0;
+}
