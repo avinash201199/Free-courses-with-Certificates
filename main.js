@@ -22,7 +22,7 @@ const course_details = {
                     "tags": "Data Scientists, Begineers"
                 },
                {
-                    "website_name": Educba",
+                    "website_name": "Educba",
                     "course_description": "Learn  Android App Development from Scratch",
                     "link": "https://www.educba.com/software-development/courses/free-android-app-development-course/",
                     "tags": "Begineers,scratch,Android"
