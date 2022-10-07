@@ -447,8 +447,11 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutori
 <details>
 <summary>Machine Learning</summary>
 <br>
-Sololearn - Machine Learning<br>
+Google Developer Club -Machine Learning Crash Course<br>
 Website-https://www.sololearn.com/learning/1094<br>
+<br>
+Sololearn - Machine Learning<br>
+Website-https://developers.google.com/machine-learning/crash-course<br>
 <br>
 GREAT LEARNING ACADEMY- Basics of Machine Learning<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-machine-learning-1<br>

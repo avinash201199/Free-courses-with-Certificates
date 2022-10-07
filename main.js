@@ -435,6 +435,12 @@ const course_details = {
                     "course_description": "ML Zoomcamp",
                     "link": "https://airtable.com/shryxwLd0COOEaqXo",
                     "tags": "machine-learning"
+                },
+                {
+                    "website_name": "Google Developers",
+                    "course_description": "Machine Learning Crash Course",
+                    "link": "https://developers.google.com/machine-learning/crash-course",
+                    "tags": "machine-learning"
                 }
             ]
         },
