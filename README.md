@@ -463,6 +463,11 @@ Website- https://airtable.com/shryxwLd0COOEaqXo<br>
 <br>
 KAGGLE- Introduction to machine learning plus other machine learning courses<br>
 Website- https://www.kaggle.com/learn/intro-to-machine-learning<br>
+<br>
+<br>
+Coursera - Machine Learning Specialization <br>
+Website - https://www.coursera.org/specializations/machine-learning-introduction
+<br>
 </details>
 
 <details>
