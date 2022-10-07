@@ -553,8 +553,66 @@ const course_details = {
                     "tags": "Introduction to Data Analytics Course"
                 }
             ]
-        }            
+        }, 
+	    
+	    {
+            "title": "Graphic design",
+            "courses": [
+                {
+                    "website_name": "Coursera",
+                    "course_description": "Fundamentals of Graphic Design",
+                    "link": "https://www.coursera.org/learn/fundamentals-of-graphic-design",
+                    "tags": "Fundamentals of Graphic Design"
+                }
+            ]
+        },
+           {
+            "title": "Machine Learning",
+            "courses": [
+                {
+                    "website_name": "Coursera",
+                    "course_description": "Computational Neuroscience",
+                    "link": "https://www.coursera.org/learn/computational-neuroscience",
+                    "tags": "Computational Neuroscience"
+                }
+            ]
+        },
+	    {
+            "title": "Personal Development",
+            "courses": [
+                {
+                    "website_name": "Coursera",
+                    "course_description": "Developing Interpersonal Skills",
+                    "link": "https://www.coursera.org/learn/interpersonal-skills",
+                    "tags": "Developing Interpersonal Skills"
+                }
+            ]
+        },
+	    {
+            "title": "Math and Logic",
+            "courses": [
+                {
+                    "website_name": "Coursera",
+                    "course_description": "Algebra and Differential Calculus for Data Science",
+                    "link": "https://www.coursera.org/learn/algebra-and-differential-calculus-for-data-science",
+                    "tags": "Algebra and Differential Calculus for Data Science"
+                }
+            ]
+        },
+	    {
+            "title": "Psychology",
+            "courses": [
+                {
+                    "website_name": "Coursera",
+                    "course_description": "Introduction to Psychology",
+                    "link": "https://www.coursera.org/learn/introduction-psychology",
+                    "tags": "Introduction to Psychology"
+                }
+            ]
+        },
+	    
     ]
+	
 
 }
 
