@@ -430,7 +430,15 @@ const course_details = {
                     "course_description": "ML Zoomcamp",
                     "link": "https://airtable.com/shryxwLd0COOEaqXo",
                     "tags": "machine-learning"
-                }
+                },
+		{
+		    "website_name": "Coursera",
+		    "course_description": "Machine Learning Specialization",
+                    "link": "https://www.coursera.org/specializations/machine-learning-introduction",
+                    "tags": "machine-learning, artificial-intelligence, machine-learning-specialization."
+			    
+		 },
+		
             ]
         },
         
