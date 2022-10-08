@@ -696,7 +696,13 @@
                     "name": "DataTalksClub: ML Zoomcamp",
                     "source": "Airtable",
                     "link": "https://airtable.com/shryxwLd0COOEaqXo"
-                }
+                },
+                {
+                    "icon": "fal fa-desktop",
+		            "name": "Machine Learning Specialization",
+		            "source": "Coursera",
+                    "link": "https://www.coursera.org/specializations/machine-learning-introduction",
+                },
             ]
         },
         {
