@@ -265,6 +265,9 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/google-clou
 GREAT LEARNING ACADEMY- Cloud Computing Architecture<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/cloud-computing-architecture<br>
 <br>
+Careers360- Cloud Computing<br>
+Website-https://www.careers360.com/university/indian-institute-of-technology-kharagpur/cloud-computing-certification-course<br>
+<br>
 
 </details>
 
@@ -283,6 +286,7 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/advanced-cy
 GREAT LEARNING ACADEMY- Ethical Hacking - Mobile Platforms and Network Architecture<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/ethical-hacking-mobile-platforms-and-network-architecture<br>
 <br>
+
 </details>
 
 <details>
