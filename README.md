@@ -681,6 +681,11 @@ Website-https://www.sololearn.com/learning/1060<br>
 Udemy - Advanced Databases and SQL Querying<br>
 Website-https://www.udemy.com/course/advanced-tsql-querying-using-sql-2014/<br>
 <br>
+<br>
+cognitiveclass.ai - SQL and Relational Databases 101
+<br>
+Website- https://courses.cognitiveclass.ai/courses/course-v1:BDU+DB0101EN+v1/course/ <br>
+<br>
 </details>
 
 <details>
