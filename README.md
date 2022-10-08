@@ -565,6 +565,10 @@ Website-https://www.udemy.com/course/object-oriented-python-programming<br>
 Great Learning - Python Fundamentals for Beginners <br>
 Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners
 <br>
+ <br>
+edX - CS50's Introduction to Programming with Python <br>
+Website -https://www.edx.org/
+<br>
 <br>
 
 </details>
