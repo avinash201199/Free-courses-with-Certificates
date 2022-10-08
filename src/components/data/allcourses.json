@@ -1131,6 +1131,17 @@
                     "link": "https://elearning.iirs.gov.in/edusatregistration/student"
                 }
             ]
+        },
+        {
+            "title": "Jenkins",
+            "cards": [
+                {
+                    "icon": "fa-brands fa-jenkins",
+                    "name": "Certified Jenkins Engineer",
+                    "source": "Cloudbees University",
+                    "link": "https://www.cloudbees.com/jenkins/certification"
+                }
+            ]
         }
     ]
 }
