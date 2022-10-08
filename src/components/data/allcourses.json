@@ -724,6 +724,12 @@
                     "name": "MySQL course",
                     "source": "Geek University",
                     "link": "https://geek-university.com/course/mysql-course/"
+                },
+                {
+                    "icon": "fas fa-table",
+                    "name": "MySQL basic course",
+                    "source": "Great Learning",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics"
                 }
             ]
         },
