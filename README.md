@@ -79,7 +79,11 @@ UDEMY: Introduction to Artificial Intelligence in Software Testing<br>
  
 <br>
 </details>
-
+<details> 
+<summary>AutoCAD 2D and 3D practice drawings</summary><br>
+About: A collection of AutoCAD practice drawings and projects<br>
+Link: https://www.udemy.com/course/autocad-2d-and-3d-practice-drawings/ <br>
+</details>
 <details>
 <summary>Big Data</summary>
 <br>
