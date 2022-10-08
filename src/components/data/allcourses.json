@@ -724,6 +724,12 @@
                     "name": "MySQL course",
                     "source": "Geek University",
                     "link": "https://geek-university.com/course/mysql-course/"
+                },
+                {
+                    "icon": "fas fa-table",
+                    "name": "Learn SQL Basics for Data Science",
+                    "source": "Coursera",
+                    "link": "https://www.coursera.org/specializations/learn-sql-basics-data-science"
                 }
             ]
         },
