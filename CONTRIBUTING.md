@@ -10,11 +10,7 @@ You can contribute in many ways
 - Add description about the course with the link in the readme.
 - Make pull request and wait for review.
 
-2. By Desgining the website for this repository so that it can be helpful for more students
 
- - To design the website you can use HTML, CSS and JavaScript or anything you could suggest better then raise the issue.
-
-3. If you are beginner then you can contribute by improving the structure or the layout or any mistakes in the repository.
 
 #### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
 
@@ -53,4 +49,11 @@ In case if your course Technology does not exist feel free to add it along with 
         }
     ]
 },
+
+
+2. By Desgining the website for this repository so that it can be helpful for more students
+
+ - To design the website you can use HTML, CSS and JavaScript or anything you could suggest better then raise the issue.
+
+3. If you are beginner then you can contribute by improving the structure or the layout or any mistakes in the repository.
 ```
