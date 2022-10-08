@@ -11,9 +11,6 @@ You can contribute in many ways
 - Make pull request and wait for review.
 
 
-
-#### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
-
 ## Steps to add new Courses
 
 - Head to src/components/data/allcourse.json
@@ -56,3 +53,5 @@ In case if your course Technology does not exist feel free to add it along with 
  - To design the website you can use HTML, CSS and JavaScript or anything you could suggest better then raise the issue.
 
 3. If you are beginner then you can contribute by improving the structure or the layout or any mistakes in the repository.
+
+#### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
