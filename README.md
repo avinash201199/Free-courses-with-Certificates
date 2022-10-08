@@ -284,7 +284,11 @@ GREAT LEARNING ACADEMY- Ethical Hacking - Mobile Platforms and Network Architect
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/ethical-hacking-mobile-platforms-and-network-architecture<br>
 <br>
 </details>
+<details>
+<summary>Cisco CCNA online course</summary>
+<br>Link: https://geek-university.com/cisco-ccna-online-course/  <br>
 
+</details>
 <details>
 <summary>Data Science</summary>
 <br>
