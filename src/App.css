@@ -208,11 +208,11 @@ nav {
 }
 
 .card-icon {
-    transform: scale(1.7);
+    transform: scale(1.2);
 }
 
 .card-icon>* {
-    font-size: 1rem;
+    font-size: 0.8rem;
     display: flex;
     flex-direction: row;
     justify-content: center;
