@@ -813,7 +813,6 @@ Website-https://www.codingninjas.com/codestudio/guided-paths/basics-of-angular<b
 INDIAN INSITUTE OF REMOTE SENSING <br>
 Website-https://elearning.iirs.gov.in/edusatregistration/student<br>
 <br>
-
 </details>
 
 
@@ -825,7 +824,19 @@ Website-https://www.simplilearn.com/learn-power-bi-basics-free-course-skillup<br
 <br>
 Power BI Basics free course takes you through desktop layouts, BI reports, dashboards, Power BI DAX commands, and functions. Power BI is a business analytics tool that helps analysts use interactive visualizations to create dashboards and reports. This free course will help you understand how to use Power BI tools to analyze data, create datasets, and more. 
  <br>
- 
 </details>
 
+<details>
+<summary>Digital Marketing</summary>
+<br>
+Great Learning - Introduction to Digital Marketing<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-digital-marketing<br>
+<br>
+Great learning - Statistics for Machine Learning<br>
+Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/statistics-for-machine-learning<br>
+<br>
+simplilearn - Business Intelligence Fundamentals<br>
+Website-https://www.simplilearn.com/free-business-intelligence-course-online-skillup <br>
+<br>
+</details>
 
