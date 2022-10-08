@@ -69,6 +69,14 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visu
 </details>
 
 <details>
+<summary> Become an Ethical Hacker</summary>
+<br>
+Great Learning- Become an Ethical Hacker <br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/become-an-ethical-hacker<br>
+<br>
+</details>
+
+<details>
 <summary>Artificial intelligence</summary>
 <br>
 GREAT LEARNING ACADEMY- Introduction to Deep Learning<br>
