@@ -932,6 +932,12 @@
                     "name": "far fa-table",
                     "source": "Sololearn",
                     "link": "https://www.sololearn.com/learning/1060"
+                },
+                {
+                    "icon": "fa-solid fa-table-cells",
+                    "name": "SQL and Relational Databases 101",
+                    "source": "cognitiveclass.ai",
+                    "link": "https://courses.cognitiveclass.ai/courses/course-v1:BDU+DB0101EN+v1/course/"
                 }
             ]
         },
