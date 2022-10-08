@@ -7,7 +7,7 @@ You can contribute in many ways
 - Star this repository.
 - Create an issue.
 - Then fork this repository.
-- Add description about the course with the link in the readme.
+- Add description about the course with the link in the readme as well as in src/components/data/allcourse.json
 - Make pull request and wait for review.
 
 
