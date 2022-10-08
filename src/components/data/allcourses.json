@@ -325,6 +325,12 @@
                     "name": "Cloud Computing Architecture",
                     "source": "Great Learning Academy",
                     "link": "https://www.greatlearning.in/academy/learn-for-free/courses/cloud-computing-architecture"
+                },
+                {
+                    "icon": "fal fa-cloud-download",
+                    "name": "Cloud Computing",
+                    "source": "Careers360",
+                    "link": "https://www.careers360.com/university/indian-institute-of-technology-kharagpur/cloud-computing-certification-course"
                 }
             ]
         },
