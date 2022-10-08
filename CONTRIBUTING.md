@@ -1,4 +1,4 @@
-### How to contibute in this repository 
+## How to contibute in this repository 
 
 You can contribute in many ways 
 
@@ -17,3 +17,40 @@ You can contribute in many ways
 3. If you are beginner then you can contribute by improving the structure or the layout or any mistakes in the repository.
 
 #### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
+
+## Steps to add new Courses
+
+- Head to src/components/data/allcourse.json
+- To add a course, check if the title for your course Technology is present
+- If so then just add the course data to cards of the Technology.
+- For example, the title "Angular" is already present, you can add a card data to it.
+- You can copy paste the icon value.
+- Make sure to get a unique value for course name, source and provide a link to the course.
+
+```json
+{
+    "cards": [
+        {
+            "icon": "fab fa-angular",
+            "name": "Angular + NestJS",
+            "source": "Sololearn",
+            "link": "https://www.sololearn.com/learning/1092"
+        }
+    ]
+},
+```
+
+In case if your course Technology does not exist feel free to add it along with the title, example:
+```json
+{
+    "title": "New Course Title",
+    "cards": [
+        {
+            "icon": "Get this value from fontawesome.com (Make sure to add classes only)",
+            "name": "New Course",
+            "source": "New Course Source",
+            "link": "New Course Link"
+        }
+    ]
+},
+```
