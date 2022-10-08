@@ -502,6 +502,12 @@
                     "source": "Learnbay",
                     "link": "https://course.learnbay.co/dsa"
                 }
+                {
+                    "icon": "fab fa-algolia",
+                    "name": "Data Structures and Algorithms for Interview Preparation",
+                    "source": "upGrad",
+                    "link": "https://www.upgrad.com/us/free-courses/"
+                }
             ]
         },
         {
