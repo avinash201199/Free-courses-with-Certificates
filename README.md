@@ -43,6 +43,14 @@ Website- https://www.udemy.com/course/become-an-android-developer-from-scratch/<
 </details>
 
 <details>
+<summary>My SQL Basics</summary>
+<br>
+Great Learning - My SQL Basics<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics
+<br>
+</details>
+
+<details>
 <summary>Angular</summary>
 <br>
 Sololearn - Angular + NestJS<br>
