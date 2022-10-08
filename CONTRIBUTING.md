@@ -13,6 +13,7 @@ You can contribute in many ways
 
 ## Steps to add new Courses
 
+- Add new course in readme with order.
 - Head to src/components/data/allcourse.json
 - To add a course, check if the title for your course Technology is present
 - If so then just add the course data to cards of the Technology.
