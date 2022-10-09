@@ -39,6 +39,17 @@
                 }
             ]
         },
+        {"title":"Digital marketing",
+        "cards":[
+            {"icon":"fa-regular fa-bullhorn",
+            "name":"The Fundamentals of Digital Marketing",
+            "source":"Google Digital Garage",
+            "link":"https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing"
+
+            }
+        ]
+
+        },
         {
             "title": "Artificial intelligence",
             "cards": [
@@ -513,7 +524,7 @@
                     "name": "Data Structures and Algorithms for Tech",
                     "source": "Learnbay",
                     "link": "https://course.learnbay.co/dsa"
-                }
+                },
                  {
                     "icon": "fab fa-algolia",
                     "name": "Data Structures and Algorithms for Interview Preparation",

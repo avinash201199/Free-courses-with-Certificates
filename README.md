@@ -67,7 +67,14 @@ Coursera- Data Visualization using Tableau <br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-using-tableau?career_path_id=2<br>
 <br>
 </details>
-
+<details>
+<summary> Digital Marketing</summary>
+<br>The Fundamentals of Digital Marketing<br>
+Website-https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing<br>
+<br>
+Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, packed full of practical exercises and real-world examples to help you turn knowledge into action.
+<br>
+</details>
 <details>
 <summary> Become an Ethical Hacker</summary>
 <br>
