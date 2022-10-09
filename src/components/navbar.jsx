@@ -2,6 +2,10 @@ import React, { useState } from "react";
 import "../App.css";
 
 export default function navbar(props) {
+  const handleSearchInput = (e) => {
+    props.setQuery(e.target.value);
+  };
+
   return (
     <nav>
       <div className="menu-nav-bar">
@@ -17,12 +21,12 @@ export default function navbar(props) {
           type="text"
           className="search-bar-input"
           id="search"
-          onChange={(e) => props.setQuery(e.target.value)}
+          onChange={handleSearchInput}
         />
         <button type="submit" className="search-bar-submit">
           <label className="search-bar-placeholder" htmlFor="search">
             {" "}
-            Search...
+            Search..
           </label>
         </button>
       </div>

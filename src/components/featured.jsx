@@ -23,8 +23,8 @@ const Data = featuredData.data.map((data) => {
   );
 });
 
-export default function featured() {
-  return (
+export default function featured(props) {
+  return !props.query ? (
     <div className="featured">
       <div
         className="featured-title featured-title-resp"
@@ -38,5 +38,7 @@ export default function featured() {
         </div>
       </div>
     </div>
+  ) : (
+    <></>
   );
 }
