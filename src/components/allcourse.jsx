@@ -10,7 +10,7 @@ const Data = courses.data.map((data) => {
                         <div className='col-lg-4 featured-card' style={{width: "100%"}}>
                             <div className="card-icon-title">
                                 <div className="card-icon">
-                                    <i class={card.icon}></i>
+                                    <i className={card.icon}></i>
                                 </div>
                                 <div className="card-title"><b>{card.name}</b></div>
                             </div>
