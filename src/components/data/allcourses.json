@@ -279,6 +279,12 @@
                     "source": "W3schools",
                     "link": "https://www.w3schools.com/cs/cs_exam.php"
                 }
+                 {
+                    "icon": "fa-solid fa-c",
+                    "name": "C#",
+                    "source": "Tutorialspoint",
+                    "link": "https://www.tutorialspoint.com/index.htm"
+                }
             ]
         },
         {
