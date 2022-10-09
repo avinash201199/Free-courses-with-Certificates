@@ -847,5 +847,15 @@ Power BI Basics free course takes you through desktop layouts, BI reports, dashb
  <br>
  
 </details>
+<details>
+<summary>C# for desktop Apps</summary>
+<br>
+SimpliLearn <br>
+Website-https://www.tutorialspoint.com/index.htm<br>
+<br>
+C# free course takes you through desktop apps. C# allows you to create dashboards and reports. This free course will help you understand how to use C# for desktop apps. 
+ <br>
+ 
+</details>
 
 
