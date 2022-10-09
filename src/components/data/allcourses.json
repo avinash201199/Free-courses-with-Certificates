@@ -1173,5 +1173,29 @@
                 }
             ]
         }
+
+          {
+            "title": "Digital marketing",
+            "cards": [
+                {
+                    "icon": "fa-solid fa-database",
+                    "name": "Introduction to Digital Marketing",
+                    "source": "My greatlearning",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-digital-marketing"
+                },
+                {
+                    "icon": "fa-solid fa-database",
+                    "name": "Statistics for Machine Learning",
+                    "source": "Great Learning Academy",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/statistics-for-machine-learning"
+                },
+                {
+                    "icon": "fab fa-digital marketing",
+                    "name": "Business Intelligence Fundamentals",
+                    "source": "simplilearn",
+                    "link": "https://www.simplilearn.com/free-business-intelligence-course-online-skillup"
+                }
+            ]
+        },
     ]
 }
