@@ -174,6 +174,12 @@
                     "name": "Amazon Web Services (AWS)",
                     "source": "AWS Skillbuilder",
                     "link": "https://explore.skillbuilder.aws/learn"
+                },
+                {
+                    "icon": "fab fa-aws",
+                    "name": "AWS Cloud Quest",
+                    "source": "AWS Skillbuilder",
+                    "link": "https://aws.amazon.com/training/digital/aws-cloud-quest"
                 }
             ]
         },
@@ -377,6 +383,12 @@
                     "name": "Become an Ethical Hacker",
                     "source": "Great Learning Academy",
                     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/become-an-ethical-hacker"
+                },
+                {
+                    "icon": "far fa-shield-alt",
+                    "name": "Information Security",
+                    "source": "FreeCodeCamp",
+                    "link": "https://www.freecodecamp.org/learn/information-security/"
                 }
             ]
         },
@@ -555,6 +567,12 @@
             "cards": [
                 {
                     "icon": "fab fa-github-alt",
+                    "name": "GitHub Skills",
+                    "source": "GitHub",
+                    "link": "https://skills.github.com/"
+                },
+                {
+                    "icon": "fab fa-github-alt",
                     "name": "GitHub Tutorial for Beginners",
                     "source": "Great Learning Academy",
                     "link": "https://www.greatlearning.in/academy/learn-for-free/courses/github-tutorial-for-beginners"
@@ -572,15 +590,9 @@
                 },
                 {
                     "icon": "fa-brands fa-golang",
-                    "name": "Getting Started with Go",
-                    "source": "Coursera",
-                    "link": "https://www.coursera.org/learn/golang-getting-started?irclickid=XG715uwppxyNRNtT6ryOjXyTUkDQMl2kO3uA3A0&irgwc=1"
-                },
-                {
-                    "icon": "fa-brands fa-golang",
-                    "name": "Concurrency in Go",
-                    "source": "Coursera",
-                    "link": "https://www.coursera.org/learn/golang-concurrency?irclickid=XG715uwppxyNRNtT6ryOjXyTUkDQMn3MO3uA3A0&irgwc=1"
+                    "name": "GO Programming Language",
+                    "source": "Great Learning Academy",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/go-programming-language"
                 }
             ]
 
@@ -924,6 +936,12 @@
                     "name": "Python Pandas",
                     "source": "Great Learning Academy",
                     "link": "https://www.greatlearning.in/academy/learn-for-free/courses/python-pandas"
+                },
+                {
+                    "icon": "fab fa-python",
+                    "name": "Introduction to Flask",
+                    "source": "Udemy",
+                    "link": "https://www.udemy.com/course/introduction-to-flask/"
                 }
             ]
         },
