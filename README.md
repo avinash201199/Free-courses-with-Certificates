@@ -204,8 +204,8 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginn
 
 <details>
 <summary>GitHub Tutorial</summary>
-<br> GitHub Tutorial for Beginners <br>
-Website-(https://github.com/)<br>
+<br>GitHub Tutorial for Beginners <br>
+Website-https://skills.github.com/<br>
 <br>
 GREAT LEARNING ACADEMY- GitHub Tutorial for Beginners<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1<br>
@@ -300,6 +300,10 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/advanced-cy
 <br>
 GREAT LEARNING ACADEMY- Ethical Hacking - Mobile Platforms and Network Architecture<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/ethical-hacking-mobile-platforms-and-network-architecture<br>
+<br>
+Information Security<br>
+Website-https://www.freecodecamp.org/learn/information-security/<br>
+<br>
 <br>
 
 </details>
@@ -413,7 +417,10 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/github-tutor
 <br>
 Sololearn - Go<br>
 Website-https://www.sololearn.com/learning/1164<br>
-<br> 
+ <br>
+GO Programming Language<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/go-programming-language<br> 
+ <br>
 </details>
 
 <details>

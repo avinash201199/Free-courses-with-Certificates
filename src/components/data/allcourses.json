@@ -377,6 +377,12 @@
                     "name": "Become an Ethical Hacker",
                     "source": "Great Learning Academy",
                     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/become-an-ethical-hacker"
+                },
+                {
+                    "icon": "far fa-shield-alt",
+                    "name": "Information Security",
+                    "source": "FreeCodeCamp",
+                    "link": "https://www.freecodecamp.org/learn/information-security/"
                 }
             ]
         },
@@ -555,6 +561,12 @@
             "cards": [
                 {
                     "icon": "fab fa-github-alt",
+                    "name": "GitHub Skills",
+                    "source": "GitHub",
+                    "link": "https://skills.github.com/"
+                },
+                {
+                    "icon": "fab fa-github-alt",
                     "name": "GitHub Tutorial for Beginners",
                     "source": "Great Learning Academy",
                     "link": "https://www.greatlearning.in/academy/learn-for-free/courses/github-tutorial-for-beginners"
@@ -569,7 +581,13 @@
                     "name": "Go",
                     "source": "Sololearn",
                     "link": "https://www.sololearn.com/learning/1164"
-                }
+                },
+                {
+                    "icon": "fa-brands fa-golang",
+                    "name": "GO Programming Language",
+                    "source": "Great Learning Academy",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/go-programming-language"
+                },
             ]
         },
         {
