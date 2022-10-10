@@ -2,12 +2,12 @@ import React, { useEffect, useState } from "react";
 import Collapsible from "react-collapsible";
 import courses from "../components/data/allcourses.json";
 
-export default function allcourse(props) {
+export default function allcourse({query}) {
   const [data, setData] = useState(courses.data);
 
   useEffect(() => {
-    if (props.query) {
-      const re = new RegExp(props.query, "i");
+    if (query) {
+      const re = new RegExp(query, "i");
       setData(
         data
           .map((d) => ({
@@ -19,12 +19,15 @@ export default function allcourse(props) {
     } else {
       setData(courses.data);
     }
-  }, [props.query]);
+  }, [query]);
 
   return (
     <div className="allcourse">
-      <div className="featured-title">
-        {!props.query ? "All Courses" : `Search results for '${props.query}'`}
+      <div
+        className="featured-title"
+        style={{ marginTop: !query ? 0 : "120px" }}
+      >
+        {!query ? "All Courses" : `Search results for '${query}'`}
       </div>
       <div className="maxwidthcards">
         {data.map((data, dataIndex) => {

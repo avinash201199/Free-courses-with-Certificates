@@ -3,7 +3,10 @@ import "../App.css";
 
 export default function navbar(props) {
   const handleSearchInput = (e) => {
-    props.setQuery(e.target.value);
+    props.setQuery("");
+    setTimeout(() => {
+      props.setQuery(e.target.value);
+    }, 0);
   };
 
   return (
