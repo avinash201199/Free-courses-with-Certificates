@@ -935,6 +935,12 @@
                     "name": "Python Pandas",
                     "source": "Great Learning Academy",
                     "link": "https://www.greatlearning.in/academy/learn-for-free/courses/python-pandas"
+                },
+                {
+                    "icon": "fab fa-python",
+                    "name": "Introduction to Flask",
+                    "source": "Udemy",
+                    "link": "https://www.udemy.com/course/introduction-to-flask/"
                 }
             ]
         },
