@@ -593,6 +593,12 @@
                     "name": "GO Programming Language",
                     "source": "Great Learning Academy",
                     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/go-programming-language"
+                },
+                {
+                    "icon": "fa-brands fa-golang",
+                    "name": "GO",
+                    "source": "exercism",
+                    "link": "https://exercism.org/tracks/go"
                 }
             ]
 
