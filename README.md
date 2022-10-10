@@ -250,6 +250,9 @@ Website- https://www.sololearn.com/learning/1080<br>
 W3schools- C#<br>
 Website- https://www.w3schools.com/cs/cs_exam.php<br>
 <br>
+Udemy - C#<br>
+Website- https://www.udemy.com/course/basics-of-object-oriented-programming-with-csharp/<br>
+<br>
 Desenvolvedor IO- Iniciando com ASP.NET Core<br>
 Website- https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core<br>
 <br>
