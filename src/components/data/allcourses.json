@@ -569,8 +569,21 @@
                     "name": "Go",
                     "source": "Sololearn",
                     "link": "https://www.sololearn.com/learning/1164"
+                },
+                {
+                    "icon": "fa-brands fa-golang",
+                    "name": "Getting Started with Go",
+                    "source": "Coursera",
+                    "link": "https://www.coursera.org/learn/golang-getting-started?irclickid=XG715uwppxyNRNtT6ryOjXyTUkDQMl2kO3uA3A0&irgwc=1"
+                },
+                {
+                    "icon": "fa-brands fa-golang",
+                    "name": "Concurrency in Go",
+                    "source": "Coursera",
+                    "link": "https://www.coursera.org/learn/golang-concurrency?irclickid=XG715uwppxyNRNtT6ryOjXyTUkDQMn3MO3uA3A0&irgwc=1"
                 }
             ]
+
         },
         {
             "title": "Java",
@@ -665,7 +678,7 @@
                     "icon": "fab fa-linux",
                     "name": "Free Linux course",
                     "source": "Geek University",
-                    "link": "https://geek-university.com/course/free-linux-course/"        
+                    "link": "https://geek-university.com/course/free-linux-course/"
                 },
                 {
                     "icon": "fab fa-linux",

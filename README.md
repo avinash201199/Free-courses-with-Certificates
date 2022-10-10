@@ -109,7 +109,7 @@ Future Learn-Digital Skills: Artificial Intelligence<br>
  <br>
 UDEMY: Introduction to Artificial Intelligence in Software Testing<br>
  Website- https://www.udemy.com/course/introduction-to-artificial-intelligence-in-software-testing<br>
- 
+
 <br>
 </details>
 
@@ -233,12 +233,12 @@ Website- https://www.udacity.com/course/c-for-programmers--ud210 <br>
 Great Learning - Introduction to C++<br>
 Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-c
 <br>
- 
+
  <br>
 Introduction to C++ course<br>
 Website - https://www.simplilearn.com/free-course-to-learn-cpp-basics-skillup
 <br>
- 
+
 </details>
 
 <details>
@@ -318,16 +318,16 @@ Website-https://cognitiveclass.ai/courses/data-science-101<br>
 <br>
 cognitiveclass.ai- Data Science Methodology<br>
 Website-https://cognitiveclass.ai/courses/data-science-methodology-2<br>
-<br> 
+<br>
 cognitiveclass.ai- Data Science Tools<br>
 Website-https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2<br>
-<br> 
+<br>
 GREAT LEARNING ACADEMY- Data Science Foundations<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/data-science-foundations<br>
-<br> 
+<br>
 GREAT LEARNING ACADEMY- Basics of Exploratory Data Analysis<br>
 Website-https://olympus.greatlearning.in/courses/13687<br>
-<br> 
+<br>
 GREAT LEARNING ACADEMY- Probability for Data Science<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/probability-for-data-science<br>
 <br>
@@ -345,19 +345,19 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/data-visuali
 <br>
 GREAT LEARNING ACADEMY- COVID-19 Outbreak Prediction<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/covid-19-outbreak-prediction<br>
-<br> 
+<br>
 GREAT LEARNING ACADEMY- Data Mining<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/data-mining1<br>
 <br>
 GREAT LEARNING ACADEMY- Kaggle Competition<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/kaggle-competition-for-beginners1<br>
-<br> 
+<br>
 GREAT LEARNING ACADEMY- Credit Card Fraud Detection<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/credit-card-fraud-detection<br>
 <br>
 DATACAMP- Class Central <br>
 Website-https://www.classcentral.com/course/datacamp-intro-to-python-for-data-science-7631<br>
-<br> 
+<br>
 Check more courses related to Data Science on Great Learning Academy<br>
 Website-https://www.greatlearning.in/academy#our-courses
 <br>
@@ -405,7 +405,7 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-best-
 <br>
 GREAT LEARNING ACADEMY- GitHub Tutorial for Beginners<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/github-tutorial-for-beginners<br>
-<br> 
+<br>
 </details>
 
 <details>
@@ -413,7 +413,15 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/github-tutor
 <br>
 Sololearn - Go<br>
 Website-https://www.sololearn.com/learning/1164<br>
-<br> 
+<br>
+<br>
+Getting Started with Go<br>
+Website-https://www.coursera.org/learn/golang-getting-started?irclickid=XG715uwppxyNRNtT6ryOjXyTUkDQMl2kO3uA3A0&irgwc=1<br>
+<br>
+<br>
+Concurrency in Go<br>
+Website-https://www.coursera.org/learn/golang-concurrency?irclickid=XG715uwppxyNRNtT6ryOjXyTUkDQMn3MO3uA3A0&irgwc=1<br>
+<br>
 </details>
 
 <details>
@@ -458,7 +466,7 @@ Website : https://www.freecodecamp.org/learn/javascript-algorithms-and-data-stru
 <br>
 Sololearn - jQuery<br>
 Website-https://www.sololearn.com/learning/1082<br>
-<br> 
+<br>
 </details>
 
 <details>
@@ -788,7 +796,7 @@ Front end developement libraries : React
 <br>
 website : https://www.freecodecamp.org/learn/front-end-development-libraries/
 <br>
-  
+
 </details>
 
 
@@ -801,11 +809,11 @@ Website-https://www.edx.org/course/introduction-computer-science-harvardx-cs50x<
 <br>
 edX- An introduction to the intellectual enterprises of computer science and the art of programming.<br>
  This is CS50x , Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. The on-campus version of CS50x , CS50, is Harvard's largest course.
- 
+
  Students who earn a satisfactory score on 9 problem sets (i.e., programming assignments) and a final project are eligible for a certificate. This is a self-paced course–you may take CS50x on your own schedule.
- 
+
  If you have any questions or concerns, please contact harvardx@harvard.edu and/or report your experience through the edX contact form.
- 
+
 Website- https://www.edx.org/course/introduction-computer-science-harvardx-cs50x<br>
 <br>
 </details>
@@ -849,7 +857,7 @@ Website-https://elearning.iirs.gov.in/edusatregistration/student<br>
 SimpliLearn <br>
 Website-https://www.simplilearn.com/learn-power-bi-basics-free-course-skillup<br>
 <br>
-Power BI Basics free course takes you through desktop layouts, BI reports, dashboards, Power BI DAX commands, and functions. Power BI is a business analytics tool that helps analysts use interactive visualizations to create dashboards and reports. This free course will help you understand how to use Power BI tools to analyze data, create datasets, and more. 
+Power BI Basics free course takes you through desktop layouts, BI reports, dashboards, Power BI DAX commands, and functions. Power BI is a business analytics tool that helps analysts use interactive visualizations to create dashboards and reports. This free course will help you understand how to use Power BI tools to analyze data, create datasets, and more.
  <br>
 </details>
 
@@ -866,4 +874,3 @@ simplilearn - Business Intelligence Fundamentals<br>
 Website-https://www.simplilearn.com/free-business-intelligence-course-online-skillup <br>
 <br>
 </details>
-
