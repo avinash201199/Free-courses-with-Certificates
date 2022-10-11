@@ -1131,6 +1131,17 @@
                     "link": "https://elearning.iirs.gov.in/edusatregistration/student"
                 }
             ]
+        },
+        {
+            "title": "Digital Marketing",
+            "cards": [
+                {
+                    "icon": "far fa-shield-alt",
+                    "name": "Digital Transformation",
+                    "source": "mygreatLearning",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/digital-transformation"
+                }
+            ]
         }
     ]
 }
