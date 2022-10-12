@@ -162,11 +162,16 @@ PLURALSIGHT - Blockchain-Principles and Practices<br>
 Website : https://www.pluralsight.com/courses/blockchain-principles-practices?clickid=w3vydT2oUxyIWE2wQIVNPydYUkBXHI1YZ05ezo0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius<br><br>
 UDEMY - Free Blockchain Courses and Tutorials<br>
 Website : https://www.udemy.com/topic/blockchain/free/<br>
+<br>
 CryptoZombies - Build DApps By Building Simple Games<br>
 Website : https://cryptozombies.io/ <br>
  <br>
 LEARNWEB3.IO - Become a Web3 Developer <br>
 Website : https://learnweb3.io/dashboard <br>
+<br>
+BUILDSPACE - Home to the world's best web3 builders. <br>
+Website : https://buildspace.so/p <br>
+<br>
 </details>
 
 <details>
