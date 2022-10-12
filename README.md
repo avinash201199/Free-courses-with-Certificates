@@ -582,6 +582,9 @@ Website-https://www.simplilearn.com/learn-php-basics-free-course-skillup <br>
 <details>
 <summary>Python</summary>
 <br>
+Sololearn - Python for Beginners<br>
+website- https://www.sololearn.com/learning/1172<br>
+<br>
 Sololearn - Intermediate Python<br>
 website-https://www.sololearn.com/learning/1158<br>
 <br>
