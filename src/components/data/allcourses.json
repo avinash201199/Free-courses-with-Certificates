@@ -348,6 +348,13 @@
                     "name": "Cloud Computing",
                     "source": "Careers360",
                     "link": "https://www.careers360.com/university/indian-institute-of-technology-kharagpur/cloud-computing-certification-course"
+                },
+                {
+                    "icon": "fa-solid fa-cloud-arrow-down",
+                    "name": "Google Cloud Skills Boost",
+                    "source": "Qwiklabs",
+                    "link": "https://www.cloudskillsboost.google/"
+                    
                 }
             ]
         },

@@ -286,6 +286,10 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/cloud-comput
 Careers360- Cloud Computing<br>
 Website-https://www.careers360.com/university/indian-institute-of-technology-kharagpur/cloud-computing-certification-course<br>
 <br>
+<br>
+Google Cloud training by qwiklabs and google<br>
+Website-https://cloud.google.com/certification<br>
+<br>
 
 </details>
 
