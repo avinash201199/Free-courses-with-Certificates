@@ -2,17 +2,18 @@ import React, { useEffect, useState } from "react";
 import Collapsible from "react-collapsible";
 import courses from "../components/data/allcourses.json";
 
-export default function allcourse({query}) {
+export default function allcourse({ query }) {
   const [data, setData] = useState(courses.data);
 
   useEffect(() => {
     if (query) {
-      const re = new RegExp(query, "i");
+      query = query.toLowerCase();
+
       setData(
         data
           .map((d) => ({
             title: d.title,
-            cards: d.cards.filter((c) => re.test(c.name)),
+            cards: d.cards.filter((c) => c.name.toLowerCase().includes(query)),
           }))
           .filter((d) => d.cards.length > 0)
       );
