@@ -901,4 +901,7 @@ Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/statisti
 simplilearn - Business Intelligence Fundamentals<br>
 Website-https://www.simplilearn.com/free-business-intelligence-course-online-skillup <br>
 <br>
+Best Practices of Social Media Marketing<br>
+Website-https://www.learnmall.in/play/become-a-social-media-manager-part-1/ <br>
+<br>
 </details>
