@@ -904,4 +904,9 @@ Website-https://www.simplilearn.com/free-business-intelligence-course-online-ski
 Best Practices of Social Media Marketing<br>
 Website-https://www.learnmall.in/play/become-a-social-media-manager-part-1/ <br>
 <br>
+<br>
+Python Core<br>
+Website-https://www.sololearn.com/learning/1073 <br>
+<br>
 </details>
+
