@@ -914,3 +914,10 @@ Best Practices of Social Media Marketing<br>
 Website-https://www.learnmall.in/play/become-a-social-media-manager-part-1/ <br>
 <br>
 </details>
+<details>
+<summary> Ingressive for good + Zuri Training </summary>
+<br>
+Zuri Board - A basic introduction to software development and product design aimed at complete beginners, which anyone can join<br>
+Website - https://training.zuri.team/<br>
+<br>
+</details>
