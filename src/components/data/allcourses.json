@@ -421,6 +421,12 @@
                 },
                 {
                     "icon": "fa-solid fa-asterisk",
+                    "name": "Python Core",
+                    "source": "Sololearn",
+                    "link": "https://www.sololearn.com/learning/1073"
+                },
+                {
+                    "icon": "fa-solid fa-asterisk",
                     "name": "Introduction to Python(Data Science) ",
                     "source": "Analytic Vidhya",
                     "link": "https://courses.analyticsvidhya.com/pages/all-free-courses/"
