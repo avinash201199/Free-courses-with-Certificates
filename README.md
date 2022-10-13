@@ -573,6 +573,15 @@ Website : https://digitaldefynd.com/best-nodejs-courses-class-certification-onli
 </details>
 
 <details>
+<summary>NextJs</summary>
+<br>
+Udemy<br>
+Website- https://www.udemy.com/course/next-js-react-hooks/?ranMID=39197&ranEAID=0F1O0otUXQc&ranSiteID=0F1O0otUXQc-UipnOymbIoN6ty0eHde58Q&LSNPUBID=0F1O0otUXQc&utm_source=aff-campaign&utm_medium=udemyads<br>
+<br>
+</details>
+
+
+<details>
 <summary>PHP</summary>
 <br>
 Sololearn - PHP<br>
