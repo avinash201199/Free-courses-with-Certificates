@@ -1277,3 +1277,14 @@
         },
     ]
 }
+{
+    "title": "Ingressive for Good Boot camp",
+    "cards": [
+        {
+            "icon": "Gain knowledge to help you scale through the tech industry for free.",
+            "name": "Software Development and Product Design",
+            "source": "Zuri Board",
+            "link": "https://training.zuri.team/"
+        }
+    ]
+},
