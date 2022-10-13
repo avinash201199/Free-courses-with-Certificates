@@ -7,14 +7,14 @@ You can contribute in many ways
 - Star this repository.
 - Create an issue.
 - Then fork this repository.
-- Add description about the course with the link in the readme as well as in src/components/data/allcourse.json
+- Add description about the course with the link in the [readme](https://github.com/avinash201199/Free-courses-with-Certificates/blob/main/README.md) as well as in [src/components/data/allcourse.json](https://github.com/avinash201199/Free-courses-with-Certificates/blob/main/src/components/data/allcourses.json)
 - Make pull request and wait for review.
 
 
 ## Steps to add new Courses
 
 - Add new course in readme with order.
-- Head to src/components/data/allcourse.json
+- Head to [src/components/data/allcourse.json](https://github.com/avinash201199/Free-courses-with-Certificates/blob/main/src/components/data/allcourses.json)
 - To add a course, check if the title for your course Technology is present
 - If so then just add the course data to cards of the Technology.
 - For example, the title "Angular" is already present, you can add a card data to it.
