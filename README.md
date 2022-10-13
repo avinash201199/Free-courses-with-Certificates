@@ -56,6 +56,11 @@ Website-https://www.sololearn.com/learning/1092<br>
 Great Learning - Angular7 for beginners<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/angular7-for-beginners<br>
 <br>
+ 
+<br>
+Great Learning - AWS for beginners<br>
+Website-https://www.edureka.co/free-course/learn-aws-basics-online<br>
+<br>
 </details>
 
 </details>
