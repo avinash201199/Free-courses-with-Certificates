@@ -764,6 +764,12 @@ Website-https://www.linkedin.com/learning/introduction-to-graphic-design-3/<br>
 Linkedin-A FULL PATHWAY TO BECOME A GRAPHIC DESIGNER<br>
 Website-https://opportunity.linkedin.com/skills-for-in-demand-jobs/graphic-designer?trk=li-jobsindemand-graphic-en<br>
  <br>
+Future Learn-Digital Skills: User Experience<br>
+Website-https://www.futurelearn.com/courses/digital-skills-user-experience<br>
+ <br>
+UI/UX Design for Beginners<br>
+Website-https://www.udemy.com/course/uxui-design-for-beginners/<br>
+ <br>
  Future Learn-Digital Skills: User Experience<br>
  Website-https://www.futurelearn.com/courses/digital-skills-user-experience<br>
  <br>
