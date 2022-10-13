@@ -5,7 +5,7 @@ export default function titleTop() {
         <div className="title-nav">
             <span className="material-symbols-outlined">code</span>
             Free Courses with Certificates
-            <span class="material-symbols-outlined">code_off</span>
+            <span className="material-symbols-outlined">code_off</span>
         </div>
     )
 }

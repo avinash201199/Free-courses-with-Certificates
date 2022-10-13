@@ -29,6 +29,17 @@
             ]
         },
         {
+            "title": "AWS",
+            "cards": [
+                {
+                    "icon": "fa-solid fa-brain",
+                    "name": "FREE AWS Beginners Course",
+                    "source": "Edureka",
+                    "link": "https://www.edureka.co/free-course/learn-aws-basics-online"
+                }
+            ]
+        },
+        {
             "title": "Data Visualization",
             "cards": [
                 {
@@ -827,6 +838,18 @@
                     "source": "DigitalDefynd",
                     "link": "https://digitaldefynd.com/best-nodejs-courses-class-certification-online/"
                 }
+            ]
+        },
+         {
+            "title": "NextJs",
+            "cards": [
+                {
+                    "icon": "fa-brands fa-square-js",
+                    "name": "NextJs course",
+                    "source": "Udemy",
+                    "link": "https://coursesity.com/course-detail/next-js-with-react-hooks-building-ssr-react-applications"
+                },
+               
             ]
         },
         {

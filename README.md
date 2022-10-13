@@ -56,6 +56,11 @@ Website-https://www.sololearn.com/learning/1092<br>
 Great Learning - Angular7 for beginners<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/angular7-for-beginners<br>
 <br>
+ 
+<br>
+Great Learning - AWS for beginners<br>
+Website-https://www.edureka.co/free-course/learn-aws-basics-online<br>
+<br>
 </details>
 
 </details>
@@ -591,6 +596,15 @@ Website- https://progate.com/courses/nodejs<br>
 </details>
 
 <details>
+<summary>NextJs</summary>
+<br>
+Udemy<br>
+Website- https://www.udemy.com/course/next-js-react-hooks/?ranMID=39197&ranEAID=0F1O0otUXQc&ranSiteID=0F1O0otUXQc-UipnOymbIoN6ty0eHde58Q&LSNPUBID=0F1O0otUXQc&utm_source=aff-campaign&utm_medium=udemyads<br>
+<br>
+</details>
+
+
+<details>
 <summary>PHP</summary>
 <br>
 Sololearn - PHP<br>
@@ -782,6 +796,12 @@ Website-https://www.linkedin.com/learning/introduction-to-graphic-design-3/<br>
 Linkedin-A FULL PATHWAY TO BECOME A GRAPHIC DESIGNER<br>
 Website-https://opportunity.linkedin.com/skills-for-in-demand-jobs/graphic-designer?trk=li-jobsindemand-graphic-en<br>
  <br>
+Future Learn-Digital Skills: User Experience<br>
+Website-https://www.futurelearn.com/courses/digital-skills-user-experience<br>
+ <br>
+UI/UX Design for Beginners<br>
+Website-https://www.udemy.com/course/uxui-design-for-beginners/<br>
+ <br>
  Future Learn-Digital Skills: User Experience<br>
  Website-https://www.futurelearn.com/courses/digital-skills-user-experience<br>
  <br>
@@ -907,5 +927,8 @@ Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/statisti
 <br>
 simplilearn - Business Intelligence Fundamentals<br>
 Website-https://www.simplilearn.com/free-business-intelligence-course-online-skillup <br>
+<br>
+Best Practices of Social Media Marketing<br>
+Website-https://www.learnmall.in/play/become-a-social-media-manager-part-1/ <br>
 <br>
 </details>
