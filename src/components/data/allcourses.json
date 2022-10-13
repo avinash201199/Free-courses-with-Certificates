@@ -29,6 +29,17 @@
             ]
         },
         {
+            "title": "AWS Skill Builder Course For Cloud Practitioners Quest",
+            "cards": [
+                {
+                    "icon": "fa-solid fa-brain",
+                    "name": "AWS",
+                    "source": "AWS-Skill-Builder Quest",
+                    "link": "https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner"
+                }
+            ]
+        },
+        {
             "title": "Data Visualization",
             "cards": [
                 {
