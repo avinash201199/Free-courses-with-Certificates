@@ -114,6 +114,9 @@ Future Learn-Digital Skills: Artificial Intelligence<br>
  <br>
 UDEMY: Introduction to Artificial Intelligence in Software Testing<br>
  Website- https://www.udemy.com/course/introduction-to-artificial-intelligence-in-software-testing<br>
+ <br>
+Python Core<br>
+Website-https://www.sololearn.com/learning/1073 <br>
 
 <br>
 </details>
@@ -914,3 +917,4 @@ Best Practices of Social Media Marketing<br>
 Website-https://www.learnmall.in/play/become-a-social-media-manager-part-1/ <br>
 <br>
 </details>
+
