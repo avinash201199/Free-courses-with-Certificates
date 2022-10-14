@@ -79,6 +79,10 @@ Website-https://learndigital.withgoogle.com/digitalgarage/course/digital-marketi
 <br>
 Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, packed full of practical exercises and real-world examples to help you turn knowledge into action.
 <br>
+<br>
+Great Learning Academy- Introduction to Digital Marketing<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-digital-marketing<br>
+<br>
 </details>
 <details>
 <summary> Become an Ethical Hacker</summary>

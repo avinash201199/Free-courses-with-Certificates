@@ -57,6 +57,12 @@
             "source":"Google Digital Garage",
             "link":"https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing"
 
+            },
+            {
+                "icon": "fa-regular fa-bullhorn",
+                "name": "Introduction to Digital Marketing",
+                "source": "Great Learning Academy",
+                "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-digital-marketing"
             }
         ]
 
