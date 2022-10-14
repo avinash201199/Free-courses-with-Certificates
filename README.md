@@ -64,7 +64,13 @@ Website-https://www.edureka.co/free-course/learn-aws-basics-online<br>
 </details>
 
 </details>
-
+<details>
+ <summary>Google Analytics for Beginners</summary> 
+ <br>
+ Google - Google Analytics for Beginners
+ Website - https://analytics.google.com/analytics/academy/course/6
+ Description - Google Analytics for Beginners shows new users how to create an account, implement tracking code, and set up data filters.
+</details>
 <details>
 <summary> Data Visualization</summary>
 <br>
