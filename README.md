@@ -57,7 +57,6 @@ Great Learning - Angular7 for beginners<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/angular7-for-beginners<br>
 <br>
 
-
 <br>
 Great Learning - AWS Cloud Practitioner Quest <br>
 Website-https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner<br>
