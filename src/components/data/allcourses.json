@@ -178,6 +178,17 @@
             ]
         },
         {
+            "title": "Analytics"
+            "cards": [
+                {
+                    "icon": "fa-analytics",
+                    "name": "Google Analytics for Beginners",
+                    "source": "Google Analytics",
+                    "link": "https://analytics.google.com/analytics/academy/course/6"
+                }
+            ]
+        },
+        {
             "title": "Amazon Web Services (AWS)",
             "cards": [
                 {
