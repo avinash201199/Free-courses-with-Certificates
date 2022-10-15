@@ -86,6 +86,9 @@ Master the basics of digital marketing with our free course accredited by Intera
 Great Learning- Become an Ethical Hacker <br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/become-an-ethical-hacker<br>
 <br>
+Great Learning - Introduction to Ethical Hacking<br>
+Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-ethical-hacking<br>
+ <br>
 </details>
 
 <details>
