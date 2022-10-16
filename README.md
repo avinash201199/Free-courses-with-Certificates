@@ -219,7 +219,6 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginn
 <br>
 </details>
 
-
 <details>
 <summary>GitHub Tutorial</summary>
 <br>GitHub Tutorial for Beginners <br>
@@ -434,6 +433,30 @@ Website - https://devopswithdocker.com <br>
 </details>
 
 <details>
+<summary>Game Development</summary>
+<br>
+Godot 101: Game Engine Foundations<br>
+Website-https://academy.zenva.com/product/godot-101-game-engine-foundations/<br>
+<br>
+
+<br>
+Game Design and Development with Unity 2020 Specialization<br>
+Website-https://www.coursera.org/specializations/game-design-and-development<br>
+<br>
+
+<br>
+C++ Programming for Unreal Game Development Specialization<br>
+Website-https://www.coursera.org/specializations/cplusplusunrealgamedevelopment<br>
+<br>
+
+<br>
+C# Programming for Unity Game Development Specialization<br>
+Website-https://www.coursera.org/specializations/programming-unity-game-development<br>
+<br>
+
+</details>
+
+<details>
 <summary>Git</summary>
 <br>
 Progate- Git<br>
@@ -619,7 +642,6 @@ Udemy<br>
 Website- https://www.udemy.com/course/next-js-react-hooks/?ranMID=39197&ranEAID=0F1O0otUXQc&ranSiteID=0F1O0otUXQc-UipnOymbIoN6ty0eHde58Q&LSNPUBID=0F1O0otUXQc&utm_source=aff-campaign&utm_medium=udemyads<br>
 <br>
 </details>
-
 
 <details>
 <summary>PHP</summary>
@@ -879,8 +901,6 @@ website : https://www.freecodecamp.org/learn/front-end-development-libraries/
 
 </details>
 
-
-
 <details>
 <summary>Introduction to Computer Science</summary>
 <br>
@@ -890,14 +910,14 @@ Website-https://www.edx.org/course/introduction-computer-science-harvardx-cs50x<
 edX- An introduction to the intellectual enterprises of computer science and the art of programming.<br>
  This is CS50x , Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. The on-campus version of CS50x , CS50, is Harvard's largest course.
 
- Students who earn a satisfactory score on 9 problem sets (i.e., programming assignments) and a final project are eligible for a certificate. This is a self-paced course–you may take CS50x on your own schedule.
+Students who earn a satisfactory score on 9 problem sets (i.e., programming assignments) and a final project are eligible for a certificate. This is a self-paced course–you may take CS50x on your own schedule.
 
- If you have any questions or concerns, please contact harvardx@harvard.edu and/or report your experience through the edX contact form.
+If you have any questions or concerns, please contact harvardx@harvard.edu and/or report your experience through the edX contact form.
 
 Website- https://www.edx.org/course/introduction-computer-science-harvardx-cs50x<br>
 <br>
-</details>
 
+</details>
 
 <details>
 <summary>Front-end Development</summary>
@@ -930,7 +950,6 @@ Website-https://elearning.iirs.gov.in/edusatregistration/student<br>
 <br>
 </details>
 
-
 <details>
 <summary>Power BI for Beginners</summary>
 <br>
@@ -957,4 +976,3 @@ Best Practices of Social Media Marketing<br>
 Website-https://www.learnmall.in/play/become-a-social-media-manager-part-1/ <br>
 <br>
 </details>
-
