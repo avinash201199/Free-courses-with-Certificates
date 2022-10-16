@@ -364,6 +364,10 @@ Website-https://www.greatlearning.in/academy#our-courses
  JOVIAN's courses on Data Science and Machine Learning <br>
   Website-https://www.jovian.ai/
   <br>
+<br>
+ Geospatial Analysis by Kaggle <br>
+  Website-https://www.kaggle.com/learn/geospatial-analysis
+  <br>
 </details>
 
 <details>
