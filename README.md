@@ -423,6 +423,10 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-proje
 GREAT LEARNING ACADEMY- Docker Best Practices<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-best-practices<br>
 <br>
+<br>
+Devops with Docker - Containers for Beginners <br>
+Website - https://devopswithdocker.com <br>
+<br>
 </details>
 
 <details>
@@ -671,6 +675,10 @@ Website -https://www.edx.org/
 Simplilearn - Introduction to Programming with Python 3x <br>
 Website - https://www.simplilearn.com/free-python-programming-course-skillup<br>
 <br>
+<br>
+Kaggle - Intro to Python <br>
+Website - https://www.kaggle.com/learn/python <br>
+<br>
 
 </details>
 
@@ -766,6 +774,10 @@ Website-https://www.udemy.com/course/advanced-tsql-querying-using-sql-2014/<br>
 cognitiveclass.ai - SQL and Relational Databases 101
 <br>
 Website- https://courses.cognitiveclass.ai/courses/course-v1:BDU+DB0101EN+v1/course/ <br>
+<br>
+<br>
+Kaggle - Intro to SQL <br>
+Website - https://www.kaggle.com/learn/intro-to-sql <br>
 <br>
 </details>
 

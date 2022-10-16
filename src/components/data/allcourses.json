@@ -594,6 +594,12 @@
                     "name": "Docker Best Practices",
                     "source": "Great Learning Academy",
                     "link": "https://www.greatlearning.in/academy/learn-for-free/courses/docker-best-practices"
+                },
+                {
+                    "icon": "fab fa-docker",
+                    "name": "Devops with Docker - Containers for Beginners",
+                    "source": "Devops with Docker",
+                    "link": "https://devopswithdocker.com"
                 }
             ]
         },
@@ -983,6 +989,12 @@
                     "name": "Python Fundamentals for Beginners ",
                     "source": "Great Learning",
                     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners"
+                },
+                {
+                    "icon": "fab fa-python",
+                    "name": "Python - Intro to Python",
+                    "source": "kaggle",
+                    "link": "https://www.kaggle.com/learn/python"
                 }
             ]
         },
@@ -1080,6 +1092,12 @@
                     "name": "SQL and Relational Databases 101",
                     "source": "cognitiveclass.ai",
                     "link": "https://courses.cognitiveclass.ai/courses/course-v1:BDU+DB0101EN+v1/course/"
+                },
+                {
+                    "icon": "fa-solid fa-table-cells",
+                    "name": "SQL - Intro to SQL",
+                    "source": "Kaggle",
+                    "link": "https://www.kaggle.com/learn/intro-to-sql"
                 }
             ]
         },
