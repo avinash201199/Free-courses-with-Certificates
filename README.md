@@ -56,7 +56,7 @@ Website-https://www.sololearn.com/learning/1092<br>
 Great Learning - Angular7 for beginners<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/angular7-for-beginners<br>
 <br>
- 
+
 <br>
 Great Learning - AWS for beginners<br>
 Website-https://www.edureka.co/free-course/learn-aws-basics-online<br>
@@ -65,7 +65,7 @@ Website-https://www.edureka.co/free-course/learn-aws-basics-online<br>
 
 </details>
 <details>
- <summary>Google Analytics for Beginners</summary> 
+ <summary>Google Analytics for Beginners</summary>
  <br>
  Google - Google Analytics for Beginners
  Website - https://analytics.google.com/analytics/academy/course/6
@@ -273,6 +273,9 @@ Website- https://www.udemy.com/course/basics-of-object-oriented-programming-with
 <br>
 Desenvolvedor IO- Iniciando com ASP.NET Core<br>
 Website- https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core<br>
+<br>
+CS50's Introduction to Game Development- C#<br>
+Website- https://pll.harvard.edu/course/cs50s-introduction-game-development?delta=0<br>
 <br>
 </details>
 
