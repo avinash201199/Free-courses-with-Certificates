@@ -395,6 +395,13 @@ const course_details = {
                     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners",
                     "tags": "python"
                 }
+                {
+                    "website_name": "simplilearn",
+                    "course_description": "https://www.simplilearn.com/free-python-programming-course-skillup",
+                    "link": "https://www.simplilearn.com/free-python-programming-course-skillup",
+                    "tags": "Python"
+                
+                }
                     
             ]
         }
