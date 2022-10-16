@@ -586,6 +586,30 @@
                 }
             ]
         },
+        
+        {
+            "title": "Docker and Kubernetes",
+            "cards": [
+                {
+                    "icon": "fab fa-docker",
+                    "name": "Docker and Kubernetes",
+                    "source": "Freecodecamp",
+                    "link": "https://www.freecodecamp.org/news/learn-docker-and-kubernetes-hands-on-course/"
+                },
+                {
+                    "icon": "fab fa-docker",
+                    "name": "Introduction to Kubernetes",
+                    "source": "Great learning",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-kubernetes1"
+                },
+                {
+                    "icon": "fab fa-docker",
+                    "name": "Docker for Intermediate Level",
+                    "source": "Great learning",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/docker-for-intermediate-level"
+                }
+            ]
+        },
         {
             "title": "GitHub",
             "cards": [
