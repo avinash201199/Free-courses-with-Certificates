@@ -471,6 +471,9 @@ website- https://www.sololearn.com/learning/1161<br>
 <br>
 Sololearn - Python Data Structures<br>
 website- https://www.sololearn.com/learning/1159<br>
+ <br>
+Simplilearn - Programming with Python 3.X <br>
+website - https://www.simplilearn.com/free-python-programming-course-skillup <br>
 <br>
 GeeksforGeeks - Getting Started with Python<br>
 website- https://practice.geeksforgeeks.org/courses/start-with-python-kids<br>
