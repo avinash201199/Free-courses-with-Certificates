@@ -64,6 +64,12 @@
                 "source": "Great Learning Academy",
                 "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-digital-marketing"
             }
+            {
+                "icon": "fa-regular fa-bullhorn",
+                "name": "Get certified in Digital Marketing",
+                "source": "Hubspot Academy",
+                "link": "https://academy.hubspot.com/courses/digital-marketing"
+            }
         ]
 
         },
