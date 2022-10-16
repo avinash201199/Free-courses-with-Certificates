@@ -420,6 +420,14 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-best-
 </details>
 
 <details>
+<summary>Git</summary>
+<br>
+Progate- Git<br>
+Website- https://progate.com/courses/git<br>
+<br>
+</details>
+
+<details>
 <summary>Github</summary>
 <br>
 GREAT LEARNING ACADEMY- GitHub Tutorial for Beginners<br>
@@ -466,6 +474,9 @@ Website-https://learn.upgrad.com/course/1373<br>
 Infosys SpringBoard- Java Programming<br>
 Website-https://infyspringboard.onwingspan.com/web/en/login?ref=%2Fapp%2Ftoc%2Flex_29959473947367270000_shared%2Foverview<br>
 <br>
+Progate- Java<br>
+Website- https://progate.com/courses/java<br>
+<br>
 </details>
 
 <details>
@@ -482,8 +493,11 @@ Website : https://www.freecodecamp.org/learn/javascript-algorithms-and-data-stru
 <details>
 <summary>jQuery</summary>
 <br>
-Sololearn - jQuery<br>
-Website-https://www.sololearn.com/learning/1082<br>
+Sololearn- jQuery<br>
+Website- https://www.sololearn.com/learning/1082<br>
+<br>
+Progate- jQuery<br>
+Website- https://progate.com/courses/jquery<br>
 <br>
 </details>
 
@@ -578,6 +592,10 @@ Website : https://www.upgrad.com/blog/node-js-free-online-course/<br>
 <br>
 DIGITALDEFYND - 8 Best NodeJs Certification & Courses<br>
 Website : https://digitaldefynd.com/best-nodejs-courses-class-certification-online/<br>
+<br>
+Progate- Node.js<br>
+Website- https://progate.com/courses/nodejs<br>
+<br>
 </details>
 
 <details>

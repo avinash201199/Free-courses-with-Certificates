@@ -587,6 +587,17 @@
             ]
         },
         {
+            "title": "Git",
+            "cards": [
+                {
+                    "icon": "fab fa-git",
+                    "name": "Git",
+                    "source": "Progate",
+                    "link": "https://progate.com/courses/git"
+                }
+            ]
+        },
+        {
             "title": "GitHub",
             "cards": [
                 {
@@ -665,6 +676,12 @@
                     "name": "Core Java Basics",
                     "source": "upGrad",
                     "link": "https://learn.upgrad.com/course/1373"
+                },
+                                {
+                    "icon": "fab fa-java",
+                    "name": "Java",
+                    "source": "Progate",
+                    "link": "https://progate.com/courses/java"
                 }
             ]
         },
@@ -693,6 +710,12 @@
                     "name": "jQuery",
                     "source": "Sololearn",
                     "link": "https://www.sololearn.com/learning/1082"
+                },
+                 {
+                    "icon": "fa-solid fa-j",
+                    "name": "jQuery",
+                    "source": "Progate",
+                    "link": "https://progate.com/courses/jquery"
                 }
             ]
         },
@@ -843,6 +866,12 @@
                     "name": "8 Best NodeJs Certification & Courses",
                     "source": "DigitalDefynd",
                     "link": "https://digitaldefynd.com/best-nodejs-courses-class-certification-online/"
+                },
+                {
+                    "icon": "fab fa-node-js",
+                    "name": "Node.js",
+                    "source": "Progate",
+                    "link": "https://progate.com/courses/nodejs"
                 }
             ]
         },
