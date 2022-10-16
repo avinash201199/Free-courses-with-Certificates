@@ -1205,6 +1205,12 @@
                     "name": "Business Intelligence Fundamentals",
                     "source": "simplilearn",
                     "link": "https://www.simplilearn.com/free-business-intelligence-course-online-skillup"
+                },
+                {
+                    "icon": "fa-solid fa-magnifying-glass-chart",
+                    "name": "Geospatial Analysis",
+                    "source": "Kaggle",
+                    "link": "https://www.kaggle.com/learn/geospatial-analysis"
                 }
             ]
         },
