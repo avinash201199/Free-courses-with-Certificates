@@ -420,6 +420,19 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-best-
 </details>
 
 <details>
+<summary>Docker and Kubernetes</summary>
+<br>
+Freecodecamp - Docker and Kubernetes<br>
+Website - https://www.freecodecamp.org/news/learn-docker-and-kubernetes-hands-on-course/<br>
+<br>
+Great learning - Introduction to Kubernetes<br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-kubernetes1<br>
+<br>
+Great learning - Docker for Intermediate Level<br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/docker-for-intermediate-level <br>
+</details>
+
+<details>
 <summary>Github</summary>
 <br>
 GREAT LEARNING ACADEMY- GitHub Tutorial for Beginners<br>
@@ -918,15 +931,4 @@ Website-https://www.learnmall.in/play/become-a-social-media-manager-part-1/ <br>
 <br>
 </details>
 
-<details>
-<summary>Docker and Kubernetes</summary>
-<br>
-Freecodecamp - Docker and Kubernetes<br>
-Website - https://www.freecodecamp.org/news/learn-docker-and-kubernetes-hands-on-course/<br>
-<br>
-Great learning - Introduction to Kubernetes<br>
-Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-kubernetes1<br>
-<br>
-Great learning - Docker for Intermediate Level<br>
-Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/docker-for-intermediate-level <br>
-</details>
+
