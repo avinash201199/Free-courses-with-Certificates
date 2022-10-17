@@ -50,22 +50,22 @@
                 }
             ]
         },
-        {"title":"Digital marketing",
-        "cards":[
-            {"icon":"fa-regular fa-bullhorn",
-            "name":"The Fundamentals of Digital Marketing",
-            "source":"Google Digital Garage",
-            "link":"https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing"
-
-            },
-            {
-                "icon": "fa-regular fa-bullhorn",
-                "name": "Introduction to Digital Marketing",
-                "source": "Great Learning Academy",
-                "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-digital-marketing"
-            }
-        ]
-
+        {
+            "title": "Digital marketing",
+            "cards": [
+                {
+                    "icon": "fa-regular fa-bullhorn",
+                    "name": "The Fundamentals of Digital Marketing",
+                    "source": "Google Digital Garage",
+                    "link": "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing"
+                },
+                {
+                    "icon": "fa-regular fa-bullhorn",
+                    "name": "Introduction to Digital Marketing",
+                    "source": "Great Learning Academy",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-digital-marketing"
+                }
+            ]
         },
         {
             "title": "Artificial intelligence",
@@ -184,8 +184,7 @@
             ]
         },
         {
-            "title": "Analytics"
-            "cards": [
+            "title": "Analytics""cards": [
                 {
                     "icon": "fa-analytics",
                     "name": "Google Analytics for Beginners",
@@ -382,7 +381,6 @@
                     "name": "Google Cloud Skills Boost",
                     "source": "Qwiklabs",
                     "link": "https://www.cloudskillsboost.google/"
-                    
                 }
             ]
         },
@@ -413,7 +411,7 @@
                     "source": "Great Learning Academy",
                     "link": "https://www.greatlearning.in/academy/learn-for-free/courses/ethical-hacking-mobile-platforms-and-network-architecture"
                 },
-                 {
+                {
                     "icon": "far fa-shield-alt",
                     "name": "Become an Ethical Hacker",
                     "source": "Great Learning Academy",
@@ -578,7 +576,7 @@
                     "source": "Learnbay",
                     "link": "https://course.learnbay.co/dsa"
                 },
-                 {
+                {
                     "icon": "fab fa-algolia",
                     "name": "Data Structures and Algorithms for Interview Preparation",
                     "source": "upGrad",
@@ -620,7 +618,6 @@
                 }
             ]
         },
-        
         {
             "title": "Docker and Kubernetes",
             "cards": [
@@ -683,7 +680,6 @@
                     "link": "https://exercism.org/tracks/go"
                 }
             ]
-
         },
         {
             "title": "Java",
@@ -724,7 +720,7 @@
                     "source": "upGrad",
                     "link": "https://learn.upgrad.com/course/1373"
                 },
-                                {
+                {
                     "icon": "fab fa-java",
                     "name": "Java",
                     "source": "Progate",
@@ -758,7 +754,7 @@
                     "source": "Sololearn",
                     "link": "https://www.sololearn.com/learning/1082"
                 },
-                 {
+                {
                     "icon": "fa-solid fa-j",
                     "name": "jQuery",
                     "source": "Progate",
@@ -922,7 +918,7 @@
                 }
             ]
         },
-         {
+        {
             "title": "NextJs",
             "cards": [
                 {
@@ -931,7 +927,6 @@
                     "source": "Udemy",
                     "link": "https://coursesity.com/course-detail/next-js-with-react-hooks-building-ssr-react-applications"
                 },
-               
             ]
         },
         {

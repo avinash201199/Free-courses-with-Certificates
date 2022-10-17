@@ -248,7 +248,8 @@ nav {
     margin-bottom: 20px;
 }
 
-.collapse-main > span, .is-open {
+.collapse-main>span,
+.is-open {
     font-size: 1.1rem;
     width: 88% !important;
     display: block;
@@ -266,8 +267,9 @@ nav {
     box-shadow: 0 0 10px rrgb(177, 177, 177);
 }
 
-.collapse-main > span:hover,
-.collapse-main > span, .is-open {
+.collapse-main>span:hover,
+.collapse-main>span,
+.is-open {
     background: #219bff;
     color: #fff;
 }
@@ -308,7 +310,7 @@ nav {
         display: none;
     }
 
-    .nav-left-flex > * {
+    .nav-left-flex>* {
         margin: 0 5px;
     }
 
@@ -372,7 +374,7 @@ nav {
     .menu-nav-bar {
         display: block;
         cursor: pointer;
-    }  
+    }
 
     nav {
         padding: 20px 30px;
@@ -403,7 +405,7 @@ nav {
         margin-bottom: 8px;
     }
 
-    .sidemenu-bar-items > * {
+    .sidemenu-bar-items>* {
         font-size: 1rem !important;
     }
 }
