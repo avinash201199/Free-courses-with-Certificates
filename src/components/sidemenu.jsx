@@ -34,12 +34,14 @@ export default function sidemenu (props) {
             <span className='material-symbols-outlined'>library_books</span>
             Library
           </li>
-          <li className='sidemenu-bar-items'>
-            <span className='material-symbols-outlined'>
-              sentiment_very_satisfied
-            </span>
-            About
-          </li>
+          <a href='/about'>
+            <li className='sidemenu-bar-items'>
+              <span className='material-symbols-outlined'>
+                sentiment_very_satisfied
+              </span>
+              About
+            </li>
+          </a>
         </ul>
       </div>
     </div>
