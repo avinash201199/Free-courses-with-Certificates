@@ -583,6 +583,12 @@
                     "name": "Data Structures and Algorithms for Interview Preparation",
                     "source": "upGrad",
                     "link": "https://www.upgrad.com/us/free-courses/"
+                },
+                {
+                    "icon": "fab fa-algolia",
+                    "name": "Data Structures and Algorithms in four language (Java,C++,Python and Javascript)",
+                    "source": "Tech Dev Guide by Google",
+                    "link": "https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms"
                 }
             ]
         },
