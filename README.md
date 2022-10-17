@@ -319,6 +319,9 @@ Website-https://www.sololearn.com/learning/1164<br>
 Sololearn - Java<br>
 Website- https://www.sololearn.com/learning/1068<br>
 <br>
+Simplilearn - Java<br>
+Website - https://www.simplilearn.com/learn-java-basics-skillup <br>
+<br>
 Linkedin-Learning Java<br>
 Website-https://www.linkedin.com/learning/learning-java-4/<br>
 <br>
