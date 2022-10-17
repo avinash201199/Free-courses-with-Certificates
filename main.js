@@ -375,6 +375,17 @@ const course_details = {
             ]
         },
         {
+            "title": "Java",
+            "courses": [
+                {
+                    "website_name": "Simplilearn",
+                    "course_description": "Java Training",
+                    "link": "https://www.simplilearn.com/learn-java-basics-skillup",
+                    "tags": "Java"
+                }
+             ]
+        },
+        {
             "title": "Machine Learning",
             "courses": [
                 {
