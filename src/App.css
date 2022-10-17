@@ -132,7 +132,74 @@ nav {
     color: rgb(136, 136, 136);
     position: absolute;
     left: 0;
+}
 
+.search-bar-area {
+    position: absolute;
+    overflow: scroll;
+    height: 30vh;
+    margin-top: 0px;
+    width: 100%;
+    padding: 5px 0;
+    border-radius: 5px;
+    z-index: 1000;
+    background: #fff;
+    box-shadow: 0 10px 20px rgba(110, 110, 110, 0.226);
+}
+
+.search-card-items {
+    width: 100%;
+    font-size: 0.8rem !important;
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.search-card-items > * {
+    margin: 0px !important;
+    padding: 13px !important;
+    transform: translate(0,0) scale(0.95) !important;
+    transition: all .3s ease;
+    background: none !important;
+    box-shadow: none !important;
+    border-radius: 0px !important;
+}
+
+.search-card-items > *:hover {
+    background-color: #219bff !important;
+    color: #fff !important;
+    transform: translate(0,0) scale(0.95) !important;
+    border-radius: 0px !important;
+}
+
+/* .search-card-items > * > .card-price-button {
+
+} */
+
+.search-card-items > * > .card-price-button > .card-button {
+    width: 100px !important;
+    text-align: center !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-card-items > *:hover .card-button {
+    color: #fff !important;
+    background: #216fff !important;
+}
+
+.search-card-items > * > .card-price-button > .card-title {
+    text-align: left !important;
+    width: 200px;
+}
+
+.activate {
+    display: block !important;
+}
+
+.deactivate {
+    display: none !important;
 }
 
 .nav-left-flex {
@@ -294,12 +361,15 @@ nav {
     }
 
     nav {
-        padding: 30px 10px !important;
+        padding-top: 20px !important;
+        padding-bottom: 10px !important;
+        padding-left: 10px !important;
+        padding-right: 10px !important;
     }
 
-    /* .search-bar-input {
-        width: 100px;
-    } */
+    .search-bar-input {
+        width: 250px !important;
+    }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -308,12 +378,8 @@ nav {
         display: none;
     }
 
-    .nav-left-flex > * {
-        margin: 0 5px;
-    }
-
     .search-bar-input {
-        width: 200px;
+        width: 310px;
     }
 
     .Collapsible__contentInner {
