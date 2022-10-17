@@ -392,6 +392,10 @@ Website-https://www.greatlearning.in/academy#our-courses
  JOVIAN's courses on Data Science and Machine Learning <br>
   Website-https://www.jovian.ai/
   <br>
+<br>
+ Geospatial Analysis by Kaggle <br>
+  Website-https://www.kaggle.com/learn/geospatial-analysis
+  <br>
 </details>
 
 <details>
@@ -462,6 +466,19 @@ Website-https://www.coursera.org/specializations/programming-unity-game-developm
 Progate- Git<br>
 Website- https://progate.com/courses/git<br>
 <br>
+</details>
+
+<details>
+<summary>Docker and Kubernetes</summary>
+<br>
+Freecodecamp - Docker and Kubernetes<br>
+Website - https://www.freecodecamp.org/news/learn-docker-and-kubernetes-hands-on-course/<br>
+<br>
+Great learning - Introduction to Kubernetes<br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-kubernetes1<br>
+<br>
+Great learning - Docker for Intermediate Level<br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/docker-for-intermediate-level <br>
 </details>
 
 <details>
