@@ -8,7 +8,7 @@ export default function sidemenu(props) {
         <div className={isActive ? 'active' : 'inactive'}>
             <div className='sidemenu-bar'>
                 <div className="sidemenu-close" onClick={props.toggleSideMenu}>
-                    <i class="fal fa-times"></i>
+                    <i class="fa fa-times"></i>
                 </div>
                 <div className="sidemenu-bar-title">
                     <span className="material-symbols-outlined">code</span>

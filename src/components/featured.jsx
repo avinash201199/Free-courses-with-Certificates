@@ -1,7 +1,7 @@
 import React from 'react'
 import featuredData from '../components/data/featured.json'
 
-const Data = featuredData.data.map((data) => {
+const Data = featuredData.map((data) => {
     return (
         <div className="col-lg-4 featured-card">
             <div className="card-icon-title">

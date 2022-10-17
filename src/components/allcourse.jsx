@@ -2,7 +2,7 @@ import React from 'react'
 import Collapsible from 'react-collapsible';
 import courses from '../components/data/allcourses.json'
 
-const Data = courses.data.map((data) => {
+const Data = courses.map((data) => {
     return (
         <Collapsible trigger={data.title} className='collapse-main' transitionTime='100'>
                 {data.cards.map((card) => {
