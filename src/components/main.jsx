@@ -1,6 +1,7 @@
 import React from "react";
 import Featured from "./featured";
 import AllCourse from "./allcourse";
+import Footer from './footer'
 
 export default function main(props) {
   return (
@@ -9,6 +10,7 @@ export default function main(props) {
         <Featured query={props.query} />
         <AllCourse query={props.query} />
       </div>
+      <Footer />
     </div>
   );
 }
