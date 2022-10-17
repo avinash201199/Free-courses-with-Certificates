@@ -89,6 +89,10 @@ Master the basics of digital marketing with our free course accredited by Intera
 Great Learning Academy- Introduction to Digital Marketing<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-digital-marketing<br>
 <br>
+<br>
+ Hubspot Academy - Get certified in Digital Marketing<br>
+ Website- https://academy.hubspot.com/courses/digital-marketing <br>
+ <br>
 </details>
 <details>
 <summary> Become an Ethical Hacker</summary>
