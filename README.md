@@ -417,6 +417,10 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/master-data-
 LEARNBAY- Data Structures and Algorithms for Tech<br>
 Website-https://course.learnbay.co/dsa<br>
 <br>
+Tech Dev Guide by Google - Data Structures and Algorithms in four language (Java,C++,Python and Javascript)<br>
+https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms<br>
+<br>
+<br>
 upGrad- Data Structures and Algorithms for Interview Preparation<br>
 Website-https://www.upgrad.com/us/free-courses/<br>
 <br>
