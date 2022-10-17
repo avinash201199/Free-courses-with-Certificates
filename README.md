@@ -89,6 +89,10 @@ Master the basics of digital marketing with our free course accredited by Intera
 Great Learning Academy- Introduction to Digital Marketing<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-digital-marketing<br>
 <br>
+<br>
+ Hubspot Academy - Get certified in Digital Marketing<br>
+ Website- https://academy.hubspot.com/courses/digital-marketing <br>
+ <br>
 </details>
 <details>
 <summary> Become an Ethical Hacker</summary>
@@ -416,6 +420,10 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/master-data-
 <br>
 LEARNBAY- Data Structures and Algorithms for Tech<br>
 Website-https://course.learnbay.co/dsa<br>
+<br>
+Tech Dev Guide by Google - Data Structures and Algorithms in four language (Java,C++,Python and Javascript)<br>
+https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms<br>
+<br>
 <br>
 upGrad- Data Structures and Algorithms for Interview Preparation<br>
 Website-https://www.upgrad.com/us/free-courses/<br>
