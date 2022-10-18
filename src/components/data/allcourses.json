@@ -429,6 +429,12 @@
                 "source": "FreeCodeCamp",
                 "link": "https://www.freecodecamp.org/learn/information-security/"
             }
+            {
+                "icon": "far fa-shield-alt",
+                "name": "CISCO CyberSecurity",
+                "source": "CISCO SkillforAll",
+                "link": "https://skillsforall.com/career-path/cybersecurity"
+            }
         ]
     },
     {
