@@ -32,6 +32,14 @@ For any doubt contact me here: - <br>
 <hr>
 
 <details>
+<summary>Amazon Web Services (AWS)</summary>
+<br>
+Official Website<br>
+Website-https://explore.skillbuilder.aws/learn<br>
+<br>
+</details>
+
+<details>
 <summary>Android Application Development</summary>
 <br>
 Great Learning - Android Application Development<br>
@@ -60,41 +68,6 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/angular7-
 <br>
 Great Learning - AWS for beginners<br>
 Website-https://www.edureka.co/free-course/learn-aws-basics-online<br>
-<br>
-</details>
-
-</details>
-<details>
- <summary>Google Analytics for Beginners</summary> 
- <br>
- Google - Google Analytics for Beginners
- Website - https://analytics.google.com/analytics/academy/course/6
- Description - Google Analytics for Beginners shows new users how to create an account, implement tracking code, and set up data filters.
-</details>
-<details>
-<summary> Data Visualization</summary>
-<br>
-Coursera- Data Visualization using Tableau <br>
-Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-using-tableau?career_path_id=2<br>
-<br>
-</details>
-<details>
-<summary> Digital Marketing</summary>
-<br>The Fundamentals of Digital Marketing<br>
-Website-https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing<br>
-<br>
-Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, packed full of practical exercises and real-world examples to help you turn knowledge into action.
-<br>
-<br>
-Great Learning Academy- Introduction to Digital Marketing<br>
-Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-digital-marketing<br>
-<br>
-</details>
-<details>
-<summary> Become an Ethical Hacker</summary>
-<br>
-Great Learning- Become an Ethical Hacker <br>
-Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/become-an-ethical-hacker<br>
 <br>
 </details>
 
@@ -151,6 +124,14 @@ Website-https://www.udacity.com/course/intro-to-backend--ud171
 </details>
 
 <details>
+<summary> Become an Ethical Hacker</summary>
+<br>
+Great Learning- Become an Ethical Hacker <br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/become-an-ethical-hacker<br>
+<br>
+</details>
+
+<details>
 <summary>Big Data</summary>
 <br>
 GREAT LEARNING ACADEMY- Introduction to Big Data and Hadoop<br>
@@ -169,14 +150,6 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/spark-basic
 UDEMY: Essential Non Technical Skills of Effective Data Scientists<br>
  Website- https://www.udemy.com/share/104fI23@HXPESfaal6TkxBGwZVO4s8bsVUcn2pCEvhFwpop5i0kIQeGdP4BlxQn6kiJdDGm_6w==/<br>
  <br>
-</details>
-
-<details>
-<summary>Amazon Web Services (AWS)</summary>
-<br>
-Official Website<br>
-Website-https://explore.skillbuilder.aws/learn<br>
-<br>
 </details>
 
 <details>
@@ -219,25 +192,6 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginn
 <br>
 </details>
 
-
-<details>
-<summary>GitHub Tutorial</summary>
-<br>GitHub Tutorial for Beginners <br>
-Website-https://skills.github.com/<br>
-<br>
-GREAT LEARNING ACADEMY- GitHub Tutorial for Beginners<br>
-Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1<br>
-<br>
-</details>
-
-<details>
-<summary> Google Cloud </summary>
-<br> 30 Days of Google Cloud <br>
-Website - https://events.withgoogle.com/30daysofgooglecloud/#content <br>
-<br> Google Cloud Platform for Begineers<br>
-Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/google-cloud-platform-for-beginners1 <br>
-<br>
-</details>
 
 <details>
 <summary>C++</summary>
@@ -308,7 +262,27 @@ Website-https://www.careers360.com/university/indian-institute-of-technology-kha
 Google Cloud training by qwiklabs and google<br>
 Website-https://cloud.google.com/certification<br>
 <br>
+</details>
 
+<details>
+<summary>Computer Architecture and Organisation</summary>
+<br>
+COURSERA- Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
+<br>
+Website-https://www.coursera.org/learn/build-a-computer?utm_source=gg&utm_medium=sem&utm_campaign=B2C_INDIA_google-it-support_google_FTCOF_professional-certificates_arte-agency_degree&utm_content=B2C&campaignid=17652325395&adgroupid=138854369656&device=c&keyword=certifications%20courses&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=608232678225&hide_mobile_promo=
+<br><br>
+CODECADEMY-Computer Architecture
+<br>
+Website-https://www.codecademy.com/learn/computer-architecture
+<br><br>
+edX-Computer System Design: Advanced Concepts of Modern Microprocessors
+<br>
+Website-https://www.edx.org/course/computer-system-design-advanced-concepts-of-modern
+<br>
+edX-Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet
+<br>
+Website- https://www.edx.org/course/architecture-algorithms-quantum-computer-internet
+<br>
 </details>
 
 <details>
@@ -330,7 +304,35 @@ Information Security<br>
 Website-https://www.freecodecamp.org/learn/information-security/<br>
 <br>
 <br>
+</details>
 
+<details>
+<summary>Database Management Systems</summary>
+<br>
+GREAT LEARNING-HR Database Management System
+<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/hr-database-management-system
+<br>
+GREAT LEARNING-Database Management System
+<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/database-management-system
+<br>
+GREAT LEARNING-Library Database management system using SQL
+<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/library-database-management-system-using-sql
+<br>
+GREAT LEARNING- Broadband Database Management System
+<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/broadband-database-management-system
+<br>
+UDACITY-Database Systems Concepts & Design
+<br>
+Website-https://www.udacity.com/course/database-systems-concepts-design--ud150
+<br>
+GFG-Database Management System (DBMS)
+<br>
+Website-https://www.geeksforgeeks.org/dbms/
+<br>
 </details>
 
 <details>
@@ -408,6 +410,7 @@ Website-=
 <br>
 <br>
 </details>
+
 <details>
 <summary>Data Structure & Algorithm</summary>
 <br>
@@ -419,6 +422,27 @@ Website-https://course.learnbay.co/dsa<br>
 <br>
 upGrad- Data Structures and Algorithms for Interview Preparation<br>
 Website-https://www.upgrad.com/us/free-courses/<br>
+<br>
+</details>
+
+<details>
+<summary> Data Visualization</summary>
+<br>
+Coursera- Data Visualization using Tableau <br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-using-tableau?career_path_id=2<br>
+<br>
+</details>
+
+<details>
+<summary> Digital Marketing</summary>
+<br>The Fundamentals of Digital Marketing<br>
+Website-https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing<br>
+<br>
+Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, packed full of practical exercises and real-world examples to help you turn knowledge into action.
+<br>
+<br>
+Great Learning Academy- Introduction to Digital Marketing<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-digital-marketing<br>
 <br>
 </details>
 
@@ -437,13 +461,6 @@ Website - https://devopswithdocker.com <br>
 <br>
 </details>
 
-<details>
-<summary>Git</summary>
-<br>
-Progate- Git<br>
-Website- https://progate.com/courses/git<br>
-<br>
-</details>
 
 <details>
 <summary>Docker and Kubernetes</summary>
@@ -459,10 +476,28 @@ Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/docker-
 </details>
 
 <details>
+<summary>Git</summary>
+<br>
+Progate- Git<br>
+Website- https://progate.com/courses/git<br>
+<br>
+</details>
+
+<details>
 <summary>Github</summary>
 <br>
 GREAT LEARNING ACADEMY- GitHub Tutorial for Beginners<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/github-tutorial-for-beginners<br>
+<br>
+</details>
+
+<details>
+<summary>GitHub Tutorial</summary>
+<br>GitHub Tutorial for Beginners <br>
+Website-https://skills.github.com/<br>
+<br>
+GREAT LEARNING ACADEMY- GitHub Tutorial for Beginners<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1<br>
 <br>
 </details>
 
@@ -474,11 +509,29 @@ Website-https://www.sololearn.com/learning/1164<br>
  <br>
 GO Programming Language<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/go-programming-language<br>
- <br>
+<br>
 <br>
 GO <br>
 Website-https://exercism.org/tracks/go<br>
+<br>
+</details>
+
+</details>
+<details>
+ <summary>Google Analytics for Beginners</summary> 
  <br>
+ Google - Google Analytics for Beginners
+ Website - https://analytics.google.com/analytics/academy/course/6
+ Description - Google Analytics for Beginners shows new users how to create an account, implement tracking code, and set up data filters.
+</details>
+
+<details>
+<summary> Google Cloud </summary>
+<br> 30 Days of Google Cloud <br>
+Website - https://events.withgoogle.com/30daysofgooglecloud/#content <br>
+<br> Google Cloud Platform for Begineers<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/google-cloud-platform-for-beginners1 <br>
+<br>
 </details>
 
 <details>
@@ -639,6 +692,102 @@ Website- https://www.udemy.com/course/next-js-react-hooks/?ranMID=39197&ranEAID=
 
 
 <details>
+<summary>Object-Oriented Programming</summary>
+<br>
+GREAT LEARNING ACADEMY- 5 Best OOPS Courses in different Programming Languages 
+<br> 
+OOPs in Java in Hindi<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/oops-in-java-in-hindi
+<br>
+OOPs in Python<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/oops-in-python
+<br>
+OOPs Concepts in C++<br>
+Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/oops-concepts-in-c
+<br>
+OOPs in Java<br>
+Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/oops-in-java
+<br>
+OOPs in Python in Hindi<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/oops-in-python-in-hindi
+<br>
+<br>
+COURSERA-Object Oriented Programming in Java Specialization
+<br>
+Website-https://www.coursera.org/specializations/object-oriented-programming?utm_source=gg&utm_medium=sem&utm_campaign=B2C_INDIA_google-it-support_google_FTCOF_professional-certificates_arte-agency_degree&utm_content=B2C&campaignid=17652325395&adgroupid=138854369656&device=c&keyword=certifications%20courses&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=608232678225&hide_mobile_promo=
+<br>
+<br>
+CODECADEMY-Learn Object Oriented Programming with Python & Project-Based Learning (with Certification)
+<br>
+Website-https://www.codecademy.com/learn/learn-object-oriented-programming-with-python
+<br>
+CODECADEMY-Java: Object-Oriented Programming (with Certification)
+<br>
+Website-https://www.codecademy.com/learn/java-object-oriented-programming
+<br>
+<br>
+edX- Introduction to Object-Oriented Programming with Java I: Foundations and Syntax Basics
+<br>
+Website-https://www.edx.org/course/introduction-to-java-programming-i-foundations-and-syntax-basics
+<br>
+edX-Software Construction: Object-Oriented Design
+<br>
+Website-https://www.edx.org/course/software-construction-object-oriented-design
+<br>
+<br>
+UDACITY-Object Oriented Programming in Java
+<br>
+Website- https://www.udacity.com/course/object-oriented-programming-in-java--ud283
+<br>
+</details>
+ 
+<details>
+<summary> Operating System</summary>
+<br>
+COURSERA-Introduction to Operating Systems Specialization
+<br>
+Website-https://www.coursera.org/specializations/codio-introduction-operating-systems
+<br>
+COURSERA-Operating Systems and You: Becoming a Power User
+<br>
+Website-https://www.coursera.org/learn/os-power-user
+<br>
+COURSERA-Intro to Operating Systems 1: Virtualization
+<br>
+Website-https://www.coursera.org/learn/codio-intro-to-operating-systems-1-virtualization
+<br>
+CODECADEMY-Fundamentals of Operating Systems (with Certificate)
+<br>
+Website-https://www.codecademy.com/learn/fundamentals-of-operating-systems
+<br>
+CODECADEMY-Operating Systems: Filesystems
+<br>
+Website-https://www.codecademy.com/learn/operating-systems-filesystems
+<br>
+CODECADEMY-Operating Systems: Process Synchronization and Memory Management
+<br>
+Website-https://www.codecademy.com/learn/operating-systems-process-synchronization-and-memory-management
+<br>
+CODECADEMY-Operating Systems: IO Systems
+<br>
+Website-https://www.codecademy.com/learn/operating-systems-io-systems
+<br>
+CODECADEMY-Operating Systems: Introduction
+<br>
+Website-https://www.codecademy.com/learn/operating-systems-introduction
+<br>
+CODECADEMY-Operating Systems: Processes
+<br>
+Website-https://www.codecademy.com/learn/operating-systems-processes
+<br>
+UDACITY-Introduction to Operating Systems
+<br>
+Website-https://www.udacity.com/course/introduction-to-operating-systems--ud923
+<br>
+</details>
+
+ 
+<details>
 <summary>PHP</summary>
 <br>
 Sololearn - PHP<br>
@@ -770,6 +919,31 @@ Website-https://www.sololearn.com/learning/1081<br>
 <br>
 Udemy - Complete Ruby Tutorial for Beginners<br>
 Website-https://www.udemy.com/course/ruby-tutorial-for-beginners/<br>
+<br>
+</details>
+
+<details>
+<summary>Software Engineering</summary>
+<br>
+COURSERA-Software Engineering Specialization
+<br>
+Website-https://www.coursera.org/specializations/software-engineering
+<br>
+COURSERA-Applied Software Engineering Fundamentals Specialization
+<br>
+Website-https://www.coursera.org/specializations/software-engineering-fundamentals
+<br>
+COURSERA-Introduction to Software Engineering
+<br>
+Website-https://www.coursera.org/learn/introduction-to-software-engineering
+<br>
+edX-Software Engineering: Introduction
+<br>
+Website-https://www.edx.org/course/software-engineering-introduction?index=product_value_experiment_a&queryID=1aed3c4cd93707e89a473dc8f7deeae0&position=4
+<br>
+edX-Software Engineering Basics for Everyone
+<br>
+Website-https://www.edx.org/course/software-engineering-basics-for-everyone?index=product_value_experiment_a&queryID=6f04d616a67e8e6c4f793cadb1eb519c&position=2
 <br>
 </details>
 
