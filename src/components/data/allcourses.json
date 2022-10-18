@@ -28,29 +28,6 @@
         ]
     },
     {
-        "title": "AWS",
-        "cards": [
-          {
-            "icon": "fa-solid fa-brain",
-            "name": "FREE AWS Beginners Course",
-            "source": "Edureka",
-            "link": "https://www.edureka.co/free-course/learn-aws-basics-online"
-          },
-          {
-            "icon": "fa-solid fa-brain",
-            "name": "Get AWS Certified Solutions Architect - Associate",
-            "source": "AWS Skillbuilder",
-            "link": "https://pages.awscloud.com/DODDSARANEW_newodtysaa.html"
-          },
-          {
-            "icon": "fa-solid fa-brain",
-            "name": "AWS Power Hour: Architecting",
-            "source": "AWS Skillbuilder",
-            "link": "https://pages.awscloud.com/traincert-twitch-power-hour-architecting.html"
-          }
-        ]
-    },
-    {
         "title": "Data Visualization",
         "cards": [
             {
@@ -231,6 +208,18 @@
                 "name": "FREE AWS Beginners Course",
                 "source": "Edureka",
                 "link": "https://www.edureka.co/free-course/learn-aws-basics-online"
+            }
+            {
+                "icon": "fa-solid fa-brain",
+                "name": "Get AWS Certified Solutions Architect - Associate",
+                "source": "AWS Skillbuilder",
+                "link": "https://pages.awscloud.com/DODDSARANEW_newodtysaa.html"
+            },
+            {
+                "icon": "fa-solid fa-brain",
+                "name": "AWS Power Hour: Architecting",
+                "source": "AWS Skillbuilder",
+                "link": "https://pages.awscloud.com/traincert-twitch-power-hour-architecting.html"
             }
         ]
     },
