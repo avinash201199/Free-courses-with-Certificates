@@ -225,6 +225,12 @@
                 "name": "AWS Cloud Quest",
                 "source": "AWS Skillbuilder",
                 "link": "https://aws.amazon.com/training/digital/aws-cloud-quest"
+            },
+            {
+                "icon": "fa-solid fa-brain",
+                "name": "FREE AWS Beginners Course",
+                "source": "Edureka",
+                "link": "https://www.edureka.co/free-course/learn-aws-basics-online"
             }
         ]
     },
@@ -281,23 +287,6 @@
             {
                 "icon": "fa-solid fa-computer",
                 "name": "C for Beginners",
-                "source": "Great Learning Academy",
-                "link": "https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1"
-            }
-        ]
-    },
-    {
-        "title": "GitHub Tutorial",
-        "cards": [
-            {
-                "icon": "fab fa-github-alt",
-                "name": "GitHub Tutorial for Beginners ",
-                "source": "GitHub",
-                "link": "https://github.com/"
-            },
-            {
-                "icon": "fab fa-github-alt",
-                "name": "GitHub Tutorial for Beginners ",
                 "source": "Great Learning Academy",
                 "link": "https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1"
             }
@@ -679,6 +668,12 @@
                 "name": "GitHub Tutorial for Beginners",
                 "source": "Great Learning Academy",
                 "link": "https://www.greatlearning.in/academy/learn-for-free/courses/github-tutorial-for-beginners"
+            },
+            {
+                "icon": "fab fa-github-alt",
+                "name": "GitHub Tutorial for Beginners ",
+                "source": "GitHub",
+                "link": "https://github.com/"
             }
         ]
     },
