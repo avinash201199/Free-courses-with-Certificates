@@ -71,6 +71,46 @@ Website-https://www.edureka.co/free-course/learn-aws-basics-online<br>
 <br>
 </details>
 
+
+</details>
+<details>
+ <summary>Google Analytics for Beginners</summary> 
+ <br>
+ Google - Google Analytics for Beginners
+ Website - https://analytics.google.com/analytics/academy/course/6
+ Description - Google Analytics for Beginners shows new users how to create an account, implement tracking code, and set up data filters.
+</details>
+<details>
+<summary> Data Visualization</summary>
+<br>
+Coursera- Data Visualization using Tableau <br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-using-tableau?career_path_id=2<br>
+<br>
+</details>
+<details>
+<summary> Digital Marketing</summary>
+<br>The Fundamentals of Digital Marketing<br>
+Website-https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing<br>
+<br>
+Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, packed full of practical exercises and real-world examples to help you turn knowledge into action.
+<br>
+<br>
+Great Learning Academy- Introduction to Digital Marketing<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-digital-marketing<br>
+<br>
+<br>
+ Hubspot Academy - Get certified in Digital Marketing<br>
+ Website- https://academy.hubspot.com/courses/digital-marketing <br>
+ <br>
+</details>
+<details>
+<summary> Become an Ethical Hacker</summary>
+<br>
+Great Learning- Become an Ethical Hacker <br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/become-an-ethical-hacker<br>
+<br>
+</details>
+
 <details>
 <summary>Artificial intelligence</summary>
 <br>
@@ -419,6 +459,10 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/master-data-
 <br>
 LEARNBAY- Data Structures and Algorithms for Tech<br>
 Website-https://course.learnbay.co/dsa<br>
+<br>
+Tech Dev Guide by Google - Data Structures and Algorithms in four language (Java,C++,Python and Javascript)<br>
+https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms<br>
+<br>
 <br>
 upGrad- Data Structures and Algorithms for Interview Preparation<br>
 Website-https://www.upgrad.com/us/free-courses/<br>
