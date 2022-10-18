@@ -386,6 +386,39 @@
                 }
             ]
         },
+
+{
+            "title": "Computer Architecture and Organization",
+            "cards": [
+                {
+                    "icon": "fa-solid fa-network-wired",
+                    "name": "Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)",
+                    "source": "COURSERA",
+                    "link": "https://www.coursera.org/learn/build-a-computer?utm_source=gg&utm_medium=sem&utm_campaign=B2C_INDIA_google-it-support_google_FTCOF_professional-certificates_arte-agency_degree&utm_content=B2C&campaignid=17652325395&adgroupid=138854369656&device=c&keyword=certifications%20courses&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=608232678225&hide_mobile_promo="
+                },
+                {
+                    "icon": "fa-solid fa-network-wired",
+                    "name": "Computer Architecture",
+                    "source": "CODECADEMY",
+                    "link": "https://www.codecademy.com/learn/computer-architecture"
+                },
+                {
+                   "icon": "fa-solid fa-network-wired",
+                    "name": "Computer System Design: Advanced Concepts of Modern Microprocessors",
+                    "source": "edX",
+                    "link": "https://www.edx.org/course/computer-system-design-advanced-concepts-of-modern"
+                },
+                {
+                    "icon": "fa-solid fa-network-wired",
+                    "name": "Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet",
+                    "source": "edX",
+                    "link": "- https://www.edx.org/course/architecture-algorithms-quantum-computer-internet"
+                }
+                ]
+},
+                    
+                    
+
         {
             "title": "Cyber Security",
             "cards": [
@@ -427,6 +460,50 @@
                 }
             ]
         },
+
+{
+            "title": "Database Management System",
+            "cards": [
+                {
+                    "icon": "fa-solid fa-database",
+                    "name": "HR Database Management System",
+                    "source": "Great Learning Academy",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/hr-database-management-system"
+                },
+                {
+                    "icon": "fa-solid fa-database",
+                    "name": "Database Management System",
+                    "source": "Great Learning Academy",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/database-management-system"
+                },
+                {
+                    "icon": "fa-solid fa-database",
+                    "name": "Library Database management system using SQL",
+                    "source": "Great Learning Academy",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/library-database-management-system-using-sql"
+                },
+                {
+                    "icon": "fa-solid fa-database",
+                    "name": "Broadband Database Management System",
+                    "source": "Great Learning Academy",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/broadband-database-management-system"
+                },
+                 {
+                    "icon": "fa-solid fa-database",
+                    "name": "Database Systems Concepts & Design",
+                    "source": "Udacity",
+                    "link": "https://www.udacity.com/course/database-systems-concepts-design--ud150"
+                },
+                {
+                    "icon": "fa-solid fa-database",
+                    "name": "Database Management System (DBMS)",
+                    "source": "GFG",
+                    "link": "https://www.geeksforgeeks.org/dbms/"
+                }
+            ]
+        },
+
+    
         {
             "title": "Data Science",
             "cards": [
@@ -934,6 +1011,152 @@
                
             ]
         },
+{
+"title": "Object-Oriented Programming",
+            "cards": [
+                {
+                    "icon": "fa-solid fa-object-group",
+                    "name": "OOPs in Java in Hindi",
+                    "source": "GREAT LEARNING ACADEMY",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/oops-in-java-in-hindi"
+                },
+                {
+                    "icon": "fa-solid fa-object-group",
+                    "name": "OOPs in Python",
+                    "source": "GREAT LEARNING ACADEMY",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/oops-in-python"
+                },
+                 {
+                    "icon": "fa-solid fa-object-group",
+                    "name": "OOPs Concepts in C++",
+                    "source": "GREAT LEARNING ACADEMY",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/oops-concepts-in-c"
+                },
+                 {
+                    "icon": "fa-solid fa-object-group",
+                    "name": "OOPs in Java",
+                    "source": "GREAT LEARNING ACADEMY",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/oops-in-java"
+                },
+                {
+                    "icon": "fa-solid fa-object-group",
+                    "name": "OOPs in Python in Hindi",
+                    "source": "GREAT LEARNING ACADEMY",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/oops-in-python-in-hindi"
+                },
+                 {
+                    "icon": "fa-solid fa-object-group",
+                    "name": "Object Oriented Programming in Java Specialization",
+                    "source": "COURSERA",
+                    "link": "https://www.coursera.org/specializations/object-oriented-programming?utm_source=gg&utm_medium=sem&utm_campaign=B2C_INDIA_google-it-support_google_FTCOF_professional-certificates_arte-agency_degree&utm_content=B2C&campaignid=17652325395&adgroupid=138854369656&device=c&keyword=certifications%20courses&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=608232678225&hide_mobile_promo="
+                },
+                {
+                    "icon": "fa-solid fa-object-group",
+                    "name": "Learn Object Oriented Programming with Python & Project-Based Learning (with Certification)",
+                    "source": "CODECADEMY",
+                    "link": "https://www.codecademy.com/learn/learn-object-oriented-programming-with-python"
+                },
+                 {
+                    "icon": "fa-solid fa-object-group",
+                    "name": "OOPs in Python in Hindi",
+                    "source": "GREAT LEARNING ACADEMY",
+                    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/oops-in-python-in-hindi"
+                },
+                 {
+                    "icon": "fa-solid fa-object-group",
+                    "name": "Java: Object-Oriented Programming (with Certification)",
+                    "source": "CODECADEMY",
+                    "link": "https://www.codecademy.com/learn/java-object-oriented-programming"
+                },
+                 {
+                    "icon": "fa-solid fa-object-group",
+                    "name": "Introduction to Object-Oriented Programming with Java I: Foundations and Syntax Basics",
+                    "source": "edX",
+                    "link": "https://www.edx.org/course/introduction-to-java-programming-i-foundations-and-syntax-basics"
+                }, 
+                {
+                    "icon": "fa-solid fa-object-group",
+                    "name": "Software Construction: Object-Oriented Design",
+                    "source": "edX",
+                    "link": "https://www.edx.org/course/software-construction-object-oriented-design"
+                }, 
+                {
+                    "icon": "fa-solid fa-object-group",
+                    "name": "Object Oriented Programming in Java",
+                    "source": "UDACITY",
+                    "link": "https://www.udacity.com/course/object-oriented-programming-in-java--ud283"
+                }
+            ]
+        },
+
+ {
+            "title": "Operating System",
+            "cards": [
+                {
+                    "icon": "fa-brands fa-windows",
+                    "name": "Introduction to Operating Systems Specialization",
+                    "source": "COURSERA",
+                    "link": "https://www.coursera.org/specializations/codio-introduction-operating-systems"
+                },
+                {
+                    "icon": "fa-brands fa-windows",
+                    "name": "Operating Systems and You: Becoming a Power User",
+                    "source": "COURSERA",
+                    "link": "-https://www.coursera.org/learn/os-power-user"
+                },
+                {
+                    "icon": "fa-brands fa-windows",
+                    "name": "Intro to Operating Systems 1: Virtualization",
+                    "source": "COURSERA",
+                    "link": "https://www.coursera.org/learn/codio-intro-to-operating-systems-1-virtualization"
+                },
+                 {
+                    "icon": "fa-brands fa-windows",
+                    "name": "Fundamentals of Operating Systems (with Certificate)",
+                    "source": "CODECADEMY",
+                    "link": "https://www.codecademy.com/learn/fundamentals-of-operating-systems"
+                },
+                 {
+                    "icon": "fa-brands fa-windows",
+                    "name": "Operating Systems: Filesystems",
+                    "source": "CODECADEMY",
+                    "link": "https://www.codecademy.com/learn/operating-systems-filesystems"
+                },
+                 {
+                    "icon": "fa-brands fa-windows",
+                    "name": "Operating Systems: Process Synchronization and Memory Management",
+                    "source": "CODECADEMY",
+                    "link": "https://www.codecademy.com/learn/operating-systems-process-synchronization-and-memory-management"
+                },
+                 {
+                    "icon": "fa-brands fa-windows",
+                    "name": "Operating Systems: IO Systems",
+                    "source": "CODECADEMY",
+                    "link": "https://www.codecademy.com/learn/operating-systems-io-systems"
+                },
+                 {
+                    "icon": "fa-brands fa-windows",
+                    "name": "Operating Systems: Introduction",
+                    "source": "CODECADEMY",
+                    "link": "https://www.codecademy.com/learn/operating-systems-introduction"
+                },
+                 {
+                    "icon": "fa-brands fa-windows",
+                    "name": "Operating Systems: Processes",
+                    "source": "CODECADEMY",
+                    "link": "https://www.codecademy.com/learn/operating-systems-processes"
+                },
+                 {
+                    "icon": "fa-brands fa-windows",
+                    "name": "Introduction to Operating Systems",
+                    "source": "UDACITY",
+                    "link": "https://www.udacity.com/course/introduction-to-operating-systems--ud923"
+                }
+                
+                
+            ]
+        },
+
         {
             "title": "PHP",
             "cards": [
@@ -1108,6 +1331,8 @@
                 }
             ]
         },
+    
+
         {
             "title": "SQL",
             "cards": [
