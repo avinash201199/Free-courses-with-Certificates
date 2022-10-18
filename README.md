@@ -65,7 +65,8 @@ Website-https://www.edureka.co/free-course/learn-aws-basics-online<br>
 
 </details>
 <details>
- <summary>Google Analytics for Beginners</summary> 
+ <summary>
+  Google Analytics for Beginners</summary> 
  <br>
  Google - Google Analytics for Beginners
  Website - https://analytics.google.com/analytics/academy/course/6
@@ -479,14 +480,12 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/github-tutor
 <br>
 Sololearn - Go<br>
 Website-https://www.sololearn.com/learning/1164<br>
- <br>
+<br>
 GO Programming Language<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/go-programming-language<br>
- <br>
 <br>
 GO <br>
 Website-https://exercism.org/tracks/go<br>
- <br>
 </details>
 
 <details>
