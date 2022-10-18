@@ -4,7 +4,12 @@ import json from '../components/data/allcourses.json'
 
 export default function navbar(props) {
   const [searchTerm, setSearchTerm] = useState('')
-  const [searchResults, showSearch] = useState(false)
+  const [searchResults, showSearch] = useState(0)
+
+  const handleClick = () => {
+    setSearchTerm('');
+    showSearch(0);
+  }
 
   return (
     <nav>
@@ -12,19 +17,21 @@ export default function navbar(props) {
         <span class="material-symbols-outlined" onClick={props.toggleSideMenu}>menu</span>
       </div>
       <div className="search-bar">
-        <input type="text" className='search-bar-input' placeholder='Search..' id='search' onFocus={() => showSearch(true)} onBlur={() => showSearch(false)} onChange={e => setSearchTerm(e.target.value)} />
+        <input type="text" className='search-bar-input' placeholder='Search..' id='search' onFocus={() => showSearch(1)} value={searchTerm} onChange={e => setSearchTerm(e.target.value)} />
         {searchResults ?
-          <div className="search-bar-area">
+          <div className="search-bar-area" onBlur={() => showSearch(0)}>
             {json.map((val, key) => {
               return <div style={{ margin: "0" }}>{val.cards.filter((val) => {
                 if (searchTerm == "") return val
-                else if (val.name.toLocaleLowerCase().includes(searchTerm.toLocaleLowerCase())) return val
+                else if (val.name.toLocaleLowerCase().includes(searchTerm.toLocaleLowerCase())) return val.name
               }).map((val, key) => {
                 return <div key={key} className='search-card-items'>
                   <div className='col-lg-4 featured-card' style={{ width: "100%" }}>
                     <div className="card-price-button">
-                      <div className="card-title"><b>{val.name}</b></div>
-                      <a className="card-button" href={val.link}>Go to Course</a>
+                      {/* <div className="card-title"></div> */}
+                      <a className="card-button" href={val.link} target="_blank">
+                        <b>{val.name}</b>
+                      </a>
                     </div>
                   </div>
                 </div>
@@ -32,9 +39,9 @@ export default function navbar(props) {
             })}
           </div>
           : null}
-        {/* <button type="submit" className='search-bar-submit'>
-          <label className='search-bar-placeholder' htmlFor="search"> Search...</label>
-        </button> */}
+        <button type="submit" className='search-bar-submit' onBlur={() => showSearch(0)} onClick={handleClick}>
+          <label className='search-bar-placeholder' htmlFor="search"> Clear</label>
+        </button>
       </div>
       <div className="nav-left-flex hide-item">
         <span class="material-symbols-outlined">notifications</span>

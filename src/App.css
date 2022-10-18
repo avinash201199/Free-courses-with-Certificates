@@ -71,7 +71,7 @@
 }
 
 .spacing {
-    margin: 50px 60px;
+    margin: 50px 60px 0px 60px;
 }
 
 /* Navbar */
@@ -112,12 +112,10 @@ nav {
 
 .search-bar-placeholder {
     font-size: 0.9rem;
-    cursor: text;
+    cursor: pointer;
 }
 
 .search-bar-input:focus+.search-bar-submit {
-    color: rgb(59, 59, 59);
-    transform: translate(0, -20px);
     font-size: 0.7rem;
 }
 
@@ -125,24 +123,25 @@ nav {
 .search-bar-submit:hover,
 .search-bar-submit:focus {
     transition: all .2s ease;
-    background: none;
+    background: #216fff;
     box-shadow: none;
     outline: none;
     border: none;
-    color: rgb(136, 136, 136);
-    position: absolute;
-    left: 0;
+    color: #fff;
+    padding: 1px 5px;
+    border-radius: 3px;
+    margin-left: 7px;
 }
 
 .search-bar-area {
     position: absolute;
     overflow: scroll;
-    height: 30vh;
+    max-height: 20vh;
     margin-top: 0px;
     width: 100%;
     padding: 5px 0;
     border-radius: 5px;
-    z-index: 1000;
+    z-index: 10000;
     background: #fff;
     box-shadow: 0 10px 20px rgba(110, 110, 110, 0.226);
 }
@@ -156,7 +155,7 @@ nav {
 
 .search-card-items > * {
     margin: 0px !important;
-    padding: 13px !important;
+    padding: 0px !important;
     transform: translate(0,0) scale(0.95) !important;
     transition: all .3s ease;
     background: none !important;
@@ -176,17 +175,21 @@ nav {
 } */
 
 .search-card-items > * > .card-price-button > .card-button {
-    width: 100px !important;
+    width: 100% !important;
     text-align: center !important;
+    padding: 10px 20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background: #fff;
+    color: rgb(80, 80, 80);
+    font-size: 0.9rem;
 }
 
 .search-card-items > *:hover .card-button {
     color: #fff !important;
-    background: #216fff !important;
+    background: #219bff !important;
 }
 
 .search-card-items > * > .card-price-button > .card-title {
@@ -349,6 +352,13 @@ nav {
     padding: 20px 40px;
 }
 
+/* Footer */
+.footer {
+    background: #fff;
+    text-align: center;
+    padding: 20px 30px;
+}
+
 /* Media Queries */
 
 /* Extra small devices (phones, 600px and down) */
@@ -357,7 +367,7 @@ nav {
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (max-width: 540px) {
     .spacing {
-        margin: 50px 10px;
+        margin: 50px 10px 0px 10px;
     }
 
     nav {
