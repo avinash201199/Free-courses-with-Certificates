@@ -27,6 +27,17 @@
             }
         ]
     },
+     {
+        "title": "Angular",
+        "cards": [
+            {
+                "icon": "fab fa-angular",
+                "name": "Angular for Beginners Course (includes FREE E-Book)",
+                "source": "Udemy",
+                "link": "https://www.udemy.com/course/angular-for-beginners-course/"
+            }
+        ]
+    },
     {
         "title": "AWS",
         "cards": [
