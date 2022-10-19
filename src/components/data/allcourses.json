@@ -689,6 +689,17 @@
     ]
   },
   {
+    "title": "GitOps",
+    "cards": [
+      {
+        "icon": "fa-brands fa-git-alt",
+        "name": "Introduction to GitOps",
+        "source": "Linux Foundation",
+        "link": "https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/"
+      }
+    ]
+  },
+  {
     "title": "Go",
     "cards": [
       {
