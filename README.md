@@ -615,6 +615,14 @@ Website-https://university.mongodb.com/<br>
 </details>
 
 <details>
+<summary>Microsoft Learning Portal</summary>
+<br>
+MICROSOFT LEARNING<br>
+Website-https://learn.microsoft.com/en-us/training/<br>
+<br>
+</details>
+
+<details>
 <summary>MySQL</summary>
 <br>
 Geek University- MySQL course<br>
