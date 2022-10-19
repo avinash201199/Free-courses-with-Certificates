@@ -1050,6 +1050,18 @@
                 "name": "Python - Intro to Python",
                 "source": "kaggle",
                 "link": "https://www.kaggle.com/learn/python"
+            },
+            {
+                "icon": "fab fa-python",
+                "name": "Fundamentos de Python 1",
+                "source": "Skills for All",
+                "link": "https://skillsforall.com/course/python-essentials-1?userLang=es-XL"
+            },
+            {
+                "icon": "fab fa-python",
+                "name": "Python Essentials 2",
+                "source": "Skills for All",
+                "link": "https://skillsforall.com/course/python-essentials-2?userLang=en-US"
             }
         ]
     },
