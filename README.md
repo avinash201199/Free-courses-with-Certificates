@@ -51,6 +51,11 @@ Website- https://www.educba.com/software-development/courses/free-android-app-de
 Sololearn - Angular + NestJS<br>
 Website-https://www.sololearn.com/learning/1092<br>
 <br>
+ 
+<br>
+Udemy - Angular for Beginners Course<br>
+Website-https://www.udemy.com/course/angular-for-beginners-course/<br>
+<br>
 
 <br>
 Great Learning - Angular7 for beginners<br>
