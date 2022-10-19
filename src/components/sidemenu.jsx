@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "../App.css";
 
-export default function sidemenu(props) {
+export default function sidemenu (props) {
   const isActive = props.active;
 
   return (
@@ -34,7 +34,7 @@ export default function sidemenu(props) {
             <span className="material-symbols-outlined">library_books</span>
             Library
           </li>
-          <a href='/about'>
+          <a href='/about' style={{ textDecoration: 'none' }}>
             <li className="sidemenu-bar-items">
               <span className="material-symbols-outlined">
                 sentiment_very_satisfied
