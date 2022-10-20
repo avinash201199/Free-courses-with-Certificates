@@ -876,6 +876,12 @@
         "name": "DataTalksClub: ML Zoomcamp",
         "source": "Airtable",
         "link": "https://airtable.com/shryxwLd0COOEaqXo"
+      },
+      {
+        "icon": "fa-solid fa-desktop",
+        "name": "Introduction to Machine Learning",
+        "source": "Kaggle",
+        "link": "https://www.kaggle.com/learn/intro-to-machine-learning"
       }
     ]
   },
@@ -1382,7 +1388,6 @@
       }
     ]
   },
-
   {
     "title": "Digital marketing",
     "cards": [
