@@ -51,6 +51,11 @@ Website- https://www.educba.com/software-development/courses/free-android-app-de
 Sololearn - Angular + NestJS<br>
 Website-https://www.sololearn.com/learning/1092<br>
 <br>
+ 
+<br>
+Udemy - Angular for Beginners Course<br>
+Website-https://www.udemy.com/course/angular-for-beginners-course/<br>
+<br>
 
 <br>
 Great Learning - Angular7 for beginners<br>
@@ -610,6 +615,14 @@ Website-https://university.mongodb.com/<br>
 </details>
 
 <details>
+<summary>Microsoft Learning Portal</summary>
+<br>
+MICROSOFT LEARNING<br>
+Website-https://learn.microsoft.com/en-us/training/<br>
+<br>
+</details>
+
+<details>
 <summary>MySQL</summary>
 <br>
 Geek University- MySQL course<br>
@@ -696,7 +709,15 @@ Website-https://www.udemy.com/course/object-oriented-python-programming<br>
 Great Learning - Python Fundamentals for Beginners <br>
 Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners
 <br>
- <br>
+<br>
+Skills for All - Fundamentos de Python 1 <br>
+Website - https://skillsforall.com/course/python-essentials-1?userLang=es-XL
+<br>
+<br>
+Skills for All - Python Essentials 2<br>
+Website - https://skillsforall.com/course/python-essentials-2?userLang=en-US
+<br>
+<br>
 edX - CS50's Introduction to Programming with Python <br>
 Website -https://www.edx.org/
 <br>
