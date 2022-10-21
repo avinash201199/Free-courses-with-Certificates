@@ -24,6 +24,12 @@
         "name": "Angular + NestJS",
         "source": "Sololearn",
         "link": "https://www.sololearn.com/learning/1092"
+      },
+      {
+        "icon": "fab fa-angular",
+        "name": "Angular for Beginners Course",
+        "source": "Udemy",
+        "link": "https://www.udemy.com/course/angular-for-beginners-course/"
       }
     ]
   },
