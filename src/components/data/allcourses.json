@@ -1094,6 +1094,12 @@
                     "name": "FreeCodeCamp offers certifcations for react",
                     "source": "FreeCodeCamp",
                     "link": "https://www.freecodecamp.org/learn/front-end-development-libraries/#sass"
+                },
+                 {
+                    "icon": "fab fa-react",
+                    "name": "React",
+                    "source": "Harvard University",
+                    "link": "https://pll.harvard.edu/course/cs50s-mobile-app-development-react-native?delta=0"
                 }
             ]
         },
