@@ -882,6 +882,12 @@
         "name": "DataTalksClub: ML Zoomcamp",
         "source": "Airtable",
         "link": "https://airtable.com/shryxwLd0COOEaqXo"
+      },
+      {
+        "icon": "fa-solid fa-desktop",
+        "name": "Machine Learning Crash Course",
+        "source": "Google Developers Community",
+        "link": "https://developers.google.com/machine-learning/crash-course"
       }
     ]
   },
