@@ -1476,5 +1476,16 @@
         "link": "https://www.cloudskillsboost.google/paths/31"
       }
     ]
-  }
+  },
+  {
+    "title": "Flutter",
+    "cards": [
+        {
+            "icon": "fa-brands fa-android",
+            "name": "The Complete 2021 Flutter Development Bootcamp with Dart",
+            "source": "Udemy",
+            "link": "https://www.udemy.com/course/flutter-bootcamp-with-dart/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-lmilrnh3mkVHHQH_rXJmiQ&utm_medium=udemyads&utm_source=aff-campaign"
+        }
+    ]
+},
 ]
