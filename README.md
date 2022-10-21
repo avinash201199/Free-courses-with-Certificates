@@ -79,8 +79,11 @@ Website-https://www.edureka.co/free-course/learn-aws-basics-online<br>
 <details>
 <summary> Data Visualization</summary>
 <br>
-Coursera- Data Visualization using Tableau <br>
+Coursera - Data Visualization using Tableau <br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-using-tableau?career_path_id=2<br>
+<br>
+Kaggle - Data Visualization<br>
+Website - https://www.kaggle.com/learn/data-visualization<br>
 <br>
 </details>
 <details>
