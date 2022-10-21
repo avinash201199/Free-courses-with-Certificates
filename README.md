@@ -545,6 +545,14 @@ Website- https://progate.com/courses/jquery<br>
 </details>
 
 <details>
+<summary>Kubernetes</summary>
+<br>
+Udacity- Scalable Microservices with Kubernetes <br>
+Website- https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615<br>
+<br>
+</details>
+
+<details>
 <summary>Kotlin</summary>
 <br>
 Sololearn - Kotlin<br>
