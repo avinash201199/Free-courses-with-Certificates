@@ -617,6 +617,12 @@
         "name": "Data Structures and Algorithms in four language (Java,C++,Python and Javascript)",
         "source": "Tech Dev Guide by Google",
         "link": "https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms"
+      },
+      {
+        "icon": "fab fa-algolia",
+        "name": "Introduction to Algorithms and Data structures in C++",
+        "source": "Udemy",
+        "link": "https://www.udemy.com/course/introduction-to-algorithms-and-data-structures-in-c/"
       }
     ]
   },
