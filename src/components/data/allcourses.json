@@ -1064,6 +1064,12 @@
       },
       {
         "icon": "fab fa-python",
+        "name": "Introduction To Python Programming",
+        "source": "Udemy",
+        "link": "https://www.udemy.com/course/pythonforbeginnersintro/"
+      },
+      {
+        "icon": "fab fa-python",
         "name": "The complete python course for beginners",
         "source": "Newton School",
         "link": "https://my.newtonschool.co/"
