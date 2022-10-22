@@ -446,6 +446,12 @@
         "name": "CISCO CyberSecurity",
         "source": "CISCO SkillforAll",
         "link": "https://skillsforall.com/career-path/cybersecurity"
+      },
+      {
+        "icon": "fa-solid fa-shield-halved",
+        "name": "Getting Started with Self-Sovereign Identity",
+        "source": "Linux Foundation",
+        "link": "https://training.linuxfoundation.org/training/getting-started-with-self-sovereign-identity-lfs178x/"
       }
     ]
   },
