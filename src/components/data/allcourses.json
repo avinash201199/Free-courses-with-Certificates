@@ -902,9 +902,15 @@
       },
       {
         "icon": "fa-solid fa-desktop",
+        "name": "Introduction to Machine Learning",
+        "source": "Kaggle",
+        "link": "https://www.kaggle.com/learn/intro-to-machine-learning"
+      },
+      {
         "name": "Machine Learning Crash Course",
         "source": "Google Developers Community",
         "link": "https://developers.google.com/machine-learning/crash-course"
+
       }
     ]
   },
@@ -1411,7 +1417,6 @@
       }
     ]
   },
-
   {
     "title": "Digital marketing",
     "cards": [
