@@ -1224,6 +1224,12 @@
         "name": "SQL - Intro to SQL",
         "source": "Kaggle",
         "link": "https://www.kaggle.com/learn/intro-to-sql"
+      },
+      {
+        "icon": "fa-solid fa-table-cells",
+        "name": "Databases and SQL for Data Science with Python",
+        "source": "Coursera",
+        "link": "https://www.coursera.org/learn/sql-data-science"
       }
     ]
   },
