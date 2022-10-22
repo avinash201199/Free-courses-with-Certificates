@@ -480,6 +480,14 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/github-tutor
 </details>
 
 <details>
+<summary>GitOps</summary>
+<br>
+Linux Foundation- Introduction to GitOps<br>
+Website-https:https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/<br>
+<br>
+</details>
+
+<details>
 <summary>Go</summary>
 <br>
 Sololearn - Go<br>
