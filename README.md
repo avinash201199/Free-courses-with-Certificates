@@ -706,6 +706,9 @@ website- https://practice.geeksforgeeks.org/courses/start-with-python-kids<br>
 GeeksforGeeks - Fork Python<br>
 website- https://practice.geeksforgeeks.org/courses/fork-python<br>
 <br>
+Udemy - Introduction To Python Programming<br>
+website- https://www.udemy.com/course/pythonforbeginnersintro<br>
+<br>
 Newton School-The complete python course for beginners <br>
 Website https://my.newtonschool.co/<br>
 <br>
