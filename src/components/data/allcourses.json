@@ -64,6 +64,12 @@
         "name": "Data Visualization using Tableau",
         "source": "Coursera",
         "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-using-tableau?career_path_id=2"
+      },
+      {
+        "icon": "fa-solid fa-chart-simple",
+        "name": "Data Visualisation",
+        "source": "Kaggle",
+        "link": "https://www.kaggle.com/learn/data-visualization"
       }
     ]
   },
