@@ -455,6 +455,14 @@ Website - https://devopswithdocker.com <br>
 </details>
 
 <details>
+<summary>Flutter</summary>
+<br>
+Introduction to Flutter<br>
+Website-https://www.simplilearn.com/free-flutter-foundation-course-skillup<br>
+<br>
+</details>
+
+<details>
 <summary>Git</summary>
 <br>
 Progate- Git<br>
