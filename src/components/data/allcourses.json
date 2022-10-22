@@ -19,6 +19,12 @@
         "name": "Developing Mobile Applications with Android Studio",
         "source": "Fundação Bradesco",
         "link": "https://www.ev.org.br/cursos/desenvolvendo-aplicacoes-mobile-com-android-studio"
+      },
+      {
+        "icon": "fab fa-android",
+        "name": "Learn Android Application Development",
+        "source": "Udemy",
+        "link": "https://www.udemy.com/course/learn-android-application-development-y/"
       }
     ]
   },
@@ -70,6 +76,12 @@
         "name": "Data Visualization using Tableau",
         "source": "Coursera",
         "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-using-tableau?career_path_id=2"
+      },
+      {
+        "icon": "fa-solid fa-chart-simple",
+        "name": "Data Visualisation",
+        "source": "Kaggle",
+        "link": "https://www.kaggle.com/learn/data-visualization"
       }
     ]
   },
@@ -458,6 +470,12 @@
         "name": "CISCO CyberSecurity",
         "source": "CISCO SkillforAll",
         "link": "https://skillsforall.com/career-path/cybersecurity"
+      },
+      {
+        "icon": "fa-solid fa-shield-halved",
+        "name": "Getting Started with Self-Sovereign Identity",
+        "source": "Linux Foundation",
+        "link": "https://training.linuxfoundation.org/training/getting-started-with-self-sovereign-identity-lfs178x/"
       }
     ]
   },
@@ -623,6 +641,12 @@
         "name": "Data Structures and Algorithms in four language (Java,C++,Python and Javascript)",
         "source": "Tech Dev Guide by Google",
         "link": "https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms"
+      },
+      {
+        "icon": "fab fa-algolia",
+        "name": "Introduction to Algorithms and Data structures in C++",
+        "source": "Udemy",
+        "link": "https://www.udemy.com/course/introduction-to-algorithms-and-data-structures-in-c/"
       }
     ]
   },
@@ -697,6 +721,17 @@
         "name": "GitHub Tutorial for Beginners",
         "source": "Great Learning Academy",
         "link": "https://www.greatlearning.in/academy/learn-for-free/courses/github-tutorial-for-beginners"
+      }
+    ]
+  },
+  {
+    "title": "GitOps",
+    "cards": [
+      {
+        "icon": "fa-brands fa-git-alt",
+        "name": "Introduction to GitOps",
+        "source": "Linux Foundation",
+        "link": "https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/"
       }
     ]
   },
@@ -891,9 +926,15 @@
       },
       {
         "icon": "fa-solid fa-desktop",
+        "name": "Introduction to Machine Learning",
+        "source": "Kaggle",
+        "link": "https://www.kaggle.com/learn/intro-to-machine-learning"
+      },
+      {
         "name": "Machine Learning Crash Course",
         "source": "Google Developers Community",
         "link": "https://developers.google.com/machine-learning/crash-course"
+
       }
     ]
   },
@@ -1038,6 +1079,12 @@
         "name": "Fork Python",
         "source": "GeeksForGeeks",
         "link": "https://practice.geeksforgeeks.org/courses/fork-python"
+      },
+      {
+        "icon": "fab fa-python",
+        "name": "Introduction To Python Programming",
+        "source": "Udemy",
+        "link": "https://www.udemy.com/course/pythonforbeginnersintro/"
       },
       {
         "icon": "fab fa-python",
@@ -1400,7 +1447,6 @@
       }
     ]
   },
-
   {
     "title": "Digital marketing",
     "cards": [

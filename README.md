@@ -82,8 +82,11 @@ Website-https://www.edureka.co/free-course/learn-aws-basics-online<br>
 <details>
 <summary> Data Visualization</summary>
 <br>
-Coursera- Data Visualization using Tableau <br>
+Coursera - Data Visualization using Tableau <br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-using-tableau?career_path_id=2<br>
+<br>
+Kaggle - Data Visualization<br>
+Website - https://www.kaggle.com/learn/data-visualization<br>
 <br>
 </details>
 <details>
@@ -340,6 +343,8 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/ethical-hac
 Information Security<br>
 Website-https://www.freecodecamp.org/learn/information-security/<br>
 <br>
+Linux Foundation- Getting Started with Self-Sovereign Identity<br>
+Website- https://training.linuxfoundation.org/training/getting-started-with-self-sovereign-identity-lfs178x/<br>
 <br>
 
 </details>
@@ -478,6 +483,14 @@ Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/docker-
 <br>
 GREAT LEARNING ACADEMY- GitHub Tutorial for Beginners<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/github-tutorial-for-beginners<br>
+<br>
+</details>
+
+<details>
+<summary>GitOps</summary>
+<br>
+Linux Foundation- Introduction to GitOps<br>
+Website-https:https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/<br>
 <br>
 </details>
 
@@ -708,6 +721,9 @@ website- https://practice.geeksforgeeks.org/courses/start-with-python-kids<br>
 <br>
 GeeksforGeeks - Fork Python<br>
 website- https://practice.geeksforgeeks.org/courses/fork-python<br>
+<br>
+Udemy - Introduction To Python Programming<br>
+website- https://www.udemy.com/course/pythonforbeginnersintro<br>
 <br>
 Newton School-The complete python course for beginners <br>
 Website https://my.newtonschool.co/<br>
