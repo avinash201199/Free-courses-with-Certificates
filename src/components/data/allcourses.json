@@ -13,6 +13,12 @@
         "name": "Become an Android Developer from Scratch",
         "source": "Udemy",
         "link": "https://www.udemy.com/course/become-an-android-developer-from-scratch/"
+      },
+      {
+        "icon": "fab fa-android",
+        "name": "Learn Android Application Development",
+        "source": "Udemy",
+        "link": "https://www.udemy.com/course/learn-android-application-development-y/"
       }
     ]
   },
