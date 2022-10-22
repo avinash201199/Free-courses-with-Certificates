@@ -337,6 +337,8 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/ethical-hac
 Information Security<br>
 Website-https://www.freecodecamp.org/learn/information-security/<br>
 <br>
+Linux Foundation- Getting Started with Self-Sovereign Identity<br>
+Website- https://training.linuxfoundation.org/training/getting-started-with-self-sovereign-identity-lfs178x/<br>
 <br>
 
 </details>
@@ -475,6 +477,14 @@ Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/docker-
 <br>
 GREAT LEARNING ACADEMY- GitHub Tutorial for Beginners<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/github-tutorial-for-beginners<br>
+<br>
+</details>
+
+<details>
+<summary>GitOps</summary>
+<br>
+Linux Foundation- Introduction to GitOps<br>
+Website-https:https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/<br>
 <br>
 </details>
 
