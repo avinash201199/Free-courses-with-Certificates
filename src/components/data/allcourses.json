@@ -13,6 +13,12 @@
         "name": "Become an Android Developer from Scratch",
         "source": "Udemy",
         "link": "https://www.udemy.com/course/become-an-android-developer-from-scratch/"
+      },
+      {
+        "icon": "fab fa-android",
+        "name": "Developing Mobile Applications with Android Studio",
+        "source": "Fundação Bradesco",
+        "link": "https://www.ev.org.br/cursos/desenvolvendo-aplicacoes-mobile-com-android-studio"
       }
     ]
   },
