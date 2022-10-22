@@ -854,6 +854,10 @@ Website- https://courses.cognitiveclass.ai/courses/course-v1:BDU+DB0101EN+v1/cou
 Kaggle - Intro to SQL <br>
 Website - https://www.kaggle.com/learn/intro-to-sql <br>
 <br>
+<br>
+Coursera - Databases and SQL for Data Science with Python <br>
+Website - https://www.coursera.org/learn/sql-data-science <br>
+<br>
 </details>
 
 <details>
