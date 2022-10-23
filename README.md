@@ -227,6 +227,9 @@ Website : https://cadena.dev/ <br>
 <br>
 KBA E-Learning Platform - Blockchain Training 
 Website : https://elearning.kba.ai/
+<br>
+metaschool - Learn web3 development with other developers
+Website : https://metaschool.so/
 </details>
 
 <details>
