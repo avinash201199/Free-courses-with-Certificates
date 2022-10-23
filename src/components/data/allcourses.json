@@ -928,7 +928,6 @@
         "name": "Machine Learning Crash Course",
         "source": "Google Developers Community",
         "link": "https://developers.google.com/machine-learning/crash-course"
-
       }
     ]
   },
@@ -998,6 +997,12 @@
         "name": "Node.js",
         "source": "Progate",
         "link": "https://progate.com/courses/nodejs"
+      },
+      {
+        "icon": "fab fa-node-js",
+        "name": "Basic node js",
+        "source": "w3schools",
+        "link": "https://www.w3schools.com/nodejs"
       }
     ]
   },

@@ -671,6 +671,10 @@ Website : https://digitaldefynd.com/best-nodejs-courses-class-certification-onli
 Progate- Node.js<br>
 Website- https://progate.com/courses/nodejs<br>
 <br>
+<br>
+w3schools - Basic node js
+Website : https://www.w3schools.com/nodejs
+<br>
 </details>
 
 <details>
