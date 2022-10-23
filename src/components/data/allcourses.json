@@ -1051,6 +1051,12 @@
         "source": "Simplilearn",
         "link": "https://www.simplilearn.com/learn-php-basics-free-course-skillup"
       }
+      {
+        "icon": "fab fa-php",
+        "name": "PHP",
+        "source": "Great Learning",
+        "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/php"
+      }
     ]
   },
   {
