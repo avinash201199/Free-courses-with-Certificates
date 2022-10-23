@@ -253,6 +253,17 @@
     ]
   },
   {
+    "title":"Programming Fundamentals",
+    "cards":[
+      {
+        "icon":"fab fa-hive",
+        "name":"Programming and Coding Fundamentals",
+        "source":"Udemy",
+        "link" : "https://www.udemy.com/course/beginner-course-on-programming/"
+      }
+    ]
+  },
+  {
     "title": "Blockchain Technology",
     "cards": [
       {
@@ -1551,5 +1562,5 @@
         "link": "https://www.simplilearn.com/free-flutter-foundation-course-skillup"
       }
     ]
-  },
+  }
 ]
