@@ -1540,5 +1540,16 @@
         "link": "https://www.cloudskillsboost.google/paths/31"
       }
     ]
-  }
+  },
+  {
+    "title": "Flutter",
+    "cards": [
+      {
+        "icon": "fa-brands fa-android",
+        "name": "Introduction to Flutter",
+        "source": "Simplilearn",
+        "link": "https://www.simplilearn.com/free-flutter-foundation-course-skillup"
+      }
+    ]
+  },
 ]
