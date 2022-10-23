@@ -221,6 +221,12 @@ Website : https://learnweb3.io/dashboard <br>
 <br>
 Bitdegree - Learn Solidity with Space Doggo <br>
 Website : https://www.bitdegree.org/course/learn-solidity-space-doggos <br>
+<br>
+Cadena - Become a Blockchain Developer <br>
+Website : https://cadena.dev/ <br>
+<br>
+KBA E-Learning Platform - Blockchain Training 
+Website : https://elearning.kba.ai/
 </details>
 
 <details>

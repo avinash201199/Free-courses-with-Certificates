@@ -290,6 +290,18 @@
         "name": "Free Blockchain Courses and Tutorials",
         "source": "Udemy",
         "link": "https://www.udemy.com/topic/blockchain/free/"
+      },
+      {
+        "icon": "fab fa-hive",
+        "name": "Become a Blockchain Developer",
+        "source": "Cadena",
+        "link": "https://cadena.dev/"
+      },
+      {
+        "icon": "fab fa-hive",
+        "name": "Blockchain Training",
+        "source": "KBA",
+        "link": "https://elearning.kba.ai/"
       }
     ]
   },
