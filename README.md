@@ -710,6 +710,11 @@ Website-https://www.codecademy.com/learn/learn-php <br>
 Simplilearn - Introduction to PHP Basics<br>
 Website-https://www.simplilearn.com/learn-php-basics-free-course-skillup <br>
 <br>
+<br>
+Great Learning - PHP<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/php <br>
+<br>
+ 
 </details>
 
 <details>
