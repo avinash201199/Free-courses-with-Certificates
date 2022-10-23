@@ -43,6 +43,9 @@ Website- https://www.udemy.com/course/become-an-android-developer-from-scratch/ 
 Educba-Free Android App Development Course With Certification <br>
 Website- https://www.educba.com/software-development/courses/free-android-app-development-course/ <br>
 <br>
+Fundação Bradesco- Developing Mobile Applications with Android Studio <br>
+Website- https://www.ev.org.br/cursos/desenvolvendo-aplicacoes-mobile-com-android-studio <br>
+<br>
 </details>
 
 <details>

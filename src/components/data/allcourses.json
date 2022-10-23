@@ -16,6 +16,12 @@
       },
       {
         "icon": "fab fa-android",
+        "name": "Developing Mobile Applications with Android Studio",
+        "source": "Fundação Bradesco",
+        "link": "https://www.ev.org.br/cursos/desenvolvendo-aplicacoes-mobile-com-android-studio"
+      },
+      {
+        "icon": "fab fa-android",
         "name": "Learn Android Application Development",
         "source": "Udemy",
         "link": "https://www.udemy.com/course/learn-android-application-development-y/"
