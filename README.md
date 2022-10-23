@@ -669,11 +669,11 @@ DIGITALDEFYND - 8 Best NodeJs Certification & Courses<br>
 Website : https://digitaldefynd.com/best-nodejs-courses-class-certification-online/<br>
 <br>
 Progate- Node.js<br>
-Website- https://progate.com/courses/nodejs<br>
+Website- https://progate.com/courses/nodejs
 <br>
 <br>
-w3schools - Basic node js
-Website : https://www.w3schools.com/nodejs
+w3schools - Basic node js<br>
+Website : https://www.w3schools.com/nodejs<br>
 <br>
 </details>
 
