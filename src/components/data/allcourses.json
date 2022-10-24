@@ -488,6 +488,12 @@
         "name": "Getting Started with Self-Sovereign Identity",
         "source": "Linux Foundation",
         "link": "https://training.linuxfoundation.org/training/getting-started-with-self-sovereign-identity-lfs178x/"
+      },
+      {
+        "icon": "fa-solid fa-shield-halved",
+        "name": "Ethical Hacking Essentials (EHE)",
+        "source": "Code Red",
+        "link": "https://codered.eccouncil.org/course/ethical-hacking-essentials?logged=true"
       }
     ]
   },
