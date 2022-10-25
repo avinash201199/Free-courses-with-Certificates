@@ -356,6 +356,14 @@ Website- https://training.linuxfoundation.org/training/getting-started-with-self
 </details>
 
 <details>
+<summary> Integration Platform </summary>
+<br>
+Celigo-(iPaas)
+Official Learning Website - https://www.celigo.com/university/
+<br>
+</details>
+
+<details>
 <summary>Data Science</summary>
 <br>
 Sololearn- Data Science <br>
