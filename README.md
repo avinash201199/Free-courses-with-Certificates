@@ -808,6 +808,14 @@ Website - https://www.udemy.com/course/introduction-to-flask/<br>
 </details>
 
 <details>
+<summary> Quantum Computing</summary>
+<br>
+The Linux Foundation - Fundamentals of Quantum Computing<br>
+Website-https://training.linuxfoundation.org/training/fundamentals-of-quantum-computing-lfq101/<br>
+<br>
+</details>
+
+<details>
 <summary> Raspberry Pi</summary>
 <br>
 Geek University - Raspberry Pi free course<br>
