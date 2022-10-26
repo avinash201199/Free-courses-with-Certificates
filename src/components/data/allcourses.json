@@ -1201,6 +1201,17 @@
     ]
   },
   {
+    "title": "Quantum Computing",
+    "cards": [
+      {
+        "icon": "fa-light fa-atom-simple",
+        "name": "Fundamentals of Quantum Computing",
+        "source": "The Linux Foundation",
+        "link": "https://training.linuxfoundation.org/training/fundamentals-of-quantum-computing-lfq101/"
+      }
+    ]
+  },
+  {
     "title": "Raspberry Pi",
     "cards": [
       {
