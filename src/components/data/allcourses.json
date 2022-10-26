@@ -831,6 +831,12 @@
         "name": "Java",
         "source": "Progate",
         "link": "https://progate.com/courses/java"
+      },
+      {
+        "icon": "fab fa-java",
+        "name": "Java",
+        "source": "Udemy",
+        "link": "https://www.udemy.com/courses/search/?price=price-free&q=java&sort=relevance&src=ukw"
       }
     ]
   },
