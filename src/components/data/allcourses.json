@@ -313,6 +313,12 @@
         "name": "Blockchain Training",
         "source": "KBA",
         "link": "https://elearning.kba.ai/"
+      },
+      {
+        "icon": "fab fa-hive",
+        "name": "Start your web3 journey",
+        "source": "metaschool",
+        "link": "https://metaschool.so/"
       }
     ]
   },
