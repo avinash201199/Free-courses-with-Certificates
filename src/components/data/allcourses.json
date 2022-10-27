@@ -1572,6 +1572,12 @@
         "name": "Startup Cloud Engineer Learning Path",
         "source": "Google Cloud Skills Boost",
         "link": "https://www.cloudskillsboost.google/paths/31"
+      },
+      {
+        "icon": "fa-duotone fa-clouds",
+        "name": "Google Cloud Pro (in Italian)",
+        "source": "TIM",
+        "link": "https://extra.codemotion.com/google-cloud-pro-corsi/"
       }
     ]
   },
