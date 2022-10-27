@@ -225,8 +225,11 @@ Website : https://www.bitdegree.org/course/learn-solidity-space-doggos <br>
 Cadena - Become a Blockchain Developer <br>
 Website : https://cadena.dev/ <br>
 <br>
-KBA E-Learning Platform - Blockchain Training 
-Website : https://elearning.kba.ai/
+KBA E-Learning Platform - Blockchain Training <br>
+Website : https://elearning.kba.ai/ <br>
+<br>
+metaschool - Learn web3 development with other developers <br>
+Website : https://metaschool.so/ <br>
 </details>
 
 <details>
@@ -713,6 +716,11 @@ Website-https://www.codecademy.com/learn/learn-php <br>
 Simplilearn - Introduction to PHP Basics<br>
 Website-https://www.simplilearn.com/learn-php-basics-free-course-skillup <br>
 <br>
+<br>
+Great Learning - PHP<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/php <br>
+<br>
+ 
 </details>
 
 <details>
@@ -804,6 +812,14 @@ Website - https://www.coursera.org/learn/python-crash-course<br>
 <br>
 Udemy - Introduction to Flask<br>
 Website - https://www.udemy.com/course/introduction-to-flask/<br>
+<br>
+</details>
+
+<details>
+<summary> Quantum Computing</summary>
+<br>
+The Linux Foundation - Fundamentals of Quantum Computing<br>
+Website-https://training.linuxfoundation.org/training/fundamentals-of-quantum-computing-lfq101/<br>
 <br>
 </details>
 
@@ -1018,7 +1034,14 @@ INDIAN INSITUTE OF REMOTE SENSING <br>
 Website-https://elearning.iirs.gov.in/edusatregistration/student<br>
 <br>
 </details>
-
+<details>
+<summary>
+Beginner Course on Programming and Coding Fundamentals</summary>
+<br>
+Platform:Udemy<br>
+Creator: Haris Samingan<br>
+Website-https://www.udemy.com/course/beginner-course-on-programming/<br>
+<br>
 <details>
 <summary>Power BI for Beginners</summary>
 <br>

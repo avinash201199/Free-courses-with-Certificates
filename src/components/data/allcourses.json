@@ -253,6 +253,17 @@
     ]
   },
   {
+    "title":"Programming Fundamentals",
+    "cards":[
+      {
+        "icon":"fab fa-hive",
+        "name":"Programming and Coding Fundamentals",
+        "source":"Udemy",
+        "link" : "https://www.udemy.com/course/beginner-course-on-programming/"
+      }
+    ]
+  },
+  {
     "title": "Blockchain Technology",
     "cards": [
       {
@@ -302,6 +313,12 @@
         "name": "Blockchain Training",
         "source": "KBA",
         "link": "https://elearning.kba.ai/"
+      },
+      {
+        "icon": "fab fa-hive",
+        "name": "Start your web3 journey",
+        "source": "metaschool",
+        "link": "https://metaschool.so/"
       }
     ]
   },
@@ -1051,6 +1068,12 @@
         "source": "Simplilearn",
         "link": "https://www.simplilearn.com/learn-php-basics-free-course-skillup"
       }
+      {
+        "icon": "fab fa-php",
+        "name": "PHP",
+        "source": "Great Learning",
+        "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/php"
+      }
     ]
   },
   {
@@ -1180,6 +1203,17 @@
         "name": "Introduction to Flask",
         "source": "Udemy",
         "link": "https://www.udemy.com/course/introduction-to-flask/"
+      }
+    ]
+  },
+  {
+    "title": "Quantum Computing",
+    "cards": [
+      {
+        "icon": "fa-light fa-atom-simple",
+        "name": "Fundamentals of Quantum Computing",
+        "source": "The Linux Foundation",
+        "link": "https://training.linuxfoundation.org/training/fundamentals-of-quantum-computing-lfq101/"
       }
     ]
   },
@@ -1551,5 +1585,5 @@
         "link": "https://www.simplilearn.com/free-flutter-foundation-course-skillup"
       }
     ]
-  },
+  }
 ]
