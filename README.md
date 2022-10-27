@@ -257,9 +257,6 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginn
 <summary> Google Cloud </summary>
 <br> 30 Days of Google Cloud <br>
 Website - https://events.withgoogle.com/30daysofgooglecloud/#content <br>
-<br> Google Cloud Platform for Begineers<br>
-Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/google-cloud-platform-for-beginners1 <br>
-<br>
 </details>
 
 <details>
