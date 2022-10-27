@@ -779,7 +779,10 @@ Website - https://www.simplilearn.com/free-python-programming-course-skillup<br>
 Kaggle - Intro to Python <br>
 Website - https://www.kaggle.com/learn/python <br>
 <br>
-
+<br>
+Upgrad - Python free online course
+Website - https://www.upgrad.com/blog/python-free-online-course/
+<br>
 </details>
 
 <details>
