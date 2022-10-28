@@ -572,6 +572,9 @@ Website- https://www.sololearn.com/learning/1024<br>
 Java Script course by free code camp dot org<br>
 Website : https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/<br>
   <br>
+Great Learning - JavaScript
+Website : https://www.mygreatlearning.com/academy/learn-for-free/courses/javascript-in-hindi <br>
+<br>
 </details>
 
 <details>
