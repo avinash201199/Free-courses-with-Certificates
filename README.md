@@ -88,6 +88,10 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visu
 Kaggle - Data Visualization<br>
 Website - https://www.kaggle.com/learn/data-visualization<br>
 <br>
+<br>
+Microsoft Power BI Para Data Science 2.0<br>
+Website - https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science<br>
+<br>
 </details>
 <details>
 <summary> Digital Marketing</summary>
@@ -257,9 +261,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginn
 <summary> Google Cloud </summary>
 <br> 30 Days of Google Cloud <br>
 Website - https://events.withgoogle.com/30daysofgooglecloud/#content <br>
-<br> Google Cloud Platform for Begineers<br>
+<br> Google Cloud Platform for Beginners<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/google-cloud-platform-for-beginners1 <br>
-<br> Google Cloud Pro<br>
+<br> Google Cloud Pro (in Italian)<br>
 Website - https://extra.codemotion.com/google-cloud-pro-corsi/ <br>
 <br>
 </details>
@@ -358,6 +362,14 @@ Linux Foundation- Getting Started with Self-Sovereign Identity<br>
 Website- https://training.linuxfoundation.org/training/getting-started-with-self-sovereign-identity-lfs178x/<br>
 <br>
 
+</details>
+
+<details>
+<summary> Integration Platform </summary>
+<br>
+Celigo-(iPaas)
+Official Learning Website - https://www.celigo.com/university/
+<br>
 </details>
 
 <details>
@@ -566,6 +578,9 @@ Website- https://www.sololearn.com/learning/1024<br>
 Java Script course by free code camp dot org<br>
 Website : https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/<br>
   <br>
+Great Learning - JavaScript
+Website : https://www.mygreatlearning.com/academy/learn-for-free/courses/javascript-in-hindi <br>
+<br>
 </details>
 
 <details>
@@ -611,6 +626,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutori
 
 <details>
 <summary>Machine Learning</summary>
+<br>
+Kaggle - Intro to Machine Learning<br>
+Website-https://www.kaggle.com/learn/intro-to-machine-learning<br>
 <br>
 Google Developer Club -Machine Learning Crash Course<br>
 Website-https://www.sololearn.com/learning/1094<br>
