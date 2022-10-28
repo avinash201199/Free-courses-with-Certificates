@@ -618,6 +618,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutori
 <details>
 <summary>Machine Learning</summary>
 <br>
+Kaggle - Intro to Machine Learning<br>
+Website-https://www.kaggle.com/learn/intro-to-machine-learning<br>
+<br>
 Google Developer Club -Machine Learning Crash Course<br>
 Website-https://www.sololearn.com/learning/1094<br>
 <br>

@@ -1168,6 +1168,12 @@
         "name": "Python Essentials 2",
         "source": "Skills for All",
         "link": "https://skillsforall.com/course/python-essentials-2?userLang=en-US"
+      },
+      {
+       "icon": "fab fa-python",
+        "name": "Python Free Online Course",
+        "source": "Upgrad",
+        "link": "https://www.upgrad.com/blog/python-free-online-course/"
       }
     ]
   },
