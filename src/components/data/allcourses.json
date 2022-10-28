@@ -1585,5 +1585,16 @@
         "link": "https://www.simplilearn.com/free-flutter-foundation-course-skillup"
       }
     ]
+  },
+	{
+    "title": "Integration Platform",
+    "cards": [
+      {
+        "icon": "fa-duotone fa-list-tree",
+        "name": "Celigo-(iPaas)",
+        "source": "Official Celigo Website",
+        "link": "https://www.celigo.com/university/"
+      }
+    ]
   }
 ]
