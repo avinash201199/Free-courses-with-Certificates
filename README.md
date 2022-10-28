@@ -88,6 +88,10 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visu
 Kaggle - Data Visualization<br>
 Website - https://www.kaggle.com/learn/data-visualization<br>
 <br>
+<br>
+Microsoft Power BI Para Data Science 2.0<br>
+Website - https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science<br>
+<br>
 </details>
 <details>
 <summary> Digital Marketing</summary>
