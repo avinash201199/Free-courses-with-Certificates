@@ -82,6 +82,12 @@
         "name": "Data Visualisation",
         "source": "Kaggle",
         "link": "https://www.kaggle.com/learn/data-visualization"
+      },
+      {
+        "icon": "fa-solid fa-chart-simple",
+        "name": "Microsoft Power BI Para Data Science, Versão 2.0",
+        "source": "Data Science Academy",
+        "link": "https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science"
       }
     ]
   },
@@ -848,6 +854,12 @@
         "name": "JavaScript",
         "source": "FreeCodeCamp",
         "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+      },
+      {
+        "icon": "fab fa-js",
+        "name": "JavaScript",
+        "source": "Great Learning",
+        "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/javascript-in-hindi"
       }
     ]
   },
@@ -1162,6 +1174,12 @@
         "name": "Python Essentials 2",
         "source": "Skills for All",
         "link": "https://skillsforall.com/course/python-essentials-2?userLang=en-US"
+      },
+      {
+       "icon": "fab fa-python",
+        "name": "Python Free Online Course",
+        "source": "Upgrad",
+        "link": "https://www.upgrad.com/blog/python-free-online-course/"
       }
     ]
   },
@@ -1589,6 +1607,17 @@
         "name": "Introduction to Flutter",
         "source": "Simplilearn",
         "link": "https://www.simplilearn.com/free-flutter-foundation-course-skillup"
+      }
+    ]
+  },
+	{
+    "title": "Integration Platform",
+    "cards": [
+      {
+        "icon": "fa-duotone fa-list-tree",
+        "name": "Celigo-(iPaas)",
+        "source": "Official Celigo Website",
+        "link": "https://www.celigo.com/university/"
       }
     ]
   }
