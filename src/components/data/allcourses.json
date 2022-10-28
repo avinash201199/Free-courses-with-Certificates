@@ -1585,5 +1585,16 @@
         "link": "https://www.simplilearn.com/free-flutter-foundation-course-skillup"
       }
     ]
+  },
+  {
+    "title": "Web 3.0, Blockchain, Smart Contracts & Crypto Practice Tests",
+    "cards": [
+      {
+        "icon": "fa-brands fa-android",
+        "name": "Web 3.0, Blockchain, Smart Contracts & Crypto Practice Tests",
+        "source": "Udemy",
+        "link": "https://www.udemy.com/course/web3-blockchain-smartcontracts-crypto-practice-tests/?couponCode=BLACKFRIDAY"
+      }
+    ]
   }
 ]
