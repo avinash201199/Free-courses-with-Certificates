@@ -682,6 +682,12 @@
         "name": "Introduction to Algorithms and Data structures in C++",
         "source": "Udemy",
         "link": "https://www.udemy.com/course/introduction-to-algorithms-and-data-structures-in-c/"
+      },
+      {
+	"icon": "fab fa-algolia",
+        "name": "Data Structures and Algorithms - Self Paced",
+        "source": "Geeks for Geeks",
+        "link": "https://practice.geeksforgeeks.org/courses/dsa-self-paced"
       }
     ]
   },
