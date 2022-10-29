@@ -1332,6 +1332,17 @@
     ]
   },
   {
+    "title": "Typescript",
+    "cards": [
+      {
+        "icon": "fa-solid fa-t",
+        "name": "Typescript free course",
+        "source": "Mind Luster",
+        "link": "https://www.mindluster.com/certificate/242"
+      },
+    ]
+  },
+  {
     "title": "UI/UX",
     "cards": [
       {
