@@ -929,6 +929,14 @@ https://www.coursera.org/learn/analytics-tableau
 </details>
 
 <details>
+<summary>Typescript</summary>
+<br>
+Mind Luster TypeScript Course Online For Free tutorial With Certificate<br>
+Website-https://www.mindluster.com/certificate/242<br>
+<br>
+</details>
+
+<details>
 <summary>UI/UX</summary>
 <br>
 GREAT LEARNING ACADEMY- UI/UX<br>
