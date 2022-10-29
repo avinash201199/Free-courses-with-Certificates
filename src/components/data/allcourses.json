@@ -22,6 +22,12 @@
       },
       {
         "icon": "fab fa-android",
+        "name": "C++ Programming in Hindi",
+        "source": "Great Learning",
+        "link": "https://www.mygreatlearning.com/academy/courses/2705223/14546#?utm_source=share_with_friends"
+      },
+      {
+        "icon": "fab fa-android",
         "name": "Learn Android Application Development",
         "source": "Udemy",
         "link": "https://www.udemy.com/course/learn-android-application-development-y/"
