@@ -1436,6 +1436,12 @@
         "link": "https://www.freecodecamp.org/learn/responsive-web-design/"
       },
       {
+        "icon": "fab fa-angular",
+        "name": "Full Stack Development By Newton School",
+        "source": "Newton School",
+        "link": "https://my.newtonschool.co/course/sgo3yt59mul2/timeline/"
+      },
+      {
         "icon": "fa-solid fa-laptop-code",
         "name": "Front end developement libraries : React",
         "source": "FreeCodeCamp",

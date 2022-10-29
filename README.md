@@ -995,6 +995,10 @@ Front end developement libraries : React
 <br>
 website : https://www.freecodecamp.org/learn/front-end-development-libraries/
 <br>
+<br>
+Full Stack Web Development - Newton School<br>
+Website- https://my.newtonschool.co/course/sgo3yt59mul2/timeline/<br>
+<br>
 
 </details>
 
