@@ -445,6 +445,10 @@ Website-=
 <details>
 <summary>Data Structure & Algorithm</summary>
 <br>
+Jovian- Data Structure & Algorithms in Python<br>
+Website-https://jovian.ai/learn/data-structures-and-algorithms-in-python<br>
+<br>
+<br>
 GREAT LEARNING ACADEMY- Data Structure & Algorithms in Java for Intermediate Level<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/master-data-structure-algorithms-in-java<br>
 <br>
