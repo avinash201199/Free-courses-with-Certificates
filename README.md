@@ -261,6 +261,11 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginn
 <summary> Google Cloud </summary>
 <br> 30 Days of Google Cloud <br>
 Website - https://events.withgoogle.com/30daysofgooglecloud/#content <br>
+<br> Google Cloud Platform for Beginners<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/google-cloud-platform-for-beginners1 <br>
+<br> Google Cloud Pro (in Italian)<br>
+Website - https://extra.codemotion.com/google-cloud-pro-corsi/ <br>
+<br>
 </details>
 
 <details>
@@ -445,6 +450,10 @@ Website-=
 <details>
 <summary>Data Structure & Algorithm</summary>
 <br>
+Jovian- Data Structure & Algorithms in Python<br>
+Website-https://jovian.ai/learn/data-structures-and-algorithms-in-python<br>
+<br>
+<br>
 GREAT LEARNING ACADEMY- Data Structure & Algorithms in Java for Intermediate Level<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/master-data-structure-algorithms-in-java<br>
 <br>
@@ -482,6 +491,10 @@ Website - https://devopswithdocker.com <br>
 <br>
 Introduction to Flutter<br>
 Website-https://www.simplilearn.com/free-flutter-foundation-course-skillup<br>
+<br>
+<br>
+Flutter - A Beginners Course<br>
+Website-https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944127399116801912_shared/overview<br>
 <br>
 </details>
 
@@ -912,6 +925,10 @@ Website - https://www.kaggle.com/learn/intro-to-sql <br>
 Udemy - Swift iOS Developer<br>
 Website-https://www.udemy.com/course/the-complete-ios-10-developer-course/<br>
 <br>
+<br>
+Hacking with Swift - 100 days with SwiftUI<br>
+Website-https://www.hackingwithswift.com/100/swiftui/<br>
+<br>
 </details>
 
 <details>
@@ -927,6 +944,14 @@ https://www.udacity.com/course/data-visualization-in-tableau--ud1006
 <br>
 COURSERA- Data Visualization and Communication with Tableau<br>
 https://www.coursera.org/learn/analytics-tableau
+<br>
+</details>
+
+<details>
+<summary>Typescript</summary>
+<br>
+Mind Luster TypeScript Course Online For Free tutorial With Certificate<br>
+Website-https://www.mindluster.com/certificate/242<br>
 <br>
 </details>
 
@@ -996,6 +1021,10 @@ website : https://www.freecodecamp.org/learn/responsive-web-design/<br>
 Front end developement libraries : React
 <br>
 website : https://www.freecodecamp.org/learn/front-end-development-libraries/
+<br>
+<br>
+Full Stack Web Development - Newton School<br>
+Website- https://my.newtonschool.co/course/sgo3yt59mul2/timeline/<br>
 <br>
 
 </details>
