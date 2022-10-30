@@ -739,6 +739,12 @@
         "name": "Docker for Intermediate Level",
         "source": "Great learning",
         "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/docker-for-intermediate-level"
+      },
+      {
+        "icon": "fab fa-docker",
+        "name": "Getting Started with Kubernetes",
+        "source": "KubeAcademy",
+        "link": "https://kube.academy/courses/getting-started"
       }
     ]
   },
