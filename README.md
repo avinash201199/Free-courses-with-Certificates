@@ -1071,7 +1071,7 @@ Website-https://www.codingninjas.com/codestudio/guided-paths/basics-of-react<br>
 CodeStudio- Basics of Angular<br>
 Website-https://www.codingninjas.com/codestudio/guided-paths/basics-of-angular<br>
 <br>
-Meta Front-End- Developer Professional Certificater<br>
+Meta FrontEnd- Developer Professional Certificater<br>
 Website-https://www.coursera.org/professional-certificates/meta-front-end-developer<br>
 <br>
 </details>
