@@ -1305,6 +1305,12 @@
         "name": "Swift iOS Developer",
         "source": "Udemy",
         "link": "https://www.udemy.com/course/the-complete-ios-10-developer-course/"
+      },
+      {
+        "icon": "fab fa-swift",
+        "name": "100 days with SwiftUI",
+        "source": "Hacking with Swift",
+        "link": "https://www.hackingwithswift.com/100/swiftui"
       }
     ]
   },
