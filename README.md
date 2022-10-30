@@ -1114,3 +1114,18 @@ Best Practices of Social Media Marketing<br>
 Website-https://www.learnmall.in/play/become-a-social-media-manager-part-1/ <br>
 <br>
 </details>
+
+
+
+
+<details>
+<summary>Web 3.0 and  Blockchain </summary>
+<br>
+Web 3.0, Blockchain, Smart Contracts & Crypto Practice Tests<br>
+Website-https://www.udemy.com/course/web3-blockchain-smartcontracts-crypto-practice-tests/?couponCode=BLACKFRIDAY<br>
+<br>
+ 
+</details>
+
+
+

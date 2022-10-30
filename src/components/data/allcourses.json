@@ -1672,5 +1672,17 @@
         "link": "https://www.celigo.com/university/"
       }
     ]
+  },
+  {
+    "title": "Web 3.0 and  Blockchain",
+    "cards": [
+      {
+        "icon": "fa-brands fa-android",
+        "name": "Web 3.0, Blockchain, Smart Contracts & Crypto Practice Tests",
+        "source": "Udemy",
+        "link": "https://www.udemy.com/course/web3-blockchain-smartcontracts-crypto-practice-tests/?couponCode=BLACKFRIDAY"
+      }
+    ]
   }
+
 ]
