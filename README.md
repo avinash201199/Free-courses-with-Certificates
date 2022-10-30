@@ -261,6 +261,11 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginn
 <summary> Google Cloud </summary>
 <br> 30 Days of Google Cloud <br>
 Website - https://events.withgoogle.com/30daysofgooglecloud/#content <br>
+<br> Google Cloud Platform for Beginners<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/google-cloud-platform-for-beginners1 <br>
+<br> Google Cloud Pro (in Italian)<br>
+Website - https://extra.codemotion.com/google-cloud-pro-corsi/ <br>
+<br>
 </details>
 
 <details>
@@ -914,6 +919,10 @@ Website - https://www.kaggle.com/learn/intro-to-sql <br>
 Udemy - Swift iOS Developer<br>
 Website-https://www.udemy.com/course/the-complete-ios-10-developer-course/<br>
 <br>
+<br>
+Hacking with Swift - 100 days with SwiftUI<br>
+Website-https://www.hackingwithswift.com/100/swiftui/<br>
+<br>
 </details>
 
 <details>
@@ -998,6 +1007,10 @@ website : https://www.freecodecamp.org/learn/responsive-web-design/<br>
 Front end developement libraries : React
 <br>
 website : https://www.freecodecamp.org/learn/front-end-development-libraries/
+<br>
+<br>
+Full Stack Web Development - Newton School<br>
+Website- https://my.newtonschool.co/course/sgo3yt59mul2/timeline/<br>
 <br>
 
 </details>

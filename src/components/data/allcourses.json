@@ -1311,6 +1311,12 @@
         "name": "Swift iOS Developer",
         "source": "Udemy",
         "link": "https://www.udemy.com/course/the-complete-ios-10-developer-course/"
+      },
+      {
+        "icon": "fab fa-swift",
+        "name": "100 days with SwiftUI",
+        "source": "Hacking with Swift",
+        "link": "https://www.hackingwithswift.com/100/swiftui"
       }
     ]
   },
@@ -1440,6 +1446,12 @@
         "name": "Responsive web design by freeCodeCamp",
         "source": "FreeCodeCamp",
         "link": "https://www.freecodecamp.org/learn/responsive-web-design/"
+      },
+      {
+        "icon": "fab fa-angular",
+        "name": "Full Stack Development By Newton School",
+        "source": "Newton School",
+        "link": "https://my.newtonschool.co/course/sgo3yt59mul2/timeline/"
       },
       {
         "icon": "fa-solid fa-laptop-code",
@@ -1596,6 +1608,12 @@
         "name": "Startup Cloud Engineer Learning Path",
         "source": "Google Cloud Skills Boost",
         "link": "https://www.cloudskillsboost.google/paths/31"
+      },
+      {
+        "icon": "fa-duotone fa-clouds",
+        "name": "Google Cloud Pro (in Italian)",
+        "source": "TIM",
+        "link": "https://extra.codemotion.com/google-cloud-pro-corsi/"
       }
     ]
   },
