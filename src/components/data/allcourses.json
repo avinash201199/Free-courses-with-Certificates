@@ -1236,6 +1236,15 @@
     "link": "https://www.sololearn.com/learning/1081"
   }]
 },
+ {
+  "title": "Rust",
+  "cards": [{
+    "icon": "fa-brands fa-rust",
+    "name": "Rust",
+    "source": "Educative",
+    "link": "https://www.educative.io/courses/learn-rust-from-scratch"
+  }]
+},
 {
   "title": "SQL",
   "cards": [{
