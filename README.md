@@ -894,6 +894,16 @@ Website-https://www.udemy.com/course/ruby-tutorial-for-beginners/<br>
 </details>
 
 <details>
+<summary>Rust</summary>
+<br>
+Educative - Rust
+<br>
+Learn Rust from Scratch <br>
+Website- https://www.educative.io/courses/learn-rust-from-scratch<br>
+<br>
+</details>
+
+<details>
   <summary>Software Testing</summary>
   <br>
   Udemy - Test Automation using Selenium<br>
