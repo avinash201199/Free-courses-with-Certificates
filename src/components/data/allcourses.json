@@ -490,6 +490,12 @@
       "link": "https://skillsforall.com/career-path/cybersecurity"
     },
     {
+      "icon": "far fa-shield-alt",
+      "name": "Advanced Penetration Testing",
+      "source": "Cybrary",
+      "link": "https://www.cybrary.it/course/advanced-penetration-testing/"
+    },
+    {
       "icon": "fa-solid fa-shield-halved",
       "name": "Getting Started with Self-Sovereign Identity",
       "source": "Linux Foundation",
@@ -1234,15 +1240,6 @@
     "name": "Ruby",
     "source": "Sololearn",
     "link": "https://www.sololearn.com/learning/1081"
-  }]
-},
- {
-  "title": "Rust",
-  "cards": [{
-    "icon": "fa-brands fa-rust",
-    "name": "Rust",
-    "source": "Educative",
-    "link": "https://www.educative.io/courses/learn-rust-from-scratch"
   }]
 },
 {
