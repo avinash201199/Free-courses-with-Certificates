@@ -325,7 +325,13 @@
         "name": "Start your web3 journey",
         "source": "metaschool",
         "link": "https://metaschool.so/"
-      }
+      },
+	{
+        "icon": "fab fa-hive",
+        "name": "Learn me a bitcoin",
+        "source": "learnmeabitcoin",
+        "link": "https://learnmeabitcoin.com/"
+      },
     ]
   },
   {
