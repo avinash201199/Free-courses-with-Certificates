@@ -358,6 +358,9 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/ethical-hac
 Information Security<br>
 Website-https://www.freecodecamp.org/learn/information-security/<br>
 <br>
+Advanced Penetration Testing<br>
+Website- https://www.cybrary.it/course/advanced-penetration-testing/<br>
+<br>
 Linux Foundation- Getting Started with Self-Sovereign Identity<br>
 Website- https://training.linuxfoundation.org/training/getting-started-with-self-sovereign-identity-lfs178x/<br>
 <br>
