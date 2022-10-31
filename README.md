@@ -932,6 +932,18 @@ Website-https://www.udemy.com/course/the-complete-ios-10-developer-course/<br>
 Hacking with Swift - 100 days with SwiftUI<br>
 Website-https://www.hackingwithswift.com/100/swiftui/<br>
 <br>
+<br>
+Hacking with Swift - 100 days with Swift<br>
+Website-https://www.hackingwithswift.com/100<br>
+<br>
+<br>
+Ray Wenderlich iOS Tutorial<br>
+Website-https://www.udemy.com/course/the-complete-ios-10-developer-course/<br>
+<br>
+<br>
+AppCoda Complete iOS Tutorial<br>
+Website-http://www.appcoda.com/ios-programming-course/<br>
+<br>
 </details>
 
 <details>
