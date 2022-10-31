@@ -476,6 +476,12 @@
       "name": "Become an Ethical Hacker",
       "source": "Great Learning Academy",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/become-an-ethical-hacker"
+    }, 
+    {
+      "icon": "far fa-shield-alt",
+      "name": "web security training from portswigger",
+      "source": "Portswigger Web Security Academy",
+      "link": "https://portswigger.net/web-security"
     },
     {
       "icon": "far fa-shield-alt",
