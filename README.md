@@ -115,6 +115,11 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/introduct
 Great Learning- Become an Ethical Hacker <br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/become-an-ethical-hacker<br>
 <br>
+ <br>
+online web security training from the creators of Burp Suite<br>
+Website- https://portswigger.net/web-security<br>
+<br>
+
 </details>
 
 <details>
