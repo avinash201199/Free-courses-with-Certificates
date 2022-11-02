@@ -472,6 +472,10 @@ Website-https://www.upgrad.com/us/free-courses/<br>
  Geeks for Geeks- Data Structures and Algorithms - Self Paced<br>
  Website- https://practice.geeksforgeeks.org/courses/dsa-self-paced<br>
 <br>
+<br>
+ Intro to Data Structures and Algorithms (in Python) by Google<br>
+ Website- https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513<br>
+<br>
 </details>
 
 <details>
