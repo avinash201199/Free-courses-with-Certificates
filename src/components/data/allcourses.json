@@ -673,6 +673,12 @@
       "name": "Data Structures and Algorithms - Self Paced",
       "source": "Geeks for Geeks",
       "link": "https://practice.geeksforgeeks.org/courses/dsa-self-paced"
+    },
+    {
+      "icon": "fab fa-algolia",
+      "name": "Intro to Data Structures and Algorithms (in Python) by Google",
+      "source": "Udacity",
+      "link": "https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513"
     }
   ]
 },
