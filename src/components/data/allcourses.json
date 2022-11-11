@@ -1514,15 +1514,6 @@
   "title": "Jenkins",
   "cards": [{
     "icon": "fa-brands fa-jenkins",
-    "name": "Building NETFLIX Clone using Reactr",
-    "source": "LetsUpgrade",
-    "link": "https://letsupgrade.in/programs/ess-netflix-project?invite=yashk9293849"
-  }]
-},
-{
-  "title": "Jenkins",
-  "cards": [{
-    "icon": "fa-brands fa-jenkins",
     "name": "Certified Jenkins Engineer",
     "source": "Cloudbees University",
     "link": "https://www.cloudbees.com/jenkins/certification"
