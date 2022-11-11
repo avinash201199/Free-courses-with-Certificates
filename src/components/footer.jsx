@@ -3,7 +3,7 @@ import React from 'react'
 export default function Footer() {
   return (
     <div className='footer'>
-      Made by Avinash & Vansh<a target='_blank' href='https://www.linkedin.com/company/lets-code-forever/'><i class="fa fa-linkedin-square"></i></a>
+      Made by <a href='https://www.linkedin.com/in/avinash-singh-071b79175/'>Avinash </a> & <a href='https://twitter.com/v4nshhh'>Vansh </a>
     </div>
   )
 }
