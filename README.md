@@ -1005,9 +1005,6 @@ Website-https://www.futurelearn.com/courses/digital-skills-user-experience<br>
 UI/UX Design for Beginners<br>
 Website-https://www.udemy.com/course/uxui-design-for-beginners/<br>
  <br>
- Future Learn-Digital Skills: User Experience<br>
- Website-https://www.futurelearn.com/courses/digital-skills-user-experience<br>
- <br>
 </details>
 
 <details>
