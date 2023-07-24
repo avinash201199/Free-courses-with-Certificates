@@ -335,7 +335,9 @@ Website-https://www.careers360.com/university/indian-institute-of-technology-kha
 Google Cloud training by qwiklabs and google<br>
 Website-https://cloud.google.com/certification<br>
 <br>
-
+GeeksforGeeks - Cloud Bootcamp - Sponsored by Google for Developers<br>
+Website - https://www.geeksforgeeks.org/courses/google-cloud-tech-program<br>
+<br>
 </details>
 
 <details>
