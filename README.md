@@ -476,6 +476,10 @@ Website-https://www.upgrad.com/us/free-courses/<br>
  Intro to Data Structures and Algorithms (in Python) by Google<br>
  Website- https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513<br>
 <br>
+ <br>
+ JavaScript Algorithms and Data Structures by freeCodeCamp <br>
+ Website- https://www.classcentral.com/course/freecodecamp-javascript-algorithms-and-data-struc-34060<br>
+<br>
 </details>
 
 <details>
