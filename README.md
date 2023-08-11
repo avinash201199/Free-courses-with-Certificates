@@ -456,7 +456,6 @@ Website-=
 Jovian- Data Structure & Algorithms in Python<br>
 Website-https://jovian.ai/learn/data-structures-and-algorithms-in-python<br>
 <br>
-<br>
 GREAT LEARNING ACADEMY- Data Structure & Algorithms in Java for Intermediate Level<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/master-data-structure-algorithms-in-java<br>
 <br>
@@ -472,9 +471,11 @@ Website-https://www.upgrad.com/us/free-courses/<br>
  Geeks for Geeks- Data Structures and Algorithms - Self Paced<br>
  Website- https://practice.geeksforgeeks.org/courses/dsa-self-paced<br>
 <br>
-<br>
  Intro to Data Structures and Algorithms (in Python) by Google<br>
  Website- https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513<br>
+<br>
+ JavaScript Algorithms and Data Structures by freeCodeCamp <br>
+ Website- https://www.classcentral.com/course/freecodecamp-javascript-algorithms-and-data-struc-34060<br>
 <br>
 </details>
 

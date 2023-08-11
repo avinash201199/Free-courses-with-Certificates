@@ -679,6 +679,12 @@
       "name": "Intro to Data Structures and Algorithms (in Python) by Google",
       "source": "Udacity",
       "link": "https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513"
+    },
+    {
+      "icon": "fab fa-algolia",
+      "name": "JavaScript Algorithms and Data Structures by freecodecamp",
+      "source": "Class Central",
+      "link": "https://www.classcentral.com/course/freecodecamp-javascript-algorithms-and-data-struc-34060"
     }
   ]
 },
