@@ -1168,7 +1168,14 @@
       "name": "Python Free Online Course",
       "source": "Upgrad",
       "link": "https://www.upgrad.com/blog/python-free-online-course/"
+    },
+   {
+      "icon": "fab fa-python",
+      "name": "Python ",
+      "source": "GUVI",
+      "link": "https://www.guvi.in/courses-video/?course=pythonEng"
     }
+    
   ]
 },
 {
