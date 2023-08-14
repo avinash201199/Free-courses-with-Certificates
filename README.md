@@ -816,9 +816,12 @@ Website -https://www.edx.org/
 Simplilearn - Introduction to Programming with Python 3x <br>
 Website - https://www.simplilearn.com/free-python-programming-course-skillup<br>
 <br>
-<br>
+
 Kaggle - Intro to Python <br>
 Website - https://www.kaggle.com/learn/python <br>
+<br>
+GUVI -  Python <br>
+Website - https://www.guvi.in/courses-video/?course=pythonEng <br>
 <br>
 
 </details>
