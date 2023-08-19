@@ -624,6 +624,12 @@
       "name": "JOVIAN's courses on Data Science and Machine Learning",
       "source": "Jovian",
       "link": "https://www.jovian.ai/"
+    },
+     {
+      "icon": "fa-solid fa-asterisk",
+      "name": "Build a Face Recognition Application using Python ",
+      "source": "GUVI",
+      "link": "https://www.guvi.in/courses-video/?course=aiforindiaenglishhandson "
     }
   ]
 },

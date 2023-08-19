@@ -432,6 +432,7 @@ Website-https://www.classcentral.com/course/datacamp-intro-to-python-for-data-sc
 Check more courses related to Data Science on Great Learning Academy<br>
 Website-https://www.greatlearning.in/academy#our-courses
 <br>
+<br>
  JOVIAN's courses on Data Science and Machine Learning <br>
   Website-https://www.jovian.ai/
   <br>
@@ -439,6 +440,10 @@ Website-https://www.greatlearning.in/academy#our-courses
  Geospatial Analysis by Kaggle <br>
   Website-https://www.kaggle.com/learn/geospatial-analysis
   <br>
+ <br>
+ Build a Face Recognition Application using Python<br>
+ Website-https://www.guvi.in/courses-video/?course=aiforindiaenglishhandson
+ <br>
 </details>
 
 <details>
