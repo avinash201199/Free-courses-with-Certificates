@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
   background-color: #F0F0FF;
 }
@@ -9,13 +13,16 @@
   box-sizing: border-box;
 }
 
-button, button:active {
-  background: none;
-  cursor: auto;
-  border: none;
-  outline: none;
+
+
+ul,
+ol,
+li {
+  padding: 0;
 }
 
-ul, ol, li {
-  padding: 0;
+.close-search-btn {
+  margin: 0 0 0 10px;
+  padding: 2px 5px;
+  font-size: 15px;
 }

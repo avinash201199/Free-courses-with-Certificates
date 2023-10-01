@@ -1,32 +1,37 @@
-import React from 'react'
-import Collapsible from 'react-collapsible';
-import courses from '../components/data/allcourses.json'
+import React from "react";
+import Collapsible from "react-collapsible";
+import courses from "../components/data/allcourses.json";
 
 const Data = courses.map((data) => {
   return (
-    <Collapsible trigger={data.title} className='collapse-main' transitionTime='100'>
+    <Collapsible
+      trigger={data.title}
+      className="collapse-main"
+      transitionTime="100"
+    >
       {data.cards.map((card) => {
         return (
-          <div className='col-lg-4 featured-card' style={{ width: "100%" }}>
+          <div className="col-lg-4 featured-card" style={{ width: "100%" }}>
             <div className="card-icon-title">
               <div className="card-icon">
                 <i class={card.icon}></i>
               </div>
-              <div className="card-title"><b>{card.name}</b></div>
-            </div>
-            <div className="card-desc">
-              Source: {card.source}
+              <div className="card-title">
+                <b>{card.name}</b>
+              </div>
             </div>
             <div className="card-price-button">
               <div className="card-price">Price: Free</div>
-              <a className="card-button" href={card.link}>Go to Course</a>
+              <a className="card-button" href={card.link}>
+                Go to Course
+              </a>
             </div>
           </div>
-        )
+        );
       })}
     </Collapsible>
-  )
-})
+  );
+});
 
 export default function allcourse() {
   return (
@@ -37,5 +42,5 @@ export default function allcourse() {
         <br />
       </div>
     </div>
-  )
+  );
 }

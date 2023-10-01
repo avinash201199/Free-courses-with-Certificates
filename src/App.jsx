@@ -1,4 +1,5 @@
 import "./App.css";
+import "./index.css";
 import Main from "../src/components/main";
 import Nav from "../src/components/navbar";
 import SideMenu from "../src/components/sidemenu";
@@ -11,7 +12,7 @@ function App() {
 
   const toggleSideMenu = () => {
     inactive(!active);
-    console.log("yo");
+    // console.log("yo");
   };
 
   return (
