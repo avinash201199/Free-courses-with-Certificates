@@ -11,7 +11,7 @@ function App() {
 
   const toggleSideMenu = () => {
     inactive(!active);
-    console.log("yo");
+    // console.log("yo");
   };
 
   return (

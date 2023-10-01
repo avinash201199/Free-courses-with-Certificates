@@ -153,20 +153,20 @@ nav {
     margin: 0px !important;
 }
 
-.search-card-items > * {
+.search-card-items>* {
     margin: 0px !important;
     padding: 0px !important;
-    transform: translate(0,0) scale(0.95) !important;
+    transform: translate(0, 0) scale(0.95) !important;
     transition: all .3s ease;
     background: none !important;
     box-shadow: none !important;
     border-radius: 0px !important;
 }
 
-.search-card-items > *:hover {
+.search-card-items>*:hover {
     background-color: #219bff !important;
     color: #fff !important;
-    transform: translate(0,0) scale(0.95) !important;
+    transform: translate(0, 0) scale(0.95) !important;
     border-radius: 0px !important;
 }
 
@@ -174,7 +174,7 @@ nav {
 
 } */
 
-.search-card-items > * > .card-price-button > .card-button {
+.search-card-items>*>.card-price-button>.card-button {
     width: 100% !important;
     text-align: center !important;
     padding: 10px 20px;
@@ -187,12 +187,12 @@ nav {
     font-size: 0.9rem;
 }
 
-.search-card-items > *:hover .card-button {
+.search-card-items>*:hover .card-button {
     color: #fff !important;
     background: #219bff !important;
 }
 
-.search-card-items > * > .card-price-button > .card-title {
+.search-card-items>*>.card-price-button>.card-title {
     text-align: left !important;
     width: 200px;
 }
@@ -318,7 +318,8 @@ nav {
     margin-bottom: 20px;
 }
 
-.collapse-main > span, .is-open {
+.collapse-main>span,
+.is-open {
     font-size: 1.1rem;
     width: 88% !important;
     display: block;
@@ -336,8 +337,9 @@ nav {
     box-shadow: 0 0 10px rrgb(177, 177, 177);
 }
 
-.collapse-main > span:hover,
-.collapse-main > span, .is-open {
+.collapse-main>span:hover,
+.collapse-main>span,
+.is-open {
     background: #219bff;
     color: #fff;
 }
@@ -357,6 +359,12 @@ nav {
     background: #fff;
     text-align: center;
     padding: 20px 30px;
+}
+
+.close-search-btn {
+    margin: 0 0 0 10px;
+    padding: 2px 5px;
+    font-size: 15px;
 }
 
 /* Media Queries */
@@ -448,7 +456,7 @@ nav {
     .menu-nav-bar {
         display: block;
         cursor: pointer;
-    }  
+    }
 
     nav {
         padding: 20px 30px;
@@ -479,7 +487,7 @@ nav {
         margin-bottom: 8px;
     }
 
-    .sidemenu-bar-items > * {
+    .sidemenu-bar-items>* {
         font-size: 1rem !important;
     }
 }
