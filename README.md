@@ -725,9 +725,6 @@ Website- https://geek-university.com/course/mysql-course/<br>
 SIMPLILEARN - Getting started with NodeJS<br>
 Website : https://www.simplilearn.com/learn-nodejs-basics-free-course-skillup<br>
 <br>
-COURSERA - Server-side Development with NodeJS, Express and MongoDB<br>
-Website : https://www.coursera.org/learn/server-side-nodejs?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-BhGyVRqGfwfzbqKem2Q0Aw&siteID=JVFxdTr9V80-BhGyVRqGfwfzbqKem2Q0Aw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80<br>
-<br>
 UpGRAD - Node JS Free Online Course with Certification<br>
 Website : https://www.upgrad.com/blog/node-js-free-online-course/<br>
 <br>

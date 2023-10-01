@@ -1022,12 +1022,6 @@
     },
     {
       "icon": "fab fa-node-js",
-      "name": "Server-side Development with NodeJS, Express and MongoDB",
-      "source": "Coursera",
-      "link": "https://www.coursera.org/learn/server-side-nodejs?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-BhGyVRqGfwfzbqKem2Q0Aw&siteID=JVFxdTr9V80-BhGyVRqGfwfzbqKem2Q0Aw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80"
-    },
-    {
-      "icon": "fab fa-node-js",
       "name": "Node JS Free Online Course with Certification",
       "source": "upGrad",
       "link": "https://www.upgrad.com/blog/node-js-free-online-course/"
