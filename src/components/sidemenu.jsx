@@ -2,6 +2,8 @@ import React, { useState } from "react";
 
 import { X } from "lucide-react";
 import { Link } from "react-router-dom";
+import "../styles/sidemenu.css";
+
 export default function sidemenu(props) {
   const isActive = props.active;
 

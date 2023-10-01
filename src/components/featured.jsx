@@ -1,5 +1,6 @@
 import React from "react";
 import featuredData from "../components/data/featured.json";
+import "../styles/featured.css";
 
 const Data = featuredData.map((data) => {
   return (

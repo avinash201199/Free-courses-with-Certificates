@@ -1,0 +1,39 @@
+.Collapsible {
+  margin-bottom: 20px;
+}
+
+.collapse-main > span,
+.is-open {
+  font-size: 1.1rem;
+  width: 88% !important;
+  display: block;
+  padding: 20px 40px;
+  transition: all 0.2s ease;
+  text-transform: uppercase;
+  background: #fff;
+  margin: 0 auto;
+  border-top: 1px solid rgb(177, 177, 177);
+  border-left: 1px solid rgb(177, 177, 177);
+  border-right: 1px solid rgb(177, 177, 177);
+  border-radius: 20px 20px 0 0;
+  z-index: 2;
+  overflow: hidden;
+  box-shadow: 0 0 10px rrgb(177, 177, 177);
+}
+
+.collapse-main > span:hover,
+.collapse-main > span,
+.is-open {
+  background: #219bff;
+  color: #fff;
+}
+
+.Collapsible__contentOuter {
+  background: #fff;
+  width: 88%;
+  margin: 0 auto;
+}
+
+.Collapsible__contentInner {
+  padding: 20px 40px;
+}

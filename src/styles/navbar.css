@@ -1,0 +1,142 @@
+nav {
+  width: 100vw;
+  /* position: absolute;
+    right: 0; */
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+
+  background: #fff;
+
+  padding: 30px 120px;
+  box-shadow: 0 0 20px rgb(212, 212, 212);
+}
+
+.title-nav {
+  display: none;
+}
+
+.menu-nav-bar {
+  display: none;
+}
+
+.search-bar {
+  position: relative;
+}
+
+.search-bar-input {
+  outline: none;
+  border: none;
+  border-bottom: 1px solid rgb(212, 212, 212);
+  width: 150px;
+}
+
+.search-bar-placeholder {
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.search-bar-input:focus + .search-bar-submit {
+  font-size: 0.7rem;
+}
+
+.search-bar-submit,
+.search-bar-submit:hover,
+.search-bar-submit:focus {
+  transition: all 0.2s ease;
+  background: #216fff;
+  box-shadow: none;
+  outline: none;
+  border: none;
+  color: #fff;
+  padding: 1px 5px;
+  border-radius: 3px;
+  margin-left: 7px;
+}
+
+.search-bar-area {
+  position: absolute;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  max-height: 20vh;
+  margin-top: 50px;
+  width: auto;
+  padding: 10px;
+  border-radius: 5px;
+  z-index: 10000;
+  background: #fff;
+  box-shadow: 0 10px 20px rgba(110, 110, 110, 0.226);
+  scrollbar-gutter: auto;
+  border-radius: 10px;
+}
+
+.search-card-items {
+  width: 100%;
+  font-size: 0.8rem !important;
+  padding: 0px !important;
+  margin: 0px !important;
+}
+
+.search-card-items > * {
+  margin: 0px !important;
+  padding: 0px !important;
+  transform: translate(0, 0) scale(0.95) !important;
+  transition: all 0.3s ease;
+  background: none !important;
+  box-shadow: none !important;
+  border-radius: 0px !important;
+}
+
+.search-card-items > *:hover {
+  background-color: #219bff !important;
+  color: #fff !important;
+  transform: translate(0, 0) scale(0.95) !important;
+  border-radius: 0px !important;
+}
+
+/* .search-card-items > * > .card-price-button {
+
+} */
+
+.search-card-items > * > .card-price-button > .card-button {
+  width: 100% !important;
+  text-align: center !important;
+  padding: 10px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+  color: rgb(80, 80, 80);
+  font-size: 0.9rem;
+}
+
+.search-card-items > *:hover .card-button {
+  color: #fff !important;
+  background: #219bff !important;
+}
+
+.search-card-items > * > .card-price-button > .card-title {
+  text-align: left !important;
+  width: 200px;
+}
+
+.activate {
+  display: block !important;
+}
+
+.deactivate {
+  display: none !important;
+}
+
+.nav-left-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-left-flex > * {
+  margin: 0 10px;
+  color: rgb(128, 128, 128);
+  cursor: pointer;
+}

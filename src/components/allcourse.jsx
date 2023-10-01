@@ -1,6 +1,7 @@
 import React from "react";
 import Collapsible from "react-collapsible";
 import courses from "../components/data/allcourses.json";
+import "../styles/allcourse.css";
 
 const Data = courses.map((data) => {
   return (
