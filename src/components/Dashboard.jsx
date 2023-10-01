@@ -11,11 +11,11 @@ export default function Dashboard() {
   console.log(dashBoardData);
   return (
     <>
-      <Card className="margin-left-for-fixed">
+      <Card className="margin-left-for-fixed w-10/12">
         <Title>Number of courses</Title>
         <Subtitle></Subtitle>
         <BarChart
-          className="mt-6"
+          className="mt-6 w-mw-100"
           data={dashBoardData}
           index="name"
           categories={["Number Of Courses"]}
