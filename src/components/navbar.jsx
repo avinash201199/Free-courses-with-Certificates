@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../App.css";
+
 import json from "../components/data/allcourses.json";
 import { Button } from "react-bootstrap";
 import OutsideAlerter from "./Outsideclick";

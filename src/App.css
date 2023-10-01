@@ -365,6 +365,8 @@ nav {
     margin: 0 0 0 10px;
     padding: 2px 5px;
     font-size: 15px;
+    background-color: red;
+    color: white
 }
 
 /* Media Queries */
