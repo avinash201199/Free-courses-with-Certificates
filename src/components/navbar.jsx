@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 
-import json from "../components/data/allcourses.json";
+import json from "./data/allcourses.json";
 import { Button } from "react-bootstrap";
 import OutsideAlerter from "./Outsideclick";
-export default function navbar(props) {
+export default function Navbar(props) {
   const [searchTerm, setSearchTerm] = useState("");
   const [searchResults, showSearch] = useState(0);
 
@@ -88,15 +88,14 @@ export default function navbar(props) {
               Clear
             </label>
           </button>
-          {searchResults ? (
-            <Button
-              variant="danger"
-              className="close-search-btn"
-              onClick={closeSearch}
-            >
-              close search
-            </Button>
-          ) : null}
+
+          <button
+            className="close-search-btn"
+            onClick={closeSearch}
+            style={{ visibility: searchResults ? "visible" : "hidden" }}
+          >
+            close search
+          </button>
         </div>
       </OutsideAlerter>
       <div className="nav-left-flex hide-item">
