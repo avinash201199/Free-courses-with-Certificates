@@ -3,6 +3,8 @@ import React, { useState } from "react";
 import json from "./data/allcourses.json";
 import { Button } from "react-bootstrap";
 import OutsideAlerter from "./Outsideclick";
+import "../styles/navbar.css";
+
 export default function Navbar(props) {
   const [searchTerm, setSearchTerm] = useState("");
   const [searchResults, showSearch] = useState(0);

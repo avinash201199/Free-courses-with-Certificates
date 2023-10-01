@@ -1,6 +1,7 @@
 import React from "react";
 import Featured from "./featured";
 import AllCourse from "./allcourse";
+import "../styles/main.css";
 
 export default function main(props) {
   return (
