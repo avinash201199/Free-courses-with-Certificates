@@ -141,16 +141,19 @@ nav {
 
 .search-bar-area {
     position: absolute;
-    overflow: scroll;
+    overflow-y: scroll;
+    overflow-x: hidden;
     max-height: 20vh;
-    margin-top: 0px;
+    margin-top: 50px;
     width: auto;
-    padding: 5px 0;
+    padding: 10px;
     border-radius: 5px;
     z-index: 10000;
     background: #fff;
     box-shadow: 0 10px 20px rgba(110, 110, 110, 0.226);
     scrollbar-gutter: auto;
+    border-radius: 10px;
+
 }
 
 .search-card-items {
@@ -373,8 +376,38 @@ nav {
     padding: 2px 5px;
     font-size: 15px;
     background-color: red;
-    color: white
+    color: white;
+    border-radius: 5px;
+
+
+
+
+
 }
+
+
+.search-bar-area::-webkit-scrollbar-track {
+
+    background-color: #F5F5F5;
+}
+
+.search-bar-area::-webkit-scrollbar {
+    width: 10px;
+    background-color: #F5F5F5;
+
+}
+
+.search-bar-area::-webkit-scrollbar-thumb {
+    background-color: #0ae;
+
+    background-image: -webkit-gradient(linear, 0 0, 0 100%,
+            color-stop(.5, rgba(255, 255, 255, .2)),
+            color-stop(.5, transparent), to(transparent));
+}
+
+
+
+
 
 /* Media Queries */
 

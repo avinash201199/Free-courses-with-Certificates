@@ -24,7 +24,7 @@ export default function Navbar(props) {
         </span>
       </div>
       <OutsideAlerter closeSearch={handleClick}>
-        <div className="search-bar">
+        <div className="search-bar flex justify-between">
           <input
             type="text"
             className="search-bar-input"
@@ -39,7 +39,7 @@ export default function Navbar(props) {
             <div className="search-bar-area" onBlur={() => showSearch(0)}>
               {json.map((val, key) => {
                 return (
-                  <div style={{ margin: "0" }}>
+                  <div className="search-bar-children">
                     {val.cards
                       .filter((val) => {
                         if (searchTerm == "") return val;
