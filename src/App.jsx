@@ -1,28 +1,61 @@
-import "./App.css";
-import "./index.css";
-import Main from "../src/components/main";
-import Nav from "../src/components/navbar";
-import SideMenu from "../src/components/sidemenu";
-import TitleTop from "../src/components/titleTop";
-import { useState } from "react";
+import { Link, BrowserRouter, Routes, Route, Outlet } from "react-router-dom";
 
-function App() {
-  const [active, inactive] = useState(false);
-  const [query, setQuery] = useState("");
+import Layout from "./components/Layout";
+import Dashboard from "./components/Dashboard";
+// function App() {
 
-  const toggleSideMenu = () => {
-    inactive(!active);
-    // console.log("yo");
-  };
+//   return (
+//     <>
+//       <TitleTop />
+//       <Nav toggleSideMenu={toggleSideMenu} setQuery={setQuery} />
+//       <Main query={query} />
+//       <SideMenu active={active} toggleSideMenu={toggleSideMenu} />
+//     </>
+//   );
+// }
 
-  return (
-    <>
-      <TitleTop />
-      <Nav toggleSideMenu={toggleSideMenu} setQuery={setQuery} />
-      <Main query={query} />
-      <SideMenu active={active} toggleSideMenu={toggleSideMenu} />
-    </>
-  );
-}
+// export default App;
+// export default function App() {
+//   return (
+//     <BrowserRouter>
+//       <Routes>
+//         <Route path="/" element={<Layout />}>
+//           <Route index element={<Dashboard />} />
+//         </Route>
+//       </Routes>
+//     </BrowserRouter>
+//   );
+// }
+
+import * as React from "react";
+import * as ReactDOM from "react-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import AboutPage from "./components/AboutPage";
+import Main from "./components/main";
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <Layout />,
+
+    children: [
+      {
+        path: "dashboard",
+        element: <Dashboard />,
+      },
+      {
+        path: "about",
+        element: <AboutPage />,
+      },
+      {
+        element: <Main />,
+        index: true,
+      },
+    ],
+  },
+]);
+
+const App = () => {
+  return <RouterProvider router={router} />;
+};
 
 export default App;

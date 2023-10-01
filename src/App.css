@@ -5,17 +5,19 @@
 .sidemenu-bar {
     padding: 20px 0;
     background: #216fff;
-    position: fixed;
+    z-index: 100;
     height: 100%;
     width: 15vw;
+    position: fixed;
     top: 0;
     left: 0;
     font-weight: 400;
+    z-index: 101;
     /* display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between; */
-    z-index: 101;
+
 }
 
 .sidemenu-close {
@@ -66,29 +68,32 @@
 
 .main {
     width: 85vw;
-    position: absolute;
-    right: 0;
+
+}
+
+.margin-left-for-fixed {
+    margin-left: 16vw;
 }
 
 .spacing {
-    margin: 50px 60px 0px 60px;
+    /* margin: 50px 60px 0px 60px; */
 }
 
 /* Navbar */
 
 nav {
-    width: 85vw;
-    position: absolute;
-    right: 0;
+    width: 100vw;
+    /* position: absolute;
+    right: 0; */
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    /* width: 100% !important; */
+    justify-content: flex-end;
+
     background: #fff;
-    margin: 0px auto;
+
     padding: 30px 120px;
     box-shadow: 0 0 20px rgb(212, 212, 212);
-    z-index: 100;
+
 }
 
 .title-nav {
@@ -107,7 +112,8 @@ nav {
     outline: none;
     border: none;
     border-bottom: 1px solid rgb(212, 212, 212);
-    width: 400px;
+    width: 150px;
+
 }
 
 .search-bar-placeholder {
@@ -138,12 +144,13 @@ nav {
     overflow: scroll;
     max-height: 20vh;
     margin-top: 0px;
-    width: 100%;
+    width: auto;
     padding: 5px 0;
     border-radius: 5px;
     z-index: 10000;
     background: #fff;
     box-shadow: 0 10px 20px rgba(110, 110, 110, 0.226);
+    scrollbar-gutter: auto;
 }
 
 .search-card-items {
@@ -229,7 +236,7 @@ nav {
     font-size: 1.5rem;
     color: rgb(80, 80, 80);
     letter-spacing: 0.5px;
-    margin-bottom: 20px;
+    padding: 30px 20px
 }
 
 .featured-card {
@@ -417,6 +424,10 @@ nav {
         padding: 0 20px;
     }
 
+    .margin-left-for-fixed {
+        margin-left: 0
+    }
+
     .sidemenu-bar-items {
         justify-content: center;
         border-radius: 10px;
@@ -448,7 +459,7 @@ nav {
 
     .main {
         width: 100vw;
-        margin-top: 10vh;
+        margin-left: 0;
     }
 
     .maxwidthcards {
@@ -464,6 +475,8 @@ nav {
         padding: 20px 30px;
         width: 100vw;
         box-shadow: 0 2px 20px rgb(212, 212, 212);
+        display: flex;
+        justify-content: space-between;
     }
 
     .title-nav {

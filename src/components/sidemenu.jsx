@@ -25,10 +25,12 @@ export default function sidemenu(props) {
               Dashboard
             </li>
           </Link>
-          <li className="sidemenu-bar-items">
-            <span className="material-symbols-outlined">book</span>
-            Courses
-          </li>
+          <Link to="/">
+            <li className="sidemenu-bar-items">
+              <span className="material-symbols-outlined">book</span>
+              Courses
+            </li>
+          </Link>
           <li className="sidemenu-bar-items">
             <span className="material-symbols-outlined">person</span>
             Students

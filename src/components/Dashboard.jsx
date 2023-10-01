@@ -11,7 +11,7 @@ export default function Dashboard() {
   console.log(dashBoardData);
   return (
     <>
-      <Card>
+      <Card className="margin-left-for-fixed">
         <Title>Number of courses</Title>
         <Subtitle></Subtitle>
         <BarChart
