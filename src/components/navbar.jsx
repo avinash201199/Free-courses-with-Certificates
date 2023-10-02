@@ -1,12 +1,10 @@
 import React, { useState } from "react";
 import json from "./data/allcourses.json";
-import { useStore } from "./UserState";
+import { Button } from "react-bootstrap";
 import OutsideAlerter from "./Outsideclick";
 import "../styles/navbar.css";
 
 export default function Navbar(props) {
-  const user = useStore((state) => state.user);
-  console.log(user);
   const [searchTerm, setSearchTerm] = useState("");
   const [searchResults, showSearch] = useState(0);
 
@@ -113,7 +111,7 @@ export default function Navbar(props) {
         >
           <span class="material-symbols-outlined">account_circle</span>
           <div className="" style={{ marginLeft: "10px" }}>
-            {user?.email ? user.email : "Welcome User"}
+            Welcome User
           </div>
         </div>
       </div>
