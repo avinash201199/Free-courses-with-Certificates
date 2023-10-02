@@ -18,11 +18,8 @@ const Layout = (props) => {
     <>
       <TitleTop />
       <Navbar toggleSideMenu={toggleSideMenu} setQuery={setQuery} />
-
-      <SideMenu active={active} toggleSideMenu={toggleSideMenu} />
-
+        <SideMenu active={active} toggleSideMenu={toggleSideMenu} />
       <Outlet />
-
       <Footer />
     </>
   );

@@ -32,11 +32,12 @@ import * as ReactDOM from "react-dom";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import AboutPage from "./components/AboutPage";
 import Main from "./components/main";
+import ErrorPage from "./components/ErrorPage";
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Layout />,
-
+    errorElement: <ErrorPage />,
     children: [
       {
         path: "dashboard",
