@@ -1151,9 +1151,6 @@ Website-https://www.learnmall.in/play/become-a-social-media-manager-part-1/ <br>
 <br>
 </details>
 
-
-
-
 <details>
 <summary>Web 3.0 and  Blockchain </summary>
 <br>
@@ -1163,5 +1160,9 @@ Website-https://www.udemy.com/course/web3-blockchain-smartcontracts-crypto-pract
  
 </details>
 
-
-
+<details>
+<summary> Operating System </summary>
+<br> Learn Scheduling Algorithm, Process Management, Deadlocks, Memory management and Secondary Memory Management <br>
+Website-https://www.udemy.com/course/scheduling-algorithms-operting-systems-from-scratch/ <br>
+<br>
+</details>
