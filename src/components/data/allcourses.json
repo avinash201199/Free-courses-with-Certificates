@@ -1049,6 +1049,17 @@
     "link": "https://coursesity.com/course-detail/next-js-with-react-hooks-building-ssr-react-applications"
   }]
 },
+
+  {
+  "title": "Operating System",
+  "cards": [{
+    "icon": "fa-light fa-atom-simple",
+    "name": "Operating System Crash Course",
+    "source": "GREAT LEARNING ACADEMY",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/crash-course-on-operating-system"
+  }]
+},
+
 {
   "title": "PHP",
   "cards": [{
