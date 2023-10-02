@@ -11,13 +11,15 @@
   "dependencies": {
     "@tremor/react": "^3.8.2",
     "bootstrap": "^5.2.2",
+    "firebase": "^10.4.0",
     "framer-motion": "^10.16.4",
     "lucide-react": "^0.279.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.5.0",
     "react-collapsible": "^2.10.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.4.2"
+    "react-router-dom": "^6.16.0",
+    "zustand": "^4.4.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
