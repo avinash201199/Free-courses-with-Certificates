@@ -26,3 +26,11 @@ li {
   padding: 2px 5px;
   font-size: 15px;
 }
+
+.row {
+  width: 96% !important;
+}
+
+.container {
+  margin-left: 0.8rem !important;
+}
