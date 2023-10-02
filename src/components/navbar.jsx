@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-
 import json from "./data/allcourses.json";
 import { useStore } from "./UserState";
 import OutsideAlerter from "./Outsideclick";
@@ -27,7 +26,7 @@ export default function Navbar(props) {
           menu
         </span>
       </div>
-      <OutsideAlerter closeSearch={handleClick}>
+      <OutsideAlerter closeSearch={handleClick} >
         <div className="search-bar flex justify-between">
           <input
             type="text"

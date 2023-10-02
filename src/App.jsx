@@ -7,11 +7,12 @@ import Main from "./components/main";
 import Login from "./components/Login";
 import Register from "./components/Register";
 import RequireAuth from "./components/Requireauth";
+import ErrorPage from "./components/ErrorPage";
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Layout />,
-
+    errorElement: <ErrorPage />,
     children: [
       {
         path: "dashboard",
