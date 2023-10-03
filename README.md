@@ -745,6 +745,14 @@ Website- https://www.udemy.com/course/next-js-react-hooks/?ranMID=39197&ranEAID=
 </details>
 
 <details>
+<summary>Operating System</summary>
+<br> 
+GREAT LEARNING ACADEMY - Learn Scheduling Algorithm, Process Management, Deadlocks, Memory management and Secondary Memory Management. <br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/crash-course-on-operating-system<br>
+<br>
+</details>
+
+<details>
 <summary>PHP</summary>
 <br>
 Sololearn - PHP<br>
@@ -1151,9 +1159,6 @@ Website-https://www.learnmall.in/play/become-a-social-media-manager-part-1/ <br>
 <br>
 </details>
 
-
-
-
 <details>
 <summary>Web 3.0 and  Blockchain </summary>
 <br>
@@ -1162,6 +1167,4 @@ Website-https://www.udemy.com/course/web3-blockchain-smartcontracts-crypto-pract
 <br>
  
 </details>
-
-
 
