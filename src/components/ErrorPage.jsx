@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const ErrorPage = () => {
   return (
     <div>
-      <div className="container flex">
+      <div className="container flex-custom">
         <div className="four_zero_four_bg ">
           <h1 className="text-center ">404</h1>
         </div>

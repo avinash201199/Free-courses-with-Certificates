@@ -27,7 +27,7 @@
   text-align: center;
 }
 
-.flex {
+.flex-custom {
   display: flex;
   flex-direction: column;
   justify-content: center;

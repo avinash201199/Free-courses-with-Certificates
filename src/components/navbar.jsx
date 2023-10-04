@@ -43,7 +43,7 @@ export default function Navbar(props) {
                   <div className="search-bar-children" key={key}>
                     {val.cards
                       .filter((data) => {
-                        if (searchTerm == "") return data;
+                        if (searchTerm == "") return data;  
                         else if (
                           data.name?.toLocaleLowerCase()
                             .includes(searchTerm.toLocaleLowerCase())
