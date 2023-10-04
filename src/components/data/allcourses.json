@@ -352,6 +352,12 @@
       "name": "GitHub Tutorial for Beginners ",
       "source": "Great Learning Academy",
       "link": "https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1"
+    },
+    {
+      "icon": "fab fa-github-alt",
+      "name": "Git & GitHub Crash Course: Create a Repository From Scratch!",
+      "source": "Udemy",
+      "link": "https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/"
     }
   ]
 },
