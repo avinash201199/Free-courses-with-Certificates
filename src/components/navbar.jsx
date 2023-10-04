@@ -40,18 +40,17 @@ export default function Navbar(props) {
             <div className="search-bar-area" onBlur={() => showSearch(0)}>
               {json.map((val, key) => {
                 return (
-                  <div className="search-bar-children">
+                  <div className="search-bar-children" key={key}>
                     {val.cards
-                      .filter((val) => {
-                        if (searchTerm == "") return val;
+                      .filter((data) => {
+                        if (searchTerm == "") return data;
                         else if (
-                          val.name
-                            .toLocaleLowerCase()
+                          data.name?.toLocaleLowerCase()
                             .includes(searchTerm.toLocaleLowerCase())
                         )
-                          return val.name;
+                          return data.name;
                       })
-                      .map((val, key) => {
+                      .map((card, key) => {
                         return (
                           <div key={key} className="search-card-items">
                             <div
@@ -62,10 +61,10 @@ export default function Navbar(props) {
                                 {/* <div className="card-title"></div> */}
                                 <a
                                   className="card-button"
-                                  href={val.link}
+                                  href={card.link}
                                   target="_blank"
                                 >
-                                  <b>{val.name}</b>
+                                  <b>{card.name}</b>
                                 </a>
                               </div>
                             </div>

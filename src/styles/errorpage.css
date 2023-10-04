@@ -1,6 +1,37 @@
-.error-page {
-    background:#1e74fa;
+
+
+.four_zero_four_bg {
+  background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+  height:500px;
+  background-position: center;
+  background-repeat: no-repeat;
 }
-.page-wrap {
-    min-height: 100vh;
+
+.four_zero_four_bg h1 {
+  font-size: 80px;
+}
+
+.four_zero_four_bg h3 {
+  font-size: 80px;
+}
+
+.link_404 {
+  color: #fff !important;
+  padding: 10px 20px;
+  background: #2a66df;
+  margin: 20px 0;
+  display: inline-block;
+}
+.contant_box_404 {
+  /* margin-top: -50px; */
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin:auto;
+  width: 100%;
+  height: 100vh;
 }

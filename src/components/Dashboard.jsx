@@ -8,7 +8,6 @@ const dataFormatter = (number) => {
 
 export default function Dashboard() {
   const dashBoardData = useDashboard(courseData);
-  console.log(dashBoardData);
   return (
     <>
       <Card className="margin-left-for-fixed w-10/12">
