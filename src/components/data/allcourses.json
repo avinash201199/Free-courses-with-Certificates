@@ -336,7 +336,14 @@
       "name": "C for Beginners",
       "source": "Great Learning Academy",
       "link": "https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1"
+    },
+    {
+      "icon": "fa-solid fa-computer",
+      "name": "Introduction To The C Language",
+      "source": "Udemy",
+      "link": "https://www.udemy.com/course/introduction-to-the-c-language/"
     }
+
   ]
 },
 {
