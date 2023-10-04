@@ -3,19 +3,20 @@ import Collapsible from "react-collapsible";
 import courses from "../components/data/allcourses.json";
 import "../styles/allcourse.css";
 
-const Data = courses.map((data) => {
+const Data = courses.map((data,key) => {
   return (
     <Collapsible
+      key={key}
       trigger={data.title}
       className="collapse-main"
       transitionTime="100"
     >
-      {data.cards.map((card) => {
+      {data.cards.map((card,key) => {
         return (
-          <div className="col-lg-4 featured-card" style={{ width: "100%" }}>
+          <div  key={key} className="col-lg-4 featured-card" style={{ width: "100%" }}>
             <div className="card-icon-title">
               <div className="card-icon">
-                <i class={card.icon}></i>
+                <i className={card.icon}></i>
               </div>
               <div className="card-title">
                 <b>{card.name}</b>
