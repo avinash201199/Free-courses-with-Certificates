@@ -23,7 +23,13 @@
       "name": "Learn Android Application Development",
       "source": "Udemy",
       "link": "https://www.udemy.com/course/learn-android-application-development-y/"
-    }
+    },
+    {
+      "icon": "fab fa-android",
+      "name": "Android in 90 Minutes",
+      "source": "Udemy",
+      "link": "https://www.udemy.com/course/android-in-90-minutes/"
+  }
   ]
 },
 {
