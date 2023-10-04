@@ -609,6 +609,10 @@ Website-https://infyspringboard.onwingspan.com/web/en/login?ref=%2Fapp%2Ftoc%2Fl
 Progate- Java<br>
 Website- https://progate.com/courses/java<br>
 <br>
+<br>
+Udemy- Java Tutorial for Complete Beginners<br>
+Website- https://www.udemy.com/course/java-tutorial/<br>
+<br>
 </details>
 
 <details>

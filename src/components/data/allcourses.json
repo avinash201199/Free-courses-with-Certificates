@@ -697,6 +697,12 @@
       "name": "JavaScript Algorithms and Data Structures by freecodecamp",
       "source": "Class Central",
       "link": "https://www.classcentral.com/course/freecodecamp-javascript-algorithms-and-data-struc-34060"
+    },
+    {
+      "icon": "fab fa-algolia",
+      "name": "JavaScript Algorithms and Data Structures by freecodecamp",
+      "source": "Class Central",
+      "link": "https://www.classcentral.com/course/freecodecamp-javascript-algorithms-and-data-struc-34060"
     }
   ]
 },
@@ -860,6 +866,12 @@
       "name": "Java",
       "source": "Progate",
       "link": "https://progate.com/courses/java"
+    },
+      {
+      "icon": "fab fa-java",
+      "name": "Java Tutorial for Complete Beginners",
+      "source": "Udemy",
+      "link": "https://www.udemy.com/course/java-tutorial/"
     }
   ]
 },
