@@ -1185,6 +1185,7 @@ Website-https://www.learnmall.in/play/become-a-social-media-manager-part-1/ <br>
 Web 3.0, Blockchain, Smart Contracts & Crypto Practice Tests<br>
 Website-https://www.udemy.com/course/web3-blockchain-smartcontracts-crypto-practice-tests/?couponCode=BLACKFRIDAY<br>
 <br>
- 
+ Web3 Foundation: Introduction to Blockchain and Web3<br>
+ website-https://www.edx.org/learn/blockchain/web3-foundation-introduction-to-blockchain-and-web3?webview=false&campaign=Introduction+to+Blockchain+and+Web3&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fweb3x<br>
+ <br>
 </details>
-
