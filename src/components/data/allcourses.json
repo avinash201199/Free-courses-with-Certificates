@@ -1669,6 +1669,17 @@
     }
   ]
 },
+  {
+    "title": "Git",
+    "cards": [
+        {
+            "icon": "fa-brands fa-git",
+            "name": "Git: Become an Expert in Git & GitHub in 4 Hours",
+            "source": "Udemy",
+            "link": "https://www.udemy.com/course/git-expert-4-hours/"
+        }
+    ]
+},
 {
   "title": "Integration Platform",
   "cards": [{
