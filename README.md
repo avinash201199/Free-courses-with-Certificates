@@ -897,7 +897,7 @@ Website-https://training.linuxfoundation.org/training/fundamentals-of-quantum-co
 <details>
 <summary> Internet of Things </summary>
 <br>
-My Great Learning - Good to start with IoT if you are new<br>
+My Great Learning - Good way to start with IoT if you are new<br>
 Website-https://www.mygreatlearning.com/iot/free-courses/<br>
 <br>
 </details>
