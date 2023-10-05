@@ -656,6 +656,15 @@
   }]
 },
 {
+  "title": "Internet of Things",
+  "cards": [{
+    "icon": "fa-solid fa-d",
+    "name": "Good way to start with IoT if you are new",
+    "source": "My Great Learning",
+    "link": "https://www.mygreatlearning.com/iot/free-courses"
+  }]
+},
+{
   "title": "Data Structure & Algorithm",
   "cards": [{
       "icon": "fab fa-algolia",
