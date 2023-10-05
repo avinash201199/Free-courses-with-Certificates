@@ -1701,6 +1701,15 @@
     "source": "Udemy",
     "link": "https://www.udemy.com/course/web3-blockchain-smartcontracts-crypto-practice-tests/?couponCode=BLACKFRIDAY"
   }]
+},
+{
+  "title": "Software Testing/Quality Assurance",
+  "cards": [{
+    "icon": "fa-solid fa-clipboard-check",
+    "name": "Quality Assurance and Testing with Chai",
+    "source": "FreeCodeCamp",
+    "link": "https://www.freecodecamp.org/learn/quality-assurance/"
+  }]
 }
 
 ]
