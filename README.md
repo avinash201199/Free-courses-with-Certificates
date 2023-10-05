@@ -971,6 +971,9 @@ Website- https://courses.cognitiveclass.ai/courses/course-v1:BDU+DB0101EN+v1/cou
 Kaggle - Intro to SQL <br>
 Website - https://www.kaggle.com/learn/intro-to-sql <br>
 <br>
+FreecodeCamp - Relational Database <br>
+website - https://www.freecodecamp.org/learn/relational-database/<br>
+<br>
 </details>
 
 <details>

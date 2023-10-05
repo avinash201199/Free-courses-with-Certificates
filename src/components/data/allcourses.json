@@ -1315,6 +1315,12 @@
       "name": "SQL - Intro to SQL",
       "source": "Kaggle",
       "link": "https://www.kaggle.com/learn/intro-to-sql"
+    },
+    {
+      "icon": "fa-solid fa-table-cells",
+      "name": "Relational Database",
+      "source": "FreeCodeCamp",
+      "link": "https://www.freecodecamp.org/learn/relational-database/"
     }
   ]
 },
