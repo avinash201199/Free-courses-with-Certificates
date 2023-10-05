@@ -40,6 +40,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/android-appl
 Udemy- Become an Android Developer from Scratch<br>
 Website- https://www.udemy.com/course/become-an-android-developer-from-scratch/ <br>
 <br>
+Udemy- Android in 90 Minutes<br>
+Website- https://www.udemy.com/course/android-in-90-minutes/ <br>
+<br>
 Educba-Free Android App Development Course With Certification <br>
 Website- https://www.educba.com/software-development/courses/free-android-app-development-course/ <br>
 <br>
@@ -242,6 +245,10 @@ Website-https://www.sololearn.com/learning/1089<br>
 <br>
 GREAT LEARNING ACADEMY- C for Beginners<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1<br>
+<br>
+<br>
+Introduction To The C Language<br>
+Website-https://www.udemy.com/course/introduction-to-the-c-language/<br>
 <br>
 </details>
 
@@ -567,6 +574,19 @@ Website-https://exercism.org/tracks/go<br>
 </details>
 
 <details>
+<summary>IOS Developer</summary>
+<br> 
+Udemy - A step-by-step iOS development tutorial for aspiring developers with no coding experience.
+ 
+- This is a course designed for beginners who have never coded in Objective-C or build an iOS app.
+- A stepwise guide to building an iPhone or iPad app for Beginners.
+- For access: <br> Website - https://www.udemy.com/course/the-art-of-real-ios-programming/<br>
+<br>
+</details>
+
+
+
+<details>
 <summary>Java</summary>
 <br>
 Sololearn - Java<br>
@@ -741,6 +761,14 @@ Website- https://progate.com/courses/nodejs<br>
 <br>
 Udemy<br>
 Website- https://www.udemy.com/course/next-js-react-hooks/?ranMID=39197&ranEAID=0F1O0otUXQc&ranSiteID=0F1O0otUXQc-UipnOymbIoN6ty0eHde58Q&LSNPUBID=0F1O0otUXQc&utm_source=aff-campaign&utm_medium=udemyads<br>
+<br>
+</details>
+
+<details>
+<summary>Operating System</summary>
+<br> 
+GREAT LEARNING ACADEMY - Learn Scheduling Algorithm, Process Management, Deadlocks, Memory management and Secondary Memory Management. <br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/crash-course-on-operating-system<br>
 <br>
 </details>
 
@@ -951,6 +979,9 @@ Website- https://courses.cognitiveclass.ai/courses/course-v1:BDU+DB0101EN+v1/cou
 Kaggle - Intro to SQL <br>
 Website - https://www.kaggle.com/learn/intro-to-sql <br>
 <br>
+FreecodeCamp - Relational Database <br>
+website - https://www.freecodecamp.org/learn/relational-database/<br>
+<br>
 </details>
 
 <details>
@@ -1159,9 +1190,6 @@ Website-https://www.learnmall.in/play/become-a-social-media-manager-part-1/ <br>
 <br>
 </details>
 
-
-
-
 <details>
 <summary>Web 3.0 and  Blockchain </summary>
 <br>
@@ -1170,6 +1198,4 @@ Website-https://www.udemy.com/course/web3-blockchain-smartcontracts-crypto-pract
 <br>
  
 </details>
-
-
 

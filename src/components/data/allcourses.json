@@ -23,7 +23,13 @@
       "name": "Learn Android Application Development",
       "source": "Udemy",
       "link": "https://www.udemy.com/course/learn-android-application-development-y/"
-    }
+    },
+    {
+      "icon": "fab fa-android",
+      "name": "Android in 90 Minutes",
+      "source": "Udemy",
+      "link": "https://www.udemy.com/course/android-in-90-minutes/"
+  }
   ]
 },
 {
@@ -330,7 +336,14 @@
       "name": "C for Beginners",
       "source": "Great Learning Academy",
       "link": "https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1"
+    },
+    {
+      "icon": "fa-solid fa-computer",
+      "name": "Introduction To The C Language",
+      "source": "Udemy",
+      "link": "https://www.udemy.com/course/introduction-to-the-c-language/"
     }
+
   ]
 },
 {
@@ -808,6 +821,17 @@
       "source": "Sololearn",
       "link": "https://www.sololearn.com/learning/1068"
     },
+
+    {
+  "title": "IOS Developer",
+  "cards": [{
+    "icon": "fa-light fa-atom-simple",
+    "name": "IOS Developer Course",
+    "source": "Udemy",
+    "link": "https://www.udemy.com/course/the-art-of-real-ios-programming/"
+  }]
+},
+    
     {
       "icon": "fab fa-java",
       "name": "Learning Java",
@@ -1049,6 +1073,17 @@
     "link": "https://coursesity.com/course-detail/next-js-with-react-hooks-building-ssr-react-applications"
   }]
 },
+
+  {
+  "title": "Operating System",
+  "cards": [{
+    "icon": "fa-light fa-atom-simple",
+    "name": "Operating System Crash Course",
+    "source": "GREAT LEARNING ACADEMY",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/crash-course-on-operating-system"
+  }]
+},
+
 {
   "title": "PHP",
   "cards": [{
@@ -1280,6 +1315,12 @@
       "name": "SQL - Intro to SQL",
       "source": "Kaggle",
       "link": "https://www.kaggle.com/learn/intro-to-sql"
+    },
+    {
+      "icon": "fa-solid fa-table-cells",
+      "name": "Relational Database",
+      "source": "FreeCodeCamp",
+      "link": "https://www.freecodecamp.org/learn/relational-database/"
     }
   ]
 },
