@@ -895,6 +895,14 @@ Website-https://training.linuxfoundation.org/training/fundamentals-of-quantum-co
 </details>
 
 <details>
+<summary> Internet of Things </summary>
+<br>
+My Great Learning - Good way to start with IoT if you are new<br>
+Website-https://www.mygreatlearning.com/iot/free-courses/<br>
+<br>
+</details>
+
+<details>
 <summary> Raspberry Pi</summary>
 <br>
 Geek University - Raspberry Pi free course<br>
