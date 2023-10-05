@@ -1297,6 +1297,16 @@
   }]
 },
 {
+  "title": "Software testing",
+  "cards": [{
+      "icon": "fa-solid fa-vial-circle-chec",
+      "name": "Selenium and JUnit certifications from Lambdatest",
+      "source": "LamndaTest",
+      "link": "https://www.lambdatest.com/certifications/"
+    }
+  ]
+},
+{
   "title": "SQL",
   "cards": [{
       "icon": "fa-solid fa-table-cells",

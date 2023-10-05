@@ -950,6 +950,9 @@ Website- https://www.educative.io/courses/learn-rust-from-scratch<br>
   Udemy - Test Automation using Selenium<br>
   Website-https://www.udemy.com/course/getting-started-with-test-automation-using-selenium/<br>
   <br>
+  Selenium and JUnit Certifications from LamdaTest<br>
+  Website - https://www.lambdatest.com/certifications/
+  <br>
 </details>
 
 <details>
