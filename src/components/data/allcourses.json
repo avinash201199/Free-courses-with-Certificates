@@ -1778,7 +1778,14 @@
     "name": "Networking Essentials By Cisco Networking Academy",
     "source": "Cisco Networking Academy",
     "link": "https://www.netacad.com/courses/networking/networking-essentials"
-  }]
+  },
+  {
+    "icon": "fa-solid fa-globe",
+    "name": "Basics of Computer Networking",
+    "source": "Great Learning",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/basics-of-computer-networking"
+  }
+]
 
 }
 ]
