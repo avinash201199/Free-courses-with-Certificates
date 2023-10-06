@@ -524,6 +524,10 @@ Website-https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013094412
 Progate- Git<br>
 Website- https://progate.com/courses/git<br>
 <br>
+ <br>
+ Great Learning- Git Tutorial
+ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/git-tutorial
+<br>
 </details>
 
 <details>

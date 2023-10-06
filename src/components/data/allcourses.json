@@ -1694,6 +1694,17 @@
     }
   ]
 },
+  {
+    "title": "Git",
+    "cards": [
+        {
+            "icon": "fa-brands fa-git",
+            "name": "Git Tutorial",
+            "source": "Great Learning",
+            "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/git-tutorial"
+        }
+    ]
+},
 {
   "title": "Integration Platform",
   "cards": [{
