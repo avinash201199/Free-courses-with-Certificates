@@ -1739,6 +1739,39 @@
   }]
 },
 {
+
+    "title": "Django",
+    "cards": [
+        {
+            "icon": "fa-solid fa-code",
+            "name": "Django",
+            "source": "W3Schools",
+            "link": "https://www.w3schools.com/django/"
+        },{
+            "icon": "fa-solid fa-code",
+            "name": "Django",
+            "source": "MDN Web Docs",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django"
+        },{
+            "icon": "fa-solid fa-code",
+            "name": "Django",
+            "source": "Tutorials Point",
+            "link": "https://www.tutorialspoint.com/django/index.htm"
+        },{
+            "icon": "fa-solid fa-code",
+            "name": "Django",
+            "source": "Geeks for Geeks",
+            "link": "https://www.geeksforgeeks.org/django-tutorial/"
+        },{
+            "icon": "fa-solid fa-code",
+            "name": "Django",
+            "source": "Real Python",
+            "link": "https://realpython.com/tutorials/django/"
+        }
+    ]
+},
+
+{
   "title": "Computer Networking",
   "cards": [{
     "icon": "fa-solid fa-globe",
@@ -1746,6 +1779,6 @@
     "source": "Cisco Networking Academy",
     "link": "https://www.netacad.com/courses/networking/networking-essentials"
   }]
-}
 
+}
 ]
