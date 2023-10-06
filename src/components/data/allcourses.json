@@ -735,6 +735,12 @@
       "name": "Devops with Docker - Containers for Beginners",
       "source": "Devops with Docker",
       "link": "https://devopswithdocker.com"
+    },
+    {
+      "icon": "fab fa-docker",
+      "name": "Docker Essentials: A Developer Introduction",
+      "source": "Cognitive.ai",
+      "link": "https://cognitiveclass.ai/courses/docker-essentials"
     }
   ]
 },
