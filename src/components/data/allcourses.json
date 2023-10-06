@@ -656,6 +656,15 @@
   }]
 },
 {
+  "title": "Internet of Things",
+  "cards": [{
+    "icon": "fa-solid fa-d",
+    "name": "Good way to start with IoT if you are new",
+    "source": "My Great Learning",
+    "link": "https://www.mygreatlearning.com/iot/free-courses"
+  }]
+},
+{
   "title": "Data Structure & Algorithm",
   "cards": [{
       "icon": "fab fa-algolia",
@@ -726,6 +735,12 @@
       "name": "Devops with Docker - Containers for Beginners",
       "source": "Devops with Docker",
       "link": "https://devopswithdocker.com"
+    },
+    {
+      "icon": "fab fa-docker",
+      "name": "Docker Essentials: A Developer Introduction",
+      "source": "Cognitive.ai",
+      "link": "https://cognitiveclass.ai/courses/docker-essentials"
     }
   ]
 },
@@ -1297,6 +1312,16 @@
   }]
 },
 {
+  "title": "Software testing",
+  "cards": [{
+      "icon": "fa-solid fa-vial-circle-chec",
+      "name": "Selenium and JUnit certifications from Lambdatest",
+      "source": "LamndaTest",
+      "link": "https://www.lambdatest.com/certifications/"
+    }
+  ]
+},
+{
   "title": "SQL",
   "cards": [{
       "icon": "fa-solid fa-table-cells",
@@ -1315,6 +1340,12 @@
       "name": "SQL - Intro to SQL",
       "source": "Kaggle",
       "link": "https://www.kaggle.com/learn/intro-to-sql"
+    },
+    {
+      "icon": "fa-solid fa-table-cells",
+      "name": "Relational Database",
+      "source": "FreeCodeCamp",
+      "link": "https://www.freecodecamp.org/learn/relational-database/"
     }
   ]
 },
@@ -1668,6 +1699,17 @@
       "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944127399116801912_shared/overview"
     }
   ]
+},
+  {
+    "title": "Git",
+    "cards": [
+        {
+            "icon": "fa-brands fa-git",
+            "name": "Git Tutorial",
+            "source": "Great Learning",
+            "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/git-tutorial"
+        }
+    ]
 },
 {
   "title": "Integration Platform",

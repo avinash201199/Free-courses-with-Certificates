@@ -504,6 +504,10 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-best-
 Devops with Docker - Containers for Beginners <br>
 Website - https://devopswithdocker.com <br>
 <br>
+<br>
+Docker Essentials: A Developer Introduction <br>
+Website - https://cognitiveclass.ai/courses/docker-essentials <br>
+<br>
 </details>
 
 <details>
@@ -523,6 +527,10 @@ Website-https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013094412
 <br>
 Progate- Git<br>
 Website- https://progate.com/courses/git<br>
+<br>
+ <br>
+ Great Learning- Git Tutorial
+ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/git-tutorial
 <br>
 </details>
 
@@ -895,6 +903,14 @@ Website-https://training.linuxfoundation.org/training/fundamentals-of-quantum-co
 </details>
 
 <details>
+<summary> Internet of Things </summary>
+<br>
+My Great Learning - Good way to start with IoT if you are new<br>
+Website-https://www.mygreatlearning.com/iot/free-courses/<br>
+<br>
+</details>
+
+<details>
 <summary> Raspberry Pi</summary>
 <br>
 Geek University - Raspberry Pi free course<br>
@@ -950,6 +966,9 @@ Website- https://www.educative.io/courses/learn-rust-from-scratch<br>
   Udemy - Test Automation using Selenium<br>
   Website-https://www.udemy.com/course/getting-started-with-test-automation-using-selenium/<br>
   <br>
+  Selenium and JUnit Certifications from LamdaTest<br>
+  Website - https://www.lambdatest.com/certifications/
+  <br>
 </details>
 
 <details>
@@ -970,6 +989,9 @@ Website- https://courses.cognitiveclass.ai/courses/course-v1:BDU+DB0101EN+v1/cou
 <br>
 Kaggle - Intro to SQL <br>
 Website - https://www.kaggle.com/learn/intro-to-sql <br>
+<br>
+FreecodeCamp - Relational Database <br>
+website - https://www.freecodecamp.org/learn/relational-database/<br>
 <br>
 </details>
 
@@ -1196,8 +1218,6 @@ Website- https://www.freecodecamp.org/learn/quality-assurance/<br>
  
 </details>
 
-</details>
-
 <details>
 <summary>Computer Networking</summary>
 <br>Networking Essentials By Cisco Networking Academy<br>
@@ -1205,3 +1225,4 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
 <br>
  
 </details>
+
