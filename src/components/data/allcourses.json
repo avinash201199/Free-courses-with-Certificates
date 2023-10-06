@@ -1695,6 +1695,15 @@
     "source": "FreeCodeCamp",
     "link": "https://www.freecodecamp.org/learn/quality-assurance/"
   }]
+},
+{
+  "title": "Computer Networking",
+  "cards": [{
+    "icon": "fa-solid fa-globe",
+    "name": "Networking Essentials By Cisco Networking Academy",
+    "source": "Cisco Networking Academy",
+    "link": "https://www.netacad.com/courses/networking/networking-essentials"
+  }]
 }
 
 ]

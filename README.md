@@ -1195,3 +1195,13 @@ Website- https://www.freecodecamp.org/learn/quality-assurance/<br>
 <br>
  
 </details>
+
+</details>
+
+<details>
+<summary>Computer Networking</summary>
+<br>Networking Essentials By Cisco Networking Academy<br>
+Website- https://www.netacad.com/courses/networking/networking-essentials<br>
+<br>
+ 
+</details>
