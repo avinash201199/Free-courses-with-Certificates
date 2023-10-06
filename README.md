@@ -1217,3 +1217,9 @@ Website- https://www.freecodecamp.org/learn/quality-assurance/<br>
 <br>
  
 </details>
+
+<details>
+ <summary>Django</summary>
+ <br>
+ Website- https://www.w3schools.com/django/
+</details>
