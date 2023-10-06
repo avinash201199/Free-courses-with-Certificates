@@ -1450,6 +1450,15 @@
   ]
 },
 {
+  "title": "VueJs",
+  "cards": [{
+    "icon": "fa-brands fa-vuejs",
+    "name": "VueJs",
+    "source": "Udemy",
+    "link": "https://www.udemy.com/course/vuejs-fast-crash-course"
+  }]
+},
+{
   "title": "Web Development",
   "cards": [{
       "icon": "fa-solid fa-laptop-code",
