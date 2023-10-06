@@ -23,7 +23,13 @@
       "name": "Learn Android Application Development",
       "source": "Udemy",
       "link": "https://www.udemy.com/course/learn-android-application-development-y/"
-    }
+    },
+    {
+      "icon": "fab fa-android",
+      "name": "Android in 90 Minutes",
+      "source": "Udemy",
+      "link": "https://www.udemy.com/course/android-in-90-minutes/"
+  }
   ]
 },
 {
@@ -330,7 +336,14 @@
       "name": "C for Beginners",
       "source": "Great Learning Academy",
       "link": "https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1"
+    },
+    {
+      "icon": "fa-solid fa-computer",
+      "name": "Introduction To The C Language",
+      "source": "Udemy",
+      "link": "https://www.udemy.com/course/introduction-to-the-c-language/"
     }
+
   ]
 },
 {
@@ -640,6 +653,15 @@
     "name": "App Development using Dart Programming Language",
     "source": "Alison",
     "link": "https://alison.com/course/app-development-using-dart-programming-language?utm_source=google&utm_medium=cpc&utm_campaign=PPC_Tier-4_First-Click_Courses-_Broad_&utm_adgroup=Course-4407_App-Development-using-Dart-Programming-Language&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb7WyApkstaAnVh6ENUignPoaq_xXThsE8DCwttQXfGw5tp_tbOXOrxoCADQQAvD_BwE"
+  }]
+},
+{
+  "title": "Internet of Things",
+  "cards": [{
+    "icon": "fa-solid fa-d",
+    "name": "Good way to start with IoT if you are new",
+    "source": "My Great Learning",
+    "link": "https://www.mygreatlearning.com/iot/free-courses"
   }]
 },
 {
@@ -1284,6 +1306,16 @@
   }]
 },
 {
+  "title": "Software testing",
+  "cards": [{
+      "icon": "fa-solid fa-vial-circle-chec",
+      "name": "Selenium and JUnit certifications from Lambdatest",
+      "source": "LamndaTest",
+      "link": "https://www.lambdatest.com/certifications/"
+    }
+  ]
+},
+{
   "title": "SQL",
   "cards": [{
       "icon": "fa-solid fa-table-cells",
@@ -1302,6 +1334,12 @@
       "name": "SQL - Intro to SQL",
       "source": "Kaggle",
       "link": "https://www.kaggle.com/learn/intro-to-sql"
+    },
+    {
+      "icon": "fa-solid fa-table-cells",
+      "name": "Relational Database",
+      "source": "FreeCodeCamp",
+      "link": "https://www.freecodecamp.org/learn/relational-database/"
     }
   ]
 },
@@ -1672,6 +1710,15 @@
     "name": "Web 3.0, Blockchain, Smart Contracts & Crypto Practice Tests",
     "source": "Udemy",
     "link": "https://www.udemy.com/course/web3-blockchain-smartcontracts-crypto-practice-tests/?couponCode=BLACKFRIDAY"
+  }]
+},
+{
+  "title": "Software Testing/Quality Assurance",
+  "cards": [{
+    "icon": "fa-solid fa-clipboard-check",
+    "name": "Quality Assurance and Testing with Chai",
+    "source": "FreeCodeCamp",
+    "link": "https://www.freecodecamp.org/learn/quality-assurance/"
   }]
 }
 

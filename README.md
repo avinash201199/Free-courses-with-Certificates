@@ -40,6 +40,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/android-appl
 Udemy- Become an Android Developer from Scratch<br>
 Website- https://www.udemy.com/course/become-an-android-developer-from-scratch/ <br>
 <br>
+Udemy- Android in 90 Minutes<br>
+Website- https://www.udemy.com/course/android-in-90-minutes/ <br>
+<br>
 Educba-Free Android App Development Course With Certification <br>
 Website- https://www.educba.com/software-development/courses/free-android-app-development-course/ <br>
 <br>
@@ -242,6 +245,10 @@ Website-https://www.sololearn.com/learning/1089<br>
 <br>
 GREAT LEARNING ACADEMY- C for Beginners<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1<br>
+<br>
+<br>
+Introduction To The C Language<br>
+Website-https://www.udemy.com/course/introduction-to-the-c-language/<br>
 <br>
 </details>
 
@@ -888,6 +895,14 @@ Website-https://training.linuxfoundation.org/training/fundamentals-of-quantum-co
 </details>
 
 <details>
+<summary> Internet of Things </summary>
+<br>
+My Great Learning - Good way to start with IoT if you are new<br>
+Website-https://www.mygreatlearning.com/iot/free-courses/<br>
+<br>
+</details>
+
+<details>
 <summary> Raspberry Pi</summary>
 <br>
 Geek University - Raspberry Pi free course<br>
@@ -943,6 +958,9 @@ Website- https://www.educative.io/courses/learn-rust-from-scratch<br>
   Udemy - Test Automation using Selenium<br>
   Website-https://www.udemy.com/course/getting-started-with-test-automation-using-selenium/<br>
   <br>
+  Selenium and JUnit Certifications from LamdaTest<br>
+  Website - https://www.lambdatest.com/certifications/
+  <br>
 </details>
 
 <details>
@@ -963,6 +981,9 @@ Website- https://courses.cognitiveclass.ai/courses/course-v1:BDU+DB0101EN+v1/cou
 <br>
 Kaggle - Intro to SQL <br>
 Website - https://www.kaggle.com/learn/intro-to-sql <br>
+<br>
+FreecodeCamp - Relational Database <br>
+website - https://www.freecodecamp.org/learn/relational-database/<br>
 <br>
 </details>
 
@@ -1181,3 +1202,10 @@ Website-https://www.udemy.com/course/web3-blockchain-smartcontracts-crypto-pract
  
 </details>
 
+<details>
+<summary>Softwate Testing </summary>
+<br>Quality Assurance and Testing with Chai<br>
+Website- https://www.freecodecamp.org/learn/quality-assurance/<br>
+<br>
+ 
+</details>
