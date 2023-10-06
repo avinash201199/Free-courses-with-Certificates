@@ -504,6 +504,10 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-best-
 Devops with Docker - Containers for Beginners <br>
 Website - https://devopswithdocker.com <br>
 <br>
+<br>
+Docker Essentials: A Developer Introduction <br>
+Website - https://cognitiveclass.ai/courses/docker-essentials <br>
+<br>
 </details>
 
 <details>
