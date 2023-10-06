@@ -34,3 +34,18 @@ li {
 .container {
   margin-left: 0.8rem !important;
 }
+@media only screen and (max-width: 540px) {
+.search-bar-input {
+    width: 250px !important;
+    margin-left: 1.4rem !important;
+}
+.menu-nav-bar  {
+ margin-top: 1rem;
+ margin-left: 0.5rem;
+}
+.search-bar-submit, .search-bar-submit:hover, .search-bar-submit:focus {
+  height: 2.2rem;
+  margin-top: 7px;
+  padding: 1px 15px !important;
+}
+}
