@@ -49,3 +49,28 @@ li {
   padding: 1px 15px !important;
 }
 }
+
+.collapse-main > span, .is-open {
+  font-size: 1.1rem;
+  width: 88% !important;
+  display: block;
+  padding: 20px 40px;
+  transition: all 0.2s ease;
+  text-transform: uppercase;
+  margin: 0 auto;
+  border: 1px solid rgb(177, 177, 177) !important;
+  border-radius: 20px !important;
+  z-index: 2;
+  overflow: hidden;
+  background: white !important;
+}
+.collapse-main > span, .is-open {
+  border: 1px solid #219bff !important;
+  color: #1d77c0 !important;
+  background-color: none !important;
+}
+.collapse-main > span:hover{
+  background-color: #219bff !important;
+  color: white !important;
+}
+
