@@ -1028,6 +1028,12 @@
       "source": "Google Developers Community",
       "link": "https://developers.google.com/machine-learning/crash-course"
 
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Supervised Machine Learning with Python",
+      "source": "Cognitive.ai",
+      "link": "https://cognitiveclass.ai/courses/machine-learning-with-python"
     }
   ]
 },

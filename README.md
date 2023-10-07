@@ -723,7 +723,10 @@ KAGGLE- Introduction to machine learning plus other machine learning courses<br>
 Website- https://www.kaggle.com/learn/intro-to-machine-learning<br>
 <br>
 Google Developers - Machine Learning Crash Course
-website-https://developers.google.com/machine-learning/crash-course  
+website-https://developers.google.com/machine-learning/crash-course 
+<br>
+Cognitive.ai - Machine Learning with Python
+website- https://cognitiveclass.ai/courses/machine-learning-with-python
 </details>
 
 <details>
