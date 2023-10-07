@@ -1244,6 +1244,12 @@ Website- https://www.freecodecamp.org/learn/quality-assurance/<br>
 </details>
 
 <details>
+ <summary>FastAPI</summary>
+ <br>
+ Website- https://www.edx.org/learn/fastapi
+</details>
+
+<details>
 <summary>Computer Networking</summary>
 <br>Networking Essentials By Cisco Networking Academy<br>
 Website- https://www.netacad.com/courses/networking/networking-essentials<br>
