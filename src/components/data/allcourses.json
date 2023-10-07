@@ -445,7 +445,7 @@
       "link": "https://www.greatlearning.in/academy/learn-for-free/courses/cloud-computing-architecture"
     },
     {
-      "icon": "fal fa-cloud-download",
+      "icon": "fa-solid fa-cloud-arrow-down",
       "name": "Cloud Computing",
       "source": "Careers360",
       "link": "https://www.careers360.com/university/indian-institute-of-technology-kharagpur/cloud-computing-certification-course"
@@ -455,6 +455,12 @@
       "name": "Google Cloud Skills Boost",
       "source": "Qwiklabs",
       "link": "https://www.cloudskillsboost.google/"
+    },
+    {
+      "icon": "fa-solid fa-cloud-arrow-down",
+      "name": "IBM: Cloud Application",
+      "source": "edx.org",
+      "link": "https://www.edx.org/learn/computer-programming/ibm-cloud-application-developer-capstone"
     }
   ]
 },
