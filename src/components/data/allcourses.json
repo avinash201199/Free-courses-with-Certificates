@@ -1770,6 +1770,15 @@
         }
     ]
 },
+{
+  "title": "FastAPI",
+  "cards": [{
+    "icon": "fa-solid fa-code",
+    "name": "FastAPI course",
+    "source": "edx",
+    "link": "https://www.edx.org/learn/fastapi"
+  }]
+},
 
 {
   "title": "Computer Networking",
