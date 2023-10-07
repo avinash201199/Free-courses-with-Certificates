@@ -1324,6 +1324,15 @@
   }]
 },
 {
+  "title": "Scientific Computing",
+  "cards": [{
+    "icon": "fa-solid fa-gem",
+    "name": "Scientific Computing with Python",
+    "source": "FreeCodeCamp",
+    "link": "https://www.freecodecamp.org/learn/scientific-computing-with-python"
+  }]
+},
+{
   "title": "Software testing",
   "cards": [{
       "icon": "fa-solid fa-vial-circle-chec",
