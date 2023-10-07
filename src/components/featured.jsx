@@ -2,9 +2,9 @@ import React from "react";
 import featuredData from "../components/data/featured.json";
 import "../styles/featured.css";
 
-const Data = featuredData.map((data) => {
+const Data = featuredData.map((data,key) => {
   return (
-    <div className="col-lg-4 featured-card">
+    <div className="col-lg-4 featured-card" key={key}>
       <div className="card-icon-title">
         <div className="card-icon">
           <i class={data.icon}></i>

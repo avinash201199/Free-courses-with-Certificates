@@ -23,7 +23,13 @@
       "name": "Learn Android Application Development",
       "source": "Udemy",
       "link": "https://www.udemy.com/course/learn-android-application-development-y/"
-    }
+    },
+    {
+      "icon": "fab fa-android",
+      "name": "Android in 90 Minutes",
+      "source": "Udemy",
+      "link": "https://www.udemy.com/course/android-in-90-minutes/"
+  }
   ]
 },
 {
@@ -330,7 +336,14 @@
       "name": "C for Beginners",
       "source": "Great Learning Academy",
       "link": "https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginners1"
+    },
+    {
+      "icon": "fa-solid fa-computer",
+      "name": "Introduction To The C Language",
+      "source": "Udemy",
+      "link": "https://www.udemy.com/course/introduction-to-the-c-language/"
     }
+
   ]
 },
 {
@@ -432,7 +445,7 @@
       "link": "https://www.greatlearning.in/academy/learn-for-free/courses/cloud-computing-architecture"
     },
     {
-      "icon": "fal fa-cloud-download",
+      "icon": "fa-solid fa-cloud-arrow-down",
       "name": "Cloud Computing",
       "source": "Careers360",
       "link": "https://www.careers360.com/university/indian-institute-of-technology-kharagpur/cloud-computing-certification-course"
@@ -442,6 +455,12 @@
       "name": "Google Cloud Skills Boost",
       "source": "Qwiklabs",
       "link": "https://www.cloudskillsboost.google/"
+    },
+    {
+      "icon": "fa-solid fa-cloud-arrow-down",
+      "name": "IBM: Cloud Application",
+      "source": "edx.org",
+      "link": "https://www.edx.org/learn/computer-programming/ibm-cloud-application-developer-capstone"
     }
   ]
 },
@@ -643,6 +662,15 @@
   }]
 },
 {
+  "title": "Internet of Things",
+  "cards": [{
+    "icon": "fa-solid fa-d",
+    "name": "Good way to start with IoT if you are new",
+    "source": "My Great Learning",
+    "link": "https://www.mygreatlearning.com/iot/free-courses"
+  }]
+},
+{
   "title": "Data Structure & Algorithm",
   "cards": [{
       "icon": "fab fa-algolia",
@@ -691,6 +719,12 @@
       "name": "JavaScript Algorithms and Data Structures by freecodecamp",
       "source": "Class Central",
       "link": "https://www.classcentral.com/course/freecodecamp-javascript-algorithms-and-data-struc-34060"
+    },
+    {
+      "icon": "fab fa-algolia",
+      "name": "Become-job-ready-in-coding:-Basics-of-Data-Structures-and-Algorithms",
+      "source": "Simplilearn",
+      "link": "https://lms.simplilearn.com/courses/6201/-Become-job-ready-in-coding:-Basics-of-Data-Structures-and-Algorithms/syllabus"
     }
   ]
 },
@@ -713,6 +747,12 @@
       "name": "Devops with Docker - Containers for Beginners",
       "source": "Devops with Docker",
       "link": "https://devopswithdocker.com"
+    },
+    {
+      "icon": "fab fa-docker",
+      "name": "Docker Essentials: A Developer Introduction",
+      "source": "Cognitive.ai",
+      "link": "https://cognitiveclass.ai/courses/docker-essentials"
     }
   ]
 },
@@ -1284,6 +1324,25 @@
   }]
 },
 {
+  "title": "Scientific Computing",
+  "cards": [{
+    "icon": "fa-solid fa-gem",
+    "name": "Scientific Computing with Python",
+    "source": "FreeCodeCamp",
+    "link": "https://www.freecodecamp.org/learn/scientific-computing-with-python"
+  }]
+},
+{
+  "title": "Software testing",
+  "cards": [{
+      "icon": "fa-solid fa-vial-circle-chec",
+      "name": "Selenium and JUnit certifications from Lambdatest",
+      "source": "LamndaTest",
+      "link": "https://www.lambdatest.com/certifications/"
+    }
+  ]
+},
+{
   "title": "SQL",
   "cards": [{
       "icon": "fa-solid fa-table-cells",
@@ -1302,6 +1361,12 @@
       "name": "SQL - Intro to SQL",
       "source": "Kaggle",
       "link": "https://www.kaggle.com/learn/intro-to-sql"
+    },
+    {
+      "icon": "fa-solid fa-table-cells",
+      "name": "Relational Database",
+      "source": "FreeCodeCamp",
+      "link": "https://www.freecodecamp.org/learn/relational-database/"
     }
   ]
 },
@@ -1656,6 +1721,17 @@
     }
   ]
 },
+  {
+    "title": "Git",
+    "cards": [
+        {
+            "icon": "fa-brands fa-git",
+            "name": "Git Tutorial",
+            "source": "Great Learning",
+            "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/git-tutorial"
+        }
+    ]
+},
 {
   "title": "Integration Platform",
   "cards": [{
@@ -1673,6 +1749,63 @@
     "source": "Udemy",
     "link": "https://www.udemy.com/course/web3-blockchain-smartcontracts-crypto-practice-tests/?couponCode=BLACKFRIDAY"
   }]
-}
+},
+{
+  "title": "Software Testing/Quality Assurance",
+  "cards": [{
+    "icon": "fa-solid fa-clipboard-check",
+    "name": "Quality Assurance and Testing with Chai",
+    "source": "FreeCodeCamp",
+    "link": "https://www.freecodecamp.org/learn/quality-assurance/"
+  }]
+},
+{
 
+    "title": "Django",
+    "cards": [
+        {
+            "icon": "fa-solid fa-code",
+            "name": "Django",
+            "source": "W3Schools",
+            "link": "https://www.w3schools.com/django/"
+        },{
+            "icon": "fa-solid fa-code",
+            "name": "Django",
+            "source": "MDN Web Docs",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django"
+        },{
+            "icon": "fa-solid fa-code",
+            "name": "Django",
+            "source": "Tutorials Point",
+            "link": "https://www.tutorialspoint.com/django/index.htm"
+        },{
+            "icon": "fa-solid fa-code",
+            "name": "Django",
+            "source": "Geeks for Geeks",
+            "link": "https://www.geeksforgeeks.org/django-tutorial/"
+        },{
+            "icon": "fa-solid fa-code",
+            "name": "Django",
+            "source": "Real Python",
+            "link": "https://realpython.com/tutorials/django/"
+        }
+    ]
+},
+
+{
+  "title": "Computer Networking",
+  "cards": [{
+    "icon": "fa-solid fa-globe",
+    "name": "Networking Essentials By Cisco Networking Academy",
+    "source": "Cisco Networking Academy",
+    "link": "https://www.netacad.com/courses/networking/networking-essentials"
+  },
+  {
+    "icon": "fa-solid fa-globe",
+    "name": "Basics of Computer Networking",
+    "source": "Great Learning",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/basics-of-computer-networking"
+  }
+]
+}
 ]
