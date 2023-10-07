@@ -1233,6 +1233,9 @@ Website- https://www.freecodecamp.org/learn/quality-assurance/<br>
 <br>Networking Essentials By Cisco Networking Academy<br>
 Website- https://www.netacad.com/courses/networking/networking-essentials<br>
 <br>
+ Basics of Computer Networking<br>
+ Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/basics-of-computer-networking<br>
+ <br>
  
 </details>
 
