@@ -349,6 +349,7 @@ Website - https://www.geeksforgeeks.org/courses/google-cloud-tech-program<br>
 IBM - Cloud Application Developer Capstone<br>
 Website - https://www.edx.org/learn/computer-programming/ibm-cloud-application-developer-capstone<br>
 <br>
+
 </details>
 
 <details>
@@ -599,8 +600,6 @@ Udemy - A step-by-step iOS development tutorial for aspiring developers with no 
 <br>
 </details>
 
-
-
 <details>
 <summary>Java</summary>
 <br>
@@ -724,6 +723,9 @@ Website- https://www.kaggle.com/learn/intro-to-machine-learning<br>
 <br>
 Google Developers - Machine Learning Crash Course
 website-https://developers.google.com/machine-learning/crash-course  
+<br>
+Udemy - Machine Learning Fundamentals [Python]
+Website-https://www.udemy.com/course/machine-learning-fundamentals-python/
 </details>
 
 <details>
@@ -865,7 +867,7 @@ Website - https://www.simplilearn.com/free-python-programming-course-skillup<br>
 Kaggle - Intro to Python <br>
 Website - https://www.kaggle.com/learn/python <br>
 <br>
-GUVI -  Python <br>
+GUVI - Python <br>
 Website - https://www.guvi.in/courses-video/?course=pythonEng <br>
 <br>
 
@@ -1250,5 +1252,3 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  <br>
  
 </details>
-
-
