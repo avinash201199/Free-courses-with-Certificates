@@ -951,6 +951,15 @@ Website-https://www.udemy.com/course/ruby-tutorial-for-beginners/<br>
 </details>
 
 <details>
+<summary>Scientific Computing</summary>
+<br>
+FreeCodeCamp - Scientific Computing with Python
+<br>
+https://www.freecodecamp.org/learn/scientific-computing-with-python<br>
+<br>
+</details>
+
+<details>
 <summary>Rust</summary>
 <br>
 Educative - Rust
