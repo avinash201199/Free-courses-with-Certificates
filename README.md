@@ -489,6 +489,9 @@ Website-https://www.upgrad.com/us/free-courses/<br>
  JavaScript Algorithms and Data Structures by freeCodeCamp <br>
  Website- https://www.classcentral.com/course/freecodecamp-javascript-algorithms-and-data-struc-34060<br>
 <br>
+ Become-job-ready-in-coding:-Basics-of-Data-Structures-and-Algorithms <br>
+ Website- https://lms.simplilearn.com/courses/6201/-Become-job-ready-in-coding:-Basics-of-Data-Structures-and-Algorithms/syllabus<br>
+<br>
 </details>
 
 <details>
