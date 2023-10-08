@@ -728,6 +728,16 @@
     }
   ]
 },
+
+  {
+  "title": "Database Management System",
+  "cards": [{
+      "icon": "fa-solid fa-cloud-arrow-down",
+      "name": "Full Database management course",
+      "source": "GREAT LEARNING ACADEMY",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/database-management-system"
+    },
+    
 {
   "title": "Docker",
   "cards": [{

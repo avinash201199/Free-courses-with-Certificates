@@ -499,6 +499,14 @@ Website-https://www.upgrad.com/us/free-courses/<br>
 </details>
 
 <details>
+<summary>DataBase Management System</summary>
+<br> 
+GREAT LEARNING ACADEMY - Learn database management system from basics, taught hands-on by experts. Learn key concepts in relational database management system in details along with example.
+<br> Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/database-management-system<br>
+<br>
+</details>
+
+<details>
 <summary>Docker</summary>
 <br>
 GREAT LEARNING ACADEMY- Docker Projects<br>
