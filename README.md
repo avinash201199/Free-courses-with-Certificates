@@ -95,6 +95,9 @@ Website - https://www.kaggle.com/learn/data-visualization<br>
 Microsoft Power BI Para Data Science 2.0<br>
 Website - https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science<br>
 <br>
+Data Visualization with D3<br>
+Website - https://www.freecodecamp.org/learn/data-visualization/<br>
+<br>
 </details>
 <details>
 <summary> Digital Marketing</summary>
