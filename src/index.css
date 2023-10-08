@@ -73,4 +73,12 @@ li {
   background-color: #219bff !important;
   color: white !important;
 }
-
+.card-icon-title {
+  display: flex;
+  justify-content: left !important;
+  align-items: flex-end;
+  margin-bottom: 20px;
+}
+.card-title {
+  margin-left: 1rem !important;
+}
