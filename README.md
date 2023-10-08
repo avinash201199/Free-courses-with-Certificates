@@ -1273,3 +1273,11 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Website - https://skillsforall.com/course/network-support-security?courseLang=en-US<br>
  <br>
 </details>
+
+<details>
+<summary>Deep Learning</summary>
+<br>
+Udemy - Deep Learning Prerequisites: The Numpy Stack in Python V2<br>
+Website- https://www.udemy.com/course/numpy-python/<br>
+<br>
+</details>
