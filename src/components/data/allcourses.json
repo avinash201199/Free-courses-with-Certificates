@@ -1317,6 +1317,12 @@
       "name": "FreeCodeCamp offers certifcations for react",
       "source": "FreeCodeCamp",
       "link": "https://www.freecodecamp.org/learn/front-end-development-libraries/#sass"
+    },
+    {
+      "icon": "fab fa-react",
+      "name": "React Js Tutorials",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial"
     }
   ]
 },

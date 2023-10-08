@@ -946,7 +946,9 @@ React the complete guide including Redux with certificate - Udemy
 Website - https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 <br>
 <br>
-
+React JS Tutorial<br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial<br>
+<br>
 </details>
 
 <details>
