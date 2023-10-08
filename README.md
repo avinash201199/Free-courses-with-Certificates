@@ -8,7 +8,7 @@ After many days of work, I have collected some free courses with certificates in
 <br>
 <br>
 
-### How to contribute 😎<br>
+### How to contribute ! 😎<br>
 
 You can contribute in many ways in this repository
 
