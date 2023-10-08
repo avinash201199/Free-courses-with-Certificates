@@ -235,6 +235,9 @@ Website : https://elearning.kba.ai/ <br>
 <br>
 metaschool - Learn web3 development with other developers <br>
 Website : https://metaschool.so/ <br>
+<br>
+Alchemy University - Ethereum Developer Bootcamp <br>
+Website : https://www.alchemy.com/university/courses/ethereum <br>
 </details>
 
 <details>
@@ -349,6 +352,7 @@ Website - https://www.geeksforgeeks.org/courses/google-cloud-tech-program<br>
 IBM - Cloud Application Developer Capstone<br>
 Website - https://www.edx.org/learn/computer-programming/ibm-cloud-application-developer-capstone<br>
 <br>
+
 </details>
 
 <details>
@@ -606,8 +610,6 @@ Udemy - A step-by-step iOS development tutorial for aspiring developers with no 
 - For access: <br> Website - https://www.udemy.com/course/the-art-of-real-ios-programming/<br>
 <br>
 </details>
-
-
 
 <details>
 <summary>Java</summary>
@@ -876,7 +878,7 @@ Website - https://www.simplilearn.com/free-python-programming-course-skillup<br>
 Kaggle - Intro to Python <br>
 Website - https://www.kaggle.com/learn/python <br>
 <br>
-GUVI -  Python <br>
+GUVI - Python <br>
 Website - https://www.guvi.in/courses-video/?course=pythonEng <br>
 <br>
 
@@ -1271,5 +1273,3 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Website - https://skillsforall.com/course/network-support-security?courseLang=en-US<br>
  <br>
 </details>
-
-

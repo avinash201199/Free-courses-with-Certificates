@@ -320,6 +320,12 @@
       "name": "Hyperledger Besu Essentials: Creating a Private Blockchain Network (LFS176x)",
       "source": "The Linux Foundation",
       "link": "https://training.linuxfoundation.org/training/hyperledger-besu-essentials-creating-a-private-blockchain-network-lfs176x/"
+    },
+    {
+      "icon": "fab fa-hive",
+      "name": "Ethereum Developer Bootcamp",
+      "source": "Alchemy University",
+      "link": "https://www.alchemy.com/university/courses/ethereum"
     }
   ]
 },
