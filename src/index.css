@@ -64,18 +64,15 @@ li {
   overflow: hidden;
   background: white !important;
 }
-
 .collapse-main > span, .is-open {
   border: 1px solid #219bff !important;
   color: #1d77c0 !important;
   background-color: none !important;
 }
-
 .collapse-main > span:hover{
   background-color: #219bff !important;
   color: white !important;
 }
-
 .card-icon-title {
   display: flex;
   justify-content: left !important;
