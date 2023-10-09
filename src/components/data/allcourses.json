@@ -89,6 +89,12 @@
       "name": "Microsoft Power BI Para Data Science, Versão 2.0",
       "source": "Data Science Academy",
       "link": "https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science"
+    },
+    {
+      "icon": "fa-solid fa-chart-simple",
+      "name": "Data Visualization with D3",
+      "source": "FreeCodeCamp",
+      "link": "https://www.freecodecamp.org/learn/data-visualization/"
     }
   ]
 },
