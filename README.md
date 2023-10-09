@@ -95,6 +95,9 @@ Website - https://www.kaggle.com/learn/data-visualization<br>
 Microsoft Power BI Para Data Science 2.0<br>
 Website - https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science<br>
 <br>
+Data Visualization with D3<br>
+Website - https://www.freecodecamp.org/learn/data-visualization/<br>
+<br>
 </details>
 <details>
 <summary> Digital Marketing</summary>
@@ -881,6 +884,9 @@ Website - https://www.kaggle.com/learn/python <br>
 GUVI - Python <br>
 Website - https://www.guvi.in/courses-video/?course=pythonEng <br>
 <br>
+Great Learning - Python Projects for Beginners <br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-projects-for-beginners
+<br>
 
 </details>
 
@@ -1272,6 +1278,9 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Network Support and Security<br>
  Website - https://skillsforall.com/course/network-support-security?courseLang=en-US<br>
  <br>
+ Computer Networking Course: Master Computer Networking<br>
+ Website- https://www.scaler.com/topics/course/free-computer-networks-course/<br>
+<br>
 </details>
 
 <details>
