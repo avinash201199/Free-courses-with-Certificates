@@ -535,14 +535,14 @@ Website - https://cognitiveclass.ai/courses/docker-essentials <br>
 <details>
 <summary>Ethical Hacking</summary>
 <br>
-Jovian- Data Structure & Algorithms in Python<br>
-Website-https://jovian.ai/learn/data-structures-and-algorithms-in-python<br>
+Great Learning Academy- Introduction to Ethical Hacking<br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-ethical-hacking<br>
 <br>
-GREAT LEARNING ACADEMY- Data Structure & Algorithms in Java for Intermediate Level<br>
-Website-https://www.greatlearning.in/academy/learn-for-free/courses/master-data-structure-algorithms-in-java<br>
+Alison - Diploma in Ethical Hacking<br>
+Website-https://alison.com/course/diploma-in-ethical-hacking<br>
 <br>
-LEARNBAY- Data Structures and Algorithms for Tech<br>
-Website-https://course.learnbay.co/dsa<br>
+Class Central - Ethical Hacking Course Certification<br>
+Website-https://www.classcentral.com/classroom/cybrary-ethical-hacking-course-certification-80344<br>
 <br>
 </details>
 
