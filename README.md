@@ -1275,4 +1275,7 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Network Support and Security<br>
  Website - https://skillsforall.com/course/network-support-security?courseLang=en-US<br>
  <br>
+ Computer Networking Course: Master Computer Networking<br>
+ Website- https://www.scaler.com/topics/course/free-computer-networks-course/<br>
+<br>
 </details>

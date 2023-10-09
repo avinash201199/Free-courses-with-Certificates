@@ -1854,7 +1854,15 @@
     "name": "Network Support and Security",
     "source": "Cisco",
     "link": "https://skillsforall.com/course/network-support-security?courseLang=en-US"
+  },
+  
+  {
+    "icon": "fa-solid fa-globe",
+    "name": "Computer Networking Course: Master Computer Networking",
+    "source": "Scaler Academy",
+    "link": "https://www.scaler.com/topics/course/free-computer-networks-course/"
   }
+  
 ]
 }
 ]
