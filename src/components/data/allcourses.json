@@ -3769,18 +3769,8 @@
                 "link": "https://skillsforall.com/course/network-support-security?courseLang=en-US"
               }
             ]
-          },
-          {
-            "title": "Deep Learning",
-            "cards": [
-              {
-                "icon": "fa-solid fa-globe",
-                "name": "Deep Learning Prerequisites: The Numpy Stack in Python V2",
-                "source": "Udemy",
-                "link": "https://www.udemy.com/course/numpy-python/"
-              }
-            ]
           }
+          
         ]
       }
     ]
