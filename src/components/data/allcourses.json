@@ -785,6 +785,12 @@
     "name": "Git",
     "source": "Progate",
     "link": "https://progate.com/courses/git"
+  },
+  {
+    "icon": "fab fa-git",
+    "name": "Git Tutorial",
+    "source": "Great Learning",
+    "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/git-tutorial"
   }]
 },
 {
