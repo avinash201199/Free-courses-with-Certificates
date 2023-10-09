@@ -1264,7 +1264,13 @@
       "name": "Python ",
       "source": "GUVI",
       "link": "https://www.guvi.in/courses-video/?course=pythonEng"
-    }
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "python projects for beginners",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-projects-for-beginners"
+    },
     
   ]
 },
