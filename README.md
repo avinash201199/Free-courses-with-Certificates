@@ -884,6 +884,9 @@ Website - https://www.kaggle.com/learn/python <br>
 GUVI - Python <br>
 Website - https://www.guvi.in/courses-video/?course=pythonEng <br>
 <br>
+Great Learning - Python Projects for Beginners <br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-projects-for-beginners
+<br>
 
 </details>
 
