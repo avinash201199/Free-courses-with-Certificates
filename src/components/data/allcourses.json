@@ -1872,6 +1872,71 @@
 ]
 },
 
+{
+  "title": "Web Development",
+  "cards": [{
+    "icon": "fa-solid fa-code",
+    "name": "HTML",
+    "source": "W3Schools",
+    "link": "https://www.w3schools.com/html/"
+  },
+  {
+    "icon": "fa-brands fa-css3",
+    "name": "CSS",
+    "source": "tutorialspoint",
+    "link": "https://www.tutorialspoint.com/css/index.html"
+  },
+  {
+    "icon": "fa-brands fa-bootstrap",
+    "name": "Bootstrap",
+    "source": "GeeksForGeeks",
+    "link": "https://www.geeksforgeeks.org/bootstrap/"
+  },
+  {
+    "icon": "fa-brands fa-js",
+    "name": "Javascript",
+    "source": "Javascript.Info",
+    "link": "https://javascript.info/"
+  },
+  {
+    "icon": "fa-brands fa-react",
+    "name": "React",
+    "source": "React.dev",
+    "link": "https://react.dev/blog/2023/03/16/introducing-react-dev"
+  },
+  {
+    "icon": "fa-brands fa-angular",
+    "name": "Angular",
+    "source": "Angular",
+    "link": "https://angular.io/tutorial"
+  }]
+  },
+
+
+
+  {
+    "title": "Backend Development",
+    "cards": [{
+      "icon": "fa-solid fa-python",
+      "name": "Python",
+      "source": "W3Schools",
+      "link": "https://www.w3schools.com/python/"
+    },
+    {
+      "icon": "fa-brands fa-php",
+      "name": "PHP",
+      "source": "javatpoint",
+      "link": "https://www.javatpoint.com/php-tutorial"
+    },
+    {
+      "icon": "fa-brands fa-java",
+      "name": "Java",
+      "source": "programiz",
+      "link": "https://www.programiz.com/java-programming"
+    }
+   ]
+    }
+
 
 
 
