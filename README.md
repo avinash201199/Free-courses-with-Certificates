@@ -533,6 +533,20 @@ Website - https://cognitiveclass.ai/courses/docker-essentials <br>
 </details>
 
 <details>
+<summary>Ethical Hacking</summary>
+<br>
+Jovian- Data Structure & Algorithms in Python<br>
+Website-https://jovian.ai/learn/data-structures-and-algorithms-in-python<br>
+<br>
+GREAT LEARNING ACADEMY- Data Structure & Algorithms in Java for Intermediate Level<br>
+Website-https://www.greatlearning.in/academy/learn-for-free/courses/master-data-structure-algorithms-in-java<br>
+<br>
+LEARNBAY- Data Structures and Algorithms for Tech<br>
+Website-https://course.learnbay.co/dsa<br>
+<br>
+</details>
+
+<details>
 <summary>Flutter</summary>
 <br>
 Introduction to Flutter<br>
