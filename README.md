@@ -1217,9 +1217,9 @@ Website-https://www.udemy.com/course/beginner-course-on-programming/<br>
 SimpliLearn <br>
 Website-https://www.simplilearn.com/learn-power-bi-basics-free-course-skillup<br>
 <br>
-Power BI Basics free course takes you through desktop layouts, BI reports, dashboards, Power BI DAX commands, and functions. Power BI is a business analytics tool that helps analysts use interactive visualizations to create dashboards and reports. This free course will help you understand how to use Power BI tools to analyze data, create datasets, and more.
+Power BI Basics free course takes you through desktop layouts, BI reports, dashboards, Power BI DAX commands, and functions. Power BI is a business analytics tool that helps analysts use interactive visualizations to create dashboards and reports. This free course will help you understand how to use Power BI tools to analyze data, create datasets, and more.<br>
 <br>
-Great Learning<br>
+Great Learning-Power BI Course<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-with-power-bi<br>
 <br>
 </details>
