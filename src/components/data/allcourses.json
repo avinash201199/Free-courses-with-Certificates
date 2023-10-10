@@ -409,6 +409,12 @@
       "name": "C#",
       "source": "W3schools",
       "link": "https://www.w3schools.com/cs/cs_exam.php"
+    },
+    {
+      "icon": "fa-solid fa-c",
+      "name": "Foundational C# with Microsoft",
+      "source": "FreeCodeCamp",
+      "link": "https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/"
     }
   ]
 },
