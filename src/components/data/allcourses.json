@@ -945,6 +945,12 @@
       "name": "Java",
       "source": "Progate",
       "link": "https://progate.com/courses/java"
+    },
+    {
+      "icon": "fab fa-java",
+      "name": "Java Tutorial for Complete Beginners",
+      "source": "Udemy",
+      "link": "https://www.udemy.com/course/java-tutorial/"
     }
   ]
 },
