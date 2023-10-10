@@ -314,6 +314,9 @@ Website- https://www.udemy.com/course/basics-of-object-oriented-programming-with
 Desenvolvedor IO- Iniciando com ASP.NET Core<br>
 Website- https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core<br>
 <br>
+Foundational C# with Microsoft<br>
+Website - https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/<br>
+<br>
 </details>
 
 <details>
