@@ -117,7 +117,13 @@
       "name": "Get certified in Digital Marketing",
       "source": "Hubspot Academy",
       "link": "https://academy.hubspot.com/courses/digital-marketing"
-    }
+    }, 
+    {
+      "icon": "fa-solid fa-bullhorn",
+      "name": "How to start Blogging?",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/how-to-start-blogging"
+    },
   ]
 },
 {
