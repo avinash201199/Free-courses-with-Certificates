@@ -114,6 +114,10 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/introduct
  Hubspot Academy - Get certified in Digital Marketing<br>
  Website- https://academy.hubspot.com/courses/digital-marketing <br>
  <br>
+ <br>
+ Great Learning Academy - How to start Blogging?<br>
+ Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/how-to-start-blogging <br>
+ <br>
 </details>
 <details>
 <summary> Become an Ethical Hacker</summary>
