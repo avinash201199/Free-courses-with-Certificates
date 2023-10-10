@@ -314,6 +314,9 @@ Website- https://www.udemy.com/course/basics-of-object-oriented-programming-with
 Desenvolvedor IO- Iniciando com ASP.NET Core<br>
 Website- https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core<br>
 <br>
+Foundational C# with Microsoft<br>
+Website - https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/<br>
+<br>
 </details>
 
 <details>
@@ -529,6 +532,20 @@ Website - https://devopswithdocker.com <br>
 <br>
 Docker Essentials: A Developer Introduction <br>
 Website - https://cognitiveclass.ai/courses/docker-essentials <br>
+<br>
+</details>
+
+<details>
+<summary>Ethical Hacking</summary>
+<br>
+Great Learning Academy- Introduction to Ethical Hacking<br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-ethical-hacking<br>
+<br>
+Alison - Diploma in Ethical Hacking<br>
+Website-https://alison.com/course/diploma-in-ethical-hacking<br>
+<br>
+Class Central - Ethical Hacking Course Certification<br>
+Website-https://www.classcentral.com/classroom/cybrary-ethical-hacking-course-certification-80344<br>
 <br>
 </details>
 
@@ -1284,9 +1301,9 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
 </details>
 
 <details>
-<summary>Deep Learning</summary>
+<summary>Chat GPT</summary>
 <br>
-Udemy - Deep Learning Prerequisites: The Numpy Stack in Python V2<br>
-Website- https://www.udemy.com/course/numpy-python/<br>
+Great Learning - Chat GPT for beginners<br>
+Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/chatgpt-for-beginners/<br>
 <br>
 </details>
