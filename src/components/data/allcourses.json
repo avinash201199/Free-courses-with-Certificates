@@ -741,15 +741,16 @@
   ]
 },
 
-  {
+{
   "title": "Database Management System",
   "cards": [{
       "icon": "fa-solid fa-cloud-arrow-down",
       "name": "Full Database management course",
       "source": "GREAT LEARNING ACADEMY",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/database-management-system"
-    },
-    
+    }
+  ]
+},  
 {
   "title": "Docker",
   "cards": [{
@@ -812,6 +813,28 @@
       "name": "Getting Started with Kubernetes",
       "source": "KubeAcademy",
       "link": "https://kube.academy/courses/getting-started"
+    }
+  ]
+},
+{
+  "title": "Ethical Hacking",
+  "cards": [{
+      "icon": "fa-solid fa-user-secret",
+      "name": "Introduction to Ethical Hacking",
+      "source": "Great Learning Academy",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-ethical-hacking"
+    },
+    {
+      "icon":"fa-solid fa-user-secret",
+      "name": "Diploma in Ethical Hacking",
+      "source": "Alison",
+      "link":" https://alison.com/course/diploma-in-ethical-hacking"
+    },
+    {
+      "icon": "fa-solid fa-user-secret",
+      "name": "Ethical Hacking Course Certification",
+      "source": "Class Central",
+      "link": "https://www.classcentral.com/classroom/cybrary-ethical-hacking-course-certification-80344"
     }
   ]
 },

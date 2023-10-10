@@ -533,6 +533,20 @@ Website - https://cognitiveclass.ai/courses/docker-essentials <br>
 </details>
 
 <details>
+<summary>Ethical Hacking</summary>
+<br>
+Great Learning Academy- Introduction to Ethical Hacking<br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-ethical-hacking<br>
+<br>
+Alison - Diploma in Ethical Hacking<br>
+Website-https://alison.com/course/diploma-in-ethical-hacking<br>
+<br>
+Class Central - Ethical Hacking Course Certification<br>
+Website-https://www.classcentral.com/classroom/cybrary-ethical-hacking-course-certification-80344<br>
+<br>
+</details>
+
+<details>
 <summary>Flutter</summary>
 <br>
 Introduction to Flutter<br>
