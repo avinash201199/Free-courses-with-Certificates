@@ -4,6 +4,10 @@ import { Button } from "react-bootstrap";
 import OutsideAlerter from "./Outsideclick";
 import "../styles/navbar.css";
 
+// react icons
+import {ImBin2} from "react-icons/im";
+import {AiFillCloseSquare} from "react-icons/ai";
+
 export default function Navbar(props) {
   const [searchTerm, setSearchTerm] = useState("");
   const [searchResults, showSearch] = useState(0);
@@ -18,17 +22,17 @@ export default function Navbar(props) {
   };
 
   return (
-    <nav>
+    <nav className=" border-2 border-blue-900 bg-blue-600">
       <div className="menu-nav-bar">
         <span class="material-symbols-outlined" onClick={props.toggleSideMenu}>
           menu
         </span>
       </div>
       <OutsideAlerter closeSearch={handleClick} >
-        <div className="search-bar flex justify-between">
+        <div className="mr-5 pl-5 rounded-lg text-blue-600 search-bar flex justify-between bg-white">
           <input
             type="text"
-            className="search-bar-input"
+            className="search-bar-input py-2 px-3 rounded-lg w-96"
             placeholder="Search.."
             id="search"
             onFocus={() => showSearch(1)}
@@ -83,24 +87,21 @@ export default function Navbar(props) {
             onBlur={() => showSearch(0)}
             onClick={handleClick}
           >
-            <label className="search-bar-placeholder" htmlFor="search">
-              {" "}
-              Clear
-            </label>
+            <ImBin2 color="gray" className="ml-2" size={25}/>
           </button>
 
           <button
-            className="close-search-btn"
+            className="close-search bg-white mx-3"
             onClick={closeSearch}
             style={{ visibility: searchResults ? "visible" : "hidden" }}
           >
-            close search
+            <AiFillCloseSquare size={25} color="red"/>
           </button>
         </div>
       </OutsideAlerter>
       <div className="nav-left-flex hide-item">
-        <span class="material-symbols-outlined">notifications</span>
-        <span class="material-symbols-outlined hide-item">bookmark_added</span>
+        <span class="material-symbols-outlined text-white">notifications</span>
+        <span class="material-symbols-outlined hide-item text-white">bookmark_added</span>
         <div
           style={{
             display: "flex",
@@ -108,8 +109,8 @@ export default function Navbar(props) {
             alignItems: "center",
           }}
         >
-          <span class="material-symbols-outlined">account_circle</span>
-          <div className="" style={{ marginLeft: "10px" }}>
+          <span class="material-symbols-outlined text-white">account_circle</span>
+          <div className="text-white" style={{ marginLeft: "10px" }}>
             Welcome User
           </div>
         </div>

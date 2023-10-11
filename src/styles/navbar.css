@@ -5,11 +5,9 @@ nav {
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
-
   background: #fff;
-
   padding: 30px 120px;
-  box-shadow: 0 0 20px rgb(212, 212, 212);
+  box-shadow: 0 0 20px rgb(92, 154, 255);
 }
 
 .title-nav {
@@ -27,13 +25,15 @@ nav {
 .search-bar-input {
   outline: none;
   border: none;
-  border-bottom: 1px solid rgb(212, 212, 212);
-  width: 150px;
+  border: 2.5px solid white;
+  width: 250px;
 }
 
 .search-bar-placeholder {
   font-size: 0.9rem;
   cursor: pointer;
+  color: white;
+  padding: 2px 5px;
 }
 
 .search-bar-input:focus + .search-bar-submit {
@@ -44,13 +44,11 @@ nav {
 .search-bar-submit:hover,
 .search-bar-submit:focus {
   transition: all 0.2s ease;
-  background: #216fff;
+  padding: 1px 3px;
   box-shadow: none;
   outline: none;
-  border: none;
-  color: #fff;
-  padding: 1px 5px;
-  border-radius: 3px;
+  color: #000000;
+  border-radius: 5px;
   margin-left: 7px;
 }
 

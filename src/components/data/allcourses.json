@@ -1288,7 +1288,7 @@
       "source": "Upgrad",
       "link": "https://www.upgrad.com/blog/python-free-online-course/"
     },
-   {
+    {
       "icon": "fab fa-python",
       "name": "Python ",
       "source": "GUVI",
@@ -1299,8 +1299,7 @@
       "name": "python projects for beginners",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-projects-for-beginners"
-    },
-    
+    }
   ]
 },
 {
