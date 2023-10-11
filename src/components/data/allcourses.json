@@ -141,7 +141,7 @@
       "name": "How to start Blogging?",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/how-to-start-blogging"
-    },
+    }
   ]
 },
 {
@@ -1039,6 +1039,12 @@
       "name": "Linux Tutorial",
       "source": "Great Learning Academy",
       "link": "https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutorial"
+    },
+    {
+      "icon": "fab fa-linux",
+      "name": "A Beginner’s Guide to Linux Kernel Development",
+      "source": "Linux Foundation",
+      "link": "https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/"
     }
   ]
 },
@@ -1329,8 +1335,7 @@
       "name": "Harvard CS50- Introduction to programming with Python",
       "source": "CS50",
       "link": "https://cs50.harvard.edu/python/2022/certificate/"
-    },
-    
+    }
   ]
 },
 {
