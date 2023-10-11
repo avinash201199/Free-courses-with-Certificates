@@ -17,6 +17,7 @@
     "react-bootstrap": "^2.5.0",
     "react-collapsible": "^2.10.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.11.0",
     "react-router-dom": "^6.4.2"
   },
   "devDependencies": {
