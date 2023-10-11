@@ -48,6 +48,18 @@
     }
   ]
 },
+
+      {
+    "title": "Database and SQL",
+    "cards": [
+        {
+            "icon": "fa-solid fa-database",
+            "name": "Database and SQL",
+            "source": "Infosys Springboard",
+            "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview"
+        }
+    ]
+},
 {
   "title": "AWS",
   "cards": [{
