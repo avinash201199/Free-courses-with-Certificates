@@ -1233,6 +1233,13 @@ INDIAN INSITUTE OF REMOTE SENSING <br>
 Website-https://elearning.iirs.gov.in/edusatregistration/student<br>
 <br>
 </details>
+ <details>
+  <summary>Python-mysql</summary>
+ <br>
+ My Great Learning: Python-mysql<br>
+ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/python-mysql</br>
+ <br>
+</details>
 <details>
 <summary>
 Beginner Course on Programming and Coding Fundamentals</summary>
@@ -1312,3 +1319,5 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Website- https://www.scaler.com/topics/course/free-computer-networks-course/<br>
 <br>
 </details>
+
+
