@@ -913,6 +913,10 @@ Website - https://www.guvi.in/courses-video/?course=pythonEng <br>
 Great Learning - Python Projects for Beginners <br>
 Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-projects-for-beginners
 <br>
+<br>
+Harvard CS50 - Introduction to programming with Python <br>
+Website - https://cs50.harvard.edu/python/2022/certificate/
+<br>
 
 </details>
 
