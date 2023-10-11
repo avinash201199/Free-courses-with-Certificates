@@ -1832,6 +1832,17 @@
     }
   ]
 },
+{
+  "title": "Frontend Development",
+  "cards": [
+    {
+      "icon": "fa-solid fa-code",
+      "name": "Meta Front-End Developer Professional Certificate",
+      "source": "Coursera",
+      "link": "https://www.coursera.org/professional-certificates/meta-front-end-developer"
+    }
+  ]
+},
   {
     "title": "Git",
     "cards": [

@@ -586,6 +586,14 @@ Website-https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013094412
 </details>
 
 <details>
+<summary>Frontend Development</summary>
+<br>
+Coursera - Meta Front-End Developer Professional Certificate<br>
+Website: https://www.coursera.org/professional-certificates/meta-front-end-developer<br>
+<br>
+</details>
+
+<details>
 <summary>Git</summary>
 <br>
 Progate- Git<br>
