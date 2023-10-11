@@ -1642,7 +1642,14 @@
       "name": "Front end developement libraries : React",
       "source": "FreeCodeCamp",
       "link": "https://www.freecodecamp.org/learn/front-end-development-libraries/"
+    },
+    {
+      "icon": "fa-solid fa-laptop-code",
+      "name": "JavaScript-based web development",
+      "source": "Full stack open",
+      "link": "https://fullstackopen.com/en/"
     }
+
   ]
 },
 {
