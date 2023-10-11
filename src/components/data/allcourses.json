@@ -1312,6 +1312,12 @@
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-projects-for-beginners"
     },
+    {
+      "icon": "fab fa-python",
+      "name": "Harvard CS50- Introduction to programming with Python",
+      "source": "CS50",
+      "link": "https://cs50.harvard.edu/python/2022/certificate/"
+    },
     
   ]
 },
