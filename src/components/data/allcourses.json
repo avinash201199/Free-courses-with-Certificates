@@ -1918,13 +1918,13 @@
      {
     "icon": "fa-solid fa-globe",
     "name": "Python-mysql",
-    "source": "mygreatlearning",
+    "source": "My Great Learning",
     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-mysql"
   },
      {
     "icon": "fa-solid fa-globe",
     "name": "sql-basics",
-    "source": "mygreatlearning",
+    "source": "My Great Learning",
     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics"
   } 
     
