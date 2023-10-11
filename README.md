@@ -10,14 +10,14 @@ Engaging in professional development activities, such as specialized training an
 
 After extensive research and effort, I have curated a selection of free online courses that provide certification across various domains. These courses offer a unique opportunity to bolster your qualifications, and the resulting certificates can be prominently displayed on your resume or LinkedIn profile, showcasing your commitment to continuous learning and professional development. 📜
 
-Feel free to explore these courses and take the next step in your journey towards personal and career growth. 🌐💼
-### How to contribute ! 😎<br>
+Feel free to explore these courses and take the next step in your journey toward personal and career growth. 🌐💼
+### How to contribute! 😎<br>
 
-You can contribute in many ways in this repository
+You can contribute in many ways to this repository
 
-1. If you are beginner, then you can contribute by improving the structure of the repository. <br>
+1. If you are a beginner, then you can contribute by improving the structure of the repository. <br>
 2. Design the website for this repository with the content. <br>
-3. Add more free courses into the list below and in the main.js course_details list which are not present. <br>
+3. Add more free courses to the list below and in the main.js course_details list that are not present. <br>
 
 Check [Contributing.md](https://github.com/avinash201199/Free-courses-with-Certificates/blob/main/CONTRIBUTING.md) file to get started
 
@@ -25,7 +25,7 @@ Check [Contributing.md](https://github.com/avinash201199/Free-courses-with-Certi
 
 <br>
 <br>
-At last , please share this repository with your friends, juniors and with seniors also,so they don't miss this opportunity. Follow me for more updates -https://github.com/avinash201199
+At last, please share this repository with your friends, juniors, and seniors also, so they don't miss this opportunity. Follow me for more updates -https://github.com/avinash201199
 <br>
 
 For any doubt contact me here: - <br>
@@ -107,7 +107,7 @@ Website - https://www.freecodecamp.org/learn/data-visualization/<br>
 <br>The Fundamentals of Digital Marketing<br>
 Website-https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing<br>
 <br>
-Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, packed full of practical exercises and real-world examples to help you turn knowledge into action.
+Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, and packed full of practical exercises and real-world examples to help you turn knowledge into action.
 <br>
 <br>
 Great Learning Academy- Introduction to Digital Marketing<br>
@@ -198,7 +198,7 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/spark-basic
  Website-https://www.futurelearn.com/courses/applied-big-data-analytics
 <br>
 <br>
-UDEMY: Essential Non Technical Skills of Effective Data Scientists<br>
+UDEMY: Essential Non-Technical Skills of Effective Data Scientists<br>
  Website- https://www.udemy.com/share/104fI23@HXPESfaal6TkxBGwZVO4s8bsVUcn2pCEvhFwpop5i0kIQeGdP4BlxQn6kiJdDGm_6w==/<br>
  <br>
 </details>
@@ -210,7 +210,7 @@ Official Website<br>
 Website-https://explore.skillbuilder.aws/learn<br>
 <br>
 Great Learning-AWS for Beginners<br>
-Website : https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1
+Website: https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1
 </details>
 
 <details>
@@ -742,7 +742,7 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-ma
 GREAT LEARNING ACADEMY- Supervised Machine Learning with Logistic Regression and Naïve Bayes<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/supervised-machine-learning-with-logistic-regression-and-naive-bayes<br>
 <br>
-GREAT LEARNING ACADEMY- Supervised Machine Learning with Tree Based Models<br>
+GREAT LEARNING ACADEMY- Supervised Machine Learning with Tree-Based Models<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/supervised-machine-learning-with-tree-based-models <br>
 <br>
 GREAT LEARNING ACADEMY- Unsupervised Machine Learning with K-means<br>
@@ -751,7 +751,7 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/unsupervised
 GREAT LEARNING ACADEMY- Statistics for Machine Learning<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/statistics-for-machine-learning <br>
 <br>
-ML with python by free code camp dot org
+ML with Python by free code camp dot org
 <br>
 website : https://www.freecodecamp.org/learn/machine-learning-with-python/
 <br>
