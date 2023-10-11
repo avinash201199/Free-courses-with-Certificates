@@ -1320,6 +1320,15 @@ Website- https://www.freecodecamp.org/learn/quality-assurance/<br>
 <br>Networking Essentials By Cisco Networking Academy<br>
 Website- https://www.netacad.com/courses/networking/networking-essentials<br>
 <br>
+
+<details>
+<summary>Cyber Security</summary>
+<br>
+FREE Cybersecurity Training and Exam! Certification<br>
+Website-https://www.isc2.org/certifications/cc<br>
+<br>
+</details>
+
  Basics of Computer Networking<br>
  Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/basics-of-computer-networking<br>
  <br>
