@@ -727,6 +727,17 @@
       "link": "https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms"
     },
     {
+    "title": "Java(Basic)",
+    "cards": [
+        {
+            "icon": "fa-brands fa-java",
+            "name": "Java(Basic)",
+            "source": "HackerRank",
+            "link": "https://www.hackerrank.com/skills-verification/java_basic"
+        }
+    ]
+},
+    {
       "icon": "fab fa-algolia",
       "name": "Introduction to Algorithms and Data structures in C++",
       "source": "Udemy",
