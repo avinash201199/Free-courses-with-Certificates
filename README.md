@@ -206,6 +206,8 @@ UDEMY: Essential Non Technical Skills of Effective Data Scientists<br>
 Official Website<br>
 Website-https://explore.skillbuilder.aws/learn<br>
 <br>
+Great Learning-AWS for Beginners<br>
+Website : https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1
 </details>
 
 <details>

@@ -67,6 +67,12 @@
       "name": "AWS Power Hour: Architecting",
       "source": "AWS Skillbuilder",
       "link": "https://pages.awscloud.com/traincert-twitch-power-hour-architecting.html"
+    },
+    {
+      "icon": "fa-solid fa-brain",
+      "name": "AWS for Beginners",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1"
     }
   ]
 },
