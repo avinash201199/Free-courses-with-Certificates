@@ -1721,7 +1721,14 @@
     "name": "Certified Jenkins Engineer",
     "source": "Cloudbees University",
     "link": "https://www.cloudbees.com/jenkins/certification"
-  }]
+  },
+  {
+    "icon": "fa-brands fa-jenkins",
+    "name": " Jenkins Tutorial",
+    "source": "Great Learning Academy",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/jenkins-tutorial"
+  }
+]
 },
 {
   "title": "Digital marketing",
