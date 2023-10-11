@@ -1308,3 +1308,10 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Website- https://www.scaler.com/topics/course/free-computer-networks-course/<br>
 <br>
 </details>
+
+<details>
+<summary>Programming Fundamentals</summary>
+<br>
+ Java(Basics)<br>
+ Website - https://www.hackerrank.com/skills-verification/java_basic<br>
+</details>
