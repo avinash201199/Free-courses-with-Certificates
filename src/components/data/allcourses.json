@@ -1935,7 +1935,48 @@
       "link": "https://www.programiz.com/java-programming"
     }
    ]
+    },
+    {
+  "title": "Swift iOS Development",
+  "cards": [{
+      "icon": "fab fa-swift",
+      "name": "Swift iOS Developer",
+      "source": "Udemy",
+      "link": "https://www.udemy.com/course/the-complete-ios-10-developer-course/"
+    },
+    {
+      "icon": "fab fa-swift",
+      "name": "100 days with Swift",
+      "source": "Hacking with Swift",
+      "link": "https://www.hackingwithswift.com/100"
+    },
+    {
+      "icon": "fab fa-swift",
+      "name": "100 days with SwiftUI",
+      "source": "Hacking with Swift",
+      "link": "https://www.hackingwithswift.com/100/swiftui"
+    },
+    {
+      "icon": "fab fa-swift",
+      "name": "Ray Wenderlich iOS Tutorial",
+      "source": "Ray Wenderlich",
+      "link": "https://www.raywenderlich.com/category/ios"
+    },
+    {
+      "icon": "fab fa-swift",
+      "name": "The Complete Swift iOS Developer - Create Real Apps in Swift",
+      "source": "Udemy",
+      "link": "https://www.udemy.com/course/the-complete-ios-10-developer-course/"
+    },
+    {
+      "icon": "fab fa-swift",
+      "name": "AppCoda Complete iOS Tutorial",
+      "source": "Appcoda",
+      "link": "http://www.appcoda.com/ios-programming-course/"
     }
+
+  ]
+}
 
 
 
