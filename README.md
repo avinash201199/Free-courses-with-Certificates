@@ -233,6 +233,9 @@ Website : https://www.bitdegree.org/course/learn-solidity-space-doggos <br>
 Cadena - Become a Blockchain Developer <br>
 Website : https://cadena.dev/ <br>
 <br>
+cryptozombies.io - Become a Solidity Developer <br>
+Website : https://cryptozombies.io/en/solidity <br>
+<br>
 KBA E-Learning Platform - Blockchain Training <br>
 Website : https://elearning.kba.ai/ <br>
 <br>
