@@ -1927,14 +1927,7 @@
     "source": "My Great Learning",
     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics"
   } 
-    ,
-     {
-    "icon": "fa-solid fa-globe",
-    "name": "sql-for-Data-Science",
-    "source": "My Great Learning",
-    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science"
-  } 
-  
+    
 ]
 }
 ]
