@@ -1,13 +1,16 @@
 <h1 align="center"> Free-courses-with-Certificates</h1>
 
-[Website link- React](https://free-courses-with-certificates.netlify.app/)
+## Check our website: [Website link](https://free-courses-with-certificates.netlify.app/) ✨
 
-We all know that getting an internship or a job is challenging, and often these online courses do wonders in making our resume look good. Since unpaid courses are accessible to everyone, they help many people further their learning, learn new skills, and polish their existing skills. Academic knowledge might not be enough in today’s society. You need to show the world that you have experimented in your life and have enriching experiences. A lot of opportunities open up when you start getting involved in professional activities like training and courses.<br>
-<br>
-After many days of work, I have collected some free courses with certificates in different domains. You can enroll in any course of your choice and get the certificate to add it to your resume or Linkedin.
-<br>
-<br>
+In today's highly competitive job market, securing internships or employment opportunities can be an arduous task. However, online courses have emerged as powerful tools to enhance one's resume and skillset. 🌟
 
+Unpaid online courses are an invaluable resource, as they are accessible to individuals from all walks of life, facilitating continuous learning and the refinement of both new and existing skills. In the contemporary landscape, possessing solely academic knowledge may not suffice; one must demonstrate a commitment to personal growth through hands-on experiences. 🚀
+
+Engaging in professional development activities, such as specialized training and online courses, can open doors to a plethora of opportunities. These activities are a testament to one's dedication to self-improvement and their pursuit of excellence in their chosen field. 📚
+
+After extensive research and effort, I have curated a selection of free online courses that provide certification across various domains. These courses offer a unique opportunity to bolster your qualifications, and the resulting certificates can be prominently displayed on your resume or LinkedIn profile, showcasing your commitment to continuous learning and professional development. 📜
+
+Feel free to explore these courses and take the next step in your journey towards personal and career growth. 🌐💼
 ### How to contribute ! 😎<br>
 
 You can contribute in many ways in this repository
@@ -114,6 +117,10 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/introduct
  Hubspot Academy - Get certified in Digital Marketing<br>
  Website- https://academy.hubspot.com/courses/digital-marketing <br>
  <br>
+ <br>
+ Great Learning Academy - How to start Blogging?<br>
+ Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/how-to-start-blogging <br>
+ <br>
 </details>
 <details>
 <summary> Become an Ethical Hacker</summary>
@@ -202,6 +209,8 @@ UDEMY: Essential Non Technical Skills of Effective Data Scientists<br>
 Official Website<br>
 Website-https://explore.skillbuilder.aws/learn<br>
 <br>
+Great Learning-AWS for Beginners<br>
+Website : https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1
 </details>
 
 <details>
@@ -906,6 +915,10 @@ Website - https://www.guvi.in/courses-video/?course=pythonEng <br>
 <br>
 Great Learning - Python Projects for Beginners <br>
 Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-projects-for-beginners
+<br>
+<br>
+Harvard CS50 - Introduction to programming with Python <br>
+Website - https://cs50.harvard.edu/python/2022/certificate/
 <br>
 
 </details>
