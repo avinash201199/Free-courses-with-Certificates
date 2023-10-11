@@ -11,6 +11,7 @@ Engaging in professional development activities, such as specialized training an
 After extensive research and effort, I have curated a selection of free online courses that provide certification across various domains. These courses offer a unique opportunity to bolster your qualifications, and the resulting certificates can be prominently displayed on your resume or LinkedIn profile, showcasing your commitment to continuous learning and professional development. 📜
 
 Feel free to explore these courses and take the next step in your journey towards personal and career growth. 🌐💼
+
 ### How to contribute ! 😎<br>
 
 You can contribute in many ways in this repository
@@ -1173,6 +1174,10 @@ website : https://www.freecodecamp.org/learn/front-end-development-libraries/
 <br>
 Full Stack Web Development - Newton School<br>
 Website- https://my.newtonschool.co/course/sgo3yt59mul2/timeline/<br>
+<br>
+<br>
+JavaScript-based web development - Full stack open<br>
+Website- https://fullstackopen.com/en/<br>
 <br>
 
 </details>
