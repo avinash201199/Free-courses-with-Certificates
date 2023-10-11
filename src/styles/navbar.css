@@ -56,11 +56,12 @@ nav {
 
 .search-bar-area {
   position: absolute;
+  left: -3.5rem;
   overflow-y: scroll;
   overflow-x: hidden;
-  max-height: 20vh;
+  max-height: 50vh;
   margin-top: 50px;
-  width: auto;
+  width: 30vw;
   padding: 10px;
   border-radius: 5px;
   z-index: 10000;
@@ -133,6 +134,11 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
+  transition: 0.3s ease-in-out;
+}
+.nav-left-flex :hover {
+  transform: scale(1.1);
+  transition: 0.3s ease-in-out;
 }
 
 .nav-left-flex > * {
