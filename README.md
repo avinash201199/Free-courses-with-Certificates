@@ -713,6 +713,9 @@ Website- https://geek-university.com/course/free-linux-course/<br>
 GREAT LEARNING ACADEMY- Linux Tutorial<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutorial<br>
 <br>
+Linux Foundation- A Beginner’s Guide to Linux Kernel Development<br>
+Website-https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/<br>
+<br>
 </details>
 
 <details>

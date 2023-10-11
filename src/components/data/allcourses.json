@@ -1015,6 +1015,12 @@
       "name": "Linux Tutorial",
       "source": "Great Learning Academy",
       "link": "https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutorial"
+    },
+    {
+      "icon": "fab fa-linux",
+      "name": "A Beginner’s Guide to Linux Kernel Development",
+      "source": "Linux Foundation",
+      "link": "https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/"
     }
   ]
 },
@@ -1299,7 +1305,7 @@
       "name": "python projects for beginners",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-projects-for-beginners"
-    },
+    }
     
   ]
 },
