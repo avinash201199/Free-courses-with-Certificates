@@ -1315,6 +1315,9 @@ Website-https://www.udemy.com/course/web3-blockchain-smartcontracts-crypto-pract
 <br>Quality Assurance and Testing with Chai<br>
 Website- https://www.freecodecamp.org/learn/quality-assurance/<br>
 <br>
+<br>Quality Assurance (QA) - Techniques and Methodologies<br>
+Website- https://alison.com/course/quality-assurance-qa-techniques-and-methodologies<br>
+<br>
  
 </details>
 

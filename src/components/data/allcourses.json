@@ -1881,12 +1881,20 @@
 },
 {
   "title": "Software Testing/Quality Assurance",
-  "cards": [{
-    "icon": "fa-solid fa-clipboard-check",
-    "name": "Quality Assurance and Testing with Chai",
-    "source": "FreeCodeCamp",
-    "link": "https://www.freecodecamp.org/learn/quality-assurance/"
-  }]
+  "cards": [
+    {
+      "icon": "fa-solid fa-clipboard-check",
+      "name": "Quality Assurance and Testing with Chai",
+      "source": "FreeCodeCamp",
+      "link": "https://www.freecodecamp.org/learn/quality-assurance/"
+    },
+    {
+      "icon": "fa-solid fa-clipboard-check",
+      "name": "Quality Assurance (QA) - Techniques and Methodologies",
+      "source": "Alison",
+      "link": "https://alison.com/course/quality-assurance-qa-techniques-and-methodologies"
+    },
+]
 },
 {
 
