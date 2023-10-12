@@ -407,6 +407,8 @@ Website- https://www.cybrary.it/course/advanced-penetration-testing/<br>
 Linux Foundation- Getting Started with Self-Sovereign Identity<br>
 Website- https://training.linuxfoundation.org/training/getting-started-with-self-sovereign-identity-lfs178x/<br>
 <br>
+CS50 - Introduction to cybersecurity<br>
+Website - https://cs50.harvard.edu/cybersecurity/2023/certificate/<br>
 
 </details>
 
