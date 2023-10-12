@@ -583,9 +583,11 @@ Website-https://www.classcentral.com/classroom/cybrary-ethical-hacking-course-ce
 Introduction to Flutter<br>
 Website-https://www.simplilearn.com/free-flutter-foundation-course-skillup<br>
 <br>
-<br>
 Flutter - A Beginners Course<br>
 Website-https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944127399116801912_shared/overview<br>
+<br>
+Great Learning-Flutter for Beginners<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/flutter-for-beginners<br>
 <br>
 </details>
 
