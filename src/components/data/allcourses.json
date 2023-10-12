@@ -573,6 +573,12 @@
       "source": "Linux Foundation",
       "link": "https://training.linuxfoundation.org/training/getting-started-with-self-sovereign-identity-lfs178x/"
     }
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "name": "CS50 - Introduction to cybersecurity",
+      "source": "Harvard CS50",
+      "link": "https://cs50.harvard.edu/cybersecurity/2023/certificate/"
+    }
   ]
 },
 {
