@@ -1938,8 +1938,20 @@
     "name": "Computer Networking Course: Master Computer Networking",
     "source": "Scaler Academy",
     "link": "https://www.scaler.com/topics/course/free-computer-networks-course/"
-  }
-  
+  },
+     {
+    "icon": "fa-solid fa-globe",
+    "name": "Python-mysql",
+    "source": "My Great Learning",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-mysql"
+  },
+     {
+    "icon": "fa-solid fa-globe",
+    "name": "sql-basics",
+    "source": "My Great Learning",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics"
+  } 
+    
 ]
 }
 ]
