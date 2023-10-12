@@ -1,20 +1,23 @@
 <h1 align="center"> Free-courses-with-Certificates</h1>
 
-[Website link- React](https://free-courses-with-certificates.netlify.app/)
+## Check our website: [Website link](https://free-courses-with-certificates.netlify.app/) ✨
 
-We all know that getting an internship or a job is challenging, and often these online courses do wonders in making our resume look good. Since unpaid courses are accessible to everyone, they help many people further their learning, learn new skills, and polish their existing skills. Academic knowledge might not be enough in today’s society. You need to show the world that you have experimented in your life and have enriching experiences. A lot of opportunities open up when you start getting involved in professional activities like training and courses.<br>
-<br>
-After many days of work, I have collected some free courses with certificates in different domains. You can enroll in any course of your choice and get the certificate to add it to your resume or Linkedin.
-<br>
-<br>
+In today's highly competitive job market, securing internships or employment opportunities can be an arduous task. However, online courses have emerged as powerful tools to enhance one's resume and skillset. 🌟
 
-### How to contribute ! 😎<br>
+Unpaid online courses are an invaluable resource, as they are accessible to individuals from all walks of life, facilitating continuous learning and the refinement of both new and existing skills. In the contemporary landscape, possessing solely academic knowledge may not suffice; one must demonstrate a commitment to personal growth through hands-on experiences. 🚀
 
-You can contribute in many ways in this repository
+Engaging in professional development activities, such as specialized training and online courses, can open doors to a plethora of opportunities. These activities are a testament to one's dedication to self-improvement and their pursuit of excellence in their chosen field. 📚
 
-1. If you are beginner, then you can contribute by improving the structure of the repository. <br>
+After extensive research and effort, I have curated a selection of free online courses that provide certification across various domains. These courses offer a unique opportunity to bolster your qualifications, and the resulting certificates can be prominently displayed on your resume or LinkedIn profile, showcasing your commitment to continuous learning and professional development. 📜
+
+Feel free to explore these courses and take the next step in your journey toward personal and career growth. 🌐💼
+### How to contribute! 😎<br>
+
+You can contribute in many ways to this repository
+
+1. If you are a beginner, then you can contribute by improving the structure of the repository. <br>
 2. Design the website for this repository with the content. <br>
-3. Add more free courses into the list below and in the main.js course_details list which are not present. <br>
+3. Add more free courses to the list below and in the main.js course_details list that are not present. <br>
 
 Check [Contributing.md](https://github.com/avinash201199/Free-courses-with-Certificates/blob/main/CONTRIBUTING.md) file to get started
 
@@ -22,7 +25,7 @@ Check [Contributing.md](https://github.com/avinash201199/Free-courses-with-Certi
 
 <br>
 <br>
-At last , please share this repository with your friends, juniors and with seniors also,so they don't miss this opportunity. Follow me for more updates -https://github.com/avinash201199
+At last, please share this repository with your friends, juniors, and seniors also, so they don't miss this opportunity. Follow me for more updates -https://github.com/avinash201199
 <br>
 
 For any doubt contact me here: - <br>
@@ -104,7 +107,7 @@ Website - https://www.freecodecamp.org/learn/data-visualization/<br>
 <br>The Fundamentals of Digital Marketing<br>
 Website-https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing<br>
 <br>
-Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, packed full of practical exercises and real-world examples to help you turn knowledge into action.
+Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, and packed full of practical exercises and real-world examples to help you turn knowledge into action.
 <br>
 <br>
 Great Learning Academy- Introduction to Digital Marketing<br>
@@ -113,6 +116,10 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/introduct
 <br>
  Hubspot Academy - Get certified in Digital Marketing<br>
  Website- https://academy.hubspot.com/courses/digital-marketing <br>
+ <br>
+ <br>
+ Great Learning Academy - How to start Blogging?<br>
+ Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/how-to-start-blogging <br>
  <br>
 </details>
 <details>
@@ -191,7 +198,7 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/spark-basic
  Website-https://www.futurelearn.com/courses/applied-big-data-analytics
 <br>
 <br>
-UDEMY: Essential Non Technical Skills of Effective Data Scientists<br>
+UDEMY: Essential Non-Technical Skills of Effective Data Scientists<br>
  Website- https://www.udemy.com/share/104fI23@HXPESfaal6TkxBGwZVO4s8bsVUcn2pCEvhFwpop5i0kIQeGdP4BlxQn6kiJdDGm_6w==/<br>
  <br>
 </details>
@@ -202,6 +209,8 @@ UDEMY: Essential Non Technical Skills of Effective Data Scientists<br>
 Official Website<br>
 Website-https://explore.skillbuilder.aws/learn<br>
 <br>
+Great Learning-AWS for Beginners<br>
+Website: https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1
 </details>
 
 <details>
@@ -259,6 +268,15 @@ Website-https://www.udemy.com/course/introduction-to-the-c-language/<br>
 </details>
 
 <details>
+<summary>Jenkins</summary>
+<br>
+Jenkins Tutorial<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/jenkins-tutorial<br>
+<br>
+
+</details>
+
+<details>
 <summary>GitHub Tutorial</summary>
 <br>GitHub Tutorial for Beginners <br>
 Website-https://skills.github.com/<br>
@@ -313,6 +331,9 @@ Website- https://www.udemy.com/course/basics-of-object-oriented-programming-with
 <br>
 Desenvolvedor IO- Iniciando com ASP.NET Core<br>
 Website- https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core<br>
+<br>
+Foundational C# with Microsoft<br>
+Website - https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/<br>
 <br>
 </details>
 
@@ -511,6 +532,12 @@ Website-https://www.upgrad.com/us/free-courses/<br>
 GREAT LEARNING ACADEMY - Learn database management system from basics, taught hands-on by experts. Learn key concepts in relational database management system in details along with example.
 <br> Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/database-management-system<br>
 <br>
+<br> 
+Database and SQL
+<br> Website - https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview<br>
+<br>
+
+ 
 </details>
 
 <details>
@@ -529,6 +556,20 @@ Website - https://devopswithdocker.com <br>
 <br>
 Docker Essentials: A Developer Introduction <br>
 Website - https://cognitiveclass.ai/courses/docker-essentials <br>
+<br>
+</details>
+
+<details>
+<summary>Ethical Hacking</summary>
+<br>
+Great Learning Academy- Introduction to Ethical Hacking<br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-ethical-hacking<br>
+<br>
+Alison - Diploma in Ethical Hacking<br>
+Website-https://alison.com/course/diploma-in-ethical-hacking<br>
+<br>
+Class Central - Ethical Hacking Course Certification<br>
+Website-https://www.classcentral.com/classroom/cybrary-ethical-hacking-course-certification-80344<br>
 <br>
 </details>
 
@@ -696,6 +737,9 @@ Website- https://geek-university.com/course/free-linux-course/<br>
 GREAT LEARNING ACADEMY- Linux Tutorial<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutorial<br>
 <br>
+Linux Foundation- A Beginner’s Guide to Linux Kernel Development<br>
+Website-https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/<br>
+<br>
 </details>
 
 <details>
@@ -716,7 +760,7 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-ma
 GREAT LEARNING ACADEMY- Supervised Machine Learning with Logistic Regression and Naïve Bayes<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/supervised-machine-learning-with-logistic-regression-and-naive-bayes<br>
 <br>
-GREAT LEARNING ACADEMY- Supervised Machine Learning with Tree Based Models<br>
+GREAT LEARNING ACADEMY- Supervised Machine Learning with Tree-Based Models<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/supervised-machine-learning-with-tree-based-models <br>
 <br>
 GREAT LEARNING ACADEMY- Unsupervised Machine Learning with K-means<br>
@@ -725,7 +769,7 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/unsupervised
 GREAT LEARNING ACADEMY- Statistics for Machine Learning<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/statistics-for-machine-learning <br>
 <br>
-ML with python by free code camp dot org
+ML with Python by free code camp dot org
 <br>
 website : https://www.freecodecamp.org/learn/machine-learning-with-python/
 <br>
@@ -886,6 +930,10 @@ Website - https://www.guvi.in/courses-video/?course=pythonEng <br>
 <br>
 Great Learning - Python Projects for Beginners <br>
 Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-projects-for-beginners
+<br>
+<br>
+Harvard CS50 - Introduction to programming with Python <br>
+Website - https://cs50.harvard.edu/python/2022/certificate/
 <br>
 
 </details>

@@ -48,6 +48,18 @@
     }
   ]
 },
+
+      {
+    "title": "Database and SQL",
+    "cards": [
+        {
+            "icon": "fa-solid fa-database",
+            "name": "Database and SQL",
+            "source": "Infosys Springboard",
+            "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview"
+        }
+    ]
+},
 {
   "title": "AWS",
   "cards": [{
@@ -67,6 +79,12 @@
       "name": "AWS Power Hour: Architecting",
       "source": "AWS Skillbuilder",
       "link": "https://pages.awscloud.com/traincert-twitch-power-hour-architecting.html"
+    },
+    {
+      "icon": "fa-solid fa-brain",
+      "name": "AWS for Beginners",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1"
     }
   ]
 },
@@ -117,6 +135,12 @@
       "name": "Get certified in Digital Marketing",
       "source": "Hubspot Academy",
       "link": "https://academy.hubspot.com/courses/digital-marketing"
+    }, 
+    {
+      "icon": "fa-solid fa-bullhorn",
+      "name": "How to start Blogging?",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/how-to-start-blogging"
     }
   ]
 },
@@ -409,6 +433,12 @@
       "name": "C#",
       "source": "W3schools",
       "link": "https://www.w3schools.com/cs/cs_exam.php"
+    },
+    {
+      "icon": "fa-solid fa-c",
+      "name": "Foundational C# with Microsoft",
+      "source": "FreeCodeCamp",
+      "link": "https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/"
     }
   ]
 },
@@ -741,15 +771,16 @@
   ]
 },
 
-  {
+{
   "title": "Database Management System",
   "cards": [{
       "icon": "fa-solid fa-cloud-arrow-down",
       "name": "Full Database management course",
       "source": "GREAT LEARNING ACADEMY",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/database-management-system"
-    },
-    
+    }
+  ]
+},  
 {
   "title": "Docker",
   "cards": [{
@@ -812,6 +843,28 @@
       "name": "Getting Started with Kubernetes",
       "source": "KubeAcademy",
       "link": "https://kube.academy/courses/getting-started"
+    }
+  ]
+},
+{
+  "title": "Ethical Hacking",
+  "cards": [{
+      "icon": "fa-solid fa-user-secret",
+      "name": "Introduction to Ethical Hacking",
+      "source": "Great Learning Academy",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-ethical-hacking"
+    },
+    {
+      "icon":"fa-solid fa-user-secret",
+      "name": "Diploma in Ethical Hacking",
+      "source": "Alison",
+      "link":" https://alison.com/course/diploma-in-ethical-hacking"
+    },
+    {
+      "icon": "fa-solid fa-user-secret",
+      "name": "Ethical Hacking Course Certification",
+      "source": "Class Central",
+      "link": "https://www.classcentral.com/classroom/cybrary-ethical-hacking-course-certification-80344"
     }
   ]
 },
@@ -986,6 +1039,12 @@
       "name": "Linux Tutorial",
       "source": "Great Learning Academy",
       "link": "https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutorial"
+    },
+    {
+      "icon": "fab fa-linux",
+      "name": "A Beginner’s Guide to Linux Kernel Development",
+      "source": "Linux Foundation",
+      "link": "https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/"
     }
   ]
 },
@@ -1271,7 +1330,12 @@
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-projects-for-beginners"
     },
-    
+    {
+      "icon": "fab fa-python",
+      "name": "Harvard CS50- Introduction to programming with Python",
+      "source": "CS50",
+      "link": "https://cs50.harvard.edu/python/2022/certificate/"
+    }
   ]
 },
 {
@@ -1657,7 +1721,14 @@
     "name": "Certified Jenkins Engineer",
     "source": "Cloudbees University",
     "link": "https://www.cloudbees.com/jenkins/certification"
-  }]
+  },
+  {
+    "icon": "fa-brands fa-jenkins",
+    "name": " Jenkins Tutorial",
+    "source": "Great Learning Academy",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/jenkins-tutorial"
+  }
+]
 },
 {
   "title": "Digital marketing",
