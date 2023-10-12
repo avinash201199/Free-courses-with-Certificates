@@ -88,6 +88,17 @@
     }
   ]
 },
+
+  {
+      "icon": "fa-solid fa-brain",
+      "name": "Hands-on Artificial Intelligence with TensorFlow",
+      "source": "Infosys Springboard",
+      "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01330144632101273619815_shared/overview"
+    }
+  ]
+},
+
+
 {
   "title": "Data Visualization",
   "cards": [{
