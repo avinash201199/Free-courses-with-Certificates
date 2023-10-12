@@ -1847,7 +1847,13 @@
       "name": "Flutter - A Beginners Course",
       "source": "Infosys Springboard",
       "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944127399116801912_shared/overview"
-    }
+    },
+    {
+      "icon": "fa-brands fa-android",
+      "name": "Flutter for Beginners",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/flutter-for-beginners"
+    } 
   ]
 },
   {
