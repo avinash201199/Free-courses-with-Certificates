@@ -1196,6 +1196,10 @@ website : https://www.freecodecamp.org/learn/front-end-development-libraries/
 Full Stack Web Development - Newton School<br>
 Website- https://my.newtonschool.co/course/sgo3yt59mul2/timeline/<br>
 <br>
+<br>
+JavaScript-based web development - Full stack open<br>
+Website- https://fullstackopen.com/en/<br>
+<br>
 
 </details>
 
