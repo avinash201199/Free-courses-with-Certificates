@@ -1944,6 +1944,18 @@
     "source": "Great Learning",
     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/basics-of-computer-networking"
   },
+  {
+      "icon": "fa-solid fa-globe",
+      "name": "Network Security",
+      "source": "mindluster",
+      "link": "https://www.mindluster.com/certificate/4011"
+  },
+  {
+      "icon": "fa-solid fa-globe",
+      "name": "Computer Networks CIS 345",
+      "source": "mindluster",
+      "link": "https://www.mindluster.com/certificate/8756/computer-networking"
+  },
    {
     "icon": "fa-solid fa-globe",
     "name": "Network Support and Security",
