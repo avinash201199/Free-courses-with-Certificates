@@ -165,6 +165,12 @@ Python Core<br>
 Website-https://www.sololearn.com/learning/1073 <br>
 
 <br>
+
+<br>
+Python for Data Science, AI & Development <br>
+Website - https://www.coursera.org/learn/python-for-applied-data-science-ai
+<br>
+
 </details>
 
 <details>

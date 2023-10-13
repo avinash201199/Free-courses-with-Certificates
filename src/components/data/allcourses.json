@@ -1346,6 +1346,12 @@
       "name": "Harvard CS50- Introduction to programming with Python",
       "source": "CS50",
       "link": "https://cs50.harvard.edu/python/2022/certificate/"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Python for Data Science, AI & Development",
+      "source": "Coursera",
+      "link": "https://www.coursera.org/learn/python-for-applied-data-science-ai"
     }
   ]
 },
