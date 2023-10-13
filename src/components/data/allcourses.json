@@ -702,6 +702,12 @@
       "name": "Build a Face Recognition Application using Python ",
       "source": "GUVI",
       "link": "https://www.guvi.in/courses-video/?course=aiforindiaenglishhandson "
+    },
+    {
+      "icon": "fa-solid fa-asterisk",
+      "name": "Data Science Mathematics",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-mathematics"
     }
   ]
 },
