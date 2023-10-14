@@ -252,6 +252,9 @@ Website : https://elearning.kba.ai/ <br>
 metaschool - Learn web3 development with other developers <br>
 Website : https://metaschool.so/ <br>
 <br>
+Great Learning-Learn introduction to managment
+Website :https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-management
+<br>
 Alchemy University - Ethereum Developer Bootcamp <br>
 Website : https://www.alchemy.com/university/courses/ethereum <br>
 </details>
