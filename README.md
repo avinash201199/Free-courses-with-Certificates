@@ -1272,6 +1272,15 @@ Website-https://elearning.iirs.gov.in/edusatregistration/student<br>
  <br>
 </details>
 <details>
+ <summary>
+  SQL-for-Data Science
+ </summary>
+ <br>
+ My Great Learning: sql-for-DataScience<br>
+ Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science </br>
+ <br>
+</details>
+<details>
 <summary>
 Beginner Course on Programming and Coding Fundamentals</summary>
 <br>
