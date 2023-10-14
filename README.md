@@ -1351,4 +1351,10 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
 <br>
 </details>
 
-
+<details>
+<summary>Chat GPT</summary>
+<br>
+Great Learning - Chat GPT for beginners<br>
+Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/chatgpt-for-beginners/<br>
+<br>
+</details>
