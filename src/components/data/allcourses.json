@@ -32,6 +32,7 @@
   }
   ]
 },
+
 {
   "title": "Angular",
   "cards": [{
@@ -88,17 +89,6 @@
     }
   ]
 },
-
-  {
-      "icon": "fa-solid fa-brain",
-      "name": "Hands-on Artificial Intelligence with TensorFlow",
-      "source": "Infosys Springboard",
-      "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01330144632101273619815_shared/overview"
-    }
-  ]
-},
-
-
 {
   "title": "Data Visualization",
   "cards": [{
@@ -718,6 +708,15 @@
     "name": "App Development using Dart Programming Language",
     "source": "Alison",
     "link": "https://alison.com/course/app-development-using-dart-programming-language?utm_source=google&utm_medium=cpc&utm_campaign=PPC_Tier-4_First-Click_Courses-_Broad_&utm_adgroup=Course-4407_App-Development-using-Dart-Programming-Language&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb7WyApkstaAnVh6ENUignPoaq_xXThsE8DCwttQXfGw5tp_tbOXOrxoCADQQAvD_BwE"
+  }]
+},
+{
+  "title": "Managment",
+  "cards": [{
+    "icon": "fa-solid fa-d",
+    "name": "Introduction to Managment",
+    "source": "Great Learning",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-management"
   }]
 },
 {
