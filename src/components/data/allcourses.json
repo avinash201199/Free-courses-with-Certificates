@@ -1974,7 +1974,18 @@
     "name": "sql-basics",
     "source": "My Great Learning",
     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics"
-  } 
+  },
+  {
+    "title": "Scala",
+    "cards": [
+        {
+            "icon": "fa-solid fa-layer-group",
+            "name": "Scala & Functional Programming Essentials",
+            "source": "Udemy",
+            "link": "https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/"
+        }
+    ]
+},
     
 ]
 }
