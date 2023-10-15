@@ -1710,6 +1710,12 @@
       "link": "https://www.codingninjas.com/codestudio/guided-paths/fundamentals-of-css"
     },
     {
+      "icon": "fa-solid fa-laptop-code",
+      "name": "Responsive Web Design",
+      "source": "FreeCodeCamp",
+      "link": "https://www.freecodecamp.org/learn/2022/responsive-web-design/"
+    },
+    {
       "icon": "fa-solid fa-tv-alt",
       "name": "CodeStudio- Basics of JavaScript",
       "source": "CodingNinjas",
