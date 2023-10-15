@@ -1355,6 +1355,12 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Basics of Computer Networking<br>
  Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/basics-of-computer-networking<br>
  <br>
+ Computer Networks CIS 345<br>
+ Website - https://www.mindluster.com/certificate/8756/computer-networking<br>
+ <br>
+ Computer Networks<br>
+ Website - https://www.mindluster.com/certificate/8589<br>
+ <br>
  Network Support and Security<br>
  Website - https://skillsforall.com/course/network-support-security?courseLang=en-US<br>
  <br>
