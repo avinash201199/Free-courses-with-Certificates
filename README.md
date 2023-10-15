@@ -1055,6 +1055,15 @@ Website- https://www.educative.io/courses/learn-rust-from-scratch<br>
 </details>
 
 <details>
+<summary>Scala</summary>
+<br>
+Educative - Scala
+<br>Scala & Functional Programming Essentials<br>
+Website- https://www.udemy.com/course/rock-the-jvm-scala-for-beginners<br>
+<br>
+</details>
+
+<details>
   <summary>Software Testing</summary>
   <br>
   Udemy - Test Automation using Selenium<br>
