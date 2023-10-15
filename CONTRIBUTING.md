@@ -1,18 +1,14 @@
-## How to contibute in this repository 
+<h1 align="center">How to contibute in this repository? 🚀</h1>
 
-You can contribute in many ways 
-
-1. By adding new free courses into the list 
-
+### You can contribute in many ways 
 - Star this repository.
-- Create an issue.
+- Create an issue .
 - Then fork this repository.
 - Add description about the course with the link in the readme as well as in src/components/data/allcourse.json
 - Make pull request and wait for review.
+<br>
 
-
-## Steps to add new Courses
-
+## 1. By adding new free courses into the list 
 - Add new course in readme with order.
 - Head to src/components/data/allcourse.json
 - To add a course, check if the title for your course Technology is present
@@ -49,10 +45,26 @@ In case if your course Technology does not exist feel free to add it along with 
 },
 ```
 
-2. By Desgining the website for this repository so that it can be helpful for more students
+## If you are adding your course at the end of the list use this format
+```json
+{
+    "title": "New Course Title",
+    "cards": [
+        {
+            "icon": "Get this value from fontawesome.com (Make sure to add classes only)",
+            "name": "New Course",
+            "source": "New Course Source",
+            "link": "New Course Link"
+        }
+    ]
+}
+```
+
+## 2. By Designing the website for this repository so that it can be helpful for more students
 
  - To design the website you can use HTML, CSS and JavaScript or anything you could suggest better then raise the issue.
+ - You can use CSS and Tailwind for styling.
 
-3. If you are beginner then you can contribute by improving the structure or the layout or any mistakes in the repository.
+## 3. If you are beginner then you can contribute by improving the structure or the layout or any mistakes in the repository.
 
 #### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.

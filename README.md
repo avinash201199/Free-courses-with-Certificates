@@ -1272,6 +1272,15 @@ Website-https://elearning.iirs.gov.in/edusatregistration/student<br>
  <br>
 </details>
 <details>
+ <summary>
+  SQL-for-Data Science
+ </summary>
+ <br>
+ My Great Learning: sql-for-DataScience<br>
+ Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science </br>
+ <br>
+</details>
+<details>
 <summary>
 Beginner Course on Programming and Coding Fundamentals</summary>
 <br>
@@ -1319,6 +1328,9 @@ Website-https://www.udemy.com/course/web3-blockchain-smartcontracts-crypto-pract
 <summary>Softwate Testing </summary>
 <br>Quality Assurance and Testing with Chai<br>
 Website- https://www.freecodecamp.org/learn/quality-assurance/<br>
+<br>
+<br>Quality Assurance (QA) - Techniques and Methodologies<br>
+Website- https://alison.com/course/quality-assurance-qa-techniques-and-methodologies<br>
 <br>
  
 </details>
