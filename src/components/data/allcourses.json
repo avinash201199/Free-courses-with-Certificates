@@ -1352,6 +1352,18 @@
       "name": "Harvard CS50- Introduction to programming with Python",
       "source": "CS50",
       "link": "https://cs50.harvard.edu/python/2022/certificate/"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Python (Basic) Skills",
+      "source": "hackerrank",
+      "link": "https://www.hackerrank.com/skills-verification/python_basic"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Python Problem Solving Skills",
+      "source": "hackerrank",
+      "link": "https://www.hackerrank.com/skills-verification/problem_solving_basic"
     }
   ]
 },
