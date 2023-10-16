@@ -821,6 +821,10 @@ Website-https://learn.microsoft.com/en-us/training/<br>
 Geek University- MySQL course<br>
 Website- https://geek-university.com/course/mysql-course/<br>
 <br>
+<br>
+Great Learning - MySQL Basics<br>
+Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/mysql-basics<br>
+<br>
 </details>
 
 <details>

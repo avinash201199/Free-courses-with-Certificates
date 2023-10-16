@@ -1164,6 +1164,12 @@
       "name": "Learn SQL Basics for Data Science",
       "source": "Coursera",
       "link": "https://www.coursera.org/specializations/learn-sql-basics-data-science"
+    },
+    {
+      "icon": "fas fa-table",
+      "name": "MySQL Basics",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/mysql-basics"
     }
   ]
 },
