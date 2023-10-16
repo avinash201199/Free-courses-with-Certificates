@@ -855,6 +855,11 @@ GREAT LEARNING ACADEMY - Learn Scheduling Algorithm, Process Management, Deadloc
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/crash-course-on-operating-system<br>
 <br>
 </details>
+<details>
+<summary>Python Tkinter Course</summary>
+<br>
+GREAT LEARNING- Python Tkinter<br>
+Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/python-tkinter<br>
 
 <details>
 <summary>PHP</summary>
