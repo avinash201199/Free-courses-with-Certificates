@@ -11,6 +11,7 @@ Engaging in professional development activities, such as specialized training an
 After extensive research and effort, I have curated a selection of free online courses that provide certification across various domains. These courses offer a unique opportunity to bolster your qualifications, and the resulting certificates can be prominently displayed on your resume or LinkedIn profile, showcasing your commitment to continuous learning and professional development. 📜
 
 Feel free to explore these courses and take the next step in your journey toward personal and career growth. 🌐💼
+
 ### How to contribute! 😎<br>
 
 You can contribute in many ways to this repository
@@ -546,7 +547,6 @@ Database and SQL
 <br> Website - https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview<br>
 <br>
 
- 
 </details>
 
 <details>
@@ -943,6 +943,10 @@ Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-
 <br>
 Harvard CS50 - Introduction to programming with Python <br>
 Website - https://cs50.harvard.edu/python/2022/certificate/
+<br>
+<br>
+Python Course for Beginners With Certification <br>
+Website - https://www.scaler.com/topics/course/python-for-beginners/
 <br>
 
 </details>
@@ -1362,5 +1366,3 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Website- https://www.scaler.com/topics/course/free-computer-networks-course/<br>
 <br>
 </details>
-
-
