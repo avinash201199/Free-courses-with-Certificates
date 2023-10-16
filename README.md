@@ -944,6 +944,14 @@ Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-
 Harvard CS50 - Introduction to programming with Python <br>
 Website - https://cs50.harvard.edu/python/2022/certificate/
 <br>
+<br>
+Python (Basic) Skills <br>
+Website - https://www.hackerrank.com/skills-verification/python_basic
+<br>
+<br>
+Python Problem Solving Skills <br>
+Website - https://www.hackerrank.com/skills-verification/problem_solving_basic
+<br>
 
 </details>
 
