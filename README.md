@@ -128,6 +128,12 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/introduct
 Great Learning- Become an Ethical Hacker <br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/become-an-ethical-hacker<br>
 <br>
+Simplilearn- Introduction to Ethical Hacking <br>
+Website-https://www.simplilearn.com/ethical-hacking-101-free-program-skillup<br>
+<br>
+Coursera- Ethical Hacking Essentials(EHE) <br>
+Website-https://www.coursera.org/learn/ethical-hacking-essentials-ehe#testimonials<br>
+<br>
 </details>
 
 <details>
