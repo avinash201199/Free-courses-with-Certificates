@@ -88,6 +88,17 @@
     }
   ]
 },
+
+  {
+      "icon": "fa-solid fa-brain",
+      "name": "Hands-on Artificial Intelligence with TensorFlow",
+      "source": "Infosys Springboard",
+      "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01330144632101273619815_shared/overview"
+    }
+  ]
+},
+
+
 {
   "title": "Data Visualization",
   "cards": [{
@@ -1888,7 +1899,7 @@
       "name": "Quality Assurance (QA) - Techniques and Methodologies",
       "source": "Alison",
       "link": "https://alison.com/course/quality-assurance-qa-techniques-and-methodologies"
-    }
+    },
 ]
 },
 {
@@ -1935,49 +1946,50 @@
 
 {
   "title": "Computer Networking",
-  "cards": [
-    {
-      "icon": "fa-solid fa-globe",
-      "name": "Networking Essentials By Cisco Networking Academy",
-      "source": "Cisco Networking Academy",
-      "link": "https://www.netacad.com/courses/networking/networking-essentials"
-    },
-    {
-      "icon": "fa-solid fa-globe",
-      "name": "Basics of Computer Networking",
-      "source": "Great Learning",
-      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/basics-of-computer-networking"
-    },
-    {
-      "icon": "fa-solid fa-globe",
-      "name": "Network Support and Security",
-      "source": "Cisco",
-      "link": "https://skillsforall.com/course/network-support-security?courseLang=en-US"
-    },
-    {
-      "icon": "fa-solid fa-globe",
-      "name": "Computer Networking Course: Master Computer Networking",
-      "source": "Scaler Academy",
-      "link": "https://www.scaler.com/topics/course/free-computer-networks-course/"
-    },
-    {
-      "icon": "fa-solid fa-globe",
-      "name": "Python-mysql",
-      "source": "My Great Learning",
-      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-mysql"
-    },
-    {
-      "icon": "fa-solid fa-globe",
-      "name": "sql-basics",
-      "source": "My Great Learning",
-      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics"
-    },
-    {
-      "icon": "fa-solid fa-globe",
-      "name": "sql-for-data science",
-      "source": "My Great Learning",
-      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science"
-    }
-  ]
+  "cards": [{
+    "icon": "fa-solid fa-globe",
+    "name": "Networking Essentials By Cisco Networking Academy",
+    "source": "Cisco Networking Academy",
+    "link": "https://www.netacad.com/courses/networking/networking-essentials"
+  },
+  {
+    "icon": "fa-solid fa-globe",
+    "name": "Basics of Computer Networking",
+    "source": "Great Learning",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/basics-of-computer-networking"
+  },
+   {
+    "icon": "fa-solid fa-globe",
+    "name": "Network Support and Security",
+    "source": "Cisco",
+    "link": "https://skillsforall.com/course/network-support-security?courseLang=en-US"
+  },
+  
+  {
+    "icon": "fa-solid fa-globe",
+    "name": "Computer Networking Course: Master Computer Networking",
+    "source": "Scaler Academy",
+    "link": "https://www.scaler.com/topics/course/free-computer-networks-course/"
+  },
+     {
+    "icon": "fa-solid fa-globe",
+    "name": "Python-mysql",
+    "source": "My Great Learning",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-mysql"
+  },
+     {
+    "icon": "fa-solid fa-globe",
+    "name": "sql-basics",
+    "source": "My Great Learning",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics"
+  } ,
+     {
+    "icon": "fa-solid fa-globe",
+    "name": "sql-for-data science",
+    "source": "My Great Learning",
+    "https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science"
+  } 
+    
+]
 }
 ]
