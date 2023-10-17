@@ -487,11 +487,6 @@ Website-https://www.greatlearning.in/academy#our-courses
  Build a Face Recognition Application using Python<br>
  Website-https://www.guvi.in/courses-video/?course=aiforindiaenglishhandson
  <br>
-
- <br>
-Great Learning- Data Science Mathematics <br>
-Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-mathematics<br>
-<br>
 </details>
 
 <details>
