@@ -9,7 +9,7 @@ const Data = courses.map((data,key) => {
       key={key}
       trigger={data.title}
       className="collapse-main"
-      transitionTime="100" 
+      transitionTime="100"
     >
       {data.cards.map((card,key) => {
         return (
@@ -43,10 +43,6 @@ export default function allcourse() {
         {Data}
         <br />
       </div>
-      <button onClick={goToTop} className="back-to-top"><span class="material-symbols-outlined">
-        arrow_circle_up
-          </span><br />Back To Top
-      </button>
     </div>
   );
 }
