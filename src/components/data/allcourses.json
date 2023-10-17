@@ -1974,12 +1974,6 @@
     "name": "sql-basics",
     "source": "My Great Learning",
     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics"
-  } ,
-     {
-    "icon": "fa-solid fa-globe",
-    "name": "sql-for-data science",
-    "source": "My Great Learning",
-    "https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science"
   } 
     
 ]
