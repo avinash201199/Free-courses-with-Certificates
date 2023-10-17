@@ -37,11 +37,3 @@
 .Collapsible__contentInner {
   padding: 20px 40px;
 }
-
-.back-to-top{
-  margin-left: 50%;
-  width: 100px;
-  color: #0075d4;
-  height: 100px;
-  font-size: small;
-}
