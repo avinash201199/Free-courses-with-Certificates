@@ -1347,5 +1347,8 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Website- https://www.scaler.com/topics/course/free-computer-networks-course/<br>
 <br>
 </details>
-
+<summary>Cyber security</summary>
+<br>
+Website- https://www.paloaltonetworks.com/cyberpedia/free-cybersecurity-education-courses<br>
+<br>
 
