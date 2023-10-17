@@ -1,31 +1,18 @@
 .footer {
-  /* border: 3px solid red; */
-  background: #3B81F4;
-  height: 80px;
+  background: #fff;
   text-align: center;
-  /* padding: 20px 30px; */
+  padding: 20px 30px;
 }
 
 .close-search-btn {
   margin: 0 0 0 10px;
   padding: 2px 5px;
   font-size: 15px;
-  /* background-color: red; */
+  background-color: red;
   color: white;
   border-radius: 5px;
 }
 
-.footer section span{
-  font-size: 20px;
-  height: 10px;
-  color: white;
-  padding-left: 250px;
-}
-.footer-lower{
-  margin-top: -5px;
-  color: white;
-  background: #003ea1;
-}
 .search-bar-area::-webkit-scrollbar-track {
   background-color: #f5f5f5;
 }
