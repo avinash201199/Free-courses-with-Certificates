@@ -702,6 +702,10 @@ Website : https://www.freecodecamp.org/learn/javascript-algorithms-and-data-stru
 Great Learning - JavaScript
 Website : https://www.mygreatlearning.com/academy/learn-for-free/courses/javascript-in-hindi <br>
 <br>
+<br>
+JavaScript Mastery course<br>
+Link - https://youtu.be/chx9Rs41W6g?si=sjlBlkukYNVcfMiq<br>
+<br>
 </details>
 
 <details>
