@@ -170,6 +170,9 @@ UDEMY: Introduction to Artificial Intelligence in Software Testing<br>
  <br>
 Python Core<br>
 Website-https://www.sololearn.com/learning/1073 <br>
+<br>
+Simplilearn: Introduction to Artificial Intelligence<br>
+Website-https://www.simplilearn.com/learn-ai-basics-skillup <br>
 
 <br>
 </details>
