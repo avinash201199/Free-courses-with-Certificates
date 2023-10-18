@@ -866,6 +866,18 @@
       "name": "Ethical Hacking Course Certification",
       "source": "Class Central",
       "link": "https://www.classcentral.com/classroom/cybrary-ethical-hacking-course-certification-80344"
+    },
+    {
+      "icon": "fa-solid fa-user-secret",
+      "name": "Introduction to Ethical Hacking",
+      "source": "Simplilearn",
+      "link": "https://www.simplilearn.com/ethical-hacking-101-free-program-skillup"
+    },
+    {
+      "icon": "fa-solid fa-user-secret",
+      "name": "Ethical Hacking Essentials(EHE)",
+      "source": "Coursera",
+      "link": "https://www.coursera.org/learn/ethical-hacking-essentials-ehe"
     }
   ]
 },
