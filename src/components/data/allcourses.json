@@ -89,16 +89,6 @@
   ]
 },
 
-  {
-      "icon": "fa-solid fa-brain",
-      "name": "Hands-on Artificial Intelligence with TensorFlow",
-      "source": "Infosys Springboard",
-      "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01330144632101273619815_shared/overview"
-    }
-  ]
-},
-
-
 {
   "title": "Data Visualization",
   "cards": [{
@@ -702,12 +692,6 @@
       "name": "Build a Face Recognition Application using Python ",
       "source": "GUVI",
       "link": "https://www.guvi.in/courses-video/?course=aiforindiaenglishhandson "
-    },
-    {
-      "icon": "fa-solid fa-asterisk",
-      "name": "Data Science Mathematics",
-      "source": "Great Learning",
-      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-mathematics"
     }
   ]
 },
@@ -882,6 +866,18 @@
       "name": "Ethical Hacking Course Certification",
       "source": "Class Central",
       "link": "https://www.classcentral.com/classroom/cybrary-ethical-hacking-course-certification-80344"
+    },
+    {
+      "icon": "fa-solid fa-user-secret",
+      "name": "Introduction to Ethical Hacking",
+      "source": "Simplilearn",
+      "link": "https://www.simplilearn.com/ethical-hacking-101-free-program-skillup"
+    },
+    {
+      "icon": "fa-solid fa-user-secret",
+      "name": "Ethical Hacking Essentials(EHE)",
+      "source": "Coursera",
+      "link": "https://www.coursera.org/learn/ethical-hacking-essentials-ehe"
     }
   ]
 },
@@ -1164,6 +1160,12 @@
       "name": "Learn SQL Basics for Data Science",
       "source": "Coursera",
       "link": "https://www.coursera.org/specializations/learn-sql-basics-data-science"
+    },
+    {
+      "icon": "fas fa-table",
+      "name": "MySQL Basics",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/mysql-basics"
     }
   ]
 },
@@ -1352,6 +1354,12 @@
       "name": "Harvard CS50- Introduction to programming with Python",
       "source": "CS50",
       "link": "https://cs50.harvard.edu/python/2022/certificate/"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Python Course for Beginners With Certification",
+      "source": "Scaler Academy",
+      "link": "https://www.scaler.com/topics/course/python-for-beginners/"
     }
   ]
 },
@@ -1710,6 +1718,12 @@
       "link": "https://www.codingninjas.com/codestudio/guided-paths/fundamentals-of-css"
     },
     {
+      "icon": "fa-solid fa-laptop-code",
+      "name": "Responsive Web Design",
+      "source": "FreeCodeCamp",
+      "link": "https://www.freecodecamp.org/learn/2022/responsive-web-design/"
+    },
+    {
       "icon": "fa-solid fa-tv-alt",
       "name": "CodeStudio- Basics of JavaScript",
       "source": "CodingNinjas",
@@ -1853,7 +1867,13 @@
       "name": "Flutter - A Beginners Course",
       "source": "Infosys Springboard",
       "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944127399116801912_shared/overview"
-    }
+    },
+    {
+      "icon": "fa-brands fa-android",
+      "name": "Flutter for Beginners",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/flutter-for-beginners"
+    } 
   ]
 },
   {
@@ -1887,20 +1907,12 @@
 },
 {
   "title": "Software Testing/Quality Assurance",
-  "cards": [
-    {
-      "icon": "fa-solid fa-clipboard-check",
-      "name": "Quality Assurance and Testing with Chai",
-      "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/quality-assurance/"
-    },
-    {
-      "icon": "fa-solid fa-clipboard-check",
-      "name": "Quality Assurance (QA) - Techniques and Methodologies",
-      "source": "Alison",
-      "link": "https://alison.com/course/quality-assurance-qa-techniques-and-methodologies"
-    },
-]
+  "cards": [{
+    "icon": "fa-solid fa-clipboard-check",
+    "name": "Quality Assurance and Testing with Chai",
+    "source": "FreeCodeCamp",
+    "link": "https://www.freecodecamp.org/learn/quality-assurance/"
+  }]
 },
 {
 
@@ -1998,7 +2010,7 @@
     "icon": "fa-solid fa-globe",
     "name": "sql-for-data science",
     "source": "My Great Learning",
-    "https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science"
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science"
   } 
     
 ]
