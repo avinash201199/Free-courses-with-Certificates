@@ -68,6 +68,11 @@ Website-https://www.udemy.com/course/angular-for-beginners-course/<br>
 <br>
 
 <br>
+Coursera - Learn React<br>
+Website-https://www.coursera.org/learn/learn-react<br>
+<br>
+
+<br>
 Great Learning - Angular7 for beginners<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/angular7-for-beginners<br>
 <br>

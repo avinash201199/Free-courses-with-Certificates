@@ -1440,7 +1440,13 @@
       "name": "React Js Tutorials",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial"
-    }
+    },
+    {
+      "icon": "fas fa-react",
+      "name": "Learn React",
+      "source": "Coursera",
+      "link": "https://www.coursera.org/learn/learn-react"
+    },
   ]
 },
 {
