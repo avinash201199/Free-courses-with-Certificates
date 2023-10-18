@@ -1953,6 +1953,12 @@
     "source": "Scaler Academy",
     "link": "https://www.scaler.com/topics/course/free-computer-networks-course/"
   },
+  {
+    "icon": "fa-solid fa-globe",
+    "name": "DevOps On AWS Specialization",
+    "source": "Coursera",
+    "link": "https://www.coursera.org/specializations/aws-devops"
+  },
      {
     "icon": "fa-solid fa-globe",
     "name": "Python-mysql",

@@ -1333,6 +1333,12 @@ Website- https://www.freecodecamp.org/learn/quality-assurance/<br>
 </details>
 
 <details>
+<summary>DevOps on AWS specialization</summary>
+<br>
+Website-"https://www.coursera.org/specializations/aws-devops"
+</details>
+
+<details>
 <summary>Computer Networking</summary>
 <br>Networking Essentials By Cisco Networking Academy<br>
 Website- https://www.netacad.com/courses/networking/networking-essentials<br>
