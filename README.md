@@ -945,6 +945,10 @@ Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-
 Harvard CS50 - Introduction to programming with Python <br>
 Website - https://cs50.harvard.edu/python/2022/certificate/
 <br>
+<br>
+Python Course for Beginners With Certification <br>
+Website - https://www.scaler.com/topics/course/python-for-beginners/
+<br>
 
 </details>
 

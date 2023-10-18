@@ -1342,6 +1342,12 @@
       "name": "Harvard CS50- Introduction to programming with Python",
       "source": "CS50",
       "link": "https://cs50.harvard.edu/python/2022/certificate/"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Python Course for Beginners With Certification",
+      "source": "Scaler Academy",
+      "link": "https://www.scaler.com/topics/course/python-for-beginners/"
     }
   ]
 },
