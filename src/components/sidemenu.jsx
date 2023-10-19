@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { X } from "lucide-react";
 import { Link } from "react-router-dom";
 import "../styles/sidemenu.css";
-import logo from "/finalLogo.svg";
+import logo from "../../public/finalLogo.svg";
 
 export default function sidemenu(props) {
   const isActive = props.active;
