@@ -11,6 +11,7 @@ Engaging in professional development activities, such as specialized training an
 After extensive research and effort, I have curated a selection of free online courses that provide certification across various domains. These courses offer a unique opportunity to bolster your qualifications, and the resulting certificates can be prominently displayed on your resume or LinkedIn profile, showcasing your commitment to continuous learning and professional development. 📜
 
 Feel free to explore these courses and take the next step in your journey toward personal and career growth. 🌐💼
+
 ### How to contribute! 😎<br>
 
 You can contribute in many ways to this repository
@@ -128,6 +129,18 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/introduct
 Great Learning- Become an Ethical Hacker <br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/become-an-ethical-hacker<br>
 <br>
+Alison- Diploma in Ethical Hacking <br>
+Website-https://alison.com/course/diploma-in-ethical-hacking<br>
+<br> 
+Class Central- Ethical Hacking Course Certification <br>
+Website-https://www.classcentral.com/classroom/cybrary-ethical-hacking-course-certification-80344<br>
+<br> 
+Simplilearn- Introduction to Ethical Hacking <br>
+Website-https://www.simplilearn.com/ethical-hacking-101-free-program-skillup<br>
+<br>
+Coursera- Ethical Hacking Essentials(EHE) <br>
+Website-https://www.coursera.org/learn/ethical-hacking-essentials-ehe#testimonials<br>
+<br>
 </details>
 
 <details>
@@ -163,6 +176,9 @@ UDEMY: Introduction to Artificial Intelligence in Software Testing<br>
  <br>
 Python Core<br>
 Website-https://www.sololearn.com/learning/1073 <br>
+<br>
+Simplilearn: Introduction to Artificial Intelligence<br>
+Website-https://www.simplilearn.com/learn-ai-basics-skillup <br>
 
 <br>
 </details>
@@ -541,7 +557,6 @@ Database and SQL
 <br> Website - https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview<br>
 <br>
 
- 
 </details>
 
 <details>
@@ -818,6 +833,10 @@ Website-https://learn.microsoft.com/en-us/training/<br>
 Geek University- MySQL course<br>
 Website- https://geek-university.com/course/mysql-course/<br>
 <br>
+<br>
+Great Learning - MySQL Basics<br>
+Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/mysql-basics<br>
+<br>
 </details>
 
 <details>
@@ -940,6 +959,10 @@ Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-
 <br>
 Harvard CS50 - Introduction to programming with Python <br>
 Website - https://cs50.harvard.edu/python/2022/certificate/
+<br>
+<br>
+Python Course for Beginners With Certification <br>
+Website - https://www.scaler.com/topics/course/python-for-beginners/
 <br>
 
 </details>
@@ -1240,6 +1263,10 @@ Website- https://www.codingninjas.com/codestudio/guided-paths/fundamentals-of-ht
 CodeStudio - Fundamentals of  CSS<br>
 Website- https://www.codingninjas.com/codestudio/guided-paths/fundamentals-of-css<br>
 <br>
+freeCodeCamp - Responsive Web Design
+<br>
+Website: https://www.freecodecamp.org/learn/2022/responsive-web-design/<br>
+<br>
 CodeStudio - Basics Of Javascript<br>
 Website- https://www.codingninjas.com/codestudio/guided-paths/basics-of-javascript<br>
 <br>
@@ -1347,7 +1374,6 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Website- https://www.scaler.com/topics/course/free-computer-networks-course/<br>
 <br>
 </details>
-
 
 <details>
 <summary>Data Science with Python </summary>
