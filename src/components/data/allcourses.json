@@ -8,6 +8,12 @@
     },
     {
       "icon": "fab fa-android",
+      "name": "Python Tkinter",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-tkinter"
+    },
+    {
+      "icon": "fab fa-android",
       "name": "Become an Android Developer from Scratch",
       "source": "Udemy",
       "link": "https://www.udemy.com/course/become-an-android-developer-from-scratch/"
@@ -194,6 +200,12 @@
       "name": "Introduction to Artificial Intelligence in Software Testing",
       "source": "Udemy",
       "link": "https://www.udemy.com/course/introduction-to-artificial-intelligence-in-software-testing"
+    },
+    {
+      "icon": "fa-solid fa-brain",
+      "name": "Introduction to Artificial Intelligence",
+      "source": "Simplilearn",
+      "link": "https://www.simplilearn.com/learn-ai-basics-skillup"
     }
   ]
 },
