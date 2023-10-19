@@ -866,6 +866,18 @@
       "name": "Ethical Hacking Course Certification",
       "source": "Class Central",
       "link": "https://www.classcentral.com/classroom/cybrary-ethical-hacking-course-certification-80344"
+    },
+    {
+      "icon": "fa-solid fa-user-secret",
+      "name": "Introduction to Ethical Hacking",
+      "source": "Simplilearn",
+      "link": "https://www.simplilearn.com/ethical-hacking-101-free-program-skillup"
+    },
+    {
+      "icon": "fa-solid fa-user-secret",
+      "name": "Ethical Hacking Essentials(EHE)",
+      "source": "Coursera",
+      "link": "https://www.coursera.org/learn/ethical-hacking-essentials-ehe"
     }
   ]
 },
@@ -1148,6 +1160,12 @@
       "name": "Learn SQL Basics for Data Science",
       "source": "Coursera",
       "link": "https://www.coursera.org/specializations/learn-sql-basics-data-science"
+    },
+    {
+      "icon": "fas fa-table",
+      "name": "MySQL Basics",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/mysql-basics"
     }
   ]
 },
@@ -1336,6 +1354,12 @@
       "name": "Harvard CS50- Introduction to programming with Python",
       "source": "CS50",
       "link": "https://cs50.harvard.edu/python/2022/certificate/"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Python Course for Beginners With Certification",
+      "source": "Scaler Academy",
+      "link": "https://www.scaler.com/topics/course/python-for-beginners/"
     }
   ]
 },
@@ -1692,6 +1716,12 @@
       "name": "CodeStudio- Fundamentals of CSS",
       "source": "CodingNinjas",
       "link": "https://www.codingninjas.com/codestudio/guided-paths/fundamentals-of-css"
+    },
+    {
+      "icon": "fa-solid fa-laptop-code",
+      "name": "Responsive Web Design",
+      "source": "FreeCodeCamp",
+      "link": "https://www.freecodecamp.org/learn/2022/responsive-web-design/"
     },
     {
       "icon": "fa-solid fa-tv-alt",
