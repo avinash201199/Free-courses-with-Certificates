@@ -8,6 +8,12 @@
     },
     {
       "icon": "fab fa-android",
+      "name": "Python Tkinter",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-tkinter"
+    },
+    {
+      "icon": "fab fa-android",
       "name": "Become an Android Developer from Scratch",
       "source": "Udemy",
       "link": "https://www.udemy.com/course/become-an-android-developer-from-scratch/"
