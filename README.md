@@ -1349,3 +1349,8 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
 </details>
 
 
+<details>
+<summary>Data Science with Python </summary>
+<br>Learn Data Science with Python from basics in this free online training<br>
+Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-with-python/<br>
+<br>
