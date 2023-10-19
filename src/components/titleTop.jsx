@@ -1,11 +1,12 @@
-import React from 'react'
+import React from 'react';
+import logo from '/finalLogo.svg';
 
 export default function titleTop() {
     return (
         <div className="title-nav">
-            <span className="material-symbols-outlined">code</span>
+            <img src={logo} alt="" />
             Free Courses with Certificates
-            <span className="material-symbols-outlined">code_off</span>
+            
         </div>
     )
 }

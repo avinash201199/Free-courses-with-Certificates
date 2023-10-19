@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import { X } from "lucide-react";
 import { Link } from "react-router-dom";
 import "../styles/sidemenu.css";
+import logo from "/finalLogo.svg";
 
 export default function sidemenu(props) {
   const isActive = props.active;
@@ -17,11 +18,11 @@ export default function sidemenu(props) {
           <X />
         </div>
         <div className="sidemenu-bar-title">
-          <span className="material-symbols-outlined">code</span>
+          <img src={logo} alt="" />
           <br />
           Free Courses with Certificates
           <br />
-          <span className="material-symbols-outlined">code_off</span>
+          
         </div>
         <ul className="sidemenu-bar-list">
           <Link to="/dashboard" >
