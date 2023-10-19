@@ -1374,3 +1374,11 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Website- https://www.scaler.com/topics/course/free-computer-networks-course/<br>
 <br>
 </details>
+
+<details>
+  <summary>Flutter</summary>
+ <br>
+ Great Learning: Flutter Tutorial<br>
+ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/flutter-for-beginners</br>
+ <br>
+</details>
