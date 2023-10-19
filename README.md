@@ -1374,3 +1374,11 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Website- https://www.scaler.com/topics/course/free-computer-networks-course/<br>
 <br>
 </details>
+
+<details>
+  <summary>RUBY</summary>
+ <br>
+ Class central: Learn Ruby<br>
+ Website-https://www.classcentral.com/course/sololearn-learn-ruby-102603</br>
+ <br>
+</details>
