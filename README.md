@@ -1374,3 +1374,11 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Website- https://www.scaler.com/topics/course/free-computer-networks-course/<br>
 <br>
 </details>
+ <details>
+  <summary>JavaScript Course</summary>
+ <br>
+ scaler: JavaScript Course With Certification: Unlocking the Power of JavaScript<br>
+ Website-https://www.scaler.com/topics/course/javascript-beginners/</br>
+ <br>
+</details>
+<details>
