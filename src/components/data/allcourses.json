@@ -194,6 +194,12 @@
       "name": "Introduction to Artificial Intelligence in Software Testing",
       "source": "Udemy",
       "link": "https://www.udemy.com/course/introduction-to-artificial-intelligence-in-software-testing"
+    },
+    {
+      "icon": "fa-solid fa-brain",
+      "name": "Introduction to Artificial Intelligence",
+      "source": "Simplilearn",
+      "link": "https://www.simplilearn.com/learn-ai-basics-skillup"
     }
   ]
 },
