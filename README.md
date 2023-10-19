@@ -694,6 +694,9 @@ Website-https://infyspringboard.onwingspan.com/web/en/login?ref=%2Fapp%2Ftoc%2Fl
 Progate- Java<br>
 Website- https://progate.com/courses/java<br>
 <br>
+Intellipaat- Free java certification course<br>
+Website- https://intellipaat.com/academy/course/java-training/<br>
+<br>
 </details>
 
 <details>
