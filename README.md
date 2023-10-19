@@ -1374,3 +1374,11 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Website- https://www.scaler.com/topics/course/free-computer-networks-course/<br>
 <br>
 </details>
+
+<details>
+  <summary>DigitalMarketing course</summary>
+ <br>
+ SimpliLearn: Introduction to Digital Marketing Fundamentals Course<br>
+ Website-https://www.simplilearn.com/free-digital-marketing-basics-course-skillup</br>
+ <br>
+</details>
