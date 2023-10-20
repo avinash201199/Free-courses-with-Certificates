@@ -1011,6 +1011,9 @@ Website-https://training.linuxfoundation.org/training/fundamentals-of-quantum-co
 My Great Learning - Good way to start with IoT if you are new<br>
 Website-https://www.mygreatlearning.com/iot/free-courses/<br>
 <br>
+Simplilearn - Introduction to IoT<br>
+Website-https://www.simplilearn.com/learn-iot-basics-skillup<br>
+<br>
 </details>
 
 <details>
