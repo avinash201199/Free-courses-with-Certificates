@@ -358,6 +358,15 @@ Website - https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft
 </details>
 
 <details>
+ 
+<summary>Competitive Programming</summary>
+<br>
+Great Learning - Competitive Programming Course <br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/competitive-programming-course <br>
+ 
+</details>
+ 
+<details>
 <summary>Cloud Computing</summary>
 <br>
 Congnitive.ai- Introduction to Cloud<br>
