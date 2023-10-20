@@ -837,6 +837,9 @@ Website- https://geek-university.com/course/mysql-course/<br>
 Great Learning - MySQL Basics<br>
 Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/mysql-basics<br>
 <br>
+Scaler - SQL for Beginners<br>
+Website- https://www.scaler.com/topics/course/sql-using-mysql-course/<br>
+<br>
 </details>
 
 <details>
