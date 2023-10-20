@@ -73,6 +73,11 @@ Website-https://www.coursera.org/learn/learn-react<br>
 <br>
 
 <br>
+Coursera - Databases and SQL for Data Science with Python
+Website-https://www.coursera.org/learn/sql-data-science<br>
+<br>
+
+<br>
 Great Learning - Angular7 for beginners<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/angular7-for-beginners<br>
 <br>

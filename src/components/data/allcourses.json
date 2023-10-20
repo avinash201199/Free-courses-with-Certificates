@@ -2000,7 +2000,13 @@
     "name": "sql-basics",
     "source": "My Great Learning",
     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics"
-  } 
+  },
+  {
+    "icon": "fa-solid fa-globe",
+    "name": "Databases and SQL for Data Science with Python",
+    "source": "Coursera",
+    "link": "https://www.coursera.org/learn/sql-data-science"
+  }
     
 ]
 }
