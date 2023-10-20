@@ -893,7 +893,7 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/php <br>
 
 <details>
  
- <summary>Prompt Enginnering</summary>
+ <summary>Prompt Engineering</summary>
  <br>
  Alison - Basics of Prompt Engineering <br>
  website - https://alison.com/course/basics-of-prompt-engineering <br>
