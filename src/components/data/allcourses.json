@@ -2019,6 +2019,12 @@
     "source": "My Great Learning",
     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics"
   } 
+     {
+    "icon": "fa-solid fa-globe",
+    "name": "JavaScript",
+    "source": "Scalar",
+    "link": "https://www.scaler.com/topics/course/javascript-beginners"
+  },
     
 ]
 }
