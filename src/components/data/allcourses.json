@@ -1384,6 +1384,12 @@
       "name": "Python Course for Beginners With Certification",
       "source": "Scaler Academy",
       "link": "https://www.scaler.com/topics/course/python-for-beginners/"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Game development using PyGame",
+      "source": "GUVI",
+      "link": "https://www.guvi.in/courses/web-development/game-development-using-pygame/"
     }
   ]
 },

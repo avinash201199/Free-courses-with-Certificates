@@ -503,6 +503,10 @@ Website-https://www.greatlearning.in/academy#our-courses
  Build a Face Recognition Application using Python<br>
  Website-https://www.guvi.in/courses-video/?course=aiforindiaenglishhandson
  <br>
+   <br>
+ Game Development using Pygame<br>
+ Website-https://www.guvi.in/courses-video/?course=aiforindiaenglishhandson](https://www.guvi.in/courses/web-development/game-development-using-pygame/
+ <br>
 </details>
 
 <details>
