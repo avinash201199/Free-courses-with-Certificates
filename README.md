@@ -66,6 +66,10 @@ Website-https://www.sololearn.com/learning/1092<br>
 Udemy - Angular for Beginners Course<br>
 Website-https://www.udemy.com/course/angular-for-beginners-course/<br>
 <br>
+<br>
+Great Learning - SQL for Data Science<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science<br>
+<br>
 
 <br>
 Great Learning - Angular7 for beginners<br>
