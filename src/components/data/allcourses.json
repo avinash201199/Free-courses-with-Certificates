@@ -139,6 +139,12 @@
     },
     {
       "icon": "fa-solid fa-bullhorn",
+      "name": "Launch Your Online Business",
+      "source": "Coursera",
+      "link": "https://www.coursera.org/learn/launch-online-business"
+    },
+    {
+      "icon": "fa-solid fa-bullhorn",
       "name": "Introduction to Digital Marketing",
       "source": "Great Learning Academy",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-digital-marketing"
@@ -596,6 +602,12 @@
       "name": "Python Core",
       "source": "Sololearn",
       "link": "https://www.sololearn.com/learning/1073"
+    },
+    {
+      "icon": "fa-solid fa-asterisk",
+      "name": "Data Science Math Skills",
+      "source": "Coursera",
+      "link": "https://www.coursera.org/learn/datasciencemathskills"
     },
     {
       "icon": "fa-solid fa-asterisk",
