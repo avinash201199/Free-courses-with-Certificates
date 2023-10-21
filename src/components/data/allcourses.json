@@ -91,6 +91,12 @@
       "name": "AWS for Beginners",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1"
+    },
+    {
+      "icon": "fa-solid fa-brain",
+      "name": "Introduction to AWS Athena",
+      "source": "AWS Skill Builder",
+      "link": "https://explore.skillbuilder.aws/learn/course/internal/view/elearning/152/introduction-to-amazon-athena"
     }
   ]
 },
