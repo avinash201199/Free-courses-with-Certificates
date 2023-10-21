@@ -895,6 +895,15 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/php <br>
 </details>
 
 <details>
+ 
+ <summary>Prompt Engineering</summary>
+ <br>
+ Alison - Basics of Prompt Engineering <br>
+ website - https://alison.com/course/basics-of-prompt-engineering <br>
+ 
+</details>
+
+<details>
 <summary>Python</summary>
 <br>
 Sololearn - Python for Beginners<br>
