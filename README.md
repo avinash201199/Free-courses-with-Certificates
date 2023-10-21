@@ -129,6 +129,12 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/introduct
 Great Learning- Become an Ethical Hacker <br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/become-an-ethical-hacker<br>
 <br>
+Alison- Diploma in Ethical Hacking <br>
+Website-https://alison.com/course/diploma-in-ethical-hacking<br>
+<br> 
+Class Central- Ethical Hacking Course Certification <br>
+Website-https://www.classcentral.com/classroom/cybrary-ethical-hacking-course-certification-80344<br>
+<br> 
 Simplilearn- Introduction to Ethical Hacking <br>
 Website-https://www.simplilearn.com/ethical-hacking-101-free-program-skillup<br>
 <br>
@@ -170,6 +176,9 @@ UDEMY: Introduction to Artificial Intelligence in Software Testing<br>
  <br>
 Python Core<br>
 Website-https://www.sololearn.com/learning/1073 <br>
+<br>
+Simplilearn: Introduction to Artificial Intelligence<br>
+Website-https://www.simplilearn.com/learn-ai-basics-skillup <br>
 
 <br>
 </details>
