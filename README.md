@@ -1,20 +1,24 @@
 <h1 align="center"> Free-courses-with-Certificates</h1>
 
-[Website link- React](https://free-courses-with-certificates.netlify.app/)
+## Check our website: [Website link](https://free-courses-with-certificates.netlify.app/) ✨
 
-We all know that getting an internship or a job is challenging, and often these online courses do wonders in making our resume look good. Since unpaid courses are accessible to everyone, they help many people further their learning, learn new skills, and polish their existing skills. Academic knowledge might not be enough in today’s society. You need to show the world that you have experimented in your life and have enriching experiences. A lot of opportunities open up when you start getting involved in professional activities like training and courses.<br>
-<br>
-After many days of work, I have collected some free courses with certificates in different domains. You can enroll in any course of your choice and get the certificate to add it to your resume or Linkedin.
-<br>
-<br>
+In today's highly competitive job market, securing internships or employment opportunities can be an arduous task. However, online courses have emerged as powerful tools to enhance one's resume and skillset. 🌟
 
-### How to contribute 😎<br>
+Unpaid online courses are an invaluable resource, as they are accessible to individuals from all walks of life, facilitating continuous learning and the refinement of both new and existing skills. In the contemporary landscape, possessing solely academic knowledge may not suffice; one must demonstrate a commitment to personal growth through hands-on experiences. 🚀
 
-You can contribute in many ways in this repository
+Engaging in professional development activities, such as specialized training and online courses, can open doors to a plethora of opportunities. These activities are a testament to one's dedication to self-improvement and their pursuit of excellence in their chosen field. 📚
 
-1. If you are beginner, then you can contribute by improving the structure of the repository. <br>
+After extensive research and effort, I have curated a selection of free online courses that provide certification across various domains. These courses offer a unique opportunity to bolster your qualifications, and the resulting certificates can be prominently displayed on your resume or LinkedIn profile, showcasing your commitment to continuous learning and professional development. 📜
+
+Feel free to explore these courses and take the next step in your journey toward personal and career growth. 🌐💼
+
+### How to contribute! 😎<br>
+
+You can contribute in many ways to this repository
+
+1. If you are a beginner, then you can contribute by improving the structure of the repository. <br>
 2. Design the website for this repository with the content. <br>
-3. Add more free courses into the list below and in the main.js course_details list which are not present. <br>
+3. Add more free courses to the list below and in the main.js course_details list that are not present. <br>
 
 Check [Contributing.md](https://github.com/avinash201199/Free-courses-with-Certificates/blob/main/CONTRIBUTING.md) file to get started
 
@@ -22,7 +26,7 @@ Check [Contributing.md](https://github.com/avinash201199/Free-courses-with-Certi
 
 <br>
 <br>
-At last , please share this repository with your friends, juniors and with seniors also,so they don't miss this opportunity. Follow me for more updates -https://github.com/avinash201199
+At last, please share this repository with your friends, juniors, and seniors also, so they don't miss this opportunity. Follow me for more updates -https://github.com/avinash201199
 <br>
 
 For any doubt contact me here: - <br>
@@ -95,13 +99,16 @@ Website - https://www.kaggle.com/learn/data-visualization<br>
 Microsoft Power BI Para Data Science 2.0<br>
 Website - https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science<br>
 <br>
+Data Visualization with D3<br>
+Website - https://www.freecodecamp.org/learn/data-visualization/<br>
+<br>
 </details>
 <details>
 <summary> Digital Marketing</summary>
 <br>The Fundamentals of Digital Marketing<br>
 Website-https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing<br>
 <br>
-Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, packed full of practical exercises and real-world examples to help you turn knowledge into action.
+Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, and packed full of practical exercises and real-world examples to help you turn knowledge into action.
 <br>
 <br>
 Great Learning Academy- Introduction to Digital Marketing<br>
@@ -111,6 +118,10 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/introduct
  Hubspot Academy - Get certified in Digital Marketing<br>
  Website- https://academy.hubspot.com/courses/digital-marketing <br>
  <br>
+ <br>
+ Great Learning Academy - How to start Blogging?<br>
+ Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/how-to-start-blogging <br>
+ <br>
 </details>
 <details>
 <summary> Become an Ethical Hacker</summary>
@@ -118,10 +129,26 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/introduct
 Great Learning- Become an Ethical Hacker <br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/become-an-ethical-hacker<br>
 <br>
+Alison- Diploma in Ethical Hacking <br>
+Website-https://alison.com/course/diploma-in-ethical-hacking<br>
+<br> 
+Class Central- Ethical Hacking Course Certification <br>
+Website-https://www.classcentral.com/classroom/cybrary-ethical-hacking-course-certification-80344<br>
+<br> 
+Simplilearn- Introduction to Ethical Hacking <br>
+Website-https://www.simplilearn.com/ethical-hacking-101-free-program-skillup<br>
+<br>
+Coursera- Ethical Hacking Essentials(EHE) <br>
+Website-https://www.coursera.org/learn/ethical-hacking-essentials-ehe#testimonials<br>
+<br>
 </details>
 
 <details>
 <summary>Artificial intelligence</summary>
+ <br>
+Hands-on Artificial Intelligence with TensorFlow <br>
+Website- https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01330144632101273619815_shared/overview<br>
+<br>
 <br>
 GREAT LEARNING ACADEMY- Introduction to Deep Learning<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-deep-learning<br>
@@ -149,6 +176,9 @@ UDEMY: Introduction to Artificial Intelligence in Software Testing<br>
  <br>
 Python Core<br>
 Website-https://www.sololearn.com/learning/1073 <br>
+<br>
+Simplilearn: Introduction to Artificial Intelligence<br>
+Website-https://www.simplilearn.com/learn-ai-basics-skillup <br>
 
 <br>
 </details>
@@ -188,7 +218,7 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/spark-basic
  Website-https://www.futurelearn.com/courses/applied-big-data-analytics
 <br>
 <br>
-UDEMY: Essential Non Technical Skills of Effective Data Scientists<br>
+UDEMY: Essential Non-Technical Skills of Effective Data Scientists<br>
  Website- https://www.udemy.com/share/104fI23@HXPESfaal6TkxBGwZVO4s8bsVUcn2pCEvhFwpop5i0kIQeGdP4BlxQn6kiJdDGm_6w==/<br>
  <br>
 </details>
@@ -199,6 +229,8 @@ UDEMY: Essential Non Technical Skills of Effective Data Scientists<br>
 Official Website<br>
 Website-https://explore.skillbuilder.aws/learn<br>
 <br>
+Great Learning-AWS for Beginners<br>
+Website: https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1
 </details>
 
 <details>
@@ -235,6 +267,9 @@ Website : https://elearning.kba.ai/ <br>
 <br>
 metaschool - Learn web3 development with other developers <br>
 Website : https://metaschool.so/ <br>
+<br>
+Alchemy University - Ethereum Developer Bootcamp <br>
+Website : https://www.alchemy.com/university/courses/ethereum <br>
 </details>
 
 <details>
@@ -250,6 +285,15 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginn
 Introduction To The C Language<br>
 Website-https://www.udemy.com/course/introduction-to-the-c-language/<br>
 <br>
+</details>
+
+<details>
+<summary>Jenkins</summary>
+<br>
+Jenkins Tutorial<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/jenkins-tutorial<br>
+<br>
+
 </details>
 
 <details>
@@ -308,6 +352,9 @@ Website- https://www.udemy.com/course/basics-of-object-oriented-programming-with
 Desenvolvedor IO- Iniciando com ASP.NET Core<br>
 Website- https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core<br>
 <br>
+Foundational C# with Microsoft<br>
+Website - https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/<br>
+<br>
 </details>
 
 <details>
@@ -349,6 +396,7 @@ Website - https://www.geeksforgeeks.org/courses/google-cloud-tech-program<br>
 IBM - Cloud Application Developer Capstone<br>
 Website - https://www.edx.org/learn/computer-programming/ibm-cloud-application-developer-capstone<br>
 <br>
+
 </details>
 
 <details>
@@ -499,6 +547,19 @@ Website-https://www.upgrad.com/us/free-courses/<br>
 </details>
 
 <details>
+<summary>DataBase Management System</summary>
+<br> 
+GREAT LEARNING ACADEMY - Learn database management system from basics, taught hands-on by experts. Learn key concepts in relational database management system in details along with example.
+<br> Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/database-management-system<br>
+<br>
+<br> 
+Database and SQL
+<br> Website - https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview<br>
+<br>
+
+</details>
+
+<details>
 <summary>Docker</summary>
 <br>
 GREAT LEARNING ACADEMY- Docker Projects<br>
@@ -518,14 +579,30 @@ Website - https://cognitiveclass.ai/courses/docker-essentials <br>
 </details>
 
 <details>
+<summary>Ethical Hacking</summary>
+<br>
+Great Learning Academy- Introduction to Ethical Hacking<br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-ethical-hacking<br>
+<br>
+Alison - Diploma in Ethical Hacking<br>
+Website-https://alison.com/course/diploma-in-ethical-hacking<br>
+<br>
+Class Central - Ethical Hacking Course Certification<br>
+Website-https://www.classcentral.com/classroom/cybrary-ethical-hacking-course-certification-80344<br>
+<br>
+</details>
+
+<details>
 <summary>Flutter</summary>
 <br>
 Introduction to Flutter<br>
 Website-https://www.simplilearn.com/free-flutter-foundation-course-skillup<br>
 <br>
-<br>
 Flutter - A Beginners Course<br>
 Website-https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944127399116801912_shared/overview<br>
+<br>
+Great Learning-Flutter for Beginners<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/flutter-for-beginners<br>
 <br>
 </details>
 
@@ -598,8 +675,6 @@ Udemy - A step-by-step iOS development tutorial for aspiring developers with no 
 - For access: <br> Website - https://www.udemy.com/course/the-art-of-real-ios-programming/<br>
 <br>
 </details>
-
-
 
 <details>
 <summary>Java</summary>
@@ -683,6 +758,9 @@ Website- https://geek-university.com/course/free-linux-course/<br>
 GREAT LEARNING ACADEMY- Linux Tutorial<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutorial<br>
 <br>
+Linux Foundation- A Beginner’s Guide to Linux Kernel Development<br>
+Website-https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/<br>
+<br>
 </details>
 
 <details>
@@ -703,7 +781,7 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-ma
 GREAT LEARNING ACADEMY- Supervised Machine Learning with Logistic Regression and Naïve Bayes<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/supervised-machine-learning-with-logistic-regression-and-naive-bayes<br>
 <br>
-GREAT LEARNING ACADEMY- Supervised Machine Learning with Tree Based Models<br>
+GREAT LEARNING ACADEMY- Supervised Machine Learning with Tree-Based Models<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/supervised-machine-learning-with-tree-based-models <br>
 <br>
 GREAT LEARNING ACADEMY- Unsupervised Machine Learning with K-means<br>
@@ -712,7 +790,7 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/unsupervised
 GREAT LEARNING ACADEMY- Statistics for Machine Learning<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/statistics-for-machine-learning <br>
 <br>
-ML with python by free code camp dot org
+ML with Python by free code camp dot org
 <br>
 website : https://www.freecodecamp.org/learn/machine-learning-with-python/
 <br>
@@ -754,6 +832,13 @@ Website-https://learn.microsoft.com/en-us/training/<br>
 <br>
 Geek University- MySQL course<br>
 Website- https://geek-university.com/course/mysql-course/<br>
+<br>
+<br>
+Great Learning - MySQL Basics<br>
+Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/mysql-basics<br>
+<br>
+Scaler - SQL for Beginners<br>
+Website- https://www.scaler.com/topics/course/sql-using-mysql-course/<br>
 <br>
 </details>
 
@@ -806,6 +891,15 @@ Website-https://www.simplilearn.com/learn-php-basics-free-course-skillup <br>
 Great Learning - PHP<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/php <br>
 <br>
+ 
+</details>
+
+<details>
+ 
+ <summary>Prompt Engineering</summary>
+ <br>
+ Alison - Basics of Prompt Engineering <br>
+ website - https://alison.com/course/basics-of-prompt-engineering <br>
  
 </details>
 
@@ -868,8 +962,19 @@ Website - https://www.simplilearn.com/free-python-programming-course-skillup<br>
 Kaggle - Intro to Python <br>
 Website - https://www.kaggle.com/learn/python <br>
 <br>
-GUVI -  Python <br>
+GUVI - Python <br>
 Website - https://www.guvi.in/courses-video/?course=pythonEng <br>
+<br>
+Great Learning - Python Projects for Beginners <br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-projects-for-beginners
+<br>
+<br>
+Harvard CS50 - Introduction to programming with Python <br>
+Website - https://cs50.harvard.edu/python/2022/certificate/
+<br>
+<br>
+Python Course for Beginners With Certification <br>
+Website - https://www.scaler.com/topics/course/python-for-beginners/
 <br>
 
 </details>
@@ -918,6 +1023,9 @@ Website-https://training.linuxfoundation.org/training/fundamentals-of-quantum-co
 My Great Learning - Good way to start with IoT if you are new<br>
 Website-https://www.mygreatlearning.com/iot/free-courses/<br>
 <br>
+Simplilearn - Introduction to IoT<br>
+Website-https://www.simplilearn.com/learn-iot-basics-skillup<br>
+<br>
 </details>
 
 <details>
@@ -946,7 +1054,9 @@ React the complete guide including Redux with certificate - Udemy
 Website - https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 <br>
 <br>
-
+React JS Tutorial<br>
+Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial<br>
+<br>
 </details>
 
 <details>
@@ -1130,6 +1240,10 @@ website : https://www.freecodecamp.org/learn/front-end-development-libraries/
 Full Stack Web Development - Newton School<br>
 Website- https://my.newtonschool.co/course/sgo3yt59mul2/timeline/<br>
 <br>
+<br>
+JavaScript-based web development - Full stack open<br>
+Website- https://fullstackopen.com/en/<br>
+<br>
 
 </details>
 
@@ -1164,6 +1278,10 @@ Website- https://www.codingninjas.com/codestudio/guided-paths/fundamentals-of-ht
 CodeStudio - Fundamentals of  CSS<br>
 Website- https://www.codingninjas.com/codestudio/guided-paths/fundamentals-of-css<br>
 <br>
+freeCodeCamp - Responsive Web Design
+<br>
+Website: https://www.freecodecamp.org/learn/2022/responsive-web-design/<br>
+<br>
 CodeStudio - Basics Of Javascript<br>
 Website- https://www.codingninjas.com/codestudio/guided-paths/basics-of-javascript<br>
 <br>
@@ -1184,6 +1302,13 @@ Website-https://www.coursera.org/professional-certificates/meta-front-end-develo
 INDIAN INSITUTE OF REMOTE SENSING <br>
 Website-https://elearning.iirs.gov.in/edusatregistration/student<br>
 <br>
+</details>
+ <details>
+  <summary>Python-mysql</summary>
+ <br>
+ My Great Learning: Python-mysql<br>
+ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/python-mysql</br>
+ <br>
 </details>
 <details>
 <summary>
@@ -1244,6 +1369,12 @@ Website- https://www.freecodecamp.org/learn/quality-assurance/<br>
 </details>
 
 <details>
+ <summary>FastAPI</summary>
+ <br>
+ Website- https://www.edx.org/learn/fastapi
+</details>
+
+<details>
 <summary>Computer Networking</summary>
 <br>Networking Essentials By Cisco Networking Academy<br>
 Website- https://www.netacad.com/courses/networking/networking-essentials<br>
@@ -1254,8 +1385,10 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Network Support and Security<br>
  Website - https://skillsforall.com/course/network-support-security?courseLang=en-US<br>
  <br>
+ Computer Networking Course: Master Computer Networking<br>
+ Website- https://www.scaler.com/topics/course/free-computer-networks-course/<br>
+<br>
 </details>
-
 <details>
   <summary>JavaScript Course</summary>
  <br>
@@ -1264,4 +1397,3 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  <br>
 </details>
 <details>
-
