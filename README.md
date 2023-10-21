@@ -1374,3 +1374,10 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Website- https://www.scaler.com/topics/course/free-computer-networks-course/<br>
 <br>
 </details>
+<details>
+  <summary>AWS</summary>
+ <br>
+ My Great Learning: AWS For Beginners<br>
+ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1</br>
+ <br>
+</details>
