@@ -1821,3 +1821,14 @@
 ]
 }
 ]
+
+{
+  "title": "JavaScript",
+  "cards": [{
+      "icon": "fa-solid fa-brain",
+      "name": "JavaScript Course With Certification: Unlocking the Power of JavaScript",
+      "source": "Scalar",
+      "link": "https://www.scaler.com/topics/course/javascript-beginners/"
+    },
+  ]
+}
