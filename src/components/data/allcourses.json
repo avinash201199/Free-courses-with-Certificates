@@ -1875,7 +1875,13 @@
       "name": "Google Cloud Pro (in Italian)",
       "source": "TIM",
       "link": "https://extra.codemotion.com/google-cloud-pro-corsi/"
-    }
+    },
+    {
+    "icon":"fa-duotone fa-clouds",
+    "name":"Learn Ruby",
+    "source":"Class central",
+    "link":"https://www.classcentral.com/course/sololearn-learn-ruby-102603"
+    },
   ]
 },
 {
