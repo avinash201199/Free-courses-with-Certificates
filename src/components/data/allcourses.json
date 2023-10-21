@@ -723,6 +723,12 @@
     "name": "Good way to start with IoT if you are new",
     "source": "My Great Learning",
     "link": "https://www.mygreatlearning.com/iot/free-courses"
+  },
+  {
+    "icon": "fa-solid fa-d",
+    "name": "Introduction to IoT",
+    "source": "Simplilearn",
+    "link": "https://www.simplilearn.com/learn-iot-basics-skillup"
   }]
 },
 {
@@ -1178,6 +1184,12 @@
       "name": "MySQL Basics",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/mysql-basics"
+    },
+    {
+      "icon": "fas fa-table",
+      "name": "SQL for Beginners",
+      "source": "Scaler",
+      "link": "https://www.scaler.com/topics/course/sql-using-mysql-course/"
     }
   ]
 },
