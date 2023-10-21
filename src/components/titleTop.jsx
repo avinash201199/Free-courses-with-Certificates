@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../public/finalLogo.svg';
+import logo from '../../public/finalLOGO.svg';
 
 export default function titleTop() {
     return (
