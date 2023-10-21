@@ -837,6 +837,9 @@ Website- https://geek-university.com/course/mysql-course/<br>
 Great Learning - MySQL Basics<br>
 Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/mysql-basics<br>
 <br>
+Scaler - SQL for Beginners<br>
+Website- https://www.scaler.com/topics/course/sql-using-mysql-course/<br>
+<br>
 </details>
 
 <details>
@@ -888,6 +891,15 @@ Website-https://www.simplilearn.com/learn-php-basics-free-course-skillup <br>
 Great Learning - PHP<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/php <br>
 <br>
+ 
+</details>
+
+<details>
+ 
+ <summary>Prompt Engineering</summary>
+ <br>
+ Alison - Basics of Prompt Engineering <br>
+ website - https://alison.com/course/basics-of-prompt-engineering <br>
  
 </details>
 
@@ -1010,6 +1022,9 @@ Website-https://training.linuxfoundation.org/training/fundamentals-of-quantum-co
 <br>
 My Great Learning - Good way to start with IoT if you are new<br>
 Website-https://www.mygreatlearning.com/iot/free-courses/<br>
+<br>
+Simplilearn - Introduction to IoT<br>
+Website-https://www.simplilearn.com/learn-iot-basics-skillup<br>
 <br>
 </details>
 
