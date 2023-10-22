@@ -1303,6 +1303,7 @@ INDIAN INSITUTE OF REMOTE SENSING <br>
 Website-https://elearning.iirs.gov.in/edusatregistration/student<br>
 <br>
 </details>
+
  <details>
   <summary>Python-mysql</summary>
  <br>
@@ -1310,6 +1311,7 @@ Website-https://elearning.iirs.gov.in/edusatregistration/student<br>
  Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/python-mysql</br>
  <br>
 </details>
+
 <details>
 <summary>
 Beginner Course on Programming and Coding Fundamentals</summary>
@@ -1318,7 +1320,9 @@ Platform:Udemy<br>
 Creator: Haris Samingan<br>
 Website-https://www.udemy.com/course/beginner-course-on-programming/<br>
 <br>
-<details>
+</details>
+
+ <details>
 <summary>Power BI for Beginners</summary>
 <br>
 SimpliLearn <br>
@@ -1351,15 +1355,13 @@ Website-https://www.learnmall.in/play/become-a-social-media-manager-part-1/ <br>
 Web 3.0, Blockchain, Smart Contracts & Crypto Practice Tests<br>
 Website-https://www.udemy.com/course/web3-blockchain-smartcontracts-crypto-practice-tests/?couponCode=BLACKFRIDAY<br>
 <br>
- 
-</details>
+ </details>
 
 <details>
 <summary>Softwate Testing </summary>
 <br>Quality Assurance and Testing with Chai<br>
 Website- https://www.freecodecamp.org/learn/quality-assurance/<br>
 <br>
- 
 </details>
 
 <details>
@@ -1388,4 +1390,14 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Computer Networking Course: Master Computer Networking<br>
  Website- https://www.scaler.com/topics/course/free-computer-networks-course/<br>
 <br>
+</details>
+
+<details>
+<summary>Game Development</summary>
+<br>HarvardX: CS50's Introduction to Game Development<br>
+Website- https://www.edx.org/learn/game-development/harvard-university-cs50-s-introduction-to-game-development?irclickid=1qeSLlTatxyNRaZQ9FwPa3WVUkFTIyzVOwbNVI0&utm_source=affiliate&utm_medium=Class%20Central&utm_campaign=Harvard%27s%20Computer%20Science%20for%20Python%20Programming_&utm_content=TEXT_LINK&irgwc=1<br>
+<br>
+ Unity 2D and C# for Beginner Game Developers<br>
+ Website - https://alison.com/course/unity-2d-and-c-sharp-for-beginner-game-developers<br>
+ <br>
 </details>
