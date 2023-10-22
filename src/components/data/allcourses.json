@@ -2021,5 +2021,22 @@
   } 
     
 ]
+},
+  
+{
+  "title": "Game Development",
+  "cards": [{
+      "icon": "fa-solid fa-gamepad-modern",
+      "name": "HarvardX: CS50's Introduction to Game Development",
+      "source": "edX",
+      "link": "https://www.edx.org/learn/game-development/harvard-university-cs50-s-introduction-to-game-development?irclickid=1qeSLlTatxyNRaZQ9FwPa3WVUkFTIyzVOwbNVI0&utm_source=affiliate&utm_medium=Class%20Central&utm_campaign=Harvard%27s%20Computer%20Science%20for%20Python%20Programming_&utm_content=TEXT_LINK&irgwc=1"
+    },
+    {
+      "icon": "fa-solid fa-gamepad-modern",
+      "name": "Unity 2D and C# for Beginner Game Developers",
+      "source": "Alison",
+      "link": "https://alison.com/course/unity-2d-and-c-sharp-for-beginner-game-developers"
+    }
+  ]
 }
 ]
