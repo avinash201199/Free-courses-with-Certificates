@@ -335,6 +335,11 @@ Introduction to C++ course<br>
 Website - https://www.simplilearn.com/free-course-to-learn-cpp-basics-skillup
 <br>
 
+<br>
+Programming Essentials in C++<br>
+Website - https://lms.netacad.com/course/view.php?id=2059344
+<br>
+
 </details>
 
 <details>
