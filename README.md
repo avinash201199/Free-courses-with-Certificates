@@ -817,6 +817,14 @@ website- https://cognitiveclass.ai/courses/machine-learning-with-python
 </details>
 
 <details>
+<summary>macOS Development</summary>
+<br>
+BitDegree - Comprehensive macOS App Development Course: Learn How to Develop an App <br>
+Website - https://www.bitdegree.org/courses/course/app-development <br>
+<br> 
+</details>
+
+<details>
 <summary>MongoDB</summary>
 <br>
 GREAT LEARNING ACADEMY- Mongodb Tutorial<br>
