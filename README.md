@@ -1244,6 +1244,10 @@ Website- https://my.newtonschool.co/course/sgo3yt59mul2/timeline/<br>
 JavaScript-based web development - Full stack open<br>
 Website- https://fullstackopen.com/en/<br>
 <br>
+<br>
+Introduction to Front-End Development by META <br>
+Website- https://www.coursera.org/learn/introduction-to-front-end-development/ <br>
+<br>
 
 </details>
 
