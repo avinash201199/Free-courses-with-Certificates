@@ -783,6 +783,16 @@
   ]
 },  
 {
+  "title": "Database Normalization",
+  "cards": [{
+      "icon": "fa-solid fa-cloud-arrow-down",
+      "name": "Database Normalization",
+      "source": "GREAT LEARNING ACADEMY",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/database-normalization"
+    }
+  ]
+},  
+{
   "title": "Docker",
   "cards": [{
       "icon": "fab fa-docker",

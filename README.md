@@ -551,6 +551,14 @@ Database and SQL
 </details>
 
 <details>
+<summary>Database Normalization</summary>
+<br> 
+GREAT LEARNING ACADEMY - Learn Database Normalization
+<br> Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/database-normalization<br>
+<br>
+</details>
+
+<details>
 <summary>Docker</summary>
 <br>
 GREAT LEARNING ACADEMY- Docker Projects<br>
