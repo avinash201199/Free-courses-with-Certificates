@@ -1329,6 +1329,15 @@ Power BI Basics free course takes you through desktop layouts, BI reports, dashb
 </details>
 
 <details>
+<summary>Scala</summary>
+<br>
+Educative - Scala
+<br>Functional Programming Principles in Scala<br>
+Website- hhttps://www.coursera.org/learn/scala-functional-programming?specialization=scala<br>
+<br>
+</details>
+
+<details>
 <summary>Digital Marketing</summary>
 <br>
 Great Learning - Introduction to Digital Marketing<br>

@@ -1477,6 +1477,17 @@
   }]
 },
 {
+  "title": "Scala",
+  "cards": [
+      {
+          "icon": "fa-solid fa-layer-group",
+          "name": "Functional Programming Principles in Scala",
+          "source": "Udemy",
+          "link": "https://www.coursera.org/learn/scala-functional-programming?specialization=scala"
+      }
+  ]
+},
+{
   "title": "Scientific Computing",
   "cards": [{
     "icon": "fa-solid fa-gem",
