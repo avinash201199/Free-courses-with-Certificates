@@ -91,6 +91,12 @@
       "name": "AWS for Beginners",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1"
+    },
+    {
+      "icon": "fa-solid fa-brain",
+      "name": "Amazon Web Services (AWS) - Zero to Hero",
+      "source": "Udemy",
+      "link": "https://www.udemy.com/course/amazon-web-services-aws-v/"
     }
   ]
 },
