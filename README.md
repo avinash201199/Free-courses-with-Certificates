@@ -150,6 +150,9 @@ Hands-on Artificial Intelligence with TensorFlow <br>
 Website- https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01330144632101273619815_shared/overview<br>
 <br>
 <br>
+GREAT LEARNING ACADEMY- ChatGPT for Beginners<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/chatgpt-for-beginners<br>
+<br>
 GREAT LEARNING ACADEMY- Introduction to Deep Learning<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-deep-learning<br>
 <br>

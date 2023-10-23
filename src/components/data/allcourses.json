@@ -8,6 +8,12 @@
     },
     {
       "icon": "fab fa-android",
+      "name": "ChatGPT for Beginners",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/chatgpt-for-beginners"
+    },
+    {
+      "icon": "fab fa-android",
       "name": "Python Tkinter",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-tkinter"
