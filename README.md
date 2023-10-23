@@ -208,12 +208,21 @@ Website-https://www.udacity.com/course/intro-to-backend--ud171
 GREAT LEARNING ACADEMY- Introduction to Big Data and Hadoop<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-big-data-and-hadoop<br>
 <br>
+DATA FLAIR - BIG DATA HADOOP COURSE – LEARN HADOOP WITH REAL-TIME PROJECTS <BR>
+Website-https://data-flair.training/courses/free-big-data-hadoop-course/<br>
+<br>
 GREAT LEARNING ACADEMY- Introduction to Apache Hive<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-apache-hive<br>
 <br>
 GREAT LEARNING ACADEMY- Spark Basics<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/spark-basics<br>
 <br>
+ DATA FLAIR - PYSPARK CERTIFICATION COURSE <br>
+ Website-https://data-flair.training/courses/free-pyspark-course/ <br>
+ <br>
+ DATE FLAIR - BIG DATA CERTIFICATION COURSE WITH HADOOP & SPARK <br>
+ Website-https://data-flair.training/courses/free-big-data-hadoop-spark-course/ <br>
+ <br>
  FUTURE LEARN- Big Data Analytics: Opportunities, Challenges, and the Future<br>
  Website-https://www.futurelearn.com/courses/applied-big-data-analytics
 <br>
