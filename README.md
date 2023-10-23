@@ -853,6 +853,11 @@ Website- https://progate.com/courses/nodejs<br>
 Udemy<br>
 Website- https://www.udemy.com/course/next-js-react-hooks/?ranMID=39197&ranEAID=0F1O0otUXQc&ranSiteID=0F1O0otUXQc-UipnOymbIoN6ty0eHde58Q&LSNPUBID=0F1O0otUXQc&utm_source=aff-campaign&utm_medium=udemyads<br>
 <br>
+<br>
+Coursesity<br>
+Website- https://coursesity.com/course-detail/master-next-js-13-2023-for-busy-developers<br>
+<br>
+
 </details>
 
 <details>
