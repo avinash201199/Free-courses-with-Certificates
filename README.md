@@ -1391,9 +1391,9 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
 </details>
 
 <details>
-<summary>Flutter</summary>
+<summary>Flutter Course</summary>
 <br>
-Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial<br>
-Website-https://www.classcentral.com/classroom/freecodecamp-flutter-course-for-beginners-37-hour-cross-platform-app-development-tutorial-104327<br>
+Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial <br>
+Website - https://www.classcentral.com/classroom/freecodecamp-flutter-course-for-beginners-37-hour-cross-platform-app-development-tutorial-104327<br>
 <br>
 </details>
