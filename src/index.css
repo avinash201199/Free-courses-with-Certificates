@@ -35,6 +35,10 @@ li {
   margin-left: 0.8rem !important;
 }
 
+span.material-symbols-outlined:hover {
+  color: #216fff;
+}
+
 @media only screen and (max-width: 540px) {
 .search-bar-input {
     width: 250px !important;
@@ -98,4 +102,5 @@ li {
   background: #fff;
   color: #216fff;
   border-radius: 0.7rem;
+
 }
