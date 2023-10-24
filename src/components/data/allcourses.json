@@ -8,6 +8,18 @@
     },
     {
       "icon": "fab fa-android",
+      "name": "AWS For Beginners",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1"
+    },
+    {
+      "icon": "fab fa-android",
+      "name": "SQL for Data Science",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science"
+    },
+    {
+      "icon": "fab fa-android",
       "name": "Python Tkinter",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-tkinter"
