@@ -95,13 +95,27 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visu
 Kaggle - Data Visualization<br>
 Website - https://www.kaggle.com/learn/data-visualization<br>
 <br>
-<br>
 Microsoft Power BI Para Data Science 2.0<br>
 Website - https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science<br>
 <br>
 Data Visualization with D3<br>
 Website - https://www.freecodecamp.org/learn/data-visualization/<br>
 <br>
+Get started with PowerBI
+Website - https://learn.microsoft.com/en-us/training/paths/get-started-power-bi/
+Description - Begin exploration of the core principles of Power BI interactive reports and the web-based Power BI service.
+<br>
+Get and transform data with PowerBI
+Website - https://learn.microsoft.com/en-us/training/paths/get-transform-data-power-bi/
+Description - Learn how to connect and transform your data in preparation for data modelling in PowerBI desktop.
+<br>
+Model data with PowerBI
+Website - https://learn.microsoft.com/en-us/training/paths/model-data-power-bi/
+Description - Learn what a PowerBI data model is, which data loading approach to use, and how to build out your data model to get the insights you need.
+<br>
+Build PowerBI visuals and reports
+Website - https://learn.microsoft.com/en-us/training/paths/build-power-bi-visuals-reports/
+Description - Turn data into interactive and actionable observations with PowerBI Visual reports.
 </details>
 <details>
 <summary> Digital Marketing</summary>
