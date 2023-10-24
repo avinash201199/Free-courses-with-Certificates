@@ -256,6 +256,12 @@
     },
     {
       "icon": "fa-solid fa-database",
+      "name": "Big Data Hadoop",
+      "source": "Data Flair",
+      "link": "https://data-flair.training/courses/free-big-data-hadoop-course/"
+    },
+    {
+      "icon": "fa-solid fa-database",
       "name": "Introduction to Apache Hive",
       "source": "Great Learning Academy",
       "link": "https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-apache-hive"
@@ -265,6 +271,18 @@
       "name": "Spark Basics",
       "source": "Great Learning Academy",
       "link": "https://www.greatlearning.in/academy/learn-for-free/courses/spark-basics"
+    },
+    {
+      "icon": "fa-solid fa-database",
+      "name": "PySpark Certification Course",
+      "source": "Data Flair",
+      "link": "https://data-flair.training/courses/free-pyspark-course/"
+    },
+    {
+      "icon": "fa-solid fa-database",
+      "name": "Big Data Certification course with Hadoop & Spark",
+      "source": "Data Flair",
+      "link": "https://data-flair.training/courses/free-big-data-hadoop-spark-course/"
     },
     {
       "icon": "fa-solid fa-database",
