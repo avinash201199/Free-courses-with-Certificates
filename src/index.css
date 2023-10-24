@@ -34,3 +34,7 @@ li {
 .container {
   margin-left: 0.8rem !important;
 }
+
+span.material-symbols-outlined:hover {
+  color: #216fff;
+}
