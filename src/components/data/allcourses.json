@@ -2019,6 +2019,127 @@
     "source": "My Great Learning",
     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics"
   } 
+     {
+    "title": "Machine Learning",
+"cards": [{
+    "icon": "fas fa-laptop-code",
+    "name": "Machine Learning Fundamentals",
+    "source": "Coursera",
+    "link": "https://www.coursera.org/learn/machine-learning-fundamentals",
+    "certification": {
+        "name": "Machine Learning Fundamentals Certification",
+        "provider": "Coursera",
+        "cost": "Free (Audit)",
+        "duration": "Approximately 2 months",
+        "description": "Master the fundamentals of machine learning and earn a certification through this free course.",
+        "link": "https://www.coursera.org/learn/machine-learning-fundamentals"
+    }
+}, {
+    "icon": "fas fa-robot",
+    "name": "Practical Deep Learning for Coders",
+    "source": "fast.ai",
+    "link": "https://course.fast.ai/",
+    "certification": {
+        "name": "Practical Deep Learning for Coders Certification",
+        "provider": "fast.ai",
+        "cost": "Free",
+        "duration": "Self-paced",
+        "description": "Learn deep learning for coders and receive a certification upon successful completion of the course.",
+        "link": "https://course.fast.ai/"
+    }
+}]
+      {
+      "title": "Web Development",
+"cards": [{
+    "icon": "fab fa-html5",
+    "name": "HTML and CSS Fundamentals",
+    "source": "freeCodeCamp",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/",
+    "certification": {
+        "name": "Responsive Web Design Certification",
+        "provider": "freeCodeCamp",
+        "cost": "Free",
+        "duration": "Self-paced",
+        "description": "Master HTML and CSS fundamentals and earn a certification in responsive web design.",
+        "link": "https://www.freecodecamp.org/learn/responsive-web-design/"
+    }
+}, {
+    "icon": "fab fa-js",
+    "name": "JavaScript for Beginners",
+    "source": "edX",
+    "link": "https://www.edx.org/professional-certificate/javascript-for-beginners",
+    "certification": {
+        "name": "JavaScript for Beginners Professional Certificate",
+        "provider": "edX",
+        "cost": "Free (Audit)",
+        "duration": "6 weeks",
+        "description": "Learn JavaScript basics and receive a professional certificate upon successful completion of the course.",
+        "link": "https://www.edx.org/professional-certificate/javascript-for-beginners"
+    }
+}]
+    {
+      "title": "Data Science",
+"cards": [
+    {
+        "icon": "fas fa-chart-bar",
+        "name": "Data Science for Everyone",
+        "source": "DataCamp",
+        "link": "https://www.datacamp.com/courses/data-science-for-everyone",
+        "certification": {
+            "name": "Data Science for Everyone Certification",
+            "provider": "DataCamp",
+            "cost": "Free (Audit)",
+            "duration": "Approximately 2 months",
+            "description": "Explore the fundamentals of data science and earn a certification upon completion.",
+            "link": "https://www.datacamp.com/courses/data-science-for-everyone"
+        }
+    },
+    {
+        "icon": "fas fa-code",
+        "name": "Python for Data Science and Machine Learning Bootcamp",
+        "source": "Udemy",
+        "link": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/",
+        "certification": {
+            "name": "Python for Data Science and Machine Learning Bootcamp Certification",
+            "provider": "Udemy",
+            "cost": "Free (Audit)",
+            "duration": "Self-paced",
+            "description": "Learn Python for data science and machine learning and earn a certification.",
+            "link": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/"
+        }
+    }]
+      {
+      "title": "Cybersecurity",
+"cards": [
+    {
+        "icon": "fas fa-shield-alt",
+        "name": "Introduction to Cyber Security Specialization",
+        "source": "Coursera",
+        "link": "https://www.coursera.org/specializations/intro-cyber-security",
+        "certification": {
+            "name": "Introduction to Cyber Security Specialization Certification",
+            "provider": "Coursera",
+            "cost": "Free (Audit)",
+            "duration": "Approximately 2 months",
+            "description": "Gain foundational knowledge in cybersecurity and earn a certification.",
+            "link": "https://www.coursera.org/specializations/intro-cyber-security"
+        }
+    },
+    {
+        "icon": "fab fa-fort-awesome",
+        "name": "Cybersecurity for Beginners",
+        "source": "edX",
+        "link": "https://www.edx.org/professional-certificate/cybersecurity-for-beginners",
+        "certification": {
+            "name": "Cybersecurity for Beginners Certification",
+            "provider": "edX",
+            "cost": "Free (Audit)",
+            "duration": "8 weeks",
+            "description": "Start your journey in cybersecurity with this free course and earn a certification.",
+            "link": "https://www.edx.org/professional-certificate/cybersecurity-for-beginners"
+        }
+    }
+]
     
 ]
 }
