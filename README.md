@@ -1194,6 +1194,12 @@ Website-https://www.futurelearn.com/courses/digital-skills-user-experience<br>
 UI/UX Design for Beginners<br>
 Website-https://www.udemy.com/course/uxui-design-for-beginners/<br>
  <br>
+ Great Learning Academy- Intro to Graphic Design with Photoshop<br>
+ Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/intro-to-graphic-design-with-photoshop<br>
+ <br>
+ Alison- Graphic Design<br>
+ Website- https://alison.com/course/graphic-design<br>
+ <br>
 </details>
 
 <details>

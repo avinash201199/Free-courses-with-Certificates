@@ -1556,6 +1556,18 @@
       "name": "User Experience",
       "source": "Future Learn-Digital Skills",
       "link": "https://www.futurelearn.com/courses/digital-skills-user-experience"
+    },
+    {
+      "icon": "fa-solid fa-pencil-ruler",
+      "name": "Intro to Graphic Design with Photoshop",
+      "source": "Great Learning Academy",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/intro-to-graphic-design-with-photoshop"
+    },
+    {
+      "icon": "fa-solid fa-pencil-ruler",
+      "name": "Graphic Design",
+      "source": "Alison",
+      "link": "https://alison.com/course/graphic-design"
     }
   ]
 },
