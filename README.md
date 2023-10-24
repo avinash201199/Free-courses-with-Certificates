@@ -1389,3 +1389,11 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Website- https://www.scaler.com/topics/course/free-computer-networks-course/<br>
 <br>
 </details>
+
+<details>
+<summary>Flutter</summary>
+<br>
+Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial<br>
+Website-https://www.classcentral.com/classroom/freecodecamp-flutter-course-for-beginners-37-hour-cross-platform-app-development-tutorial-104327<br>
+<br>
+</details>
