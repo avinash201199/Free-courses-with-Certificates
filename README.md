@@ -66,6 +66,10 @@ Website-https://www.sololearn.com/learning/1092<br>
 Udemy - Angular for Beginners Course<br>
 Website-https://www.udemy.com/course/angular-for-beginners-course/<br>
 <br>
+<br>
+Great Learning - SQL for Data Science<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science<br>
+<br>
 
 <br>
 Great Learning - Angular7 for beginners<br>
@@ -1401,5 +1405,16 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  <br>
  Computer Networking Course: Master Computer Networking<br>
  Website- https://www.scaler.com/topics/course/free-computer-networks-course/<br>
+<br>
+</details>
+
+<details>
+<summary>Flask</summary>
+<br>Flask Python<br>
+Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/flask-python<br>
+<br>Learn Flask<br>
+Website - https://www.codecademy.com/learn/learn-flask<br>
+<br>Python Flask for Beginners<br>
+Website - https://bitly.ws/XWBm<br>
 <br>
 </details>

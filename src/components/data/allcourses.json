@@ -8,6 +8,18 @@
     },
     {
       "icon": "fab fa-android",
+      "name": "AWS For Beginners",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1"
+    },
+    {
+      "icon": "fab fa-android",
+      "name": "SQL for Data Science",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science"
+    },
+    {
+      "icon": "fab fa-android",
       "name": "Python Tkinter",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-tkinter"
@@ -1585,6 +1597,29 @@
       "link": "https://www.coursera.org/learn/analytics-tableau"
     }
   ]
+},
+{
+    "title": "Flask",
+    "cards": [
+        {
+            "icon": "fa-solid fa-flask",
+            "name": "Flask Python",
+            "source": "My Great Learning",
+            "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/flask-python"
+        },
+        {
+            "icon": "fa-solid fa-flask",
+            "name": "Learn Flask",
+            "source": "Code Academy",
+            "link": "https://www.codecademy.com/learn/learn-flask"
+        },
+        {
+            "icon": "fa-solid fa-flask",
+            "name": "Python Flask for beginners",
+            "source": "Udemy",
+            "link": "https://bitly.ws/XWBm"
+        }
+    ]
 },
 {
   "title": "Typescript",
