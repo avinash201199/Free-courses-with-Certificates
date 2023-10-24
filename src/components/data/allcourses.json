@@ -574,6 +574,16 @@
   ]
 },
 {
+  "title": "Data Programming",
+  "cards": [{
+      "icon": "fa-solid fa-asterisk",
+      "name": "Data Programming",
+      "source": "Sololearn",
+      "link": "https://www.sololearn.com/learn/courses/data-programming"
+    }]
+    
+},
+{
   "title": "Data Science",
   "cards": [{
       "icon": "fa-solid fa-asterisk",

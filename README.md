@@ -439,6 +439,13 @@ Official Learning Website - https://www.celigo.com/university/
 </details>
 
 <details>
+<summary>Data Programming</summary>
+<br>Sololearn - Data Programming<br>
+https://www.sololearn.com/learn/courses/data-programming<br>
+<br>
+</details>
+
+<details>
 <summary>Data Science</summary>
 <br>
 Sololearn- Data Science <br>
