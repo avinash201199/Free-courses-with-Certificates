@@ -8,9 +8,20 @@
     },
     {
       "icon": "fab fa-android",
+
       "name": "ChatGPT for Beginners",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/chatgpt-for-beginners"
+
+      "name": "AWS For Beginners",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1"
+    },
+    {
+      "icon": "fab fa-android",
+      "name": "SQL for Data Science",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-scienc
     },
     {
       "icon": "fab fa-android",
@@ -282,22 +293,6 @@
     "source": "Google Analytics",
     "link": "https://analytics.google.com/analytics/academy/course/6"
   }]
-},
-{
-  "title": "Amazon Web Services (AWS)",
-  "cards": [{
-      "icon": "fab fa-aws",
-      "name": "Amazon Web Services (AWS)",
-      "source": "AWS Skillbuilder",
-      "link": "https://explore.skillbuilder.aws/learn"
-    },
-    {
-      "icon": "fab fa-aws",
-      "name": "AWS Cloud Quest",
-      "source": "AWS Skillbuilder",
-      "link": "https://aws.amazon.com/training/digital/aws-cloud-quest"
-    }
-  ]
 },
 {
   "title": "Programming Fundamentals",
@@ -795,14 +790,13 @@
     }
   ]
 },
-
 {
-  "title": "Database Management System",
+  "title": "Database Normalization",
   "cards": [{
       "icon": "fa-solid fa-cloud-arrow-down",
-      "name": "Full Database management course",
+      "name": "Database Normalization",
       "source": "GREAT LEARNING ACADEMY",
-      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/database-management-system"
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/database-normalization"
     }
   ]
 },  
@@ -844,34 +838,6 @@
   }]
 },
 {
-  "title": "Docker and Kubernetes",
-  "cards": [{
-      "icon": "fab fa-docker",
-      "name": "Docker and Kubernetes",
-      "source": "Freecodecamp",
-      "link": "https://www.freecodecamp.org/news/learn-docker-and-kubernetes-hands-on-course/"
-    },
-    {
-      "icon": "fab fa-docker",
-      "name": "Introduction to Kubernetes",
-      "source": "Great learning",
-      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-kubernetes1"
-    },
-    {
-      "icon": "fab fa-docker",
-      "name": "Docker for Intermediate Level",
-      "source": "Great learning",
-      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/docker-for-intermediate-level"
-    },
-    {
-      "icon": "fab fa-docker",
-      "name": "Getting Started with Kubernetes",
-      "source": "KubeAcademy",
-      "link": "https://kube.academy/courses/getting-started"
-    }
-  ]
-},
-{
   "title": "Ethical Hacking",
   "cards": [{
       "icon": "fa-solid fa-user-secret",
@@ -902,22 +868,6 @@
       "name": "Ethical Hacking Essentials(EHE)",
       "source": "Coursera",
       "link": "https://www.coursera.org/learn/ethical-hacking-essentials-ehe"
-    }
-  ]
-},
-{
-  "title": "GitHub",
-  "cards": [{
-      "icon": "fab fa-github-alt",
-      "name": "GitHub Skills",
-      "source": "GitHub",
-      "link": "https://skills.github.com/"
-    },
-    {
-      "icon": "fab fa-github-alt",
-      "name": "GitHub Tutorial for Beginners",
-      "source": "Great Learning Academy",
-      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/github-tutorial-for-beginners"
     }
   ]
 },
@@ -1483,6 +1433,17 @@
   }]
 },
 {
+  "title": "Scala",
+  "cards": [
+      {
+          "icon": "fa-solid fa-layer-group",
+          "name": "Functional Programming Principles in Scala",
+          "source": "Udemy",
+          "link": "https://www.coursera.org/learn/scala-functional-programming?specialization=scala"
+      }
+  ]
+},
+{
   "title": "Scientific Computing",
   "cards": [{
     "icon": "fa-solid fa-gem",
@@ -1498,34 +1459,6 @@
       "name": "Selenium and JUnit certifications from Lambdatest",
       "source": "LamndaTest",
       "link": "https://www.lambdatest.com/certifications/"
-    }
-  ]
-},
-{
-  "title": "SQL",
-  "cards": [{
-      "icon": "fa-solid fa-table-cells",
-      "name": "SQL",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1060"
-    },
-    {
-      "icon": "fa-solid fa-table-cells",
-      "name": "SQL and Relational Databases 101",
-      "source": "cognitiveclass.ai",
-      "link": "https://courses.cognitiveclass.ai/courses/course-v1:BDU+DB0101EN+v1/course/"
-    },
-    {
-      "icon": "fa-solid fa-table-cells",
-      "name": "SQL - Intro to SQL",
-      "source": "Kaggle",
-      "link": "https://www.kaggle.com/learn/intro-to-sql"
-    },
-    {
-      "icon": "fa-solid fa-table-cells",
-      "name": "Relational Database",
-      "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/relational-database/"
     }
   ]
 },
@@ -1593,6 +1526,29 @@
   ]
 },
 {
+    "title": "Flask",
+    "cards": [
+        {
+            "icon": "fa-solid fa-flask",
+            "name": "Flask Python",
+            "source": "My Great Learning",
+            "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/flask-python"
+        },
+        {
+            "icon": "fa-solid fa-flask",
+            "name": "Learn Flask",
+            "source": "Code Academy",
+            "link": "https://www.codecademy.com/learn/learn-flask"
+        },
+        {
+            "icon": "fa-solid fa-flask",
+            "name": "Python Flask for beginners",
+            "source": "Udemy",
+            "link": "https://bitly.ws/XWBm"
+        }
+    ]
+},
+{
   "title": "Typescript",
   "cards": [{
     "icon": "fa-solid fa-t",
@@ -1626,6 +1582,18 @@
       "name": "User Experience",
       "source": "Future Learn-Digital Skills",
       "link": "https://www.futurelearn.com/courses/digital-skills-user-experience"
+    },
+    {
+      "icon": "fa-solid fa-pencil-ruler",
+      "name": "Intro to Graphic Design with Photoshop",
+      "source": "Great Learning Academy",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/intro-to-graphic-design-with-photoshop"
+    },
+    {
+      "icon": "fa-solid fa-pencil-ruler",
+      "name": "Graphic Design",
+      "source": "Alison",
+      "link": "https://alison.com/course/graphic-design"
     }
   ]
 },
@@ -1774,15 +1742,6 @@
   ]
 },
 {
-  "title": "CYBER-Security",
-  "cards": [{
-    "icon": "fa-solid fa-shield-alt",
-    "name": "Cyber Security",
-    "source": "INDIAN INSITUTE OF REMOTE SENSING",
-    "link": "https://elearning.iirs.gov.in/edusatregistration/student"
-  }]
-},
-{
   "title": "Jenkins",
   "cards": [{
     "icon": "fa-brands fa-jenkins",
@@ -1797,34 +1756,6 @@
     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/jenkins-tutorial"
   }
 ]
-},
-{
-  "title": "Digital marketing",
-  "cards": [{
-      "icon": "fa-solid fa-database",
-      "name": "Introduction to Digital Marketing",
-      "source": "My greatlearning",
-      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-digital-marketing"
-    },
-    {
-      "icon": "fa-solid fa-database",
-      "name": "Statistics for Machine Learning",
-      "source": "Great Learning Academy",
-      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/statistics-for-machine-learning"
-    },
-    {
-      "icon": "fab fa-digital marketing",
-      "name": "Business Intelligence Fundamentals",
-      "source": "simplilearn",
-      "link": "https://www.simplilearn.com/free-business-intelligence-course-online-skillup"
-    },
-    {
-      "icon": "fa-solid fa-magnifying-glass-chart",
-      "name": "Geospatial Analysis",
-      "source": "Kaggle",
-      "link": "https://www.kaggle.com/learn/geospatial-analysis"
-    }
-  ]
 },
 {
   "title": "Google Cloud Provider",
@@ -1905,17 +1836,6 @@
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/flutter-for-beginners"
     } 
   ]
-},
-  {
-    "title": "Git",
-    "cards": [
-        {
-            "icon": "fa-brands fa-git",
-            "name": "Git Tutorial",
-            "source": "Great Learning",
-            "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/git-tutorial"
-        }
-    ]
 },
 {
   "title": "Integration Platform",

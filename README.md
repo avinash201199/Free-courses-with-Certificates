@@ -66,6 +66,10 @@ Website-https://www.sololearn.com/learning/1092<br>
 Udemy - Angular for Beginners Course<br>
 Website-https://www.udemy.com/course/angular-for-beginners-course/<br>
 <br>
+<br>
+Great Learning - SQL for Data Science<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science<br>
+<br>
 
 <br>
 Great Learning - Angular7 for beginners<br>
@@ -560,6 +564,14 @@ Database and SQL
 <br> Website - https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview<br>
 <br>
 
+</details>
+
+<details>
+<summary>Database Normalization</summary>
+<br> 
+GREAT LEARNING ACADEMY - Learn Database Normalization
+<br> Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/database-normalization<br>
+<br>
 </details>
 
 <details>
@@ -1193,6 +1205,12 @@ Website-https://www.futurelearn.com/courses/digital-skills-user-experience<br>
 UI/UX Design for Beginners<br>
 Website-https://www.udemy.com/course/uxui-design-for-beginners/<br>
  <br>
+ Great Learning Academy- Intro to Graphic Design with Photoshop<br>
+ Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/intro-to-graphic-design-with-photoshop<br>
+ <br>
+ Alison- Graphic Design<br>
+ Website- https://alison.com/course/graphic-design<br>
+ <br>
 </details>
 
 <details>
@@ -1332,6 +1350,15 @@ Power BI Basics free course takes you through desktop layouts, BI reports, dashb
 </details>
 
 <details>
+<summary>Scala</summary>
+<br>
+Educative - Scala
+<br>Functional Programming Principles in Scala<br>
+Website- hhttps://www.coursera.org/learn/scala-functional-programming?specialization=scala<br>
+<br>
+</details>
+
+<details>
 <summary>Digital Marketing</summary>
 <br>
 Great Learning - Introduction to Digital Marketing<br>
@@ -1390,5 +1417,16 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  <br>
  Computer Networking Course: Master Computer Networking<br>
  Website- https://www.scaler.com/topics/course/free-computer-networks-course/<br>
+<br>
+</details>
+
+<details>
+<summary>Flask</summary>
+<br>Flask Python<br>
+Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/flask-python<br>
+<br>Learn Flask<br>
+Website - https://www.codecademy.com/learn/learn-flask<br>
+<br>Python Flask for Beginners<br>
+Website - https://bitly.ws/XWBm<br>
 <br>
 </details>
