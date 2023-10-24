@@ -66,6 +66,18 @@
         }
     ]
 },
+
+{
+    "cards": [
+        {
+            "icon": "fab fa-SQL",
+            "name": "Introduction to SQL",
+            "source": "SimpliLearn",
+            "link": "https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup"
+        }
+    ]
+},
+
 {
   "title": "AWS",
   "cards": [{
