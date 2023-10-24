@@ -63,6 +63,12 @@
       "name": "Angular for Beginners Course",
       "source": "Udemy",
       "link": "https://www.udemy.com/course/angular-for-beginners-course/"
+    },
+    {
+      "icon": "fab fa-angular",
+      "name": "Angular",
+      "source": "Sololearn",
+      "link": "https://www.sololearn.com/learn/courses/angular"
     }
   ]
 },
