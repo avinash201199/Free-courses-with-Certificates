@@ -578,6 +578,14 @@ Database and SQL
 </details>
 
 <details>
+<summary>Database Normalization</summary>
+<br> 
+GREAT LEARNING ACADEMY - Learn Database Normalization
+<br> Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/database-normalization<br>
+<br>
+</details>
+
+<details>
 <summary>Docker</summary>
 <br>
 GREAT LEARNING ACADEMY- Docker Projects<br>
@@ -1208,6 +1216,12 @@ Website-https://www.futurelearn.com/courses/digital-skills-user-experience<br>
 UI/UX Design for Beginners<br>
 Website-https://www.udemy.com/course/uxui-design-for-beginners/<br>
  <br>
+ Great Learning Academy- Intro to Graphic Design with Photoshop<br>
+ Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/intro-to-graphic-design-with-photoshop<br>
+ <br>
+ Alison- Graphic Design<br>
+ Website- https://alison.com/course/graphic-design<br>
+ <br>
 </details>
 
 <details>
@@ -1344,6 +1358,15 @@ Website-https://www.simplilearn.com/learn-power-bi-basics-free-course-skillup<br
 <br>
 Power BI Basics free course takes you through desktop layouts, BI reports, dashboards, Power BI DAX commands, and functions. Power BI is a business analytics tool that helps analysts use interactive visualizations to create dashboards and reports. This free course will help you understand how to use Power BI tools to analyze data, create datasets, and more.
  <br>
+</details>
+
+<details>
+<summary>Scala</summary>
+<br>
+Educative - Scala
+<br>Functional Programming Principles in Scala<br>
+Website- hhttps://www.coursera.org/learn/scala-functional-programming?specialization=scala<br>
+<br>
 </details>
 
 <details>
