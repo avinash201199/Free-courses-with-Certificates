@@ -1389,3 +1389,14 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Website- https://www.scaler.com/topics/course/free-computer-networks-course/<br>
 <br>
 </details>
+
+<details>
+<summary>Flask</summary>
+<br>Flask Python<br>
+Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/flask-python<br>
+<br>Learn Flask<br>
+Website - https://www.codecademy.com/learn/learn-flask<br>
+<br>Python Flask for Beginners<br>
+Website - https://bitly.ws/XWBm<br>
+<br>
+</details>

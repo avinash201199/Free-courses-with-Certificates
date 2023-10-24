@@ -1587,6 +1587,29 @@
   ]
 },
 {
+    "title": "Flask",
+    "cards": [
+        {
+            "icon": "fa-solid fa-flask",
+            "name": "Flask Python",
+            "source": "My Great Learning",
+            "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/flask-python"
+        },
+        {
+            "icon": "fa-solid fa-flask",
+            "name": "Learn Flask",
+            "source": "Code Academy",
+            "link": "https://www.codecademy.com/learn/learn-flask"
+        },
+        {
+            "icon": "fa-solid fa-flask",
+            "name": "Python Flask for beginners",
+            "source": "Udemy",
+            "link": "https://bitly.ws/XWBm"
+        }
+    ]
+},
+{
   "title": "Typescript",
   "cards": [{
     "icon": "fa-solid fa-t",
