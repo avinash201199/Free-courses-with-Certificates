@@ -1464,6 +1464,13 @@
       "name": "React Js Tutorials",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial"
+    },
+    {
+      "icon": "fab fa-react",
+      "name": "Introduction to Front-End Development by META",
+      "source": "Coursera",
+      "link": "https://www.coursera.org/learn/introduction-to-front-end-development/"
+
     }
   ]
 },
