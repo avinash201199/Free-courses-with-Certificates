@@ -427,7 +427,12 @@ Website- https://www.cybrary.it/course/advanced-penetration-testing/<br>
 Linux Foundation- Getting Started with Self-Sovereign Identity<br>
 Website- https://training.linuxfoundation.org/training/getting-started-with-self-sovereign-identity-lfs178x/<br>
 <br>
-
+EC Council Code Red - Ethical Hacking Essentials(EHE) <br>
+Website-https://codered.eccouncil.org/course/ethical-hacking-essentials<br>
+<br>
+EC Council Code Red - Network Defence Essential (NDE) <br>
+Website-https://codered.eccouncil.org/course/network-defense-essentials<br>
+<br>
 </details>
 
 <details>

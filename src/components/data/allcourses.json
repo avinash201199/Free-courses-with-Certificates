@@ -582,6 +582,18 @@
       "name": "Getting Started with Self-Sovereign Identity",
       "source": "Linux Foundation",
       "link": "https://training.linuxfoundation.org/training/getting-started-with-self-sovereign-identity-lfs178x/"
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "name": "EC Council Code Red - Ethical Hacking Essential (EHE)",
+      "source": "EC Council",
+      "link": "https://codered.eccouncil.org/course/ethical-hacking-essentials"
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "name": "EC Council Code Red - Network Defense Essential (NDE)",
+      "source": "EC Council",
+      "link": "https://codered.eccouncil.org/course/network-defense-essentials"
     }
   ]
 },
