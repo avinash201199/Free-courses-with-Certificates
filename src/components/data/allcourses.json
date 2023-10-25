@@ -1022,6 +1022,12 @@
       "name": "JavaScript",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/javascript-in-hindi"
+    },
+    {
+      "icon": "fab fa-js",
+      "name": "Unlocking the power of JavaScript",
+      "source": "Scaler",
+      "link": "https://www.scaler.com/topics/course/javascript-beginners/"
     }
   ]
 },
