@@ -1266,6 +1266,10 @@ Website- https://my.newtonschool.co/course/sgo3yt59mul2/timeline/<br>
 JavaScript-based web development - Full stack open<br>
 Website- https://fullstackopen.com/en/<br>
 <br>
+<br>
+Introduction to Front-End Development by META <br>
+Website- https://www.coursera.org/learn/introduction-to-front-end-development/ <br>
+<br>
 
 </details>
 
@@ -1313,7 +1317,7 @@ Website-https://www.codingninjas.com/codestudio/guided-paths/basics-of-react<br>
 CodeStudio- Basics of Angular<br>
 Website-https://www.codingninjas.com/codestudio/guided-paths/basics-of-angular<br>
 <br>
-Meta FrontEnd- Developer Professional Certificater<br>
+Meta FrontEnd- Developer Professional Certificate<br>
 Website-https://www.coursera.org/professional-certificates/meta-front-end-developer<br>
 <br>
 </details>
