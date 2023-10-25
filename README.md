@@ -1134,6 +1134,10 @@ Website - https://www.kaggle.com/learn/intro-to-sql <br>
 FreecodeCamp - Relational Database <br>
 website - https://www.freecodecamp.org/learn/relational-database/<br>
 <br>
+<br>
+SimpliLearn - Introduction to SQL <br>
+website - https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup<br>
+<br>
 </details>
 
 <details>
