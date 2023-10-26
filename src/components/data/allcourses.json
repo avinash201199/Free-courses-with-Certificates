@@ -1900,6 +1900,12 @@
       "name": "Flutter for Beginners",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/flutter-for-beginners"
+    } ,
+    {
+      "icon": "fa-brands fa-android",
+      "name": "Flutter by Mindluster",
+      "source": "Mindluster",
+      "link": "https://www.mindluster.com/certificate/2128"
     } 
   ]
 },

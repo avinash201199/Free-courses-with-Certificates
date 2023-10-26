@@ -653,6 +653,10 @@ Website-https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013094412
 Great Learning-Flutter for Beginners<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/flutter-for-beginners<br>
 <br>
+<br>
+Flutter by mindluster<br>
+Website-https://www.mindluster.com/certificate/2128<br>
+<br>
 </details>
 
 <details>
