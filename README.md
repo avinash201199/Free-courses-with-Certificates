@@ -61,7 +61,8 @@ Website- https://www.ev.org.br/cursos/desenvolvendo-aplicacoes-mobile-com-androi
 Sololearn - Angular + NestJS<br>
 Website-https://www.sololearn.com/learning/1092<br>
 <br>
- 
+Sololearn - Angular<br>
+Website-https://www.sololearn.com/learn/courses/angular<br>
 <br>
 Udemy - Angular for Beginners Course<br>
 Website-https://www.udemy.com/course/angular-for-beginners-course/<br>
