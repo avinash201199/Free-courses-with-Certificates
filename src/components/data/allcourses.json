@@ -1979,5 +1979,26 @@
   } 
     
 ]
+},
+{
+  "title": "Deep Learning",
+  "cards": [{
+    "icon": "fa-solid fa-desktop",
+    "name": "Introduction to Deep Learning",
+    "source": "Kaggle",
+    "link": "https://www.kaggle.com/learn/intro-to-deep-learning"
+  },
+  {
+    "icon": "fa-solid fa-desktop",
+    "name": "Introduction to Deep Learning",
+    "source": "Great Learning",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-deep-learning-1"
+  },
+   {
+    "icon": "fa-solid fa-desktop",
+    "name": "Introduction to Tensorflow and Keras",
+    "source": "Great Learning",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-tensorflow-and-keras"
+  }]
 }
 ]

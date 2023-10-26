@@ -577,6 +577,21 @@ GREAT LEARNING ACADEMY - Learn Database Normalization
 </details>
 
 <details>
+<summary>Deep Learning</summary>
+<br> 
+Kaggle - Intro to Deep Learning
+<br> Website - https://www.kaggle.com/learn/intro-to-deep-learning<br>
+<br>
+GREAT LEARNING ACADEMY - Intro to Deep Learning
+<br> Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-deep-learning-1<br>
+<br>
+GREAT LEARNING ACADEMY - Intro to Tensorflow and Keras
+<br> Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-tensorflow-and-keras<br>
+<br>
+
+</details>
+
+<details>
 <summary>Docker</summary>
 <br>
 GREAT LEARNING ACADEMY- Docker Projects<br>
