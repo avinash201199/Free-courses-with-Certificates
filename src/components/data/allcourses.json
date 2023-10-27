@@ -1284,6 +1284,18 @@
     }
   ]
 },
+
+{
+  "title": "Prompt Engineering",
+  "cards": [{
+      "icon": "fab fa-promptEngineering",
+      "name": "Prompt Engineering for ChatGPT",
+      "source": "Coursera",
+      "link": "https://www.coursera.org/learn/prompt-engineering"
+    }
+  ]
+},
+  
 {
   "title": "Python",
   "cards": [{
