@@ -108,6 +108,12 @@ Data Visualization with D3<br>
 Website - https://www.freecodecamp.org/learn/data-visualization/<br>
 <br>
 </details>
+
+<details>
+<summary>GraphQL</summary>
+<br>
+</details>
+
 <details>
 <summary> Digital Marketing</summary>
 <br>The Fundamentals of Digital Marketing<br>
