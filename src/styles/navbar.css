@@ -28,7 +28,16 @@ nav {
   outline: none;
   border: none;
   border-bottom: 1px solid rgb(212, 212, 212);
-  width: 150px;
+  width: 140px;
+}
+
+@media (max-width: 600px) {
+
+.search-bar{
+  width: 350px;
+  left:30px;
+}
+
 }
 
 .search-bar-placeholder {
@@ -128,6 +137,10 @@ nav {
 
 .deactivate {
   display: none !important;
+}
+
+.navbarset{
+width:100%;
 }
 
 .nav-left-flex {

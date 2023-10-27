@@ -21,14 +21,14 @@ export default function Navbar(props) {
   };
 
   return (
-    <nav className="bg-blue-500">
+    <nav className="bg-blue-500 navbarset">
       <div className="menu-nav-bar">
         <span class="material-symbols-outlined" onClick={props.toggleSideMenu}>
           menu
         </span>
       </div>
       <OutsideAlerter closeSearch={handleClick} >
-        <div className="search-bar flex justify-between bg-white border-2 border-blue-600 pl-10 py-2 pr-2 mr-10 rounded-lg">
+        <div className="search-bar flex justify-between bg-white border-2 border-blue-600 pl-10 py-2 pr-2 mr-20 rounded-lg">
           <input
             type="text"
             className="search-bar-input"
