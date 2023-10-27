@@ -139,6 +139,10 @@ nav {
   display: none !important;
 }
 
+.navbarset{
+width:100%;
+}
+
 .nav-left-flex {
   display: flex;
   justify-content: center;

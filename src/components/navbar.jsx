@@ -21,7 +21,7 @@ export default function Navbar(props) {
   };
 
   return (
-    <nav className="bg-blue-500">
+    <nav className="bg-blue-500 navbarset">
       <div className="menu-nav-bar">
         <span class="material-symbols-outlined" onClick={props.toggleSideMenu}>
           menu
