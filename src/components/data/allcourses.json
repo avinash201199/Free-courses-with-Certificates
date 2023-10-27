@@ -422,12 +422,7 @@
 },
 {
   "title": "GitHub Tutorial",
-  "cards": [{
-      "icon": "fab fa-github-alt",
-      "name": "GitHub Tutorial for Beginners ",
-      "source": "GitHub",
-      "link": "https://github.com/"
-    },
+  "cards": [
     {
       "icon": "fab fa-github-alt",
       "name": "GitHub Tutorial for Beginners ",
