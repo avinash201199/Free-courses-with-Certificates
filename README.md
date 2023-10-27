@@ -955,7 +955,10 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/php <br>
  <br>
  Alison - Basics of Prompt Engineering <br>
  website - https://alison.com/course/basics-of-prompt-engineering <br>
- 
+ <br>
+ Coursera-Prompt Engineering for ChatGPT<br>
+ website-https://www.coursera.org/learn/prompt-engineering<br>
+ <br>
 </details>
 
 <details>
