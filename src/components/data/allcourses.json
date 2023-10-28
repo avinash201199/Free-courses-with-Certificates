@@ -1292,7 +1292,13 @@
       "name": "Prompt Engineering for ChatGPT",
       "source": "Coursera",
       "link": "https://www.coursera.org/learn/prompt-engineering"
-    }
+    },
+     {
+      "icon": "fab fa-promptEngineering",
+      "name": "Basics of Prompt Engineering",
+      "source": "Alison.com",
+      "link": "https://alison.com/course/basics-of-prompt-engineering"
+    }    
   ]
 },
   
