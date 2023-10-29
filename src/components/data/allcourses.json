@@ -81,18 +81,13 @@
             "name": "Database and SQL",
             "source": "Infosys Springboard",
             "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview"
-        }
-    ]
-},
-
-{
-    "cards": [
+        },
         {
-            "icon": "fab fa-SQL",
-            "name": "Introduction to SQL",
-            "source": "SimpliLearn",
-            "link": "https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup"
-        }
+          "icon": "fab fa-SQL",
+          "name": "Introduction to SQL",
+          "source": "SimpliLearn",
+          "link": "https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup"
+      }
     ]
 },
 
