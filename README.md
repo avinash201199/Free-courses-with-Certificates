@@ -108,6 +108,12 @@ Data Visualization with D3<br>
 Website - https://www.freecodecamp.org/learn/data-visualization/<br>
 <br>
 </details>
+
+<details>
+<summary>GraphQL</summary>
+<br>
+</details>
+
 <details>
 <summary> Digital Marketing</summary>
 <br>The Fundamentals of Digital Marketing<br>
@@ -647,9 +653,6 @@ Website-https://www.classcentral.com/classroom/cybrary-ethical-hacking-course-ce
 Introduction to Flutter<br>
 Website-https://www.simplilearn.com/free-flutter-foundation-course-skillup<br>
 <br>
-Flutter - A Beginners Course<br>
-Website-https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944127399116801912_shared/overview<br>
-<br>
 Great Learning-Flutter for Beginners<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/flutter-for-beginners<br>
 <br>
@@ -760,6 +763,9 @@ Website- https://progate.com/courses/java<br>
 
 <details>
 <summary>JavaScript</summary>
+<br>
+Codedamn- Learn JavaScript Basics
+Website- https://codedamn.com/learn/javascript-basics 
 <br>
 Sololearn- JavaScript<br>
 Website- https://www.sololearn.com/learning/1024<br>

@@ -943,6 +943,18 @@
     }
   ]
 },
+
+{
+  "title": "GraphQL",
+  "cards": [{
+      "icon": "fa-solid fa-circle-nodes",
+      "name": "GraphQL",
+      "source": "ApolloGraphQL",
+      "link": "https://www.apollographql.com/tutorials/certifications/apollo-graph-associate"
+    }
+  ]
+},
+  
 {
   "title": "Java",
   "cards": [{
@@ -1025,6 +1037,12 @@
       "name": "Unlocking the power of JavaScript",
       "source": "Scaler",
       "link": "https://www.scaler.com/topics/course/javascript-beginners/"
+    },
+    {
+      "icon": "fab fa-js",
+      "name": "Learn JavaScript Basics",
+      "source": "Codedamn",
+      "link": "https://codedamn.com/learn/javascript-basics"
     }
   ]
 },
@@ -1876,12 +1894,6 @@
       "name": "Introduction to Flutter",
       "source": "Simplilearn",
       "link": "https://www.simplilearn.com/free-flutter-foundation-course-skillup"
-    },
-    {
-      "icon": "fa-brands fa-android",
-      "name": "Flutter - A Beginners Course",
-      "source": "Infosys Springboard",
-      "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944127399116801912_shared/overview"
     },
     {
       "icon": "fa-brands fa-android",
