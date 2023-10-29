@@ -950,6 +950,18 @@
     }
   ]
 },
+
+{
+  "title": "GraphQL",
+  "cards": [{
+      "icon": "fa-solid fa-circle-nodes",
+      "name": "GraphQL",
+      "source": "ApolloGraphQL",
+      "link": "https://www.apollographql.com/tutorials/certifications/apollo-graph-associate"
+    }
+  ]
+},
+  
 {
   "title": "Java",
   "cards": [{
