@@ -72,25 +72,23 @@
     }
   ]
 },
-
-      {
-    "title": "Database and SQL",
-    "cards": [
-        {
-            "icon": "fa-solid fa-database",
-            "name": "Database and SQL",
-            "source": "Infosys Springboard",
-            "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview"
-        },
-        {
-          "icon": "fab fa-SQL",
-          "name": "Introduction to SQL",
-          "source": "SimpliLearn",
-          "link": "https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup"
-      }
-    ]
+{
+  "title": "Database and SQL",
+  "cards": [
+    {
+      "icon": "fa-solid fa-database",
+      "name": "Database and SQL",
+      "source": "Infosys Springboard",
+      "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview"
+    },
+    {
+      "icon": "fa-solid fa-database",
+      "name": "Introduction to SQL",
+      "source": "SimpliLearn",
+      "link": "https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup"
+    }
+  ]
 },
-
 {
   "title": "AWS",
   "cards": [{
@@ -424,12 +422,7 @@
 },
 {
   "title": "GitHub Tutorial",
-  "cards": [{
-      "icon": "fab fa-github-alt",
-      "name": "GitHub Tutorial for Beginners ",
-      "source": "GitHub",
-      "link": "https://github.com/"
-    },
+  "cards": [
     {
       "icon": "fab fa-github-alt",
       "name": "GitHub Tutorial for Beginners ",
