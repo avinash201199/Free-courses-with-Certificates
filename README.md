@@ -558,7 +558,7 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/master-data-
 LEARNBAY- Data Structures and Algorithms for Tech<br>
 Website-https://course.learnbay.co/dsa<br>
 <br>
-Tech Dev Guide by Google - Data Structures and Algorithms in four language (Java,C++,Python and Javascript)<br>
+Tech Dev Guide by Google - Data Structures and Algorithms in four languages (Java, C++,Python, and Javascript)<br>
 https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms<br>
 <br>
 upGrad- Data Structures and Algorithms for Interview Preparation<br>
@@ -581,7 +581,7 @@ Website-https://www.upgrad.com/us/free-courses/<br>
 <details>
 <summary>DataBase Management System</summary>
 <br> 
-GREAT LEARNING ACADEMY - Learn database management system from basics, taught hands-on by experts. Learn key concepts in relational database management system in details along with example.
+GREAT LEARNING ACADEMY - Learn database management systems from basics, taught hands-on by experts. Learn key concepts in relational database management systems in detail along with examples.
 <br> Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/database-management-system<br>
 <br>
 <br> 
@@ -624,7 +624,7 @@ GREAT LEARNING ACADEMY- Docker Best Practices<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-best-practices<br>
 <br>
 <br>
-Devops with Docker - Containers for Beginners <br>
+DevOps with Docker - Containers for Beginners <br>
 Website - https://devopswithdocker.com <br>
 <br>
 <br>
@@ -653,7 +653,7 @@ Website-https://www.classcentral.com/classroom/cybrary-ethical-hacking-course-ce
 Introduction to Flutter<br>
 Website-https://www.simplilearn.com/free-flutter-foundation-course-skillup<br>
 <br>
-Great Learning-Flutter for Beginners<br>
+Great Learning Flutter for Beginners<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/flutter-for-beginners<br>
 <br>
 <br>
@@ -726,7 +726,7 @@ Website-https://exercism.org/tracks/go<br>
 <br> 
 Udemy - A step-by-step iOS development tutorial for aspiring developers with no coding experience.
  
-- This is a course designed for beginners who have never coded in Objective-C or build an iOS app.
+- This is a course designed for beginners who have never coded in Objective-C or built an iOS app.
 - A stepwise guide to building an iPhone or iPad app for Beginners.
 - For access: <br> Website - https://www.udemy.com/course/the-art-of-real-ios-programming/<br>
 <br>
@@ -853,7 +853,7 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/statistics-
 <br>
 ML with Python by free code camp dot org
 <br>
-website : https://www.freecodecamp.org/learn/machine-learning-with-python/
+website: https://www.freecodecamp.org/learn/machine-learning-with-python/
 <br>
 DataTalksClub: ML Zoomcamp<br>
 Website- https://airtable.com/shryxwLd0COOEaqXo<br>
@@ -931,7 +931,7 @@ Website- https://www.udemy.com/course/next-js-react-hooks/?ranMID=39197&ranEAID=
 <details>
 <summary>Operating System</summary>
 <br> 
-GREAT LEARNING ACADEMY - Learn Scheduling Algorithm, Process Management, Deadlocks, Memory management and Secondary Memory Management. <br>
+GREAT LEARNING ACADEMY - Learn Scheduling Algorithms, Process Management, Deadlocks, Memory Management, and Secondary Memory Management. <br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/crash-course-on-operating-system<br>
 <br>
 </details>
@@ -997,7 +997,7 @@ Website https://my.newtonschool.co/<br>
 Cognitive.ai- Python for Data Science<br>
 Website-https://cognitiveclass.ai/courses/python-for-data-science<br>
 <br>
-Udemy- Python OOP : Object Oriented Programming in Python<br>
+Udemy- Python OOP: Object Oriented Programming in Python<br>
 Website-https://www.udemy.com/course/object-oriented-python-programming<br>
 <br>
 Great Learning - Python Fundamentals for Beginners <br>
@@ -1103,7 +1103,7 @@ Website-https://geek-university.com/course/raspberry-pi-free-course/<br>
 Sololearn - React + Redux<br>
 Website-https://www.sololearn.com/learning/1097<br>
 <br>
-Free Code Camp offers certifcations for react:
+Free Code Camp offers certification for react:
 https://www.freecodecamp.org/learn/front-end-development-libraries/#sass
 <br>
 <br>
@@ -1184,7 +1184,7 @@ FreecodeCamp - Relational Database <br>
 website - https://www.freecodecamp.org/learn/relational-database/<br>
 <br>
 <br>
-SimpliLearn - Introduction to SQL <br>
+Simplilearn - Introduction to SQL <br>
 website - https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup<br>
 <br>
 </details>
