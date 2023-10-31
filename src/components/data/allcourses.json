@@ -14,6 +14,12 @@
     },
     {
       "icon": "fab fa-android",
+      "name": "Android App Development",
+      "source": "Freecodecamp",
+      "link": "https://www.freecodecamp.org/news/android-app-development-for-beginners/"
+    },
+    {
+      "icon": "fab fa-android",
       "name": "SQL for Data Science",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science"
