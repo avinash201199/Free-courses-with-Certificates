@@ -165,6 +165,13 @@
     },
     {
       "icon": "fa-solid fa-brain",
+      "name": "Prompt Engineering",
+      "source": "Infosys SpringBoard",
+      "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013719953643773952304_shared/overview"
+    },
+    
+    {
+      "icon": "fa-solid fa-brain",
       "name": "How to Build your own Chatbot using Python?",
       "source": "Great Learning Academy",
       "link": "https://www.greatlearning.in/academy/learn-for-free/courses/how-to-build-your-own-chatbot-using-python"
