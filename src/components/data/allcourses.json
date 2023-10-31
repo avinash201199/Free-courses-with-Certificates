@@ -981,6 +981,14 @@
       "link": "https://www.linkedin.com/learning/learning-java-4/"
     },
     {
+  "title": "Java",
+  "cards": [{
+      "icon": "fab fa-java",
+      "name": "Java",
+      "source": "CodeChief",
+      "link": "https://www.codechef.com/learn/java"
+    },
+    {
       "icon": "fab fa-java",
       "name": "Fork Java",
       "source": "GeeksForGeeks",
