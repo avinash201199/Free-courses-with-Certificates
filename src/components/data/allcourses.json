@@ -1992,6 +1992,17 @@
     "source": "Cisco Networking Academy",
     "link": "https://www.netacad.com/courses/networking/networking-essentials"
   },
+
+    
+  {
+    "icon": "fa-solid fa-globe",
+    "name": "Getting Started with Pentesting",
+    "source": "Infosys SpringBoard",
+    "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944209353932801972_shared/overview"
+  },
+    
+    
+    
   {
     "icon": "fa-solid fa-globe",
     "name": "Basics of Computer Networking",
