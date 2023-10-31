@@ -1627,7 +1627,14 @@
     "name": "Typescript free course",
     "source": "Mind Luster",
     "link": "https://www.mindluster.com/certificate/242"
-  }]
+     },
+    {
+      "icon": "fa-solid fa-t",
+      "name": "Free Typescript Tutorial 2023 Basics Training Course",
+      "source": "Simplilearn",
+      "link": "https://www.simplilearn.com/free-typescript-course-skillup"
+    }
+]
 },
 {
   "title": "UI/UX",

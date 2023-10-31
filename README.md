@@ -1235,6 +1235,9 @@ https://www.coursera.org/learn/analytics-tableau
 Mind Luster TypeScript Course Online For Free tutorial With Certificate<br>
 Website-https://www.mindluster.com/certificate/242<br>
 <br>
+Simplearn Free Typescript Tutorial 2023 Basics Training Course
+Website-https://www.simplilearn.com/free-typescript-course-skillup
+<br>
 </details>
 
 <details>
