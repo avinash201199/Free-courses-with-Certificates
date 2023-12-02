@@ -1,5 +1,32 @@
 <h1 align="center"> Free-courses-with-Certificates</h1>
 
+<p align="center">
+    <p align="center">
+        <a href="https://github.com/avinash201199/Free-courses-with-Certificates/" target="blank">
+            <img src="https://img.shields.io/github/watchers/avinash201199/Free-courses-with-Certificates?style=for-the-badge&logo=appveyor" alt="Watchers"/>
+        </a>
+        <a href="https://github.com/avinash201199/Free-courses-with-Certificates/fork" target="blank">
+            <img src="https://img.shields.io/github/forks/avinash201199/Free-courses-with-Certificates?style=for-the-badge&logo=appveyor" alt="Forks"/>
+        </a>
+        <a href="https://github.com/avinash201199/Free-courses-with-Certificates/stargazers" target="blank">
+            <img src="https://img.shields.io/github/stars/avinash201199/Free-courses-with-Certificates?style=for-the-badge&logo=appveyor" alt="Star"/>
+        </a>
+    </p>
+    <p align="center">
+        <a href="https://github.com/avinash201199/Free-courses-with-Certificates/issues" target="blank">
+            <img src="https://img.shields.io/github/issues/avinash201199/Free-courses-with-Certificates.svg?style=for-the-badge&logo=appveyor" alt="Issue"/>
+        </a>
+        <a href="https://github.com/avinash201199/Free-courses-with-Certificates/pulls" target="blank">
+            <img src="https://img.shields.io/github/issues-pr/avinash201199/Free-courses-with-Certificates.svg?style=for-the-badge&logo=appveyor" alt="Open Pull Request"/>
+        </a>
+    </p>
+    <p align="center">
+        <a href="https://github.com/avinash201199/Free-courses-with-Certificates/blob/master/LICENSE" target="blank">
+            <img src="https://img.shields.io/github/license/avinash201199/Free-courses-with-Certificates?style=for-the-badge&logo=appveyor" alt="License" />
+        </a>
+    </p>
+</p>
+
 ## Check our website: [Website link](https://free-courses-with-certificates.netlify.app/) ✨
 
 In today's highly competitive job market, securing internships or employment opportunities can be an arduous task. However, online courses have emerged as powerful tools to enhance one's resume and skillset. 🌟
@@ -1488,6 +1515,6 @@ Website - https://bitly.ws/XWBm<br>
 <br>
 </details>
 
-### License 
+### License
 
 This project is licensed under the [MIT License](./LICENSE).
