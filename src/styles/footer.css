@@ -146,6 +146,11 @@
     align-items: center;
     justify-content: center;
   }
+
+  .title-nav img {
+    width: 10vmin;
+    object-fit: cover;
+  }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
