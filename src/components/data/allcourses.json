@@ -2101,5 +2101,20 @@
     "source": "Great Learning",
     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-tensorflow-and-keras"
   }]
+},
+{
+  "title": "Generative AI",
+  "cards": [{
+    "icon": "fa-solid fa-brain",
+    "name": "Generative AI for beginners",
+    "source": "Great Learning",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/generative-ai-for-beginners"
+  },
+  {
+    "icon": "fa-solid fa-brain",
+    "name": "Introduction to Generative AI",
+    "source": "Google Cloud",
+    "link": "https://www.cloudskillsboost.google/course_templates/536"
+  }]
 }
 ]
