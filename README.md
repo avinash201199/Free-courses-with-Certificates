@@ -1118,6 +1118,10 @@ Website - https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 React JS Tutorial<br>
 Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial<br>
 <br>
+<br>
+React JS Free Course<br>
+Website - https://www.scaler.com/topics/course/free-react-js-course/<br>
+<br>
 </details>
 
 <details>
@@ -1497,6 +1501,6 @@ Website - https://www.cloudskillsboost.google/course_templates/536<br>
 <br>
 </details>
 
-### License 
+### License
 
 This project is licensed under the [MIT License](./LICENSE).
