@@ -241,7 +241,20 @@
       "name": "Introduction to Artificial Intelligence",
       "source": "Simplilearn",
       "link": "https://www.simplilearn.com/learn-ai-basics-skillup"
+    },
+    {
+      "icon": "fa-solid fa-brain",
+      "name": "Fundamentals of Generative AI",
+      "source": "Microsoft",
+      "link": "https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/"
+    },
+    {
+      "icon": "fa-solid fa-brain",
+      "name": "Fundamental AI Concepts",
+      "source": "Microsoft",
+      "link": "https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/"
     }
+    
   ]
 },
 {
@@ -758,7 +771,16 @@
       "name": "Build a Face Recognition Application using Python ",
       "source": "GUVI",
       "link": "https://www.guvi.in/courses-video/?course=aiforindiaenglishhandson "
+    },
+    {
+      "icon": "fa-solid fa-asterisk",
+      "name": "Fundamentals of machine learning",
+      "source": "Microsoft",
+      "link": "https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/"
     }
+
+    
+    
   ]
 },
 {
@@ -952,8 +974,15 @@
       "name": "GO",
       "source": "exercism",
       "link": "https://exercism.org/tracks/go"
+    },
+    {
+      "icon": "fa-brands fa-golang",
+      "name": "GO:gophercise ",
+      "source": "calhoun.io",
+      "link": "https://courses.calhoun.io/courses/cor_gophercises"
     }
   ]
+
 },
 
 {
@@ -963,8 +992,15 @@
       "name": "GraphQL",
       "source": "ApolloGraphQL",
       "link": "https://www.apollographql.com/tutorials/certifications/apollo-graph-associate"
+    },
+    {
+      "icon": "fa-solid fa-circle-nodes",
+      "name": "GraphQL",
+      "source": "ApolloGraphQL",
+      "link": "  https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS141x+2T2024/home"
     }
   ]
+
 },
   
 {
@@ -1903,7 +1939,13 @@
       "name": "Google Cloud Pro (in Italian)",
       "source": "TIM",
       "link": "https://extra.codemotion.com/google-cloud-pro-corsi/"
-    }
+    },
+      {
+        "icon": "fa-duotone fa-clouds",
+        "name": "Cloud Engineer Learning Path",
+        "source": "Google Cloud Skills Boost",
+        "link": "https://www.cloudskillsboost.google/paths/11"
+      }
   ]
 },
 {
