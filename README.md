@@ -1488,6 +1488,15 @@ Website - https://bitly.ws/XWBm<br>
 <br>
 </details>
 
+<details>
+<summary>Generative AI</summary>
+<br>Generative AI for beginners<br>
+Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/generative-ai-for-beginners<br>
+<br>Introduction to Generative AI<br>
+Website - https://www.cloudskillsboost.google/course_templates/536<br>
+<br>
+</details>
+
 ### License 
 
 This project is licensed under the [MIT License](./LICENSE).
