@@ -1540,6 +1540,12 @@
       "source": "Coursera",
       "link": "https://www.coursera.org/learn/introduction-to-front-end-development/"
 
+    },
+    {
+      "icon": "fab fa-react",
+      "name": "React JS Free Course",
+      "source": "SCALER",
+      "link": "https://www.scaler.com/topics/course/free-react-js-course/"
     }
   ]
 },
