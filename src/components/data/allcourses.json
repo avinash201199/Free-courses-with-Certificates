@@ -1215,6 +1215,12 @@
       "name": "Supervised Machine Learning with Python",
       "source": "Cognitive.ai",
       "link": "https://cognitiveclass.ai/courses/machine-learning-with-python"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Introduction to machine learning",
+      "source": "Microsoft Learn",
+      "link": "https://learn.microsoft.com/en-us/training/modules/introduction-to-machine-learning/"
     }
   ]
 },
