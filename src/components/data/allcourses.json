@@ -1546,6 +1546,12 @@
       "name": "React JS Free Course",
       "source": "SCALER",
       "link": "https://www.scaler.com/topics/course/free-react-js-course/"
+    },
+     {
+      "icon": "fab fa-react",
+      "name": "React Free Course with Certificate",
+      "source": "upGrad",
+      "link": "https://www.knowledgehut.com/free-courses/free-react-course-with-certificate"
     }
   ]
 },
