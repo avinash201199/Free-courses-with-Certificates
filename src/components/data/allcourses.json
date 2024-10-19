@@ -15,8 +15,8 @@
     {
       "icon": "fab fa-android",
       "name": "Android App Development",
-      "source": "Freecodecamp",
-      "link": "https://www.freecodecamp.org/news/android-app-development-for-beginners/"
+      "source": "FreeCodeCamp",
+      "link": "https://www.FreeCodeCamp.org/news/android-app-development-for-beginners/"
     },
     {
       "icon": "fab fa-android",
@@ -61,8 +61,8 @@
   "cards": [{
       "icon": "fab fa-angular",
       "name": "Angular + NestJS",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1092"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1092"
     },
     {
       "icon": "fab fa-angular",
@@ -73,8 +73,8 @@
     {
       "icon": "fab fa-angular",
       "name": "Angular",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learn/courses/angular"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learn/courses/angular"
     }
   ]
 },
@@ -129,12 +129,12 @@
   "cards": [{
       "icon": "fa-solid fa-chart-simple",
       "name": "Data Visualization using Tableau",
-      "source": "Coursera",
+      "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-using-tableau?career_path_id=2"
     },
     {
       "icon": "fa-solid fa-chart-simple",
-      "name": "Data Visualisation",
+      "name": "Data Visualization",
       "source": "Kaggle",
       "link": "https://www.kaggle.com/learn/data-visualization"
     },
@@ -148,7 +148,7 @@
       "icon": "fa-solid fa-chart-simple",
       "name": "Data Visualization with D3",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/data-visualization/"
+      "link": "https://www.FreeCodeCamp.org/learn/data-visualization/"
     }
   ]
 },
@@ -272,7 +272,7 @@
       "icon": "fa-solid fa-terminal",
       "name": "Back End Development and APIs",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/back-end-development-and-apis"
+      "link": "https://www.FreeCodeCamp.org/learn/back-end-development-and-apis"
     },
     {
       "icon": "fa-solid fa-terminal",
@@ -375,7 +375,7 @@
     {
       "icon": "fab fa-hive",
       "name": "This page contains 10 best Blockchain free certification courses",
-      "source": "DIGITALDEFYND",
+      "source": "DIGITAL DEFYND",
       "link": "https://digitaldefynd.com/best-blockchain-courses-training-and-certifications-online/#1_Blockchain_Certification_by_INSEAD_Courser"
     },
     {
@@ -427,8 +427,8 @@
   "cards": [{
       "icon": "fa-solid fa-computer",
       "name": "C",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1089"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1089"
     },
     {
       "icon": "fa-solid fa-computer",
@@ -461,8 +461,8 @@
   "cards": [{
       "icon": "fa-solid fa-code",
       "name": "C++",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1051"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1051"
     },
     {
       "icon": "fa-solid fa-code",
@@ -483,8 +483,8 @@
   "cards": [{
       "icon": "fa-solid fa-c",
       "name": "C#",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1080"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1080"
     },
     {
       "icon": "fa-solid fa-c",
@@ -496,7 +496,7 @@
       "icon": "fa-solid fa-c",
       "name": "Foundational C# with Microsoft",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/"
+      "link": "https://www.FreeCodeCamp.org/learn/foundational-c-sharp-with-microsoft/"
     }
   ]
 },
@@ -600,12 +600,12 @@
       "icon": "far fa-shield-alt",
       "name": "Information Security",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/information-security/"
+      "link": "https://www.FreeCodeCamp.org/learn/information-security/"
     },
     {
       "icon": "far fa-shield-alt",
       "name": "CISCO CyberSecurity",
-      "source": "CISCO SkillforAll",
+      "source": "CISCO Skill for All",
       "link": "https://skillsforall.com/career-path/cybersecurity"
     },
     {
@@ -639,8 +639,8 @@
   "cards": [{
       "icon": "fa-solid fa-asterisk",
       "name": "Data Programming",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learn/courses/data-programming"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learn/courses/data-programming"
     }]
     
 },
@@ -649,14 +649,14 @@
   "cards": [{
       "icon": "fa-solid fa-asterisk",
       "name": "Data Science",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1093"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1093"
     },
     {
       "icon": "fa-solid fa-asterisk",
       "name": "Python Core",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1073"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1073"
     },
     {
       "icon": "fa-solid fa-asterisk",
@@ -853,9 +853,9 @@
     },
     {
       "icon": "fab fa-algolia",
-      "name": "JavaScript Algorithms and Data Structures by freecodecamp",
+      "name": "JavaScript Algorithms and Data Structures by FreeCodeCamp",
       "source": "Class Central",
-      "link": "https://www.classcentral.com/course/freecodecamp-javascript-algorithms-and-data-struc-34060"
+      "link": "https://www.classcentral.com/course/FreeCodeCamp-javascript-algorithms-and-data-struc-34060"
     },
     {
       "icon": "fab fa-algolia",
@@ -960,8 +960,8 @@
   "cards": [{
       "icon": "fa-brands fa-golang",
       "name": "Go",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1164"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1164"
     },
     {
       "icon": "fa-brands fa-golang",
@@ -1008,8 +1008,8 @@
   "cards": [{
       "icon": "fab fa-java",
       "name": "Java",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1068"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1068"
     },
 
     {
@@ -1065,14 +1065,14 @@
   "cards": [{
       "icon": "fab fa-js",
       "name": "JavaScript",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1024"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1024"
     },
     {
       "icon": "fab fa-js",
       "name": "JavaScript",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+      "link": "https://www.FreeCodeCamp.org/learn/javascript-algorithms-and-data-structures/"
     },
     {
       "icon": "fab fa-js",
@@ -1099,8 +1099,8 @@
   "cards": [{
       "icon": "fa-solid fa-j",
       "name": "jQuery",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1082"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1082"
     },
     {
       "icon": "fa-solid fa-j",
@@ -1115,8 +1115,8 @@
   "cards": [{
       "icon": "fa-solid fa-k",
       "name": "Kotlin",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1160"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1160"
     },
     {
       "icon": "fa-solid fa-k",
@@ -1153,8 +1153,8 @@
   "cards": [{
       "icon": "fa-solid fa-desktop",
       "name": "Machine Learning",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1094"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1094"
     },
     {
       "icon": "fa-solid fa-desktop",
@@ -1190,7 +1190,7 @@
       "icon": "fa-solid fa-desktop",
       "name": "ML with python by free code camp dot org ",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/machine-learning-with-python/"
+      "link": "https://www.FreeCodeCamp.org/learn/machine-learning-with-python/"
     },
     {
       "icon": "fa-solid fa-desktop",
@@ -1321,8 +1321,8 @@
   "cards": [{
       "icon": "fab fa-php",
       "name": "PHP",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1059"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1059"
     },
     {
       "icon": "fab fa-php",
@@ -1349,26 +1349,26 @@
   "cards": [{
       "icon": "fab fa-python",
       "name": "Intermediate Python",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1158"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1158"
     },
     {
       "icon": "fab fa-python",
       "name": "Python Core",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1073"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1073"
     },
     {
       "icon": "fab fa-python",
       "name": "Python for Data Science",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1161"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1161"
     },
     {
       "icon": "fab fa-python",
       "name": "Python Data Structures",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1159"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1159"
     },
     {
       "icon": "fab fa-python",
@@ -1525,14 +1525,14 @@
   "cards": [{
       "icon": "fab fa-react",
       "name": "React + Redux",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1097"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1097"
     },
     {
       "icon": "fab fa-react",
-      "name": "FreeCodeCamp offers certifcations for react",
+      "name": "FreeCodeCamp offers certifications for react",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/front-end-development-libraries/#sass"
+      "link": "https://www.FreeCodeCamp.org/learn/front-end-development-libraries/#sass"
     },
     {
       "icon": "fab fa-react",
@@ -1566,8 +1566,8 @@
   "cards": [{
     "icon": "fa-solid fa-gem",
     "name": "Ruby",
-    "source": "Sololearn",
-    "link": "https://www.sololearn.com/learning/1081"
+    "source": "SoloLearn",
+    "link": "https://www.SoloLearn.com/learning/1081"
   }]
 },
 {
@@ -1587,7 +1587,7 @@
     "icon": "fa-solid fa-gem",
     "name": "Scientific Computing with Python",
     "source": "FreeCodeCamp",
-    "link": "https://www.freecodecamp.org/learn/scientific-computing-with-python"
+    "link": "https://www.FreeCodeCamp.org/learn/scientific-computing-with-python"
   }]
 },
 {
@@ -1747,20 +1747,20 @@
   "cards": [{
       "icon": "fa-solid fa-laptop-code",
       "name": "HTML",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1014"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1014"
     },
     {
       "icon": "fa-solid fa-laptop-code",
       "name": "CSS",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1014"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1014"
     },
     {
       "icon": "fa-solid fa-laptop-code",
       "name": "Responsive Web Design",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1162"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1162"
     },
     {
       "icon": "fa-solid fa-laptop-code",
@@ -1812,9 +1812,9 @@
     },
     {
       "icon": "fa-solid fa-laptop-code",
-      "name": "Responsive web design by freeCodeCamp",
+      "name": "Responsive web design by FreeCodeCamp",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/responsive-web-design/"
+      "link": "https://www.FreeCodeCamp.org/learn/responsive-web-design/"
     },
     {
       "icon": "fab fa-angular",
@@ -1824,9 +1824,9 @@
     },
     {
       "icon": "fa-solid fa-laptop-code",
-      "name": "Front end developement libraries : React",
+      "name": "Front end development libraries : React",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/front-end-development-libraries/"
+      "link": "https://www.FreeCodeCamp.org/learn/front-end-development-libraries/"
     },
     {
       "icon": "fa-solid fa-laptop-code",
@@ -1864,7 +1864,7 @@
       "icon": "fa-solid fa-laptop-code",
       "name": "Responsive Web Design",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/2022/responsive-web-design/"
+      "link": "https://www.FreeCodeCamp.org/learn/2022/responsive-web-design/"
     },
     {
       "icon": "fa-solid fa-tv-alt",
@@ -2012,7 +2012,7 @@
     "icon": "fa-solid fa-clipboard-check",
     "name": "Quality Assurance and Testing with Chai",
     "source": "FreeCodeCamp",
-    "link": "https://www.freecodecamp.org/learn/quality-assurance/"
+    "link": "https://www.FreeCodeCamp.org/learn/quality-assurance/"
   }]
 },
 {

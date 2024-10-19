@@ -1446,7 +1446,7 @@ Website-https://www.udemy.com/course/web3-blockchain-smartcontracts-crypto-pract
 </details>
 
 <details>
-<summary>Softwate Testing </summary>
+<summary>Software Testing </summary>
 <br>Quality Assurance and Testing with Chai<br>
 Website- https://www.freecodecamp.org/learn/quality-assurance/<br>
 <br>

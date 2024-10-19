@@ -1,4 +1,4 @@
-## How to contibute in this repository 
+## How to contribute in this repository 
 
 You can contribute in many ways 
 
@@ -27,7 +27,7 @@ You can contribute in many ways
         {
             "icon": "fab fa-angular",
             "name": "Angular + NestJS",
-            "source": "Sololearn",
+            "source": "SoloLearn",
             "link": "https://www.sololearn.com/learning/1092"
         }
     ]
@@ -40,7 +40,7 @@ In case if your course Technology does not exist feel free to add it along with 
     "title": "New Course Title",
     "cards": [
         {
-            "icon": "Get this value from fontawesome.com (Make sure to add classes only)",
+            "icon": "Get this value from font awesome.com (Make sure to add classes only)",
             "name": "New Course",
             "source": "New Course Source",
             "link": "New Course Link"
@@ -49,7 +49,7 @@ In case if your course Technology does not exist feel free to add it along with 
 },
 ```
 
-2. By Desgining the website for this repository so that it can be helpful for more students
+2. By Designing the website for this repository so that it can be helpful for more students
 
  - To design the website you can use HTML, CSS and JavaScript or anything you could suggest better then raise the issue.
 
