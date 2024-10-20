@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 
 function About() {
   return (
+    <div className="bg-blue-600 h-screen">
     <div className="flex justify-center items-center min-h-screen bg-gradient-to-r from-blue-100 to-blue-300">
       <div className="bg-white shadow-xl rounded-lg p-10 max-w-2xl text-center">
         <h1 className="text-5xl font-extrabold text-blue-700 mb-6">About Us</h1>
@@ -51,6 +52,7 @@ function About() {
           </Link>
         </div>
       </div>
+    </div>
     </div>
   );
 }
