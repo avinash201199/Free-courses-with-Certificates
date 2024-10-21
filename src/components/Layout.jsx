@@ -21,9 +21,9 @@ const Layout = (props) => {
     <>
       <TitleTop />
       {/* <Navbar toggleSideMenu={toggleSideMenu} setQuery={setQuery} /> */}
-      {location.pathname !== "/about" && (
+      {/* {location.pathname !== "/about" && ( */}
         <SideMenu active={active} toggleSideMenu={toggleSideMenu} />
-      )}
+      {/* )} */}
       <Outlet />
     </>
   );
