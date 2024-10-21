@@ -3,12 +3,10 @@ import { Link } from "react-router-dom";
 
 function About() {
   return (
-    <div className="flex justify-center items-center min-h-screen bg-gradient-to-r from-blue-500 to-blue-700 margin-left-for-fixed">
-      <div className="text-center">
-        <h1 className="text-6xl font-extrabold text-yellow-300 mb-[100px] hover:text-yellow-500 transition duration-300 top-0">
-          About Us
-        </h1>
-        <p className="text-2xl text-green-300 mb-[100px] transition duration-300 text-center">
+    <div className="flex justify-center items-center min-h-screen bg-gradient-to-r from-blue-100 to-blue-300">
+      <div className="bg-white shadow-xl rounded-lg p-10 max-w-2xl text-center">
+        <h1 className="text-5xl font-extrabold text-blue-700 mb-6">About Us</h1>
+        <p className="text-lg text-gray-800 mb-6">
           Welcome to this project! This initiative was started by{" "}
           <a
             className="bg-clip-text text-transparent bg-gradient-to-r from-gray-400 via-gray-500 to-gray-600 hover:text-blue-800 transition duration-300 text-3xl font-bold"
@@ -45,14 +43,16 @@ function About() {
         <p className="text-2xl text-green-300 transition duration-300 text-center">
           If you have any questions or suggestions, please don't hesitate to
           reach out to{" "}
-          <a
-            href="https://www.linkedin.com/in/avinash-singh-071b79175/"
-            className="text-green-600 text-decoration-none hover:text-green-500"
-          >
-            me
-          </a>
-          . Together, we can make a difference!
+          <a href="https://www.linkedin.com/in/avinash-singh-071b79175/" className="text-fuchsia-600">me</a>.
+          Together, we can make a difference!
         </p>
+        <div className="mt-6">
+          <Link to="/">
+            <button className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-800 transition duration-300">
+              Back to Courses Page
+            </button>
+          </Link>
+        </div>
       </div>
     </div>
   );
