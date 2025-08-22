@@ -778,6 +778,9 @@ Website : https://www.mygreatlearning.com/academy/learn-for-free/courses/javascr
 <br>
 Scaler - JavaScript
 Website: https://www.scaler.com/topics/course/javascript-beginners/ <br>
+ <br>
+Simplilearn - Free JavaScript Course Online with Certificate
+Website: https://www.simplilearn.com/learn-javascript-basics-free-course-skillup/ <br>
 </details>
 
 <details>
