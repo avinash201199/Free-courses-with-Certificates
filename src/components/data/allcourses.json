@@ -1443,9 +1443,9 @@
     },
     {
       "icon": "fas fa-react",
-      "name": "Learn React",
-      "source": "Coursera",
-      "link": "https://www.coursera.org/learn/learn-react"
+      "name": "React JS in Hindi",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-in-hindi"
     }
   ]
 },
@@ -2003,9 +2003,9 @@
   },
   {
     "icon": "fa-solid fa-globe",
-    "name": "Databases and SQL for Data Science with Python",
-    "source": "Coursera",
-    "link": "https://www.coursera.org/learn/sql-data-science"
+    "name": "Databases Normalization",
+    "source": "Great Learning",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/database-normalization"
   }
     
 ]

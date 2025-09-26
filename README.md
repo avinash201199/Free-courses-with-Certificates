@@ -68,16 +68,6 @@ Website-https://www.udemy.com/course/angular-for-beginners-course/<br>
 <br>
 
 <br>
-Coursera - Learn React<br>
-Website-https://www.coursera.org/learn/learn-react<br>
-<br>
-
-<br>
-Coursera - Databases and SQL for Data Science with Python
-Website-https://www.coursera.org/learn/sql-data-science<br>
-<br>
-
-<br>
 Great Learning - React JS in Hindi<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-in-hindi<br>
 <br>
