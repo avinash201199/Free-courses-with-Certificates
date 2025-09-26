@@ -78,6 +78,17 @@ Website-https://www.coursera.org/learn/sql-data-science<br>
 <br>
 
 <br>
+Great Learning - React JS in Hindi<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-in-hindi<br>
+<br>
+
+<br>
+Great Learning - Database Normalization<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/database-normalization<br>
+<br>
+
+
+<br>
 Great Learning - Angular7 for beginners<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/angular7-for-beginners<br>
 <br>
