@@ -61,10 +61,15 @@ Website- https://www.ev.org.br/cursos/desenvolvendo-aplicacoes-mobile-com-androi
 Sololearn - Angular + NestJS<br>
 Website-https://www.sololearn.com/learning/1092<br>
 <br>
- 
+Sololearn - Angular<br>
+Website-https://www.sololearn.com/learn/courses/angular<br>
 <br>
 Udemy - Angular for Beginners Course<br>
 Website-https://www.udemy.com/course/angular-for-beginners-course/<br>
+<br>
+<br>
+Great Learning - SQL for Data Science<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science<br>
 <br>
 
 <br>
@@ -114,6 +119,12 @@ Data Visualization with D3<br>
 Website - https://www.freecodecamp.org/learn/data-visualization/<br>
 <br>
 </details>
+
+<details>
+<summary>GraphQL</summary>
+<br>
+</details>
+
 <details>
 <summary> Digital Marketing</summary>
 <br>The Fundamentals of Digital Marketing<br>
@@ -140,6 +151,12 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/introduct
 Great Learning- Become an Ethical Hacker <br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/become-an-ethical-hacker<br>
 <br>
+Alison- Diploma in Ethical Hacking <br>
+Website-https://alison.com/course/diploma-in-ethical-hacking<br>
+<br> 
+Class Central- Ethical Hacking Course Certification <br>
+Website-https://www.classcentral.com/classroom/cybrary-ethical-hacking-course-certification-80344<br>
+<br> 
 Simplilearn- Introduction to Ethical Hacking <br>
 Website-https://www.simplilearn.com/ethical-hacking-101-free-program-skillup<br>
 <br>
@@ -181,6 +198,9 @@ UDEMY: Introduction to Artificial Intelligence in Software Testing<br>
  <br>
 Python Core<br>
 Website-https://www.sololearn.com/learning/1073 <br>
+<br>
+Simplilearn: Introduction to Artificial Intelligence<br>
+Website-https://www.simplilearn.com/learn-ai-basics-skillup <br>
 
 <br>
 </details>
@@ -210,12 +230,21 @@ Website-https://www.udacity.com/course/intro-to-backend--ud171
 GREAT LEARNING ACADEMY- Introduction to Big Data and Hadoop<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-big-data-and-hadoop<br>
 <br>
+DATA FLAIR - BIG DATA HADOOP COURSE – LEARN HADOOP WITH REAL-TIME PROJECTS <BR>
+Website-https://data-flair.training/courses/free-big-data-hadoop-course/<br>
+<br>
 GREAT LEARNING ACADEMY- Introduction to Apache Hive<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-apache-hive<br>
 <br>
 GREAT LEARNING ACADEMY- Spark Basics<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/spark-basics<br>
 <br>
+ DATA FLAIR - PYSPARK CERTIFICATION COURSE <br>
+ Website-https://data-flair.training/courses/free-pyspark-course/ <br>
+ <br>
+ DATE FLAIR - BIG DATA CERTIFICATION COURSE WITH HADOOP & SPARK <br>
+ Website-https://data-flair.training/courses/free-big-data-hadoop-spark-course/ <br>
+ <br>
  FUTURE LEARN- Big Data Analytics: Opportunities, Challenges, and the Future<br>
  Website-https://www.futurelearn.com/courses/applied-big-data-analytics
 <br>
@@ -425,7 +454,12 @@ Website- https://www.cybrary.it/course/advanced-penetration-testing/<br>
 Linux Foundation- Getting Started with Self-Sovereign Identity<br>
 Website- https://training.linuxfoundation.org/training/getting-started-with-self-sovereign-identity-lfs178x/<br>
 <br>
-
+EC Council Code Red - Ethical Hacking Essentials(EHE) <br>
+Website-https://codered.eccouncil.org/course/ethical-hacking-essentials<br>
+<br>
+EC Council Code Red - Network Defence Essential (NDE) <br>
+Website-https://codered.eccouncil.org/course/network-defense-essentials<br>
+<br>
 </details>
 
 <details>
@@ -433,6 +467,13 @@ Website- https://training.linuxfoundation.org/training/getting-started-with-self
 <br>
 Celigo-(iPaas)
 Official Learning Website - https://www.celigo.com/university/
+<br>
+</details>
+
+<details>
+<summary>Data Programming</summary>
+<br>Sololearn - Data Programming<br>
+https://www.sololearn.com/learn/courses/data-programming<br>
 <br>
 </details>
 
@@ -528,7 +569,7 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/master-data-
 LEARNBAY- Data Structures and Algorithms for Tech<br>
 Website-https://course.learnbay.co/dsa<br>
 <br>
-Tech Dev Guide by Google - Data Structures and Algorithms in four language (Java,C++,Python and Javascript)<br>
+Tech Dev Guide by Google - Data Structures and Algorithms in four languages (Java, C++,Python, and Javascript)<br>
 https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms<br>
 <br>
 upGrad- Data Structures and Algorithms for Interview Preparation<br>
@@ -551,12 +592,35 @@ Website-https://www.upgrad.com/us/free-courses/<br>
 <details>
 <summary>DataBase Management System</summary>
 <br> 
-GREAT LEARNING ACADEMY - Learn database management system from basics, taught hands-on by experts. Learn key concepts in relational database management system in details along with example.
+GREAT LEARNING ACADEMY - Learn database management systems from basics, taught hands-on by experts. Learn key concepts in relational database management systems in detail along with examples.
 <br> Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/database-management-system<br>
 <br>
 <br> 
 Database and SQL
 <br> Website - https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview<br>
+<br>
+
+</details>
+
+<details>
+<summary>Database Normalization</summary>
+<br> 
+GREAT LEARNING ACADEMY - Learn Database Normalization
+<br> Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/database-normalization<br>
+<br>
+</details>
+
+<details>
+<summary>Deep Learning</summary>
+<br> 
+Kaggle - Intro to Deep Learning
+<br> Website - https://www.kaggle.com/learn/intro-to-deep-learning<br>
+<br>
+GREAT LEARNING ACADEMY - Intro to Deep Learning
+<br> Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-deep-learning-1<br>
+<br>
+GREAT LEARNING ACADEMY - Intro to Tensorflow and Keras
+<br> Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-tensorflow-and-keras<br>
 <br>
 
 </details>
@@ -571,7 +635,7 @@ GREAT LEARNING ACADEMY- Docker Best Practices<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-best-practices<br>
 <br>
 <br>
-Devops with Docker - Containers for Beginners <br>
+DevOps with Docker - Containers for Beginners <br>
 Website - https://devopswithdocker.com <br>
 <br>
 <br>
@@ -600,11 +664,12 @@ Website-https://www.classcentral.com/classroom/cybrary-ethical-hacking-course-ce
 Introduction to Flutter<br>
 Website-https://www.simplilearn.com/free-flutter-foundation-course-skillup<br>
 <br>
-Flutter - A Beginners Course<br>
-Website-https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944127399116801912_shared/overview<br>
-<br>
-Great Learning-Flutter for Beginners<br>
+Great Learning Flutter for Beginners<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/flutter-for-beginners<br>
+<br>
+<br>
+Flutter by mindluster<br>
+Website-https://www.mindluster.com/certificate/2128<br>
 <br>
 </details>
 
@@ -672,7 +737,7 @@ Website-https://exercism.org/tracks/go<br>
 <br> 
 Udemy - A step-by-step iOS development tutorial for aspiring developers with no coding experience.
  
-- This is a course designed for beginners who have never coded in Objective-C or build an iOS app.
+- This is a course designed for beginners who have never coded in Objective-C or built an iOS app.
 - A stepwise guide to building an iPhone or iPad app for Beginners.
 - For access: <br> Website - https://www.udemy.com/course/the-art-of-real-ios-programming/<br>
 <br>
@@ -710,15 +775,20 @@ Website- https://progate.com/courses/java<br>
 <details>
 <summary>JavaScript</summary>
 <br>
+Codedamn- Learn JavaScript Basics
+Website- https://codedamn.com/learn/javascript-basics 
+<br>
 Sololearn- JavaScript<br>
 Website- https://www.sololearn.com/learning/1024<br>
 <br>
 Java Script course by free code camp dot org<br>
 Website : https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/<br>
-  <br>
+<br>
 Great Learning - JavaScript
 Website : https://www.mygreatlearning.com/academy/learn-for-free/courses/javascript-in-hindi <br>
 <br>
+Scaler - JavaScript
+Website: https://www.scaler.com/topics/course/javascript-beginners/ <br>
 </details>
 
 <details>
@@ -794,7 +864,7 @@ Website- https://www.greatlearning.in/academy/learn-for-free/courses/statistics-
 <br>
 ML with Python by free code camp dot org
 <br>
-website : https://www.freecodecamp.org/learn/machine-learning-with-python/
+website: https://www.freecodecamp.org/learn/machine-learning-with-python/
 <br>
 DataTalksClub: ML Zoomcamp<br>
 Website- https://airtable.com/shryxwLd0COOEaqXo<br>
@@ -839,6 +909,9 @@ Website- https://geek-university.com/course/mysql-course/<br>
 Great Learning - MySQL Basics<br>
 Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/mysql-basics<br>
 <br>
+Scaler - SQL for Beginners<br>
+Website- https://www.scaler.com/topics/course/sql-using-mysql-course/<br>
+<br>
 </details>
 
 <details>
@@ -869,7 +942,7 @@ Website- https://www.udemy.com/course/next-js-react-hooks/?ranMID=39197&ranEAID=
 <details>
 <summary>Operating System</summary>
 <br> 
-GREAT LEARNING ACADEMY - Learn Scheduling Algorithm, Process Management, Deadlocks, Memory management and Secondary Memory Management. <br>
+GREAT LEARNING ACADEMY - Learn Scheduling Algorithms, Process Management, Deadlocks, Memory Management, and Secondary Memory Management. <br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/crash-course-on-operating-system<br>
 <br>
 </details>
@@ -890,6 +963,15 @@ Website-https://www.simplilearn.com/learn-php-basics-free-course-skillup <br>
 Great Learning - PHP<br>
 Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/php <br>
 <br>
+ 
+</details>
+
+<details>
+ 
+ <summary>Prompt Engineering</summary>
+ <br>
+ Alison - Basics of Prompt Engineering <br>
+ website - https://alison.com/course/basics-of-prompt-engineering <br>
  
 </details>
 
@@ -926,7 +1008,7 @@ Website https://my.newtonschool.co/<br>
 Cognitive.ai- Python for Data Science<br>
 Website-https://cognitiveclass.ai/courses/python-for-data-science<br>
 <br>
-Udemy- Python OOP : Object Oriented Programming in Python<br>
+Udemy- Python OOP: Object Oriented Programming in Python<br>
 Website-https://www.udemy.com/course/object-oriented-python-programming<br>
 <br>
 Great Learning - Python Fundamentals for Beginners <br>
@@ -1013,6 +1095,9 @@ Website-https://training.linuxfoundation.org/training/fundamentals-of-quantum-co
 My Great Learning - Good way to start with IoT if you are new<br>
 Website-https://www.mygreatlearning.com/iot/free-courses/<br>
 <br>
+Simplilearn - Introduction to IoT<br>
+Website-https://www.simplilearn.com/learn-iot-basics-skillup<br>
+<br>
 </details>
 
 <details>
@@ -1029,7 +1114,7 @@ Website-https://geek-university.com/course/raspberry-pi-free-course/<br>
 Sololearn - React + Redux<br>
 Website-https://www.sololearn.com/learning/1097<br>
 <br>
-Free Code Camp offers certifcations for react:
+Free Code Camp offers certification for react:
 https://www.freecodecamp.org/learn/front-end-development-libraries/#sass
 <br>
 <br>
@@ -1043,6 +1128,10 @@ Website - https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 <br>
 React JS Tutorial<br>
 Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial<br>
+<br>
+<br>
+React JS Free Course<br>
+Website - https://www.scaler.com/topics/course/free-react-js-course/<br>
 <br>
 </details>
 
@@ -1109,6 +1198,10 @@ Website - https://www.kaggle.com/learn/intro-to-sql <br>
 FreecodeCamp - Relational Database <br>
 website - https://www.freecodecamp.org/learn/relational-database/<br>
 <br>
+<br>
+Simplilearn - Introduction to SQL <br>
+website - https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup<br>
+<br>
 </details>
 
 <details>
@@ -1157,6 +1250,9 @@ https://www.coursera.org/learn/analytics-tableau
 Mind Luster TypeScript Course Online For Free tutorial With Certificate<br>
 Website-https://www.mindluster.com/certificate/242<br>
 <br>
+Simplearn Free Typescript Tutorial 2023 Basics Training Course
+Website-https://www.simplilearn.com/free-typescript-course-skillup
+<br>
 </details>
 
 <details>
@@ -1176,6 +1272,12 @@ Website-https://www.futurelearn.com/courses/digital-skills-user-experience<br>
  <br>
 UI/UX Design for Beginners<br>
 Website-https://www.udemy.com/course/uxui-design-for-beginners/<br>
+ <br>
+ Great Learning Academy- Intro to Graphic Design with Photoshop<br>
+ Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/intro-to-graphic-design-with-photoshop<br>
+ <br>
+ Alison- Graphic Design<br>
+ Website- https://alison.com/course/graphic-design<br>
  <br>
 </details>
 
@@ -1231,6 +1333,10 @@ Website- https://my.newtonschool.co/course/sgo3yt59mul2/timeline/<br>
 JavaScript-based web development - Full stack open<br>
 Website- https://fullstackopen.com/en/<br>
 <br>
+<br>
+Introduction to Front-End Development by META <br>
+Website- https://www.coursera.org/learn/introduction-to-front-end-development/ <br>
+<br>
 
 </details>
 
@@ -1278,7 +1384,7 @@ Website-https://www.codingninjas.com/codestudio/guided-paths/basics-of-react<br>
 CodeStudio- Basics of Angular<br>
 Website-https://www.codingninjas.com/codestudio/guided-paths/basics-of-angular<br>
 <br>
-Meta FrontEnd- Developer Professional Certificater<br>
+Meta FrontEnd- Developer Professional Certificate<br>
 Website-https://www.coursera.org/professional-certificates/meta-front-end-developer<br>
 <br>
 </details>
@@ -1316,6 +1422,15 @@ Power BI Basics free course takes you through desktop layouts, BI reports, dashb
 </details>
 
 <details>
+<summary>Scala</summary>
+<br>
+Educative - Scala
+<br>Functional Programming Principles in Scala<br>
+Website- hhttps://www.coursera.org/learn/scala-functional-programming?specialization=scala<br>
+<br>
+</details>
+
+<details>
 <summary>Digital Marketing</summary>
 <br>
 Great Learning - Introduction to Digital Marketing<br>
@@ -1342,7 +1457,7 @@ Website-https://www.udemy.com/course/web3-blockchain-smartcontracts-crypto-pract
 </details>
 
 <details>
-<summary>Softwate Testing </summary>
+<summary>Software Testing </summary>
 <br>Quality Assurance and Testing with Chai<br>
 Website- https://www.freecodecamp.org/learn/quality-assurance/<br>
 <br>
@@ -1376,3 +1491,27 @@ Website- https://www.netacad.com/courses/networking/networking-essentials<br>
  Website- https://www.scaler.com/topics/course/free-computer-networks-course/<br>
 <br>
 </details>
+
+<details>
+<summary>Flask</summary>
+<br>Flask Python<br>
+Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/flask-python<br>
+<br>Learn Flask<br>
+Website - https://www.codecademy.com/learn/learn-flask<br>
+<br>Python Flask for Beginners<br>
+Website - https://bitly.ws/XWBm<br>
+<br>
+</details>
+
+<details>
+<summary>Generative AI</summary>
+<br>Generative AI for beginners<br>
+Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/generative-ai-for-beginners<br>
+<br>Introduction to Generative AI<br>
+Website - https://www.cloudskillsboost.google/course_templates/536<br>
+<br>
+</details>
+
+### License 
+
+This project is licensed under the [MIT License](./LICENSE).

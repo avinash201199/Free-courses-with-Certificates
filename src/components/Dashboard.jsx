@@ -1,6 +1,7 @@
 import { Card, Title, BarChart, Subtitle } from "@tremor/react";
 import useDashboard from "../hooks/useDashboard";
 import courseData from "./data/allcourses.json";
+import Footer from "./footer";
 
 const dataFormatter = (number) => {
   return number.toString();
@@ -9,8 +10,9 @@ const dataFormatter = (number) => {
 export default function Dashboard() {
   const dashBoardData = useDashboard(courseData);
   return (
-    <>
-      <Card className="margin-left-for-fixed w-10/12">
+    <div className="flex flex-col items-center justify-center min-h-screen margin-left-for-fixed">
+      <span className="text-4xl font-bold text-orange-400 pt-4">Dashboard</span>
+      <Card className="w-10/12 top-[100px]">
         <Title>Number of courses</Title>
         <Subtitle></Subtitle>
         <BarChart
@@ -24,6 +26,8 @@ export default function Dashboard() {
           showXAxis={false}
         />
       </Card>
-    </>
+      <div className="mt-[300px]"><Footer /></div>
+      
+    </div>
   );
 }

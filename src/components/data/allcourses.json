@@ -8,6 +8,30 @@
     },
     {
       "icon": "fab fa-android",
+      "name": "AWS For Beginners",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1"
+    },
+    {
+      "icon": "fab fa-android",
+      "name": "Android App Development",
+      "source": "FreeCodeCamp",
+      "link": "https://www.FreeCodeCamp.org/news/android-app-development-for-beginners/"
+    },
+    {
+      "icon": "fab fa-android",
+      "name": "SQL for Data Science",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science"
+    },
+    {
+      "icon": "fab fa-android",
+      "name": "Python Tkinter",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-tkinter"
+    },
+    {
+      "icon": "fab fa-android",
       "name": "Become an Android Developer from Scratch",
       "source": "Udemy",
       "link": "https://www.udemy.com/course/become-an-android-developer-from-scratch/"
@@ -37,28 +61,39 @@
   "cards": [{
       "icon": "fab fa-angular",
       "name": "Angular + NestJS",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1092"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1092"
     },
     {
       "icon": "fab fa-angular",
       "name": "Angular for Beginners Course",
       "source": "Udemy",
       "link": "https://www.udemy.com/course/angular-for-beginners-course/"
+    },
+    {
+      "icon": "fab fa-angular",
+      "name": "Angular",
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learn/courses/angular"
     }
   ]
 },
-
-      {
-    "title": "Database and SQL",
-    "cards": [
-        {
-            "icon": "fa-solid fa-database",
-            "name": "Database and SQL",
-            "source": "Infosys Springboard",
-            "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview"
-        }
-    ]
+{
+  "title": "Database and SQL",
+  "cards": [
+    {
+      "icon": "fa-solid fa-database",
+      "name": "Database and SQL",
+      "source": "Infosys Springboard",
+      "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview"
+    },
+    {
+      "icon": "fa-solid fa-database",
+      "name": "Introduction to SQL",
+      "source": "SimpliLearn",
+      "link": "https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup"
+    }
+  ]
 },
 {
   "title": "AWS",
@@ -94,12 +129,12 @@
   "cards": [{
       "icon": "fa-solid fa-chart-simple",
       "name": "Data Visualization using Tableau",
-      "source": "Coursera",
+      "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-using-tableau?career_path_id=2"
     },
     {
       "icon": "fa-solid fa-chart-simple",
-      "name": "Data Visualisation",
+      "name": "Data Visualization",
       "source": "Kaggle",
       "link": "https://www.kaggle.com/learn/data-visualization"
     },
@@ -113,7 +148,7 @@
       "icon": "fa-solid fa-chart-simple",
       "name": "Data Visualization with D3",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/data-visualization/"
+      "link": "https://www.FreeCodeCamp.org/learn/data-visualization/"
     }
   ]
 },
@@ -152,6 +187,12 @@
       "name": "Introduction to Deep Learning",
       "source": "Great Learning Academy",
       "link": "https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-deep-learning"
+    },
+     {
+      "icon": "fa-solid fa-brain",
+      "name": "Prompt Engineering",
+      "source": "Infosys SpringBoard",
+      "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013719953643773952304_shared/overview"
     },
     {
       "icon": "fa-solid fa-brain",
@@ -194,7 +235,26 @@
       "name": "Introduction to Artificial Intelligence in Software Testing",
       "source": "Udemy",
       "link": "https://www.udemy.com/course/introduction-to-artificial-intelligence-in-software-testing"
+    },
+    {
+      "icon": "fa-solid fa-brain",
+      "name": "Introduction to Artificial Intelligence",
+      "source": "Simplilearn",
+      "link": "https://www.simplilearn.com/learn-ai-basics-skillup"
+    },
+    {
+      "icon": "fa-solid fa-brain",
+      "name": "Fundamentals of Generative AI",
+      "source": "Microsoft",
+      "link": "https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/"
+    },
+    {
+      "icon": "fa-solid fa-brain",
+      "name": "Fundamental AI Concepts",
+      "source": "Microsoft",
+      "link": "https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/"
     }
+    
   ]
 },
 {
@@ -212,7 +272,7 @@
       "icon": "fa-solid fa-terminal",
       "name": "Back End Development and APIs",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/back-end-development-and-apis"
+      "link": "https://www.FreeCodeCamp.org/learn/back-end-development-and-apis"
     },
     {
       "icon": "fa-solid fa-terminal",
@@ -232,6 +292,12 @@
     },
     {
       "icon": "fa-solid fa-database",
+      "name": "Big Data Hadoop",
+      "source": "Data Flair",
+      "link": "https://data-flair.training/courses/free-big-data-hadoop-course/"
+    },
+    {
+      "icon": "fa-solid fa-database",
       "name": "Introduction to Apache Hive",
       "source": "Great Learning Academy",
       "link": "https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-apache-hive"
@@ -241,6 +307,18 @@
       "name": "Spark Basics",
       "source": "Great Learning Academy",
       "link": "https://www.greatlearning.in/academy/learn-for-free/courses/spark-basics"
+    },
+    {
+      "icon": "fa-solid fa-database",
+      "name": "PySpark Certification Course",
+      "source": "Data Flair",
+      "link": "https://data-flair.training/courses/free-pyspark-course/"
+    },
+    {
+      "icon": "fa-solid fa-database",
+      "name": "Big Data Certification course with Hadoop & Spark",
+      "source": "Data Flair",
+      "link": "https://data-flair.training/courses/free-big-data-hadoop-spark-course/"
     },
     {
       "icon": "fa-solid fa-database",
@@ -264,22 +342,6 @@
     "source": "Google Analytics",
     "link": "https://analytics.google.com/analytics/academy/course/6"
   }]
-},
-{
-  "title": "Amazon Web Services (AWS)",
-  "cards": [{
-      "icon": "fab fa-aws",
-      "name": "Amazon Web Services (AWS)",
-      "source": "AWS Skillbuilder",
-      "link": "https://explore.skillbuilder.aws/learn"
-    },
-    {
-      "icon": "fab fa-aws",
-      "name": "AWS Cloud Quest",
-      "source": "AWS Skillbuilder",
-      "link": "https://aws.amazon.com/training/digital/aws-cloud-quest"
-    }
-  ]
 },
 {
   "title": "Programming Fundamentals",
@@ -313,7 +375,7 @@
     {
       "icon": "fab fa-hive",
       "name": "This page contains 10 best Blockchain free certification courses",
-      "source": "DIGITALDEFYND",
+      "source": "DIGITAL DEFYND",
       "link": "https://digitaldefynd.com/best-blockchain-courses-training-and-certifications-online/#1_Blockchain_Certification_by_INSEAD_Courser"
     },
     {
@@ -365,8 +427,8 @@
   "cards": [{
       "icon": "fa-solid fa-computer",
       "name": "C",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1089"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1089"
     },
     {
       "icon": "fa-solid fa-computer",
@@ -385,12 +447,7 @@
 },
 {
   "title": "GitHub Tutorial",
-  "cards": [{
-      "icon": "fab fa-github-alt",
-      "name": "GitHub Tutorial for Beginners ",
-      "source": "GitHub",
-      "link": "https://github.com/"
-    },
+  "cards": [
     {
       "icon": "fab fa-github-alt",
       "name": "GitHub Tutorial for Beginners ",
@@ -404,8 +461,8 @@
   "cards": [{
       "icon": "fa-solid fa-code",
       "name": "C++",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1051"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1051"
     },
     {
       "icon": "fa-solid fa-code",
@@ -426,8 +483,8 @@
   "cards": [{
       "icon": "fa-solid fa-c",
       "name": "C#",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1080"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1080"
     },
     {
       "icon": "fa-solid fa-c",
@@ -439,7 +496,7 @@
       "icon": "fa-solid fa-c",
       "name": "Foundational C# with Microsoft",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/"
+      "link": "https://www.FreeCodeCamp.org/learn/foundational-c-sharp-with-microsoft/"
     }
   ]
 },
@@ -543,12 +600,12 @@
       "icon": "far fa-shield-alt",
       "name": "Information Security",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/information-security/"
+      "link": "https://www.FreeCodeCamp.org/learn/information-security/"
     },
     {
       "icon": "far fa-shield-alt",
       "name": "CISCO CyberSecurity",
-      "source": "CISCO SkillforAll",
+      "source": "CISCO Skill for All",
       "link": "https://skillsforall.com/career-path/cybersecurity"
     },
     {
@@ -562,22 +619,44 @@
       "name": "Getting Started with Self-Sovereign Identity",
       "source": "Linux Foundation",
       "link": "https://training.linuxfoundation.org/training/getting-started-with-self-sovereign-identity-lfs178x/"
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "name": "EC Council Code Red - Ethical Hacking Essential (EHE)",
+      "source": "EC Council",
+      "link": "https://codered.eccouncil.org/course/ethical-hacking-essentials"
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "name": "EC Council Code Red - Network Defense Essential (NDE)",
+      "source": "EC Council",
+      "link": "https://codered.eccouncil.org/course/network-defense-essentials"
     }
   ]
+},
+{
+  "title": "Data Programming",
+  "cards": [{
+      "icon": "fa-solid fa-asterisk",
+      "name": "Data Programming",
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learn/courses/data-programming"
+    }]
+    
 },
 {
   "title": "Data Science",
   "cards": [{
       "icon": "fa-solid fa-asterisk",
       "name": "Data Science",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1093"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1093"
     },
     {
       "icon": "fa-solid fa-asterisk",
       "name": "Python Core",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1073"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1073"
     },
     {
       "icon": "fa-solid fa-asterisk",
@@ -692,7 +771,16 @@
       "name": "Build a Face Recognition Application using Python ",
       "source": "GUVI",
       "link": "https://www.guvi.in/courses-video/?course=aiforindiaenglishhandson "
+    },
+    {
+      "icon": "fa-solid fa-asterisk",
+      "name": "Fundamentals of machine learning",
+      "source": "Microsoft",
+      "link": "https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/"
     }
+
+    
+    
   ]
 },
 {
@@ -711,6 +799,12 @@
     "name": "Good way to start with IoT if you are new",
     "source": "My Great Learning",
     "link": "https://www.mygreatlearning.com/iot/free-courses"
+  },
+  {
+    "icon": "fa-solid fa-d",
+    "name": "Introduction to IoT",
+    "source": "Simplilearn",
+    "link": "https://www.simplilearn.com/learn-iot-basics-skillup"
   }]
 },
 {
@@ -759,9 +853,9 @@
     },
     {
       "icon": "fab fa-algolia",
-      "name": "JavaScript Algorithms and Data Structures by freecodecamp",
+      "name": "JavaScript Algorithms and Data Structures by FreeCodeCamp",
       "source": "Class Central",
-      "link": "https://www.classcentral.com/course/freecodecamp-javascript-algorithms-and-data-struc-34060"
+      "link": "https://www.classcentral.com/course/FreeCodeCamp-javascript-algorithms-and-data-struc-34060"
     },
     {
       "icon": "fab fa-algolia",
@@ -771,14 +865,13 @@
     }
   ]
 },
-
 {
-  "title": "Database Management System",
+  "title": "Database Normalization",
   "cards": [{
       "icon": "fa-solid fa-cloud-arrow-down",
-      "name": "Full Database management course",
+      "name": "Database Normalization",
       "source": "GREAT LEARNING ACADEMY",
-      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/database-management-system"
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/database-normalization"
     }
   ]
 },  
@@ -820,34 +913,6 @@
   }]
 },
 {
-  "title": "Docker and Kubernetes",
-  "cards": [{
-      "icon": "fab fa-docker",
-      "name": "Docker and Kubernetes",
-      "source": "Freecodecamp",
-      "link": "https://www.freecodecamp.org/news/learn-docker-and-kubernetes-hands-on-course/"
-    },
-    {
-      "icon": "fab fa-docker",
-      "name": "Introduction to Kubernetes",
-      "source": "Great learning",
-      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-kubernetes1"
-    },
-    {
-      "icon": "fab fa-docker",
-      "name": "Docker for Intermediate Level",
-      "source": "Great learning",
-      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/docker-for-intermediate-level"
-    },
-    {
-      "icon": "fab fa-docker",
-      "name": "Getting Started with Kubernetes",
-      "source": "KubeAcademy",
-      "link": "https://kube.academy/courses/getting-started"
-    }
-  ]
-},
-{
   "title": "Ethical Hacking",
   "cards": [{
       "icon": "fa-solid fa-user-secret",
@@ -882,22 +947,6 @@
   ]
 },
 {
-  "title": "GitHub",
-  "cards": [{
-      "icon": "fab fa-github-alt",
-      "name": "GitHub Skills",
-      "source": "GitHub",
-      "link": "https://skills.github.com/"
-    },
-    {
-      "icon": "fab fa-github-alt",
-      "name": "GitHub Tutorial for Beginners",
-      "source": "Great Learning Academy",
-      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/github-tutorial-for-beginners"
-    }
-  ]
-},
-{
   "title": "GitOps",
   "cards": [{
     "icon": "fa-brands fa-git-alt",
@@ -911,8 +960,8 @@
   "cards": [{
       "icon": "fa-brands fa-golang",
       "name": "Go",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1164"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1164"
     },
     {
       "icon": "fa-brands fa-golang",
@@ -925,16 +974,42 @@
       "name": "GO",
       "source": "exercism",
       "link": "https://exercism.org/tracks/go"
+    },
+    {
+      "icon": "fa-brands fa-golang",
+      "name": "GO:gophercise ",
+      "source": "calhoun.io",
+      "link": "https://courses.calhoun.io/courses/cor_gophercises"
     }
   ]
+
 },
+
+{
+  "title": "GraphQL",
+  "cards": [{
+      "icon": "fa-solid fa-circle-nodes",
+      "name": "GraphQL",
+      "source": "ApolloGraphQL",
+      "link": "https://www.apollographql.com/tutorials/certifications/apollo-graph-associate"
+    },
+    {
+      "icon": "fa-solid fa-circle-nodes",
+      "name": "GraphQL",
+      "source": "ApolloGraphQL",
+      "link": "  https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS141x+2T2024/home"
+    }
+  ]
+
+},
+  
 {
   "title": "Java",
   "cards": [{
       "icon": "fab fa-java",
       "name": "Java",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1068"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1068"
     },
 
     {
@@ -990,20 +1065,32 @@
   "cards": [{
       "icon": "fab fa-js",
       "name": "JavaScript",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1024"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1024"
     },
     {
       "icon": "fab fa-js",
       "name": "JavaScript",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+      "link": "https://www.FreeCodeCamp.org/learn/javascript-algorithms-and-data-structures/"
     },
     {
       "icon": "fab fa-js",
       "name": "JavaScript",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/javascript-in-hindi"
+    },
+    {
+      "icon": "fab fa-js",
+      "name": "Unlocking the power of JavaScript",
+      "source": "Scaler",
+      "link": "https://www.scaler.com/topics/course/javascript-beginners/"
+    },
+    {
+      "icon": "fab fa-js",
+      "name": "Learn JavaScript Basics",
+      "source": "Codedamn",
+      "link": "https://codedamn.com/learn/javascript-basics"
     }
   ]
 },
@@ -1012,8 +1099,8 @@
   "cards": [{
       "icon": "fa-solid fa-j",
       "name": "jQuery",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1082"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1082"
     },
     {
       "icon": "fa-solid fa-j",
@@ -1028,8 +1115,8 @@
   "cards": [{
       "icon": "fa-solid fa-k",
       "name": "Kotlin",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1160"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1160"
     },
     {
       "icon": "fa-solid fa-k",
@@ -1066,8 +1153,8 @@
   "cards": [{
       "icon": "fa-solid fa-desktop",
       "name": "Machine Learning",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1094"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1094"
     },
     {
       "icon": "fa-solid fa-desktop",
@@ -1103,7 +1190,7 @@
       "icon": "fa-solid fa-desktop",
       "name": "ML with python by free code camp dot org ",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/machine-learning-with-python/"
+      "link": "https://www.FreeCodeCamp.org/learn/machine-learning-with-python/"
     },
     {
       "icon": "fa-solid fa-desktop",
@@ -1128,6 +1215,12 @@
       "name": "Supervised Machine Learning with Python",
       "source": "Cognitive.ai",
       "link": "https://cognitiveclass.ai/courses/machine-learning-with-python"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Introduction to machine learning",
+      "source": "Microsoft Learn",
+      "link": "https://learn.microsoft.com/en-us/training/modules/introduction-to-machine-learning/"
     }
   ]
 },
@@ -1166,6 +1259,12 @@
       "name": "MySQL Basics",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/mysql-basics"
+    },
+    {
+      "icon": "fas fa-table",
+      "name": "SQL for Beginners",
+      "source": "Scaler",
+      "link": "https://www.scaler.com/topics/course/sql-using-mysql-course/"
     }
   ]
 },
@@ -1222,8 +1321,8 @@
   "cards": [{
       "icon": "fab fa-php",
       "name": "PHP",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1059"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1059"
     },
     {
       "icon": "fab fa-php",
@@ -1250,26 +1349,26 @@
   "cards": [{
       "icon": "fab fa-python",
       "name": "Intermediate Python",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1158"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1158"
     },
     {
       "icon": "fab fa-python",
       "name": "Python Core",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1073"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1073"
     },
     {
       "icon": "fab fa-python",
       "name": "Python for Data Science",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1161"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1161"
     },
     {
       "icon": "fab fa-python",
       "name": "Python Data Structures",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1159"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1159"
     },
     {
       "icon": "fab fa-python",
@@ -1426,14 +1525,14 @@
   "cards": [{
       "icon": "fab fa-react",
       "name": "React + Redux",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1097"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1097"
     },
     {
       "icon": "fab fa-react",
-      "name": "FreeCodeCamp offers certifcations for react",
+      "name": "FreeCodeCamp offers certifications for react",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/front-end-development-libraries/#sass"
+      "link": "https://www.FreeCodeCamp.org/learn/front-end-development-libraries/#sass"
     },
     {
       "icon": "fab fa-react",
@@ -1442,10 +1541,29 @@
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial"
     },
     {
+      "icon": "fab fa-react",
+      "name": "Introduction to Front-End Development by META",
+      "source": "Coursera",
+      "link": "https://www.coursera.org/learn/introduction-to-front-end-development/"
+
+    },
+    {
       "icon": "fas fa-react",
       "name": "React JS in Hindi",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-in-hindi"
+    },
+    {
+      "icon": "fab fa-react",
+      "name": "React JS Free Course",
+      "source": "SCALER",
+      "link": "https://www.scaler.com/topics/course/free-react-js-course/"
+    },
+     {
+      "icon": "fab fa-react",
+      "name": "React Free Course with Certificate",
+      "source": "upGrad",
+      "link": "https://www.knowledgehut.com/free-courses/free-react-course-with-certificate"
     }
   ]
 },
@@ -1454,9 +1572,20 @@
   "cards": [{
     "icon": "fa-solid fa-gem",
     "name": "Ruby",
-    "source": "Sololearn",
-    "link": "https://www.sololearn.com/learning/1081"
+    "source": "SoloLearn",
+    "link": "https://www.SoloLearn.com/learning/1081"
   }]
+},
+{
+  "title": "Scala",
+  "cards": [
+      {
+          "icon": "fa-solid fa-layer-group",
+          "name": "Functional Programming Principles in Scala",
+          "source": "Udemy",
+          "link": "https://www.coursera.org/learn/scala-functional-programming?specialization=scala"
+      }
+  ]
 },
 {
   "title": "Scientific Computing",
@@ -1464,7 +1593,7 @@
     "icon": "fa-solid fa-gem",
     "name": "Scientific Computing with Python",
     "source": "FreeCodeCamp",
-    "link": "https://www.freecodecamp.org/learn/scientific-computing-with-python"
+    "link": "https://www.FreeCodeCamp.org/learn/scientific-computing-with-python"
   }]
 },
 {
@@ -1474,34 +1603,6 @@
       "name": "Selenium and JUnit certifications from Lambdatest",
       "source": "LamndaTest",
       "link": "https://www.lambdatest.com/certifications/"
-    }
-  ]
-},
-{
-  "title": "SQL",
-  "cards": [{
-      "icon": "fa-solid fa-table-cells",
-      "name": "SQL",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1060"
-    },
-    {
-      "icon": "fa-solid fa-table-cells",
-      "name": "SQL and Relational Databases 101",
-      "source": "cognitiveclass.ai",
-      "link": "https://courses.cognitiveclass.ai/courses/course-v1:BDU+DB0101EN+v1/course/"
-    },
-    {
-      "icon": "fa-solid fa-table-cells",
-      "name": "SQL - Intro to SQL",
-      "source": "Kaggle",
-      "link": "https://www.kaggle.com/learn/intro-to-sql"
-    },
-    {
-      "icon": "fa-solid fa-table-cells",
-      "name": "Relational Database",
-      "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/relational-database/"
     }
   ]
 },
@@ -1569,13 +1670,43 @@
   ]
 },
 {
+    "title": "Flask",
+    "cards": [
+        {
+            "icon": "fa-solid fa-flask",
+            "name": "Flask Python",
+            "source": "My Great Learning",
+            "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/flask-python"
+        },
+        {
+            "icon": "fa-solid fa-flask",
+            "name": "Learn Flask",
+            "source": "Code Academy",
+            "link": "https://www.codecademy.com/learn/learn-flask"
+        },
+        {
+            "icon": "fa-solid fa-flask",
+            "name": "Python Flask for beginners",
+            "source": "Udemy",
+            "link": "https://bitly.ws/XWBm"
+        }
+    ]
+},
+{
   "title": "Typescript",
   "cards": [{
     "icon": "fa-solid fa-t",
     "name": "Typescript free course",
     "source": "Mind Luster",
     "link": "https://www.mindluster.com/certificate/242"
-  }]
+     },
+    {
+      "icon": "fa-solid fa-t",
+      "name": "Free Typescript Tutorial 2023 Basics Training Course",
+      "source": "Simplilearn",
+      "link": "https://www.simplilearn.com/free-typescript-course-skillup"
+    }
+]
 },
 {
   "title": "UI/UX",
@@ -1602,6 +1733,18 @@
       "name": "User Experience",
       "source": "Future Learn-Digital Skills",
       "link": "https://www.futurelearn.com/courses/digital-skills-user-experience"
+    },
+    {
+      "icon": "fa-solid fa-pencil-ruler",
+      "name": "Intro to Graphic Design with Photoshop",
+      "source": "Great Learning Academy",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/intro-to-graphic-design-with-photoshop"
+    },
+    {
+      "icon": "fa-solid fa-pencil-ruler",
+      "name": "Graphic Design",
+      "source": "Alison",
+      "link": "https://alison.com/course/graphic-design"
     }
   ]
 },
@@ -1610,20 +1753,20 @@
   "cards": [{
       "icon": "fa-solid fa-laptop-code",
       "name": "HTML",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1014"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1014"
     },
     {
       "icon": "fa-solid fa-laptop-code",
       "name": "CSS",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1014"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1014"
     },
     {
       "icon": "fa-solid fa-laptop-code",
       "name": "Responsive Web Design",
-      "source": "Sololearn",
-      "link": "https://www.sololearn.com/learning/1162"
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1162"
     },
     {
       "icon": "fa-solid fa-laptop-code",
@@ -1675,9 +1818,9 @@
     },
     {
       "icon": "fa-solid fa-laptop-code",
-      "name": "Responsive web design by freeCodeCamp",
+      "name": "Responsive web design by FreeCodeCamp",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/responsive-web-design/"
+      "link": "https://www.FreeCodeCamp.org/learn/responsive-web-design/"
     },
     {
       "icon": "fab fa-angular",
@@ -1687,9 +1830,9 @@
     },
     {
       "icon": "fa-solid fa-laptop-code",
-      "name": "Front end developement libraries : React",
+      "name": "Front end development libraries : React",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/front-end-development-libraries/"
+      "link": "https://www.FreeCodeCamp.org/learn/front-end-development-libraries/"
     },
     {
       "icon": "fa-solid fa-laptop-code",
@@ -1727,7 +1870,7 @@
       "icon": "fa-solid fa-laptop-code",
       "name": "Responsive Web Design",
       "source": "FreeCodeCamp",
-      "link": "https://www.freecodecamp.org/learn/2022/responsive-web-design/"
+      "link": "https://www.FreeCodeCamp.org/learn/2022/responsive-web-design/"
     },
     {
       "icon": "fa-solid fa-tv-alt",
@@ -1750,15 +1893,6 @@
   ]
 },
 {
-  "title": "CYBER-Security",
-  "cards": [{
-    "icon": "fa-solid fa-shield-alt",
-    "name": "Cyber Security",
-    "source": "INDIAN INSITUTE OF REMOTE SENSING",
-    "link": "https://elearning.iirs.gov.in/edusatregistration/student"
-  }]
-},
-{
   "title": "Jenkins",
   "cards": [{
     "icon": "fa-brands fa-jenkins",
@@ -1773,34 +1907,6 @@
     "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/jenkins-tutorial"
   }
 ]
-},
-{
-  "title": "Digital marketing",
-  "cards": [{
-      "icon": "fa-solid fa-database",
-      "name": "Introduction to Digital Marketing",
-      "source": "My greatlearning",
-      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-digital-marketing"
-    },
-    {
-      "icon": "fa-solid fa-database",
-      "name": "Statistics for Machine Learning",
-      "source": "Great Learning Academy",
-      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/statistics-for-machine-learning"
-    },
-    {
-      "icon": "fab fa-digital marketing",
-      "name": "Business Intelligence Fundamentals",
-      "source": "simplilearn",
-      "link": "https://www.simplilearn.com/free-business-intelligence-course-online-skillup"
-    },
-    {
-      "icon": "fa-solid fa-magnifying-glass-chart",
-      "name": "Geospatial Analysis",
-      "source": "Kaggle",
-      "link": "https://www.kaggle.com/learn/geospatial-analysis"
-    }
-  ]
 },
 {
   "title": "Google Cloud Provider",
@@ -1857,7 +1963,13 @@
       "name": "Google Cloud Pro (in Italian)",
       "source": "TIM",
       "link": "https://extra.codemotion.com/google-cloud-pro-corsi/"
-    }
+    },
+      {
+        "icon": "fa-duotone fa-clouds",
+        "name": "Cloud Engineer Learning Path",
+        "source": "Google Cloud Skills Boost",
+        "link": "https://www.cloudskillsboost.google/paths/11"
+      }
   ]
 },
 {
@@ -1870,28 +1982,17 @@
     },
     {
       "icon": "fa-brands fa-android",
-      "name": "Flutter - A Beginners Course",
-      "source": "Infosys Springboard",
-      "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944127399116801912_shared/overview"
-    },
-    {
-      "icon": "fa-brands fa-android",
       "name": "Flutter for Beginners",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/flutter-for-beginners"
+    } ,
+    {
+      "icon": "fa-brands fa-android",
+      "name": "Flutter by Mindluster",
+      "source": "Mindluster",
+      "link": "https://www.mindluster.com/certificate/2128"
     } 
   ]
-},
-  {
-    "title": "Git",
-    "cards": [
-        {
-            "icon": "fa-brands fa-git",
-            "name": "Git Tutorial",
-            "source": "Great Learning",
-            "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/git-tutorial"
-        }
-    ]
 },
 {
   "title": "Integration Platform",
@@ -1917,7 +2018,7 @@
     "icon": "fa-solid fa-clipboard-check",
     "name": "Quality Assurance and Testing with Chai",
     "source": "FreeCodeCamp",
-    "link": "https://www.freecodecamp.org/learn/quality-assurance/"
+    "link": "https://www.FreeCodeCamp.org/learn/quality-assurance/"
   }]
 },
 {
@@ -2009,5 +2110,41 @@
   }
     
 ]
+},
+{
+  "title": "Deep Learning",
+  "cards": [{
+    "icon": "fa-solid fa-desktop",
+    "name": "Introduction to Deep Learning",
+    "source": "Kaggle",
+    "link": "https://www.kaggle.com/learn/intro-to-deep-learning"
+  },
+  {
+    "icon": "fa-solid fa-desktop",
+    "name": "Introduction to Deep Learning",
+    "source": "Great Learning",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-deep-learning-1"
+  },
+   {
+    "icon": "fa-solid fa-desktop",
+    "name": "Introduction to Tensorflow and Keras",
+    "source": "Great Learning",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-tensorflow-and-keras"
+  }]
+},
+{
+  "title": "Generative AI",
+  "cards": [{
+    "icon": "fa-solid fa-brain",
+    "name": "Generative AI for beginners",
+    "source": "Great Learning",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/generative-ai-for-beginners"
+  },
+  {
+    "icon": "fa-solid fa-brain",
+    "name": "Introduction to Generative AI",
+    "source": "Google Cloud",
+    "link": "https://www.cloudskillsboost.google/course_templates/536"
+  }]
 }
 ]

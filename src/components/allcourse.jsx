@@ -2,8 +2,9 @@ import React from "react";
 import Collapsible from "react-collapsible";
 import courses from "../components/data/allcourses.json";
 import "../styles/allcourse.css";
+import Footer from "./footer";
 
-const Data = courses.map((data,key) => {
+const Data = courses.map((data, key) => {
   return (
     <Collapsible
       key={key}
@@ -11,9 +12,13 @@ const Data = courses.map((data,key) => {
       className="collapse-main"
       transitionTime="100"
     >
-      {data.cards.map((card,key) => {
+      {data.cards.map((card, key) => {
         return (
-          <div  key={key} className="col-lg-4 featured-card" style={{ width: "100%" }}>
+          <div
+            key={key}
+            className="col-lg-4 featured-card"
+            style={{ width: "100%" }}
+          >
             <div className="card-icon-title">
               <div className="card-icon">
                 <i className={card.icon}></i>
@@ -37,12 +42,15 @@ const Data = courses.map((data,key) => {
 
 export default function allcourse() {
   return (
-    <div className="allcourse">
-      <div className="featured-title">All Courses</div>
-      <div className="maxwidthcards">
-        {Data}
-        <br />
+    <div>
+      <div className="allcourse">
+        <div className="featured-title">All Courses</div>
+        <div className="maxwidthcards">
+          {Data}
+          <br />
+        </div>
       </div>
+      <Footer />
     </div>
   );
 }
