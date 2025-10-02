@@ -9,9 +9,9 @@ Website - https://www.geeksforgeeks.org/batch/skill-up-ai-tools<br>
 
 ## Check our website: [Website link](https://free-courses-with-certificates.netlify.app/) ✨
 
-In today's highly competitive job market, securing internships or employment opportunities can be an arduous task. However, online courses have emerged as powerful tools to enhance one's resume and skillset. 🌟
+In today's highly competitive job market, securing internships or employment opportunities can be an arduous task. However, online courses have emerged as powerful tools to enhance one's resume and skillset. 
 
-Unpaid online courses are an invaluable resource, as they are accessible to individuals from all walks of life, facilitating continuous learning and the refinement of both new and existing skills. In the contemporary landscape, possessing solely academic knowledge may not suffice; one must demonstrate a commitment to personal growth through hands-on experiences. 🚀
+Unpaid online courses are an invaluable resource, as they are accessible to individuals from all walks of life, facilitating continuous learning and the refinement of both new and existing skills. In the contemporary landscape, possessing solely academic knowledge may not suffice; one must demonstrate a commitment to personal growth through hands-on experiences. 
 
 Engaging in professional development activities, such as specialized training and online courses, can open doors to a plethora of opportunities. These activities are a testament to one's dedication to self-improvement and their pursuit of excellence in their chosen field. 📚
 
@@ -984,6 +984,10 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/php <br>
  <br>
  Alison - Basics of Prompt Engineering <br>
  website - https://alison.com/course/basics-of-prompt-engineering <br>
+
+ <br>
+ Prompt Engineering for Everyone <br>
+ website - https://cognitiveclass.ai/courses/prompt-engineering-for-everyone <br>
  
 </details>
 
@@ -1536,3 +1540,5 @@ Website - https://www.simplilearn.com/free-generative-ai-course-skillup<br>
 ### License 
 
 This project is licensed under the [MIT License](./LICENSE).
+
+Join the Telegram channel for more resources : [Telegram](https://t.me/offcampusjobsupdatess)
