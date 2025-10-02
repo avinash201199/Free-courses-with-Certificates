@@ -1,3 +1,10 @@
+<details>
+<summary>AI Tools</summary>
+<br>
+GeeksforGeeks - AI Tools<br>
+Website - https://www.geeksforgeeks.org/batch/skill-up-ai-tools<br>
+<br>
+</details>
 <h1 align="center"> Free-courses-with-Certificates</h1>
 
 ## Check our website: [Website link](https://free-courses-with-certificates.netlify.app/) ✨
@@ -305,6 +312,9 @@ Website-https://www.greatlearning.in/academy/learn-for-free/courses/c-for-beginn
 Introduction To The C Language<br>
 Website-https://www.udemy.com/course/introduction-to-the-c-language/<br>
 <br>
+GeeksforGeeks - Full C Course<br>
+Website - https://www.geeksforgeeks.org/batch/skill-up-c<br>
+<br>
 </details>
 
 <details>
@@ -348,6 +358,10 @@ Website- https://www.udacity.com/course/c-for-programmers--ud210 <br>
 <br>
 Great Learning - Introduction to C++<br>
 Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-c
+<br>
+
+GeeksforGeeks - Full C++ Course<br>
+Website - https://www.geeksforgeeks.org/batch/skill-up-cpp<br>
 <br>
 
  <br>
@@ -439,6 +453,9 @@ Website-https://www.freecodecamp.org/learn/information-security/<br>
 <br>
 Advanced Penetration Testing<br>
 Website- https://www.cybrary.it/course/advanced-penetration-testing/<br>
+<br>
+GeeksforGeeks - Cybersecurity Full Course<br>
+Website - https://www.geeksforgeeks.org/batch/skill-up-cyber-security<br>
 <br>
 Linux Foundation- Getting Started with Self-Sovereign Identity<br>
 Website- https://training.linuxfoundation.org/training/getting-started-with-self-sovereign-identity-lfs178x/<br>
@@ -744,6 +761,9 @@ Website-https://www.linkedin.com/learning/learning-java-4/<br>
 GeeksforGeeks- Fork Java<br>
 https://practice.geeksforgeeks.org/courses/fork-java<br>
 <br>
+GeeksforGeeks- Full Java Course<br>
+Website - https://www.geeksforgeeks.org/batch/skill-up-java<br>
+<br>
 GREAT LEARNING ACADEMY- Java Programming<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/hashing-in-java<br>
 <br>
@@ -988,6 +1008,9 @@ website- https://practice.geeksforgeeks.org/courses/start-with-python-kids<br>
 GeeksforGeeks - Fork Python<br>
 website- https://practice.geeksforgeeks.org/courses/fork-python<br>
 <br>
+GeeksforGeeks - Full Python Course<br>
+Website - https://www.geeksforgeeks.org/batch/skill-up-python<br>
+<br>
 Udemy - Introduction To Python Programming<br>
 website- https://www.udemy.com/course/pythonforbeginnersintro<br>
 <br>
@@ -1190,6 +1213,9 @@ website - https://www.freecodecamp.org/learn/relational-database/<br>
 <br>
 Simplilearn - Introduction to SQL <br>
 website - https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup<br>
+<br>
+GeeksforGeeks - SQL Full Course<br>
+Website - https://www.geeksforgeeks.org/batch/skill-up-sql<br>
 <br>
 </details>
 
