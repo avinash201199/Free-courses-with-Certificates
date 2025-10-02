@@ -1211,6 +1211,11 @@ cognitiveclass.ai - SQL and Relational Databases 101
 Website- https://courses.cognitiveclass.ai/courses/course-v1:BDU+DB0101EN+v1/course/ <br>
 <br>
 <br>
+Infosys Springboard - SQL Transactions 
+<br>
+Website- https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01350158405826150411805/overview
+<br>
+<br>
 Kaggle - Intro to SQL <br>
 Website - https://www.kaggle.com/learn/intro-to-sql <br>
 <br>
