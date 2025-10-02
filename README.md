@@ -605,6 +605,9 @@ GREAT LEARNING ACADEMY - Learn database management systems from basics, taught h
 Database and SQL
 <br> Website - https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview<br>
 <br>
+Database Management System
+<br>
+Website - https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157697451286528166/overview <br>
 
 </details>
 
@@ -1209,6 +1212,11 @@ Website-https://www.udemy.com/course/advanced-tsql-querying-using-sql-2014/<br>
 cognitiveclass.ai - SQL and Relational Databases 101
 <br>
 Website- https://courses.cognitiveclass.ai/courses/course-v1:BDU+DB0101EN+v1/course/ <br>
+<br>
+<br>
+Infosys Springboard - SQL Transactions 
+<br>
+Website- https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01350158405826150411805/overview
 <br>
 <br>
 Kaggle - Intro to SQL <br>

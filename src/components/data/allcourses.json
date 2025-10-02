@@ -116,6 +116,17 @@
           "name": "GeeksforGeeks - SQL Full Course",
           "source": "GeeksforGeeks",
           "link": "https://www.geeksforgeeks.org/batch/skill-up-sql"
+        },{
+          "icon": "fa-solid fa-database",
+          "name": "Infosys Springboard - SQL Transactions",
+          "source": "Infosys Springboard",
+          "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01350158405826150411805/overview"
+        },
+      {
+          "icon": "fa-solid fa-database",
+          "name": "Infosys Springboard - Database Management System",
+          "source": "Infosys Springboard",
+          "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157697451286528166/overview"
         }
     ]
   },
