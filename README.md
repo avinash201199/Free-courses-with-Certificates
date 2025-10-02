@@ -1533,6 +1533,12 @@ Website - https://www.simplilearn.com/free-generative-ai-course-skillup<br>
 <br>
 </details>
 
+<details>
+ <summary>Data Fundamentals</summary>
+ <br>
+ Website- https://skillsbuild.org/students/course-catalog/data-science
+</details>
+
 ### License 
 
 This project is licensed under the [MIT License](./LICENSE).
