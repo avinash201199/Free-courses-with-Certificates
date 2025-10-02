@@ -190,6 +190,12 @@
       "name": "Data Visualization with D3",
       "source": "FreeCodeCamp",
       "link": "https://www.FreeCodeCamp.org/learn/data-visualization/"
+    },
+    {
+      "icon": "fa-solid fa-chart-simple",
+      "name": "Data Fundamentals",
+      "source": "IBM SkillsBuild",
+      "link": "https://skillsbuild.org/students/course-catalog/data-science"
     }
   ]
 },
