@@ -813,6 +813,9 @@ Website-https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011 <
 <details>
 <summary>Linux</summary>
 <br>
+LabEx - Linux Learning course<br>
+Website- https://labex.io/learn/linux - Comprehensive hands-on Linux course with 200+ interactive labs covering system administration, command line, networking, and security with certificates<br>
+<br>
 Geek University - Free Linux course<br>
 Website- https://geek-university.com/course/free-linux-course/<br>
 <br>
