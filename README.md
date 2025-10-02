@@ -1502,6 +1502,9 @@ Website- https://www.mygreatlearning.com/academy/learn-for-free/courses/generati
 <br>Introduction to Generative AI<br>
 Website - https://www.cloudskillsboost.google/course_templates/536<br>
 <br>
+ <br>Introduction to Generative AI<br>
+Website - https://www.simplilearn.com/free-generative-ai-course-skillup<br>
+<br>
 </details>
 
 ### License 
