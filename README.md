@@ -34,6 +34,7 @@ For any doubt contact me here: - <br>
 <br>(Check My Github profile for more cool stuff !)<br>
 
 <hr>
+<h1 align="center"> Free-courses-with-Certificates</h1>
 
 <details>
 <summary>AI Tools</summary>
@@ -42,7 +43,6 @@ GeeksforGeeks - AI Tools<br>
 Website - https://www.geeksforgeeks.org/batch/skill-up-ai-tools<br>
 <br>
 </details>
-<h1 align="center"> Free-courses-with-Certificates</h1>
 
 <details>
 <summary>Android Application Development</summary>
