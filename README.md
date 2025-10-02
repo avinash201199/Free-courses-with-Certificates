@@ -610,6 +610,10 @@ Database and SQL
 Database Management System
 <br>
 Website - https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157697451286528166/overview <br>
+<br>
+Database Management
+<br>
+Website - https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0135015624482406408379/overview<br>
 
 </details>
 

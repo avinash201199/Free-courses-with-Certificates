@@ -127,6 +127,12 @@
           "name": "Infosys Springboard - Database Management System",
           "source": "Infosys Springboard",
           "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157697451286528166/overview"
+        },
+      {
+          "icon": "fa-solid fa-database",
+          "name": "Infosys Springboard - Database Management",
+          "source": "Infosys Springboard",
+          "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0135015624482406408379/overview"
         }
     ]
   },
