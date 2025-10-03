@@ -4,27 +4,28 @@ import "../index.css";
 import { Outlet, useLocation } from "react-router-dom";
 import SideMenu from "./sidemenu";
 import TitleTop from "./titleTop";
-// import Navbar from "./navbar";
+import Navbar from "./Navbar";
 import Footer from "./footer";
 
-const Layout = (props) => {
-  const [active, inactive] = useState(false);
-  const [query, setQuery] = useState("");
+const Layout = ({ userName }) => {
+  const [active, setActive] = useState(false);
   const location = useLocation();
 
   const toggleSideMenu = () => {
-    inactive(!active);
-    // console.log("yo");
+    setActive(!active);
   };
+
+  const hideNavbarPaths = ["/login", "/signup"];
+  const showNavbar = !hideNavbarPaths.includes(location.pathname);
 
   return (
     <>
       <TitleTop />
-      {/* <Navbar toggleSideMenu={toggleSideMenu} setQuery={setQuery} /> */}
-      {/* {location.pathname !== "/about" && ( */}
-        <SideMenu active={active} toggleSideMenu={toggleSideMenu} />
-      {/* )} */}
-      <Outlet />
+      {showNavbar && <Navbar userName={userName} toggleSideMenu={toggleSideMenu} />}
+      <SideMenu active={active} toggleSideMenu={toggleSideMenu} />
+      <main>
+        <Outlet /> {/* Page content goes here */}
+      </main>{/* ✅ Footer is now consistent across all pages */}
     </>
   );
 };

@@ -40,7 +40,7 @@ const Data = courses.map((data, key) => {
   );
 });
 
-export default function allcourse() {
+export default function Allcourse() {
   return (
     <div>
       <div className="allcourse">
