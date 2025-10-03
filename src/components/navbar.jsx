@@ -7,7 +7,7 @@ import "../styles/navbar.css";
 import {FiDelete} from "react-icons/fi";
 import {GrClear} from "react-icons/gr";
 
-export default function Navbar(props) {
+export default function Navbar({userName,toggleSideMenu}) {
   const [searchTerm, setSearchTerm] = useState("");
   const [searchResults, showSearch] = useState(0);
 
@@ -23,7 +23,7 @@ export default function Navbar(props) {
   return (
     <nav className="bg-blue-500 navbarset">
       <div className="menu-nav-bar">
-        <span class="material-symbols-outlined" onClick={props.toggleSideMenu}>
+        <span className="material-symbols-outlined" onClick={toggleSideMenu}>
           menu
         </span>
       </div>
@@ -46,12 +46,12 @@ export default function Navbar(props) {
                   <div className="search-bar-children" key={key}>
                     {val.cards
                       .filter((data) => {
-                        if (searchTerm == "") return data;  
+                        if (searchTerm == ""){return data;}
                         else if (
                           data.name?.toLocaleLowerCase()
                             .includes(searchTerm.toLocaleLowerCase())
-                        )
-                          return data.name;
+                        ){
+                          return data.name;}
                       })
                       .map((card, key) => {
                         return (
@@ -99,8 +99,8 @@ export default function Navbar(props) {
         </div>
       </OutsideAlerter>
       <div className="nav-left-flex hide-item rounded-lg bg-blue-400 px-2">
-        <span class="material-symbols-outlined text-white">notifications</span>
-        <span class="material-symbols-outlined hide-item text-white">bookmark_added</span>
+        <span className="material-symbols-outlined text-white">notifications</span>
+        <span className="material-symbols-outlined hide-item text-white">bookmark_added</span>
         <div
           style={{
             display: "flex",
@@ -108,9 +108,9 @@ export default function Navbar(props) {
             alignItems: "center",
           }}
         >
-          <span class="material-symbols-outlined text-white pr-2">account_circle</span>
+          <span className="material-symbols-outlined text-white pr-2">account_circle</span>
           <div className="text-white text-lg" style={{ marginLeft: "1px" }}>
-            Welcome User
+            {userName}
           </div>
         </div>
       </div>

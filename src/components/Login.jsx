@@ -2,17 +2,19 @@ import { useState } from "react";
 import { redirect } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 
-export default function Login({ onLogin }) {
+export default function Login({ onLogin ,setUserName }) {
+    const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
     const navigate = useNavigate();
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (!email || !password) {
+    if (!name || !email || !password) {
       alert("Please fill all fields");
       return;
     }
-    // You can add real API call here later
+
+    setUserName(name);
     onLogin(true);
     navigate("/");
   };
@@ -21,6 +23,13 @@ export default function Login({ onLogin }) {
     <div className="flex flex-col items-center justify-center min-h-screen">
       <h2 className="text-2xl font-bold mb-4">Login</h2>
       <form onSubmit={handleSubmit} className="flex flex-col gap-3 w-64">
+        <input
+          type="name"
+          placeholder="Name"
+          className="border p-2 rounded"
+          value={name}
+          onChange={(e) => setName(e.target.value)}
+        />
         <input
           type="email"
           placeholder="Email"

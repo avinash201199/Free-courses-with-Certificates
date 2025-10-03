@@ -8,15 +8,16 @@ import Main from "./components/main";
 import ErrorPage from "./components/ErrorPage";
 import Login from "./components/Login";
 import Signup from "./components/SignUp";
+import Navbar from "./components/Navbar";
 
 export default function App() {
   const [isAuth, setIsAuth] = useState(false); // Track login state
-
+  const [userName, setUserName] = useState(""); 
   // Pass `isAuth` and `setIsAuth` to Login/Signup and Layout if needed
   const router = createBrowserRouter([
     {
       path: "/",
-      element: <Layout isAuth={isAuth} />, // Pass auth state to layout if needed
+      element:<Layout isAuth={isAuth} userName={userName}/>, // Pass auth state to layout if needed
       errorElement: <ErrorPage />,
       children: [
         {
@@ -29,19 +30,19 @@ export default function App() {
         },
         {
           path: "dashboard",
-          element:<Dashboard />,
+          element:<Dashboard />
         },
         {
           path: "about",
-          element: <AboutPage />,
+          element: <AboutPage />
         },
         {
           path: "login",
-          element: <Login onLogin={setIsAuth} />,
+          element: <Login onLogin={setIsAuth} setUserName={setUserName} />
         },
         {
           path: "signup",
-          element: <Signup onSignup={setIsAuth} />,
+          element: <Signup onSignup={setIsAuth} setUserName={setUserName} />
         },
       ],
     },
