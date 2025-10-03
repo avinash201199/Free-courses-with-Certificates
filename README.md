@@ -1557,6 +1557,12 @@ Website - https://www.simplilearn.com/free-generative-ai-course-skillup<br>
  Website- https://skillsbuild.org/students/course-catalog/data-science
 </details>
 
+<details>
+ <summary>Artificial Intelligence Fundamentals</summary>
+ <br>
+ Website- https://skillsbuild.org/students/course-catalog/artificial-intelligence
+</details>
+
 ### License 
 
 This project is licensed under the [MIT License](./LICENSE).

@@ -300,6 +300,12 @@
       "name": "Fundamental AI Concepts",
       "source": "Microsoft",
       "link": "https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/"
+    },
+    {
+      "icon": "fa-solid fa-brain",
+      "name": "Artificial Intelligence Fundamentals",
+      "source": "IBM SkillsBuild",
+      "link": "https://skillsbuild.org/students/course-catalog/artificial-intelligence"
     }
     
   ]
