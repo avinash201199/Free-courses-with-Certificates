@@ -1168,6 +1168,12 @@
       "name": "Learn JavaScript Basics",
       "source": "Codedamn",
       "link": "https://codedamn.com/learn/javascript-basics"
+    },
+    {
+      "icon": "fab fa-js",
+      "name": "JavaScript Algorithms and Data Structures",
+      "source": "FreeCodeCamp",
+      "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/"
     }
   ]
 },
