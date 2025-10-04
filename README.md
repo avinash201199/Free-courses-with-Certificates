@@ -810,7 +810,7 @@ Website: https://www.scaler.com/topics/course/javascript-beginners/ <br>
 <br>
 FreeCodeCamp - JavaScript Algorithms and Data Structures
 Website : https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
-</br>
+<br>
 </details>
 
 <details>
