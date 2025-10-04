@@ -4,8 +4,7 @@ import "../index.css";
 import { Outlet, useLocation } from "react-router-dom";
 import SideMenu from "./sidemenu";
 import TitleTop from "./titleTop";
-import Navbar from "./Navbar";
-import Footer from "./footer";
+import Navbar from "./navbar";
 
 const Layout = ({ userName }) => {
   const [active, setActive] = useState(false);
