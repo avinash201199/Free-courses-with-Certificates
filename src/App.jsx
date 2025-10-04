@@ -7,7 +7,7 @@ import AboutPage from "./components/AboutPage";
 import Main from "./components/main";
 import ErrorPage from "./components/ErrorPage";
 import Login from "./components/Login";
-import Signup from "./components/SignUp";
+import Signup from "./components/Signup";
 import Navbar from "./components/Navbar";
 
 export default function App() {
