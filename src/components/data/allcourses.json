@@ -472,6 +472,12 @@
       "name": "Ethereum Developer Bootcamp",
       "source": "Alchemy University",
       "link": "https://www.alchemy.com/university/courses/ethereum"
+    },
+    {
+      "icon": "fab fa-hive",
+      "name": "Crafting an Ethereum Blockchain Using Solidity",
+      "source": "Alison",
+      "link": "https://alison.com/course/creating-an-ethereum-blockchain-using-solidity"
     }
   ]
 },
