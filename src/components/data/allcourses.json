@@ -117,6 +117,12 @@
           "source": "GeeksforGeeks",
           "link": "https://www.geeksforgeeks.org/batch/skill-up-sql"
         }
+        ,{
+          "icon": "fa-solid fa-database",
+          "name": "Advanced SQL",
+          "source": "Kaggle",
+          "link": "https://www.kaggle.com/learn/advanced-sql"
+        }
     ]
   },
   {
