@@ -1567,6 +1567,12 @@ Website - https://www.simplilearn.com/free-generative-ai-course-skillup<br>
  Website- https://skillsbuild.org/students/course-catalog/artificial-intelligence
 </details>
 
+<details>
+ <summary>Advanced SQL</summary>
+ <br>
+ Website- https://www.kaggle.com/learn/advanced-sql
+</details>
+
 ### License 
 
 This project is licensed under the [MIT License](./LICENSE).

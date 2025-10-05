@@ -134,6 +134,12 @@
           "source": "Infosys Springboard",
           "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0135015624482406408379/overview"
         }
+        ,{
+          "icon": "fa-solid fa-database",
+          "name": "Advanced SQL",
+          "source": "Kaggle",
+          "link": "https://www.kaggle.com/learn/advanced-sql"
+        }
     ]
   },
   {
