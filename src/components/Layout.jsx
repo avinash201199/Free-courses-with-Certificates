@@ -10,7 +10,7 @@ import Footer from "./footer";
 const Layout = ({ isAuth,userName, isLoggedIn,handleAuth }) => {
   const [active, setActive] = useState(false);
   const location = useLocation();
-
+  const [collapsed, setCollapsed] = useState(true);
   const toggleSideMenu = () => {
     setActive(!active);
     setCollapsed(!collapsed);
@@ -24,7 +24,7 @@ const Layout = ({ isAuth,userName, isLoggedIn,handleAuth }) => {
       <TitleTop />
       {showNavbar && <Navbar userName={userName} toggleSideMenu={toggleSideMenu} />}
       <SideMenu isAuth={isAuth} handleAuth={handleAuth}/>
-      <main>
+      <main className="main-content">
         <Outlet /> {/* Page content goes here */}
       </main>{/* ✅ Footer is now consistent across all pages */}
     </>
