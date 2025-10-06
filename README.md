@@ -807,6 +807,10 @@ Website : https://www.mygreatlearning.com/academy/learn-for-free/courses/javascr
 <br>
 Scaler - JavaScript
 Website: https://www.scaler.com/topics/course/javascript-beginners/ <br>
+<br>
+FreeCodeCamp - JavaScript Algorithms and Data Structures
+Website : https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
+<br>
 </details>
 
 <details>
@@ -1561,6 +1565,12 @@ Website - https://www.simplilearn.com/free-generative-ai-course-skillup<br>
  <summary>Artificial Intelligence Fundamentals</summary>
  <br>
  Website- https://skillsbuild.org/students/course-catalog/artificial-intelligence
+</details>
+
+<details>
+ <summary>Advanced SQL</summary>
+ <br>
+ Website- https://www.kaggle.com/learn/advanced-sql
 </details>
 
 ### License 

@@ -5,6 +5,7 @@ import { Outlet, useLocation } from "react-router-dom";
 import SideMenu from "./sidemenu";
 import TitleTop from "./titleTop";
 import Navbar from "./navbar";
+import Footer from "./footer";
 
 const Layout = ({ isAuth,userName, isLoggedIn,handleAuth }) => {
   const [active, setActive] = useState(false);
@@ -12,6 +13,7 @@ const Layout = ({ isAuth,userName, isLoggedIn,handleAuth }) => {
 
   const toggleSideMenu = () => {
     setActive(!active);
+    setCollapsed(!collapsed);
   };
 
   const hideNavbarPaths = ["/login", "/signup"];
@@ -26,6 +28,7 @@ const Layout = ({ isAuth,userName, isLoggedIn,handleAuth }) => {
         <Outlet /> {/* Page content goes here */}
       </main>{/* ✅ Footer is now consistent across all pages */}
     </>
+    
   );
 };
 

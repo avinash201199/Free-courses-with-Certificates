@@ -1,15 +1,18 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import "../styles/sidemenu.css";
 
-export default function Sidemenu({isAuth, handleAuth }) {
+export default function Sidemenu({ isAuth, handleAuth }) {
   const [collapsed, setCollapsed] = useState(true);
+  const navigate = useNavigate();
 
   const toggleSidebar = () => setCollapsed(!collapsed);
+
   const handleLogoutClick = () => {
     handleAuth();       // Clears username & sets isAuth = false
-    //navigate("/login"); // Redirect to login page
+    navigate("/login"); // Redirect to login page
   };
+
   return (
     <div className={`sidemenu-bar ${collapsed ? "collapsed" : "expanded"}`}>
       {/* Toggle Button */}
@@ -54,21 +57,21 @@ export default function Sidemenu({isAuth, handleAuth }) {
 
         <Link to="/about">
           <li className="sidemenu-item">
-            <span className="material-symbols-outlined">
-              sentiment_very_satisfied
-            </span>
+            <span className="material-symbols-outlined">sentiment_very_satisfied</span>
             {!collapsed && <span>About</span>}
           </li>
         </Link>
+
+        {/* Login / Logout Button */}
         <li
           className="sidemenu-item auth-button"
           onClick={() => {
             if (isAuth) {
-              handleLogoutClick(); // logout+redirect
+              handleLogoutClick(); // Logout + redirect
             } else {
-              navigate("/login"); // navigate to login
+              navigate("/login");  // Navigate to login
             }
-          }} // Call login/logout handler
+          }}
         >
           <span className="material-symbols-outlined">
             {isAuth ? "logout" : "login"}
