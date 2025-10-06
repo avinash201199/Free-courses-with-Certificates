@@ -691,6 +691,12 @@
       "name": "EC Council Code Red - Network Defense Essential (NDE)",
       "source": "EC Council",
       "link": "https://codered.eccouncil.org/course/network-defense-essentials"
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "name": "Cyber security: Understand Threats and Prevent Attacks",
+      "source": "Alison",
+      "link": "https://alison.com/course/cyber-security-understand-threats-and-prevent-attacks"
     }
   ]
 },
