@@ -11,7 +11,7 @@ import Signup from "./components/Signup";
 
 export default function App() {
   const [isAuth, setIsAuth] = useState(false); // Track login state
-  const [userName, setUserName] = useState(""); 
+  const [userName, setUserName] = useState("");
   // Pass `isAuth` and `setIsAuth` to Login/Signup and Layout if needed
   const [isLoggedIn, setIsLoggedIn] = useState(false);
 
@@ -28,26 +28,26 @@ export default function App() {
         {
           index: true,
           element: (
-            <ProtectedRoute isAuth={isAuth}>
-              <Main />
-            </ProtectedRoute>
+            // <ProtectedRoute isAuth={isAuth}>
+            <Main />
+            // </ProtectedRoute>
           ),
         },
         {
           path: "dashboard",
-          element:<Dashboard />
+          element: <Dashboard />,
         },
         {
           path: "about",
-          element: <AboutPage />
+          element: <AboutPage />,
         },
         {
           path: "login",
-          element: <Login onLogin={setIsAuth} setUserName={setUserName} />
+          element: <Login onLogin={setIsAuth} setUserName={setUserName} />,
         },
         {
           path: "signup",
-          element: <Signup onSignup={setIsAuth} setUserName={setUserName} />
+          element: <Signup onSignup={setIsAuth} setUserName={setUserName} />,
         },
       ],
     },
