@@ -6,7 +6,7 @@ import SideMenu from "./sidemenu";
 import TitleTop from "./titleTop";
 import Navbar from "./navbar";
 
-const Layout = ({ userName }) => {
+const Layout = ({ isAuth,userName, isLoggedIn,handleAuth }) => {
   const [active, setActive] = useState(false);
   const location = useLocation();
 
@@ -21,7 +21,7 @@ const Layout = ({ userName }) => {
     <>
       <TitleTop />
       {showNavbar && <Navbar userName={userName} toggleSideMenu={toggleSideMenu} />}
-      <SideMenu active={active} toggleSideMenu={toggleSideMenu} />
+      <SideMenu isAuth={isAuth} handleAuth={handleAuth}/>
       <main>
         <Outlet /> {/* Page content goes here */}
       </main>{/* ✅ Footer is now consistent across all pages */}

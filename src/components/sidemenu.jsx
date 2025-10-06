@@ -2,11 +2,14 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import "../styles/sidemenu.css";
 
-export default function Sidemenu() {
+export default function Sidemenu({isAuth, handleAuth }) {
   const [collapsed, setCollapsed] = useState(true);
 
   const toggleSidebar = () => setCollapsed(!collapsed);
-
+  const handleLogoutClick = () => {
+    handleAuth();       // Clears username & sets isAuth = false
+    navigate("/login"); // Redirect to login page
+  };
   return (
     <div className={`sidemenu-bar ${collapsed ? "collapsed" : "expanded"}`}>
       {/* Toggle Button */}
@@ -57,6 +60,21 @@ export default function Sidemenu() {
             {!collapsed && <span>About</span>}
           </li>
         </Link>
+        <li
+          className="sidemenu-item auth-button"
+          onClick={() => {
+            if (isAuth) {
+              handleLogoutClick(); // logout+redirect
+            } else {
+              navigate("/login"); // navigate to login
+            }
+          }} // Call login/logout handler
+        >
+          <span className="material-symbols-outlined">
+            {isAuth ? "logout" : "login"}
+          </span>
+          <span>{isAuth ? "Logout" : "Login"}</span>
+        </li>
       </ul>
     </div>
   );
