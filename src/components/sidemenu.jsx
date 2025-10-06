@@ -8,7 +8,7 @@ export default function Sidemenu({isAuth, handleAuth }) {
   const toggleSidebar = () => setCollapsed(!collapsed);
   const handleLogoutClick = () => {
     handleAuth();       // Clears username & sets isAuth = false
-    navigate("/login"); // Redirect to login page
+    //navigate("/login"); // Redirect to login page
   };
   return (
     <div className={`sidemenu-bar ${collapsed ? "collapsed" : "expanded"}`}>
@@ -73,7 +73,7 @@ export default function Sidemenu({isAuth, handleAuth }) {
           <span className="material-symbols-outlined">
             {isAuth ? "logout" : "login"}
           </span>
-          <span>{isAuth ? "Logout" : "Login"}</span>
+          {!collapsed && <span>{isAuth ? "Logout" : "Login"}</span>}
         </li>
       </ul>
     </div>
