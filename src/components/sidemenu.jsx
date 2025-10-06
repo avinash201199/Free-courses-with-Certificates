@@ -2,10 +2,9 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import "../styles/sidemenu.css";
 
-export default function Sidemenu() {
-  const [collapsed, setCollapsed] = useState(true);
+export default function Sidemenu({ collapsed, toggleSidebar }) {
 
-  const toggleSidebar = () => setCollapsed(!collapsed);
+ 
 
   return (
     <div className={`sidemenu-bar ${collapsed ? "collapsed" : "expanded"}`}>

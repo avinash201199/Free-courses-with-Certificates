@@ -7,7 +7,7 @@ import "../styles/navbar.css";
 import {FiDelete} from "react-icons/fi";
 import {GrClear} from "react-icons/gr";
 
-export default function Navbar({userName,toggleSideMenu}) {
+export default function Navbar({userName,toggleSideMenu,collapsed}) {
   const [searchTerm, setSearchTerm] = useState("");
   const [searchResults, showSearch] = useState(0);
 
@@ -21,7 +21,11 @@ export default function Navbar({userName,toggleSideMenu}) {
   };
 
   return (
-    <nav className="bg-blue-500 navbarset">
+    <nav
+      className={`bg-blue-500 navbarset transition-all duration-300 ${
+        collapsed ? "ml-0" : "ml-0"
+      }`}
+    >
       <div className="menu-nav-bar">
         <span className="material-symbols-outlined" onClick={toggleSideMenu}>
           menu
