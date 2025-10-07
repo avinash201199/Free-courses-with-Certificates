@@ -468,6 +468,10 @@ Website-https://codered.eccouncil.org/course/ethical-hacking-essentials<br>
 EC Council Code Red - Network Defence Essential (NDE) <br>
 Website-https://codered.eccouncil.org/course/network-defense-essentials<br>
 <br>
+<br>
+Cyber security: Understand Threats and Prevent Attacks <br>
+Website-https://alison.com/course/cyber-security-understand-threats-and-prevent-attacks<br>
+<br>
 </details>
 
 <details>
