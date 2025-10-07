@@ -396,7 +396,7 @@
 {
   "title": "Analytics cards",
   "cards": [{
-    "icon": "fa-analytics",
+    "icon": "fa-solid fa-chart-line",
     "name": "Google Analytics for Beginners",
     "source": "Google Analytics",
     "link": "https://analytics.google.com/analytics/academy/course/6"
