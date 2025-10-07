@@ -10,6 +10,7 @@
   z-index: 999;
   display: flex;
   flex-direction: column;
+  justify-content: space-between; /* space between top menu and bottom login/logout */
   align-items: center;
 }
 
@@ -44,9 +45,18 @@
 .sidemenu-list {
   list-style: none;
   width: 100%;
-  padding-top: 14rem;
+  flex: 1; /* take remaining space */
+  padding-top: 2rem;
+  display: flex;
+  flex-direction: column;
 }
 
+/* Align login/logout to bottom */
+.auth-button {
+  margin-top: auto; /* push to bottom */
+}
+
+/* Sidebar items */
 .sidemenu-item {
   display: flex;
   align-items: center;

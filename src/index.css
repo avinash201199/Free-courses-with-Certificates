@@ -30,6 +30,10 @@ li {
 .row {
   width: 96% !important;
 }
+.main-content{
+  margin-left: 80px; /* Adjust according to sidebar width */
+  padding: 20px; 
+}
 
 .container {
   margin-left: 0.8rem !important;

@@ -13,10 +13,16 @@ export default function App() {
   const [isAuth, setIsAuth] = useState(false); // Track login state
   const [userName, setUserName] = useState("");
   // Pass `isAuth` and `setIsAuth` to Login/Signup and Layout if needed
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
+
+  const handleAuth = () => {
+      setUserName("");
+      setIsAuth(false);
+  };
   const router = createBrowserRouter([
     {
       path: "/",
-      element: <Layout isAuth={isAuth} userName={userName} />, // Pass auth state to layout if needed
+      element:<Layout isAuth={isAuth} userName={userName} isLoggedIn={isLoggedIn} handleAuth={handleAuth}/>, // Pass auth state to layout if needed
       errorElement: <ErrorPage />,
       children: [
         {
