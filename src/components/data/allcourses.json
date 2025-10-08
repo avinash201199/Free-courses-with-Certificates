@@ -145,25 +145,25 @@
   {
     "title": "AWS",
     "cards": [{
-        "icon": "fa-solid fa-brain",
+        "icon": "fa-solid fab fa-aws",
         "name": "FREE AWS Beginners Course",
         "source": "Edureka",
         "link": "https://www.edureka.co/free-course/learn-aws-basics-online"
       },
       {
-        "icon": "fa-solid fa-brain",
+        "icon": "fa-solid fab fa-aws",
         "name": "Get AWS Certified Solutions Architect - Associate",
         "source": "AWS Skillbuilder",
         "link": "https://pages.awscloud.com/DODDSARANEW_newodtysaa.html"
       },
       {
-        "icon": "fa-solid fa-brain",
+        "icon": "fa-solid fab fa-aws",
         "name": "AWS Power Hour: Architecting",
         "source": "AWS Skillbuilder",
         "link": "https://pages.awscloud.com/traincert-twitch-power-hour-architecting.html"
       },
       {
-        "icon": "fa-solid fa-brain",
+        "icon": "fa-solid fab fa-aws",
         "name": "AWS for Beginners",
         "source": "Great Learning",
         "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1"
