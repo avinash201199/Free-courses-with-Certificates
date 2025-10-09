@@ -1192,6 +1192,12 @@
       "name": "JavaScript Algorithms and Data Structures",
       "source": "FreeCodeCamp",
       "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/"
+    },
+    {
+      "icon": "fab fa-js",
+      "name": "Introduction to JavaScript",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-javascript"
     }
   ]
 },
