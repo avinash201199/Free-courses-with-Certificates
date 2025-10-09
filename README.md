@@ -1169,6 +1169,10 @@ Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/react-j
 React JS Free Course<br>
 Website - https://www.scaler.com/topics/course/free-react-js-course/<br>
 <br>
+<br>
+Great Learning - React JS in Hindi<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-in-hindi<br>
+<br>
 </details>
 
 <details>
