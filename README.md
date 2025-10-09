@@ -893,6 +893,9 @@ website-https://developers.google.com/machine-learning/crash-course
 <br>
 Cognitive.ai - Machine Learning with Python
 website- https://cognitiveclass.ai/courses/machine-learning-with-python
+<br>
+Simplilearn- Introduction to Large Language Models
+website- https://www.simplilearn.com/free-large-language-models-course-skillup?tag=large%20language
 </details>
 
 <details>
