@@ -547,7 +547,10 @@ GREAT LEARNING ACADEMY - Learn database management system from basics, taught ha
 Database and SQL
 <br> Website - https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview<br>
 <br>
-
+<br>
+Great Learning - Database Normalization<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/database-normalization<br>
+<br>
 </details>
 
 <details>
@@ -1032,6 +1035,10 @@ Website - https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 <br>
 React JS Tutorial<br>
 Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial<br>
+<br>
+<br>
+Great Learning - React JS in Hindi<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-in-hindi<br>
 <br>
 </details>
 

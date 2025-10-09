@@ -779,6 +779,12 @@
       "name": "Full Database management course",
       "source": "GREAT LEARNING ACADEMY",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/database-management-system"
+    },
+    {
+      "icon": "fa-solid fa-globe",
+      "name": "Databases Normalization",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/database-normalization"
     }
   ]
 },  
@@ -1440,6 +1446,12 @@
       "name": "React Js Tutorials",
       "source": "Great Learning",
       "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial"
+    },
+    {
+      "icon": "fas fa-react",
+      "name": "React JS in Hindi",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-in-hindi"
     }
   ]
 },
