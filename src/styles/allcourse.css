@@ -8,7 +8,7 @@
   width: 88% !important;
   display: block;
   padding: 20px 40px;
-  transition: all 0.2s ease;
+  transition: all 0.3s ease-in-out;
   text-transform: uppercase;
   background: #fff;
   margin: 0 auto;

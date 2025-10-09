@@ -2,7 +2,7 @@ import React from "react";
 import featuredData from "../components/data/featured.json";
 import "../styles/featured.css";
 
-const Data = featuredData.map((data,key) => {
+const Data = featuredData.map((data, key) => {
   return (
     <div className="col-lg-4 featured-card" key={key}>
       <div className="card-icon-title">
@@ -26,11 +26,15 @@ const Data = featuredData.map((data,key) => {
 
 export default function featured() {
   return (
-    <div className="featured">
-      <div className="featured-title featured-title-resp">Featured Courses</div>
-      <div className="featured-cards">
-        <div className="container">
-          <div className="row">{Data}</div>
+    <div>
+      <div className="featured pt-[100px]">
+        <div className="featured-title featured-title-resp">
+          Featured Courses
+        </div>
+        <div className="featured-cards">
+          <div className="container">
+            <div className="row">{Data}</div>
+          </div>
         </div>
       </div>
     </div>

@@ -30,9 +30,17 @@ li {
 .row {
   width: 96% !important;
 }
+.main-content{
+  margin-left: 80px; /* Adjust according to sidebar width */
+  padding: 20px; 
+}
 
 .container {
   margin-left: 0.8rem !important;
+}
+
+span.material-symbols-outlined:hover {
+  color: #216fff;
 }
 
 @media only screen and (max-width: 540px) {
@@ -98,4 +106,5 @@ li {
   background: #fff;
   color: #216fff;
   border-radius: 0.7rem;
+
 }
