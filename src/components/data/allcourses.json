@@ -435,73 +435,73 @@
     "title": "Blockchain Technology",
     "cards": [
       {
-        "icon": "fab fa-hive",
+        "icon": "fa-brands fa-bitcoin",
         "name": "Blockchain Basics",
         "source": "Coursera",
         "link": "https://www.coursera.org/learn/blockchain-basics?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-DVWDPTM3td0_wUL_LQyS5Q&siteID=JVFxdTr9V80-DVWDPTM3td0_wUL_LQyS5Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80"
       },
       {
-        "icon": "fab fa-hive",
+        "icon":"fa-brands fa-bitcoin",
         "name": "Blockchain Essentials",
         "source": "COGNITIVE CLASS",
         "link": "https://cognitiveclass.ai/courses/blockchain-course"
       },
       {
-        "icon": "fab fa-hive",
+        "icon": "fa-brands fa-bitcoin",
         "name": "Blockchain Basics",
         "source": "Great Learning Academy",
         "link": "https://www.greatlearning.in/academy/learn-for-free/courses/blockchain-basics"
       },
       {
-        "icon": "fab fa-hive",
+        "icon": "fa-brands fa-bitcoin",
         "name": "This page contains 10 best Blockchain free certification courses",
         "source": "DIGITAL DEFYND",
         "link": "https://digitaldefynd.com/best-blockchain-courses-training-and-certifications-online/#1_Blockchain_Certification_by_INSEAD_Courser"
       },
       {
-        "icon": "fab fa-hive",
+        "icon": "fa-brands fa-bitcoin",
         "name": "Blockchain-Principles and Practices",
         "source": "PLURALSIGHT",
         "link": "https://www.pluralsight.com/courses/blockchain-principles-practices?clickid=w3vydT2oUxyIWE2wQIVNPydYUkBXHI1YZ05ezo0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius"
       },
       {
-        "icon": "fab fa-hive",
+        "icon": "fa-brands fa-bitcoin",
         "name": "Free Blockchain Courses and Tutorials",
         "source": "Udemy",
         "link": "https://www.udemy.com/topic/blockchain/free/"
       },
       {
-        "icon": "fab fa-hive",
+        "icon": "fa-brands fa-bitcoin",
         "name": "Become a Blockchain Developer",
         "source": "Cadena",
         "link": "https://cadena.dev/"
       },
       {
-        "icon": "fab fa-hive",
+        "icon": "fa-brands fa-bitcoin",
         "name": "Blockchain Training",
         "source": "KBA",
         "link": "https://elearning.kba.ai/"
       },
       {
-        "icon": "fab fa-hive",
+        "icon": "fa-brands fa-bitcoin",
         "name": "Start your web3 journey",
         "source": "metaschool",
         "link": "https://metaschool.so/"
       },
       {
-        "icon": "fab fa-hive",
+        "icon": "fa-brands fa-bitcoin",
         "name": "Hyperledger Besu Essentials: Creating a Private Blockchain Network (LFS176x)",
         "source": "The Linux Foundation",
         "link": "https://training.linuxfoundation.org/training/hyperledger-besu-essentials-creating-a-private-blockchain-network-lfs176x/"
       },
       {
-        "icon": "fab fa-hive",
+        "icon": "fa-brands fa-bitcoin",
         "name": "Ethereum Developer Bootcamp",
         "source": "Alchemy University",
         "link": "https://www.alchemy.com/university/courses/ethereum"
       },
       {
-        "icon": "fab fa-hive",
+        "icon": "fa-brands fa-bitcoin",
         "name": "Crafting an Ethereum Blockchain Using Solidity",
         "source": "Alison",
         "link": "https://alison.com/course/creating-an-ethereum-blockchain-using-solidity"
