@@ -1,17 +1,10 @@
-<details>
-<summary>AI Tools</summary>
-<br>
-GeeksforGeeks - AI Tools<br>
-Website - https://www.geeksforgeeks.org/batch/skill-up-ai-tools<br>
-<br>
-</details>
-<h1 align="center"> Free-courses-with-Certificates</h1>
+
 
 ## Check our website: [Website link](https://free-courses-with-certificates.netlify.app/) ✨
 
-In today's highly competitive job market, securing internships or employment opportunities can be an arduous task. However, online courses have emerged as powerful tools to enhance one's resume and skillset. 🌟
+In today's highly competitive job market, securing internships or employment opportunities can be an arduous task. However, online courses have emerged as powerful tools to enhance one's resume and skillset. 
 
-Unpaid online courses are an invaluable resource, as they are accessible to individuals from all walks of life, facilitating continuous learning and the refinement of both new and existing skills. In the contemporary landscape, possessing solely academic knowledge may not suffice; one must demonstrate a commitment to personal growth through hands-on experiences. 🚀
+Unpaid online courses are an invaluable resource, as they are accessible to individuals from all walks of life, facilitating continuous learning and the refinement of both new and existing skills. In the contemporary landscape, possessing solely academic knowledge may not suffice; one must demonstrate a commitment to personal growth through hands-on experiences. 
 
 Engaging in professional development activities, such as specialized training and online courses, can open doors to a plethora of opportunities. These activities are a testament to one's dedication to self-improvement and their pursuit of excellence in their chosen field. 📚
 
@@ -41,6 +34,15 @@ For any doubt contact me here: - <br>
 <br>(Check My Github profile for more cool stuff !)<br>
 
 <hr>
+<h1 align="center"> Free-courses-with-Certificates</h1>
+
+<details>
+<summary>AI Tools</summary>
+<br>
+GeeksforGeeks - AI Tools<br>
+Website - https://www.geeksforgeeks.org/batch/skill-up-ai-tools<br>
+<br>
+</details>
 
 <details>
 <summary>Android Application Development</summary>
@@ -609,14 +611,21 @@ GREAT LEARNING ACADEMY - Learn database management systems from basics, taught h
 Database and SQL
 <br> Website - https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview<br>
 <br>
+Database Management System
+<br>
+Website - https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157697451286528166/overview <br>
+<br>
+Database Management
+<br>
+Website - https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0135015624482406408379/overview<br>
 
 </details>
 
 <details>
-<summary>Database Normalization</summary>
+<summary>HR Database Management System</summary>
 <br> 
-GREAT LEARNING ACADEMY - Learn Database Normalization
-<br> Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/database-normalization<br>
+MY GREAT LEARNING ACADEMY - HR Database Management System
+<br> Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/hr-database-management-system<br>
 <br>
 </details>
 
@@ -802,6 +811,10 @@ Website : https://www.mygreatlearning.com/academy/learn-for-free/courses/javascr
 <br>
 Scaler - JavaScript
 Website: https://www.scaler.com/topics/course/javascript-beginners/ <br>
+<br>
+FreeCodeCamp - JavaScript Algorithms and Data Structures
+Website : https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
+<br>
 </details>
 
 <details>
@@ -991,6 +1004,10 @@ Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/php <br>
  <br>
  Alison - Basics of Prompt Engineering <br>
  website - https://alison.com/course/basics-of-prompt-engineering <br>
+
+ <br>
+ Prompt Engineering for Everyone <br>
+ website - https://cognitiveclass.ai/courses/prompt-engineering-for-everyone <br>
  
 </details>
 
@@ -1155,6 +1172,10 @@ Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/react-j
 React JS Free Course<br>
 Website - https://www.scaler.com/topics/course/free-react-js-course/<br>
 <br>
+<br>
+Great Learning - React JS in Hindi<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-in-hindi<br>
+<br>
 </details>
 
 <details>
@@ -1212,6 +1233,11 @@ Website-https://www.udemy.com/course/advanced-tsql-querying-using-sql-2014/<br>
 cognitiveclass.ai - SQL and Relational Databases 101
 <br>
 Website- https://courses.cognitiveclass.ai/courses/course-v1:BDU+DB0101EN+v1/course/ <br>
+<br>
+<br>
+Infosys Springboard - SQL Transactions 
+<br>
+Website- https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01350158405826150411805/overview
 <br>
 <br>
 Kaggle - Intro to SQL <br>
@@ -1561,3 +1587,5 @@ Website - https://www.simplilearn.com/free-generative-ai-course-skillup<br>
 ### License 
 
 This project is licensed under the [MIT License](./LICENSE).
+
+Join the Telegram channel for more resources : [Telegram](https://t.me/offcampusjobsupdatess)

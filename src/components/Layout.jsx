@@ -4,28 +4,31 @@ import "../index.css";
 import { Outlet, useLocation } from "react-router-dom";
 import SideMenu from "./sidemenu";
 import TitleTop from "./titleTop";
-// import Navbar from "./navbar";
+import Navbar from "./navbar";
 import Footer from "./footer";
 
-const Layout = (props) => {
-  const [active, inactive] = useState(false);
-  const [query, setQuery] = useState("");
+const Layout = ({ isAuth,userName, isLoggedIn,handleAuth }) => {
+  const [active, setActive] = useState(false);
   const location = useLocation();
-
+  const [collapsed, setCollapsed] = useState(true);
   const toggleSideMenu = () => {
-    inactive(!active);
-    // console.log("yo");
+    setActive(!active);
+    setCollapsed(!collapsed);
   };
+
+  const hideNavbarPaths = ["/login", "/signup"];
+  const showNavbar = !hideNavbarPaths.includes(location.pathname);
 
   return (
     <>
       <TitleTop />
-      {/* <Navbar toggleSideMenu={toggleSideMenu} setQuery={setQuery} /> */}
-      {/* {location.pathname !== "/about" && ( */}
-        <SideMenu active={active} toggleSideMenu={toggleSideMenu} />
-      {/* )} */}
-      <Outlet />
+      {showNavbar && <Navbar userName={userName} toggleSideMenu={toggleSideMenu} />}
+      <SideMenu isAuth={isAuth} handleAuth={handleAuth}/>
+      <main className="main-content">
+        <Outlet /> {/* Page content goes here */}
+      </main>{/* ✅ Footer is now consistent across all pages */}
     </>
+    
   );
 };
 

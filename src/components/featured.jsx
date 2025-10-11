@@ -1,7 +1,6 @@
 import React from "react";
 import featuredData from "../components/data/featured.json";
 import "../styles/featured.css";
-import Navbar from "./navbar";
 
 const Data = featuredData.map((data, key) => {
   return (
@@ -28,7 +27,6 @@ const Data = featuredData.map((data, key) => {
 export default function featured() {
   return (
     <div>
-      <Navbar />
       <div className="featured pt-[100px]">
         <div className="featured-title featured-title-resp">
           Featured Courses
