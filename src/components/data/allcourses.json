@@ -1749,7 +1749,7 @@
     "title": "Software testing",
     "cards": [
       {
-        "icon": "fa-solid fa-vial-circle-chec",
+        "icon": "fa-solid fa-gear",
         "name": "Selenium and JUnit certifications from Lambdatest",
         "source": "LamndaTest",
         "link": "https://www.lambdatest.com/certifications/"
