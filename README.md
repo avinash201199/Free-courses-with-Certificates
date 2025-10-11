@@ -622,10 +622,10 @@ Website - https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0135015
 </details>
 
 <details>
-<summary>Database Normalization</summary>
+<summary>HR Database Management System</summary>
 <br> 
-GREAT LEARNING ACADEMY - Learn Database Normalization
-<br> Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/database-normalization<br>
+MY GREAT LEARNING ACADEMY - HR Database Management System
+<br> Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/hr-database-management-system<br>
 <br>
 </details>
 
@@ -1168,6 +1168,10 @@ Website - https://www.mygreatlearning.com/academy/learn-for-free/courses/react-j
 <br>
 React JS Free Course<br>
 Website - https://www.scaler.com/topics/course/free-react-js-course/<br>
+<br>
+<br>
+Great Learning - React JS in Hindi<br>
+Website-https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-in-hindi<br>
 <br>
 </details>
 
