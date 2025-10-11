@@ -564,7 +564,7 @@
         "link": "https://www.udacity.com/course/c-for-programmers--ud210"
       },
       {
-        "icon": "fa-solid fa-brackets-curly",
+        "icon": "fa-solid fa-code",
         "name": "Introduction to C++",
         "source": "Great Learning",
         "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-c"
@@ -1137,19 +1137,6 @@
         "source": "SoloLearn",
         "link": "https://www.SoloLearn.com/learning/1068"
       },
-
-      {
-        "title": "IOS Developer",
-        "cards": [
-          {
-            "icon": "fa-light fa-atom-simple",
-            "name": "IOS Developer Course",
-            "source": "Udemy",
-            "link": "https://www.udemy.com/course/the-art-of-real-ios-programming/"
-          }
-        ]
-      },
-
       {
         "icon": "fab fa-java",
         "name": "Learning Java",
