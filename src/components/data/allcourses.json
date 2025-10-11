@@ -598,8 +598,266 @@
         "source": "FreeCodeCamp",
         "link": "https://www.FreeCodeCamp.org/learn/foundational-c-sharp-with-microsoft/"
       }
-    ]
-  },
+  ]
+},
+{
+  "title": "JavaScript",
+  "cards": [{
+      "icon": "fab fa-js",
+      "name": "JavaScript",
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1024"
+    },
+    {
+      "icon": "fab fa-js",
+      "name": "JavaScript",
+      "source": "FreeCodeCamp",
+      "link": "https://www.FreeCodeCamp.org/learn/javascript-algorithms-and-data-structures/"
+    },
+    {
+      "icon": "fab fa-js",
+      "name": "JavaScript",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/javascript-in-hindi"
+    },
+    {
+      "icon": "fab fa-js",
+      "name": "Unlocking the power of JavaScript",
+      "source": "Scaler",
+      "link": "https://www.scaler.com/topics/course/javascript-beginners/"
+    },
+    {
+      "icon": "fab fa-js",
+      "name": "Learn JavaScript Basics",
+      "source": "Codedamn",
+      "link": "https://codedamn.com/learn/javascript-basics"
+    },
+    {
+      "icon": "fab fa-js",
+      "name": "JavaScript Algorithms and Data Structures",
+      "source": "FreeCodeCamp",
+      "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/"
+    },
+    {
+      "icon": "fab fa-js",
+      "name": "Introduction to JavaScript",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-javascript"
+    }
+  ]
+},
+{
+  "title": "jQuery",
+  "cards": [{
+      "icon": "fa-solid fa-j",
+      "name": "jQuery",
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1082"
+    },
+    {
+      "icon": "fa-solid fa-j",
+      "name": "jQuery",
+      "source": "Progate",
+      "link": "https://progate.com/courses/jquery"
+    }
+  ]
+},
+{
+  "title": "Kotlin",
+  "cards": [{
+      "icon": "fa-solid fa-k",
+      "name": "Kotlin",
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1160"
+    },
+    {
+      "icon": "fa-solid fa-k",
+      "name": "Kotlin Bootcamp For Programmers ",
+      "source": "Udacity",
+      "link": "https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011"
+    }
+  ]
+},
+{
+  "title": "Linux",
+  "cards": [{
+      "icon": "fab fa-linux",
+      "name": "Free Linux course",
+      "source": "Geek University",
+      "link": "https://geek-university.com/course/free-linux-course/"
+    },
+    {
+      "icon": "fab fa-linux",
+      "name": "Linux Tutorial",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutorial"
+    },
+    {
+      "icon": "fab fa-linux",
+      "name": "A Beginner’s Guide to Linux Kernel Development",
+      "source": "Linux Foundation",
+      "link": "https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/"
+    }
+  ]
+},
+{
+  "title": "Machine Learning",
+  "cards": [{
+      "icon": "fa-solid fa-desktop",
+      "name": "Machine Learning",
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1094"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Basics of Machine Learning",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-machine-learning-1"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Supervised Machine Learning with Logistic Regression and Naïve Bayes",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/supervised-machine-learning-with-logistic-regression-and-naive-bayes"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Supervised Machine Learning with Tree Based Models",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/supervised-machine-learning-with-tree-based-models"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Unsupervised Machine Learning with K-means",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/unsupervised-machine-learning-with-k-means"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Statistics for Machine Learning",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/statistics-for-machine-learning"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "ML with python by free code camp dot org ",
+      "source": "FreeCodeCamp",
+      "link": "https://www.FreeCodeCamp.org/learn/machine-learning-with-python/"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "DataTalksClub: ML Zoomcamp",
+      "source": "Airtable",
+      "link": "https://airtable.com/shryxwLd0COOEaqXo"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Introduction to Machine Learning",
+      "source": "Kaggle",
+      "link": "https://www.kaggle.com/learn/intro-to-machine-learning"
+    },
+    {
+      "name": "Machine Learning Crash Course",
+      "source": "Google Developers Community",
+      "link": "https://developers.google.com/machine-learning/crash-course"
+
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Supervised Machine Learning with Python",
+      "source": "Cognitive.ai",
+      "link": "https://cognitiveclass.ai/courses/machine-learning-with-python"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Introduction to machine learning",
+      "source": "Microsoft Learn",
+      "link": "https://learn.microsoft.com/en-us/training/modules/introduction-to-machine-learning/"
+    }
+  ]
+},
+{
+  "title": "MongoDB",
+  "cards": [{
+      "icon": "fa-solid fa-database",
+      "name": "Mongodb Tutorial",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/mongodb-tutorial"
+    },
+    {
+      "icon": "fa-solid fa-database",
+      "name": "Mongodb",
+      "source": "MongoDB University",
+      "link": "https://university.mongodb.com/"
+    }
+  ]
+},
+{
+  "title": "MySQL",
+  "cards": [{
+      "icon": "fas fa-table",
+      "name": "MySQL course",
+      "source": "Geek University",
+      "link": "https://geek-university.com/course/mysql-course/"
+    },
+    {
+      "icon": "fas fa-table",
+      "name": "Learn SQL Basics for Data Science",
+      "source": "Coursera",
+      "link": "https://www.coursera.org/specializations/learn-sql-basics-data-science"
+    },
+    {
+      "icon": "fas fa-table",
+      "name": "MySQL Basics",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/mysql-basics"
+    },
+    {
+      "icon": "fas fa-table",
+      "name": "SQL for Beginners",
+      "source": "Scaler",
+      "link": "https://www.scaler.com/topics/course/sql-using-mysql-course/"
+    }
+  ]
+},
+{
+  "title": "NodeJS",
+  "cards": [{
+      "icon": "fab fa-node-js",
+      "name": "Getting started with NodeJS",
+      "source": "Simplilearn",
+      "link": "https://www.simplilearn.com/learn-nodejs-basics-free-course-skillup"
+    },
+    {
+      "icon": "fab fa-node-js",
+      "name": "Node JS Free Online Course with Certification",
+      "source": "upGrad",
+      "link": "https://www.upgrad.com/blog/node-js-free-online-course/"
+    },
+    {
+      "icon": "fab fa-node-js",
+      "name": "8 Best NodeJs Certification & Courses",
+      "source": "DigitalDefynd",
+      "link": "https://digitaldefynd.com/best-nodejs-courses-class-certification-online/"
+    },
+    {
+      "icon": "fab fa-node-js",
+      "name": "Node.js",
+      "source": "Progate",
+      "link": "https://progate.com/courses/nodejs"
+    }
+  ]
+},
+{
+  "title": "NextJs",
+  "cards": [{
+    "icon": "fa-brands fa-square-js",
+    "name": "NextJs course",
+    "source": "Udemy",
+    "link": "https://coursesity.com/course-detail/next-js-with-react-hooks-building-ssr-react-applications"
+  }]
+},
+
   {
     "title": "Cloud Computing",
     "cards": [
