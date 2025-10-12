@@ -1192,6 +1192,638 @@
         "source": "GeeksforGeeks",
         "link": "https://www.geeksforgeeks.org/batch/skill-up-java"
       }
+  ]
+},
+{
+  "title": "JavaScript",
+  "cards": [{
+      "icon": "fab fa-js",
+      "name": "JavaScript",
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1024"
+    },
+    {
+      "icon": "fab fa-js",
+      "name": "JavaScript",
+      "source": "FreeCodeCamp",
+      "link": "https://www.FreeCodeCamp.org/learn/javascript-algorithms-and-data-structures/"
+    },
+    {
+      "icon": "fab fa-js",
+      "name": "JavaScript",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/javascript-in-hindi"
+    },
+    {
+      "icon": "fab fa-js",
+      "name": "Unlocking the power of JavaScript",
+      "source": "Scaler",
+      "link": "https://www.scaler.com/topics/course/javascript-beginners/"
+    },
+    {
+      "icon": "fab fa-js",
+      "name": "Learn JavaScript Basics",
+      "source": "Codedamn",
+      "link": "https://codedamn.com/learn/javascript-basics"
+    }
+  ]
+},
+{
+  "title": "jQuery",
+  "cards": [{
+      "icon": "fa-solid fa-j",
+      "name": "jQuery",
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1082"
+    },
+    {
+      "icon": "fa-solid fa-j",
+      "name": "jQuery",
+      "source": "Progate",
+      "link": "https://progate.com/courses/jquery"
+    }
+  ]
+},
+{
+  "title": "Kotlin",
+  "cards": [{
+      "icon": "fa-solid fa-k",
+      "name": "Kotlin",
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1160"
+    },
+    {
+      "icon": "fa-solid fa-k",
+      "name": "Kotlin Bootcamp For Programmers ",
+      "source": "Udacity",
+      "link": "https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011"
+    }
+  ]
+},
+{
+  "title": "Linux",
+  "cards": [{
+      "icon": "fab fa-linux",
+      "name": "Free Linux course",
+      "source": "Geek University",
+      "link": "https://geek-university.com/course/free-linux-course/"
+    },
+    {
+      "icon": "fab fa-linux",
+      "name": "Linux Tutorial",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/linux-tutorial"
+    },
+    {
+      "icon": "fab fa-linux",
+      "name": "A Beginner’s Guide to Linux Kernel Development",
+      "source": "Linux Foundation",
+      "link": "https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/"
+    }
+  ]
+},
+{
+  "title": "Machine Learning",
+  "cards": [{
+      "icon": "fa-solid fa-desktop",
+      "name": "Machine Learning",
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1094"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Basics of Machine Learning",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-machine-learning-1"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Supervised Machine Learning with Logistic Regression and Naïve Bayes",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/supervised-machine-learning-with-logistic-regression-and-naive-bayes"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Supervised Machine Learning with Tree Based Models",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/supervised-machine-learning-with-tree-based-models"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Unsupervised Machine Learning with K-means",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/unsupervised-machine-learning-with-k-means"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Statistics for Machine Learning",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/statistics-for-machine-learning"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "ML with python by free code camp dot org ",
+      "source": "FreeCodeCamp",
+      "link": "https://www.FreeCodeCamp.org/learn/machine-learning-with-python/"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "DataTalksClub: ML Zoomcamp",
+      "source": "Airtable",
+      "link": "https://airtable.com/shryxwLd0COOEaqXo"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Introduction to Machine Learning",
+      "source": "Kaggle",
+      "link": "https://www.kaggle.com/learn/intro-to-machine-learning"
+    },
+    {
+      "name": "Machine Learning Crash Course",
+      "source": "Google Developers Community",
+      "link": "https://developers.google.com/machine-learning/crash-course"
+
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Supervised Machine Learning with Python",
+      "source": "Cognitive.ai",
+      "link": "https://cognitiveclass.ai/courses/machine-learning-with-python"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Introduction to machine learning",
+      "source": "Microsoft Learn",
+      "link": "https://learn.microsoft.com/en-us/training/modules/introduction-to-machine-learning/"
+    },
+    {
+      "icon": "fa-solid fa-desktop",
+      "name": "Introduction to Large Language Models",
+      "source": "Simplilearn",
+      "link": "https://www.simplilearn.com/free-large-language-models-course-skillup?tag=large%20language"
+    }
+  ]
+},
+{
+  "title": "MongoDB",
+  "cards": [{
+      "icon": "fa-solid fa-database",
+      "name": "Mongodb Tutorial",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/mongodb-tutorial"
+    },
+    {
+      "icon": "fa-solid fa-database",
+      "name": "Mongodb",
+      "source": "MongoDB University",
+      "link": "https://university.mongodb.com/"
+    }
+  ]
+},
+{
+  "title": "MySQL",
+  "cards": [{
+      "icon": "fas fa-table",
+      "name": "MySQL course",
+      "source": "Geek University",
+      "link": "https://geek-university.com/course/mysql-course/"
+    },
+    {
+      "icon": "fas fa-table",
+      "name": "Learn SQL Basics for Data Science",
+      "source": "Coursera",
+      "link": "https://www.coursera.org/specializations/learn-sql-basics-data-science"
+    },
+    {
+      "icon": "fas fa-table",
+      "name": "MySQL Basics",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/mysql-basics"
+    },
+    {
+      "icon": "fas fa-table",
+      "name": "SQL for Beginners",
+      "source": "Scaler",
+      "link": "https://www.scaler.com/topics/course/sql-using-mysql-course/"
+    }
+  ]
+},
+{
+  "title": "NodeJS",
+  "cards": [{
+      "icon": "fab fa-node-js",
+      "name": "Getting started with NodeJS",
+      "source": "Simplilearn",
+      "link": "https://www.simplilearn.com/learn-nodejs-basics-free-course-skillup"
+    },
+    {
+      "icon": "fab fa-node-js",
+      "name": "Node JS Free Online Course with Certification",
+      "source": "upGrad",
+      "link": "https://www.upgrad.com/blog/node-js-free-online-course/"
+    },
+    {
+      "icon": "fab fa-node-js",
+      "name": "8 Best NodeJs Certification & Courses",
+      "source": "DigitalDefynd",
+      "link": "https://digitaldefynd.com/best-nodejs-courses-class-certification-online/"
+    },
+    {
+      "icon": "fab fa-node-js",
+      "name": "Node.js",
+      "source": "Progate",
+      "link": "https://progate.com/courses/nodejs"
+    }
+  ]
+},
+{
+  "title": "NextJs",
+  "cards": [{
+    "icon": "fa-brands fa-square-js",
+    "name": "NextJs course",
+    "source": "Udemy",
+    "link": "https://coursesity.com/course-detail/next-js-with-react-hooks-building-ssr-react-applications"
+  }]
+},
+
+  {
+  "title": "Operating System",
+  "cards": [{
+    "icon": "fa-light fa-atom-simple",
+    "name": "Operating System Crash Course",
+    "source": "GREAT LEARNING ACADEMY",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/crash-course-on-operating-system"
+  }]
+},
+
+{
+  "title": "PHP",
+  "cards": [{
+      "icon": "fab fa-php",
+      "name": "PHP",
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1059"
+    },
+    {
+      "icon": "fab fa-php",
+      "name": "Learn PHP",
+      "source": "Codecademy",
+      "link": "https://www.codecademy.com/learn/learn-php"
+    },
+    {
+      "icon": "fab fa-php",
+      "name": "Introduction to PHP Basics",
+      "source": "Simplilearn",
+      "link": "https://www.simplilearn.com/learn-php-basics-free-course-skillup"
+    },
+    {
+      "icon": "fab fa-php",
+      "name": "PHP",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/php"
+    }
+  ]
+},
+{
+  "title": "Python",
+  "cards": [{
+      "icon": "fab fa-python",
+      "name": "Intermediate Python",
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1158"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Python Core",
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1073"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Python for Data Science",
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1161"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Python Data Structures",
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1159"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Getting Started with Python",
+      "source": "GeeksForGeeks",
+      "link": "https://practice.geeksforgeeks.org/courses/start-with-python-kids"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Fork Python",
+      "source": "GeeksForGeeks",
+      "link": "https://practice.geeksforgeeks.org/courses/fork-python"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Introduction To Python Programming",
+      "source": "Udemy",
+      "link": "https://www.udemy.com/course/pythonforbeginnersintro/"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "The complete python course for beginners",
+      "source": "Newton School",
+      "link": "https://my.newtonschool.co/"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Python for Data Science",
+      "source": "Cognitive.ai",
+      "link": "https://cognitiveclass.ai/courses/python-for-data-science"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Python OOP : Object Oriented Programming in Python",
+      "source": "Udemy",
+      "link": "https://www.udemy.com/course/object-oriented-python-programming"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Python Fundamentals for Beginners ",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Python - Intro to Python",
+      "source": "kaggle",
+      "link": "https://www.kaggle.com/learn/python"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Fundamentos de Python 1",
+      "source": "Skills for All",
+      "link": "https://skillsforall.com/course/python-essentials-1?userLang=es-XL"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Python Essentials 2",
+      "source": "Skills for All",
+      "link": "https://skillsforall.com/course/python-essentials-2?userLang=en-US"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Python Free Online Course",
+      "source": "Upgrad",
+      "link": "https://www.upgrad.com/blog/python-free-online-course/"
+    },
+   {
+      "icon": "fab fa-python",
+      "name": "Python ",
+      "source": "GUVI",
+      "link": "https://www.guvi.in/courses-video/?course=pythonEng"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "python projects for beginners",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-projects-for-beginners"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Harvard CS50- Introduction to programming with Python",
+      "source": "CS50",
+      "link": "https://cs50.harvard.edu/python/2022/certificate/"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Python Course for Beginners With Certification",
+      "source": "Scaler Academy",
+      "link": "https://www.scaler.com/topics/course/python-for-beginners/"
+    }
+  ]
+},
+{
+  "title": "Python Libraries/Tools",
+  "cards": [{
+      "icon": "fa-solid fa-tools",
+      "name": "Basics of EDA with Python",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-eda-with-python"
+    },
+    {
+      "icon": "fa-solid fa-tools",
+      "name": "NumPy Tutorial",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/numpy-tutorial"
+    },
+    {
+      "icon": "fa-solid fa-tools",
+      "name": "Jupyter Notebook",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/jupyter-notebook"
+    },
+    {
+      "icon": "fa-solid fa-tools",
+      "name": "Python Matplotlib",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/python-matplotlib"
+    },
+    {
+      "icon": "fa-solid fa-tools",
+      "name": "Python Pandas",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/python-pandas"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Introduction to Flask",
+      "source": "Udemy",
+      "link": "https://www.udemy.com/course/introduction-to-flask/"
+    }
+  ]
+},
+{
+  "title": "Quantum Computing",
+  "cards": [{
+    "icon": "fa-light fa-atom-simple",
+    "name": "Fundamentals of Quantum Computing",
+    "source": "The Linux Foundation",
+    "link": "https://training.linuxfoundation.org/training/fundamentals-of-quantum-computing-lfq101/"
+  }]
+},
+{
+  "title": "Raspberry Pi",
+  "cards": [{
+    "icon": "fab fa-raspberry-pi",
+    "name": "Raspberry Pi free course",
+    "source": "Geek University",
+    "link": "https://geek-university.com/course/raspberry-pi-free-course/"
+  }]
+},
+{
+  "title": "React",
+  "cards": [{
+      "icon": "fab fa-react",
+      "name": "React + Redux",
+      "source": "SoloLearn",
+      "link": "https://www.SoloLearn.com/learning/1097"
+    },
+    {
+      "icon": "fab fa-react",
+      "name": "FreeCodeCamp offers certifications for react",
+      "source": "FreeCodeCamp",
+      "link": "https://www.FreeCodeCamp.org/learn/front-end-development-libraries/#sass"
+    },
+    {
+      "icon": "fab fa-react",
+      "name": "React Js Tutorials",
+      "source": "Great Learning",
+      "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial"
+    },
+    {
+      "icon": "fab fa-react",
+      "name": "Introduction to Front-End Development by META",
+      "source": "Coursera",
+      "link": "https://www.coursera.org/learn/introduction-to-front-end-development/"
+
+    },
+    {
+      "icon": "fab fa-react",
+      "name": "React JS Free Course",
+      "source": "SCALER",
+      "link": "https://www.scaler.com/topics/course/free-react-js-course/"
+    },
+     {
+      "icon": "fab fa-react",
+      "name": "React Free Course with Certificate",
+      "source": "upGrad",
+      "link": "https://www.knowledgehut.com/free-courses/free-react-course-with-certificate"
+    }
+  ]
+},
+{
+  "title": "Ruby",
+  "cards": [{
+    "icon": "fa-solid fa-gem",
+    "name": "Ruby",
+    "source": "SoloLearn",
+    "link": "https://www.SoloLearn.com/learning/1081"
+  }]
+},
+{
+  "title": "Scala",
+  "cards": [
+      {
+          "icon": "fa-solid fa-layer-group",
+          "name": "Functional Programming Principles in Scala",
+          "source": "Udemy",
+          "link": "https://www.coursera.org/learn/scala-functional-programming?specialization=scala"
+      }
+  ]
+},
+{
+  "title": "Scientific Computing",
+  "cards": [{
+    "icon": "fa-solid fa-gem",
+    "name": "Scientific Computing with Python",
+    "source": "FreeCodeCamp",
+    "link": "https://www.FreeCodeCamp.org/learn/scientific-computing-with-python"
+  }]
+},
+{
+  "title": "Software testing",
+  "cards": [{
+      "icon": "fa-solid fa-vial-circle-chec",
+      "name": "Selenium and JUnit certifications from Lambdatest",
+      "source": "LamndaTest",
+      "link": "https://www.lambdatest.com/certifications/"
+    }
+  ]
+},
+{
+  "title": "Swift iOS Development",
+  "cards": [{
+      "icon": "fab fa-swift",
+      "name": "Swift iOS Developer",
+      "source": "Udemy",
+      "link": "https://www.udemy.com/course/the-complete-ios-10-developer-course/"
+    },
+    {
+      "icon": "fab fa-swift",
+      "name": "100 days with Swift",
+      "source": "Hacking with Swift",
+      "link": "https://www.hackingwithswift.com/100"
+    },
+    {
+      "icon": "fab fa-swift",
+      "name": "100 days with SwiftUI",
+      "source": "Hacking with Swift",
+      "link": "https://www.hackingwithswift.com/100/swiftui"
+    },
+    {
+      "icon": "fab fa-swift",
+      "name": "Ray Wenderlich iOS Tutorial",
+      "source": "Ray Wenderlich",
+      "link": "https://www.raywenderlich.com/category/ios"
+    },
+    {
+      "icon": "fab fa-swift",
+      "name": "The Complete Swift iOS Developer - Create Real Apps in Swift",
+      "source": "Udemy",
+      "link": "https://www.udemy.com/course/the-complete-ios-10-developer-course/"
+    },
+    {
+      "icon": "fab fa-swift",
+      "name": "AppCoda Complete iOS Tutorial",
+      "source": "Appcoda",
+      "link": "http://www.appcoda.com/ios-programming-course/"
+    }
+
+  ]
+},
+{
+  "title": "Tableau",
+  "cards": [{
+      "icon": "fas fa-file-alt",
+      "name": "Data Visualization using Tableau",
+      "source": "Great Learning Academy",
+      "link": "https://www.greatlearning.in/academy/learn-for-free/courses/data-visualization-using-tableau"
+    },
+    {
+      "icon": "fas fa-file-alt",
+      "name": "Data Visualization using Tableau",
+      "source": "Udacity",
+      "link": "https://www.udacity.com/course/data-visualization-in-tableau--ud1006"
+    },
+    {
+      "icon": "fas fa-file-alt",
+      "name": "Data Visualization and Communication with Tableau",
+      "source": "Coursera",
+      "link": "https://www.coursera.org/learn/analytics-tableau"
+    }
+  ]
+},
+{
+    "title": "Flask",
+    "cards": [
+        {
+            "icon": "fa-solid fa-flask",
+            "name": "Flask Python",
+            "source": "My Great Learning",
+            "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/flask-python"
+        },
+        {
+            "icon": "fa-solid fa-flask",
+            "name": "Learn Flask",
+            "source": "Code Academy",
+            "link": "https://www.codecademy.com/learn/learn-flask"
+        },
+        {
+            "icon": "fa-solid fa-flask",
+            "name": "Python Flask for beginners",
+            "source": "Udemy",
+            "link": "https://bitly.ws/XWBm"
+        }
     ]
   },
   {
