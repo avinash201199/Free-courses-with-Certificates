@@ -920,6 +920,12 @@
         "name": "IBM: Cloud Application",
         "source": "edx.org",
         "link": "https://www.edx.org/learn/computer-programming/ibm-cloud-application-developer-capstone"
+      },
+      {
+        "icon": "fa-solid fa-cloud-arrow-down",
+        "name": "Cloud Computing for Absolute Beginners - IaaS",
+        "source": "Alison",
+        "link": "https://alison.com/course/cloud-computing-for-absolute-beginners-iaas"
       }
     ]
   },
