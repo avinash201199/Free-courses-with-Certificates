@@ -3,13 +3,16 @@ import json from "./data/allcourses.json";
 import { Button } from "react-bootstrap";
 import OutsideAlerter from "./Outsideclick";
 import "../styles/navbar.css";
+import { useTheme } from "../contexts/ThemeContext";
 
 import {FiDelete} from "react-icons/fi";
 import {GrClear} from "react-icons/gr";
+import {BsSun, BsMoon} from "react-icons/bs";
 
 export default function Navbar({userName,toggleSideMenu,collapsed}) {
   const [searchTerm, setSearchTerm] = useState("");
   const [searchResults, showSearch] = useState(0);
+  const { theme, toggleTheme } = useTheme();
 
   const handleClick = () => {
     setSearchTerm("");
@@ -105,6 +108,21 @@ export default function Navbar({userName,toggleSideMenu,collapsed}) {
       <div className="nav-left-flex hide-item rounded-lg bg-blue-400 px-2">
         <span className="material-symbols-outlined text-white">notifications</span>
         <span className="material-symbols-outlined hide-item text-white">bookmark_added</span>
+        
+        {/* Theme Toggle Button */}
+        <button
+          onClick={toggleTheme}
+          className="flex items-center justify-center w-8 h-8 transition-all duration-300 rounded-full hover:bg-blue-500 focus:outline-none focus:ring-2 focus:ring-white/50"
+          aria-label="Toggle theme"
+          title={theme === 'light' ? 'Switch to dark mode' : 'Switch to light mode'}
+        >
+          {theme === 'light' ? (
+            <BsMoon className="w-5 h-5 text-white transition-transform duration-300 hover:scale-110" />
+          ) : (
+            <BsSun className="w-5 h-5 text-white transition-transform duration-300 hover:scale-110 hover:rotate-90" />
+          )}
+        </button>
+
         <div
           style={{
             display: "flex",

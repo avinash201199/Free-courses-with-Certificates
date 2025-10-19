@@ -10,6 +10,12 @@ nav {
 
   padding: 30px 120px;
   box-shadow: 0 0 20px rgb(212, 212, 212);
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.dark nav {
+  background: #1e293b;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 
 .title-nav {
@@ -78,6 +84,12 @@ nav {
   box-shadow: 0 10px 20px rgba(110, 110, 110, 0.226);
   scrollbar-gutter: auto;
   border-radius: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.dark .search-bar-area {
+  background: #1e293b;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
 }
 
 .search-card-items {
@@ -119,6 +131,12 @@ nav {
   background: #fff;
   color: rgb(80, 80, 80);
   font-size: 0.9rem;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.dark .search-card-items > * > .card-price-button > .card-button {
+  background: #334155;
+  color: #e2e8f0;
 }
 
 .search-card-items > *:hover .card-button {

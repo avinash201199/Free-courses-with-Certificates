@@ -21,6 +21,14 @@
   box-shadow: 0 0 10px rrgb(177, 177, 177);
 }
 
+.dark .collapse-main > span,
+.dark .is-open {
+  background: #1e293b;
+  border-color: #475569;
+  color: #e2e8f0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
 .collapse-main > span:hover,
 .collapse-main > span,
 .is-open {
@@ -32,6 +40,11 @@
   background: #fff;
   width: 88%;
   margin: 0 auto;
+  transition: background-color 0.3s ease;
+}
+
+.dark .Collapsible__contentOuter {
+  background: #334155;
 }
 
 .Collapsible__contentInner {

@@ -4,6 +4,24 @@
 
 :root {
   background-color: #F0F0FF;
+  --bg-primary: #F0F0FF;
+  --bg-secondary: #ffffff;
+  --text-primary: #1f2937;
+  --text-secondary: #4b5563;
+  --border-color: #e5e7eb;
+  --card-bg: #ffffff;
+  --hover-bg: #f3f4f6;
+}
+
+.dark {
+  background-color: #0f172a;
+  --bg-primary: #0f172a;
+  --bg-secondary: #1e293b;
+  --text-primary: #f1f5f9;
+  --text-secondary: #cbd5e1;
+  --border-color: #334155;
+  --card-bg: #1e293b;
+  --hover-bg: #334155;
 }
 
 * {
@@ -11,6 +29,16 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+html {
+  background-color: var(--bg-primary);
 }
 
 
@@ -66,7 +94,7 @@ span.material-symbols-outlined:hover {
   width: 88% !important;
   display: block;
   padding: 20px 40px;
-  transition: all 0.2s ease;
+  transition: all 0.3s ease;
   text-transform: uppercase;
   margin: 0 auto;
   border: 1px solid rgb(177, 177, 177) !important;
@@ -74,6 +102,13 @@ span.material-symbols-outlined:hover {
   z-index: 2;
   overflow: hidden;
   background: white !important;
+}
+
+.dark .collapse-main > span, 
+.dark .is-open {
+  background: #1e293b !important;
+  border-color: #475569 !important;
+  color: #e2e8f0;
 }
 
 .collapse-main > span, .is-open {

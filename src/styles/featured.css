@@ -9,6 +9,11 @@
   color: rgb(80, 80, 80);
   letter-spacing: 0.5px;
   padding: 30px 20px;
+  transition: color 0.3s ease;
+}
+
+.dark .featured-title {
+  color: #e2e8f0;
 }
 
 .featured-card {
@@ -20,6 +25,12 @@
   cursor: default;
   transition: all 0.3s ease-in-out;
   margin-bottom: 15px;
+}
+
+.dark .featured-card {
+  background: #1e293b;
+  box-shadow: 0 0px 4px rgba(0, 0, 0, 0.5);
+  color: #e2e8f0;
 }
 
 .featured-card > *:not(:last-child) {
