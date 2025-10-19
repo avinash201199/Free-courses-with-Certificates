@@ -163,3 +163,22 @@
     font-size: 1rem !important;
   }
 }
+.back-to-top {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  background-color: #0ae;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease, opacity 0.3s ease;
+  z-index: 1000;
+}
+
+.back-to-top:hover {
+  background-color: #0088cc;
+  opacity: 0.9;
+}
