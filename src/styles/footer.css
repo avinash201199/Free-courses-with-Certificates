@@ -2,6 +2,12 @@
   background: #fff;
   text-align: center;
   padding: 20px 30px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.dark .footer {
+  background: #1e293b;
+  color: #e2e8f0;
 }
 
 .close-search-btn {

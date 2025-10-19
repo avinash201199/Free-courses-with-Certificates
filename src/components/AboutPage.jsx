@@ -1,8 +1,11 @@
 import React from "react";
+import { useTheme } from "../contexts/ThemeContext";
 
 function About() {
+  const { theme } = useTheme();
+  
   return (
-    <div className="relative min-h-screen overflow-hidden bg-gradient-to-b from-blue-500 via-blue-600 to-blue-700">
+    <div className={`relative min-h-screen overflow-hidden transition-colors duration-300 ${theme === 'dark' ? 'bg-gradient-to-b from-slate-900 via-slate-800 to-gray-900' : 'bg-gradient-to-b from-blue-500 via-blue-600 to-blue-700'}`}>
       {/* Animated Background Blobs */}
       <div aria-hidden="true" className="absolute inset-0 pointer-events-none select-none">
         <div className="absolute rounded-full -top-32 -right-32 w-96 h-96 bg-gradient-to-br from-fuchsia-400/30 to-pink-400/30 blur-3xl animate-pulse"></div>
