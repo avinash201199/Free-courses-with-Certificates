@@ -12,6 +12,7 @@ export default function Footer() {
   }, []);
 
   return (
+    <>
 
     <footer className="footer">
       <div className="footer-content">
@@ -57,10 +58,8 @@ export default function Footer() {
             <i className="fa-brands fa-linkedin"></i>
           </a>
         </div>
+        </div>
    </footer>
-  );
-}
-
       {isVisible && (
   <button 
     className="back-to-top" 
@@ -68,5 +67,8 @@ export default function Footer() {
   >
     ↑ Back to Top
   </button>
-)}
- 
+ )}
+    </>
+  );
+}
+
