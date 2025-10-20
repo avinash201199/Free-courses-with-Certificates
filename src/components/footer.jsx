@@ -1,7 +1,18 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import "../styles/footer.css";
 export default function Footer() {
+    const [isVisible, setIsVisible] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setIsVisible(window.scrollY > 200); // button visible after scrolling 200px
+    };
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
   return (
+
     <footer className="footer">
       <div className="footer-content">
         <p>
@@ -46,7 +57,16 @@ export default function Footer() {
             <i className="fa-brands fa-linkedin"></i>
           </a>
         </div>
-      </div>
-    </footer>
+   </footer>
   );
 }
+
+      {isVisible && (
+  <button 
+    className="back-to-top" 
+    onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+  >
+    ↑ Back to Top
+  </button>
+)}
+ 
