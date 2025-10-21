@@ -173,6 +173,9 @@ Website- https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01330144
 GREAT LEARNING ACADEMY- Introduction to Deep Learning<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/introduction-to-deep-learning<br>
 <br>
+DeepLearning.AI - ChatGPT Prompt Engineering for Developers<br>
+Website-https://learn.deeplearning.ai/courses/chatgpt-prompt-eng<br>
+<br>
 GREAT LEARNING ACADEMY- Computer Vision Essentials<br>
 Website- https://www.greatlearning.in/academy/learn-for-free/courses/computer-vision-essentials<br>
 <br>
