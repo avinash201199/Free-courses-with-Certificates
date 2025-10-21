@@ -1,8 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 /* eslint-disable max-len */
-import headlessui from "@headlessui/tailwindcss";
-
-export default {
+module.exports = {
   content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
@@ -130,5 +128,5 @@ export default {
         /^(fill-(?:slate|gray|zinc|neutral|stone|red|orange|amber|yellow|lime|green|emerald|teal|cyan|sky|blue|indigo|violet|purple|fuchsia|pink|rose)-(?:50|100|200|300|400|500|600|700|800|900|950))$/,
     },
   ],
-  plugins: [headlessui],
+  plugins: [require("@headlessui/tailwindcss")],
 };

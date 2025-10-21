@@ -7,14 +7,11 @@ import TitleTop from "./titleTop";
 import Navbar from "./navbar";
 import Footer from "./footer";
 
-const Layout = ({ isAuth,userName, isLoggedIn,handleAuth }) => {
-  const [active, setActive] = useState(false);
+const Layout = ({ isAuth, userName, isLoggedIn, handleAuth }) => {
   const location = useLocation();
+  // Sidebar collapsed state is now lifted here
   const [collapsed, setCollapsed] = useState(true);
-  const toggleSideMenu = () => {
-    setActive(!active);
-    setCollapsed(!collapsed);
-  };
+  const toggleSideMenu = () => setCollapsed((prev) => !prev);
 
   const hideNavbarPaths = ["/login", "/signup"];
   const showNavbar = !hideNavbarPaths.includes(location.pathname);
@@ -22,13 +19,26 @@ const Layout = ({ isAuth,userName, isLoggedIn,handleAuth }) => {
   return (
     <>
       <TitleTop />
-      {showNavbar && <Navbar userName={userName} toggleSideMenu={toggleSideMenu} />}
-      <SideMenu isAuth={isAuth} handleAuth={handleAuth}/>
+      {showNavbar && (
+        <Navbar userName={userName} toggleSideMenu={toggleSideMenu} />
+      )}
+      {/* Pass collapsed and toggle to SideMenu */}
+      <SideMenu
+        isAuth={isAuth}
+        handleAuth={handleAuth}
+        collapsed={collapsed}
+        toggleSidebar={toggleSideMenu}
+      />
+      {/* Pass collapsed to Outlet context for AboutPage */}
       <main className="main-content">
-        <Outlet /> {/* Page content goes here */}
-      </main>{/* ✅ Footer is now consistent across all pages */}
+        <Outlet
+          context={{
+            sidebarCollapsed: collapsed,
+            toggleSidebar: toggleSideMenu,
+          }}
+        />
+      </main>
     </>
-    
   );
 };
 
