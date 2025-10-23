@@ -1448,7 +1448,13 @@
         "name": "GeeksforGeeks- Full Java Course",
         "source": "GeeksforGeeks",
         "link": "https://www.geeksforgeeks.org/batch/skill-up-java"
-      }
+      },
+      {
+        "icon": "fab fa-java",
+        "name": "Introduction to Java Spring Framework",
+        "source": "Simplilearn",
+        "link": "https://www.simplilearn.com/introduction-to-java-spring-framework-fundamentals-skillup"
+      } 
   ]
 },
 {
