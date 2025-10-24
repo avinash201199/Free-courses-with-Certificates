@@ -47,6 +47,13 @@ export default function Sidemenu({
           </li>
         </Link>
 
+        <Link to="/roadmap">
+          <li className="sidemenu-item">
+            <span className="material-symbols-outlined">school</span>
+            {!collapsed && <span>Learning Roadmap</span>}
+          </li>
+        </Link>
+
         <li className="sidemenu-item">
           <span className="material-symbols-outlined">person</span>
           {!collapsed && <span>Students</span>}
