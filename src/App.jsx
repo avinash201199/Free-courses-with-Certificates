@@ -4,7 +4,7 @@ import ProtectedRoute from "./components/ProtectedRoute";
 import Layout from "./components/Layout";
 import Dashboard from "./components/Dashboard";
 import AboutPage from "./components/AboutPage";
-import Main from "./components/Main";
+import Main from "./components/main";
 import ErrorPage from "./components/ErrorPage";
 import Login from "./components/Login";
 import Signup from "./components/Signup";
