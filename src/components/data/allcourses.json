@@ -1967,6 +1967,12 @@
       "name": "React Free Course with Certificate",
       "source": "upGrad",
       "link": "https://www.knowledgehut.com/free-courses/free-react-course-with-certificate"
+    },
+    {
+      "icon": "fab fa-react",
+      "name": "Introduction to HTML, CSS, & JavaScript by IBM",
+      "source": "coursera",
+      "link": "https://www.coursera.org/learn/introduction-html-css-javascript`"
     }
   ]
 },
