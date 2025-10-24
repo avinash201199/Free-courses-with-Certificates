@@ -2812,6 +2812,12 @@
         "name": "Graphic Design",
         "source": "Alison",
         "link": "https://alison.com/course/graphic-design"
+      },
+      {
+        "icon": "fa-solid fa-pencil-ruler",
+        "name": "Product Design",
+        "source": "Udacity",
+        "link": "https://www.udacity.com/course/product-design--ud509"
       }
     ]
   },
