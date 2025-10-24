@@ -22,7 +22,7 @@ You can contribute in many ways to this repository
 
 Check [Contributing.md](https://github.com/avinash201199/Free-courses-with-Certificates/blob/main/CONTRIBUTING.md) file to get started
 
-#### Note- Before contributing, please create an issue first so that I can assign you and you can start working on it.
+#### Note- Before contributing, please create an issue first so that I can assign you and you can start working on it. <br>
 
 <br>
 <br>
