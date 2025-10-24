@@ -4,10 +4,17 @@ import ProtectedRoute from "./components/ProtectedRoute";
 import Layout from "./components/Layout";
 import Dashboard from "./components/Dashboard";
 import AboutPage from "./components/AboutPage";
-import Main from "./components/main";
+import Main from "./components/Main";
 import ErrorPage from "./components/ErrorPage";
 import Login from "./components/Login";
 import Signup from "./components/Signup";
+import LearningRoadmap from "./components/LearningRoadmap";
+
+const freeCourses = [
+  "Coursera Python Basics",
+  "edX Data Science Fundamentals",
+  "Kaggle Machine Learning",
+];
 
 export default function App() {
   const [isAuth, setIsAuth] = useState(false); // Track login state
@@ -37,6 +44,7 @@ export default function App() {
           path: "dashboard",
           element: <Dashboard />,
         },
+       
         {
           path: "about",
           element: <AboutPage />,
@@ -49,6 +57,11 @@ export default function App() {
           path: "signup",
           element: <Signup onSignup={setIsAuth} setUserName={setUserName} />,
         },
+        {
+           path: "roadmap",
+           element: <LearningRoadmap courses={freeCourses} /> 
+        }, 
+
       ],
     },
   ]);
