@@ -1593,6 +1593,12 @@ Website - https://www.simplilearn.com/free-generative-ai-course-skillup<br>
  Website- https://www.kaggle.com/learn/advanced-sql
 </details>
 
+<details>
+  <summary>AI Prompt Engineering for Beginners</summary>
+  <br>
+  Website- https://alison.com/course/prompt-engineering-for-ai-applications
+</details>
+
 ### License 
 
 This project is licensed under the [MIT License](./LICENSE).
