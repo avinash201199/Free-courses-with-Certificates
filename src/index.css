@@ -133,13 +133,30 @@ span.material-symbols-outlined:hover {
   margin-left: 1rem !important;
 }
 
-.sidemenu-bar-items {
-  margin-right: 1.5rem !important;
+.sidemenu-item {
+  margin: 5px;
 }
 
-.sidemenu-bar-items:hover {
+.sidemenu-item:hover {
+  border-radius: 0.7rem;
+}
+
+.sidemenu-item.active {
   background: #fff;
   color: #216fff;
   border-radius: 0.7rem;
+}
+.sidemenu-item.active:hover {
+  background: #fff;
+  color: #216fff;
+  border-radius: 0.7rem;
+}
 
+/* ensure links inherit the li styles */
+.sidemenu-item > a {
+  display: flex;
+  gap: 12px;
+  color: inherit;
+  text-decoration: none;
+  width: 100%;
 }
