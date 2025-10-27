@@ -20,16 +20,16 @@
   transform: scale(0.95);
   padding: 30px;
   background: #fff;
-  border-radius: 10px;
-  box-shadow: 0 0px 4px rgb(190, 190, 190);
-  cursor: default;
-  transition: all 0.3s ease-in-out;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: all 0.3s ease;
   margin-bottom: 15px;
 }
 
 .dark .featured-card {
   background: #1e293b;
-  box-shadow: 0 0px 4px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
   color: #e2e8f0;
 }
 
@@ -38,9 +38,10 @@
 }
 
 .featured-card:hover {
-  transform: scale(1.01) translate(0, -10px);
+  transform: scale(1.02) translateY(-5px);
   color: #fff;
   background: #219bff;
+  box-shadow: 0 8px 25px rgba(33, 155, 255, 0.2);
 }
 
 .featured-card:hover .card-icon > * {
@@ -93,11 +94,11 @@
 }
 
 .card-button {
-  padding: 2px 10px;
+  padding: 6px 12px;
   color: #fff;
   transition: all 0.2s ease;
   background: #216fff;
   text-decoration: none;
   cursor: pointer;
-  border-radius: 4px;
+  border-radius: 6px;
 }

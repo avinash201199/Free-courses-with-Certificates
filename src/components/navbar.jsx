@@ -1,7 +1,9 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 import json from "./data/allcourses.json";
 import { Button } from "react-bootstrap";
 import OutsideAlerter from "./Outsideclick";
+import { useBookmarks } from "../context/BookmarkContext";
 import "../styles/navbar.css";
 import { useTheme } from "../contexts/ThemeContext";
 import { useTranslation } from 'react-i18next';
@@ -15,7 +17,10 @@ export default function Navbar({userName,toggleSideMenu,collapsed}) {
   const [searchTerm, setSearchTerm] = useState("");
   const [searchResults, showSearch] = useState(0);
   const { theme, toggleTheme } = useTheme();
+
   const { t } = useTranslation();
+
+  const { bookmarks } = useBookmarks();
 
   const handleClick = () => {
     setSearchTerm("");
@@ -109,7 +114,14 @@ export default function Navbar({userName,toggleSideMenu,collapsed}) {
       </OutsideAlerter>
       <div className="nav-left-flex hide-item rounded-lg bg-blue-400 px-2">
         <span className="material-symbols-outlined text-white">notifications</span>
-        <span className="material-symbols-outlined hide-item text-white">bookmark_added</span>
+        <Link to="/bookmarks" className="relative">
+          <span className="material-symbols-outlined hide-item text-white hover:text-yellow-300 transition-colors">bookmark_added</span>
+          {bookmarks.length > 0 && (
+            <span className="absolute -top-2 -right-2 bg-red-500 text-white text-xs rounded-full h-5 w-5 flex items-center justify-center">
+              {bookmarks.length}
+            </span>
+          )}
+        </Link>
         
         {/* Theme Toggle Button */}
         <button
