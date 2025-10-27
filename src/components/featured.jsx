@@ -6,7 +6,24 @@ import { useTranslation } from 'react-i18next';
 const FeaturedCards = () => {
   const { t } = useTranslation();
   
+  // Map course names to translation keys
+  const getNameKey = (name) => {
+    const nameMap = {
+      "Android Application Development": "featuredCourses.androidAppDevelopment",
+      "Machine Learning": "featuredCourses.machineLearning",
+      "Free Linux course": "featuredCourses.freeLinuxCourse",
+      "GitHub Tutorial for Beginners": "featuredCourses.githubTutorialBeginners",
+      "React + Redux": "featuredCourses.reactRedux",
+      "Docker Best Practices": "featuredCourses.dockerBestPractices"
+    };
+    
+    return nameMap[name] || null;
+  };
+  
   const Data = featuredData.map((data, key) => {
+    const nameKey = getNameKey(data.name);
+    const displayName = nameKey ? t(nameKey) : data.name;
+    
     return (
       <div className="col-lg-4 featured-card" key={key}>
         <div className="card-icon-title">
@@ -14,7 +31,7 @@ const FeaturedCards = () => {
             <i class={data.icon}></i>
           </div>
           <div className="card-title">
-            <b>{data.name}</b>
+            <b>{displayName}</b>
           </div>
         </div>
         <div className="card-desc">{t('course.source')}: {data.source}</div>
