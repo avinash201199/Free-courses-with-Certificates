@@ -2812,6 +2812,12 @@
         "name": "Graphic Design",
         "source": "Alison",
         "link": "https://alison.com/course/graphic-design"
+      },
+      {
+        "icon": "fa-solid fa-pencil-ruler",
+        "name": "Product Design",
+        "source": "Udacity",
+        "link": "https://www.udacity.com/course/product-design--ud509"
       }
     ]
   },
@@ -3228,5 +3234,16 @@
         "link": "https://www.cloudskillsboost.google/course_templates/536"
       }
     ]
-  }
+  },
+  {
+  "title": "AI Prompt Engineering",
+  "cards": [
+    {
+      "icon": "fas fa-robot",
+      "name": "AI Prompt Engineering for Beginners",
+      "source": "alison.com",
+      "link": "https://alison.com/course/prompt-engineering-for-ai-applications"
+    }
+  ]
+}
 ]

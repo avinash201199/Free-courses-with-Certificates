@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { BookmarkProvider } from "./context/BookmarkContext";
 import ProtectedRoute from "./components/ProtectedRoute";
 import Layout from "./components/Layout";
 import Dashboard from "./components/Dashboard";
@@ -15,6 +16,7 @@ const freeCourses = [
   "edX Data Science Fundamentals",
   "Kaggle Machine Learning",
 ];
+import Bookmarks from "./components/Bookmarks";
 
 export default function App() {
   const [isAuth, setIsAuth] = useState(false); // Track login state
@@ -61,10 +63,17 @@ export default function App() {
            path: "roadmap",
            element: <LearningRoadmap courses={freeCourses} /> 
         }, 
-
+          {
+          path: "bookmarks",
+          element: <Bookmarks />,
+        },
       ],
     },
   ]);
 
-  return <RouterProvider router={router} />;
+  return (
+    <BookmarkProvider>
+      <RouterProvider router={router} />
+    </BookmarkProvider>
+  );
 }

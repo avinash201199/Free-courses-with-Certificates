@@ -1339,6 +1339,10 @@ Website-https://www.udemy.com/course/uxui-design-for-beginners/<br>
  Alison- Graphic Design<br>
  Website- https://alison.com/course/graphic-design<br>
  <br>
+ <br>
+ Udacity - Product Design<br>
+ Website- https://www.udacity.com/course/product-design--ud509<br>
+ <br>
 </details>
 
 <details>
@@ -1591,6 +1595,12 @@ Website - https://www.simplilearn.com/free-generative-ai-course-skillup<br>
  <summary>Advanced SQL</summary>
  <br>
  Website- https://www.kaggle.com/learn/advanced-sql
+</details>
+
+<details>
+  <summary>AI Prompt Engineering for Beginners</summary>
+  <br>
+  Website- https://alison.com/course/prompt-engineering-for-ai-applications
 </details>
 
 ### License 

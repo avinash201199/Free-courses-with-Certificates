@@ -1,3 +1,40 @@
 .main {
   width: 85vw;
 }
+
+/* Dark mode input styling */
+.dark input {
+  background-color: #334155 !important;
+  color: #e2e8f0 !important;
+  border-color: #475569 !important;
+}
+
+.dark input::placeholder {
+  color: #94a3b8 !important;
+}
+
+.dark input:focus {
+  background-color: #475569 !important;
+  border-color: #219bff !important;
+}
+
+/* Dark mode form styling */
+.dark .bg-white {
+  background-color: #1e293b !important;
+}
+
+.dark .bg-gray-50 {
+  background-color: #0f172a !important;
+}
+
+.dark .text-gray-800 {
+  color: #e2e8f0 !important;
+}
+
+.dark .text-gray-700 {
+  color: #cbd5e1 !important;
+}
+
+.dark .text-gray-500 {
+  color: #94a3b8 !important;
+}

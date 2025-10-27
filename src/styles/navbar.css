@@ -8,7 +8,7 @@ nav {
 
   background: #fff;
 
-  padding: 30px 120px;
+  padding: 15px 120px;
   box-shadow: 0 0 20px rgb(212, 212, 212);
   transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
