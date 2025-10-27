@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "होम",
+    "dashboard": "डैशबोर्ड",
+    "about": "के बारे में",
+    "login": "लॉगिन",
+    "signup": "साइन अप",
+    "logout": "लॉगआउट",
+    "courses": "पाठ्यक्रम",
+    "students": "छात्र",
+    "library": "पुस्तकालय",
+    "notifications": "सूचनाएं",
+    "bookmarks": "बुकमार्क",
+    "menu": "मेनू"
+  },
+  "search": {
+    "placeholder": "खोजें..",
+    "noCourses": "कोई पाठ्यक्रम नहीं मिला"
+  },
+  "main": {
+    "title": "प्रमाणपत्र के साथ मुफ्त पाठ्यक्रम",
+    "subtitle": "मुफ्त प्रमाणित पाठ्यक्रमों के साथ नए कौशल सीखें",
+    "featuredCourses": "विशेष पाठ्यक्रम",
+    "allCourses": "सभी पाठ्यक्रम"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "signup": "साइन अप",
+    "email": "ईमेल",
+    "emailAddress": "ईमेल पता",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "fullName": "पूरा नाम",
+    "username": "उपयोगकर्ता नाम",
+    "name": "नाम",
+    "alreadyHaveAccount": "क्या आपके पास पहले से एक खाता मौजूद है?",
+    "dontHaveAccount": "खाता नहीं है?",
+    "loginSuccess": "लॉगिन सफल!",
+    "signupSuccess": "खाता सफलतापूर्वक बनाया गया!",
+    "allFieldsRequired": "सभी फ़ील्ड आवश्यक हैं",
+    "passwordsDontMatch": "पासवर्ड मेल नहीं खाते",
+    "passwordRequirements": "पासवर्ड कम से कम 8 अक्षर लंबा होना चाहिए और इसमें अपरकेस, लोअरकेस, संख्या और विशेष वर्ण शामिल होना चाहिए।",
+    "pleaseFillAllFields": "कृपया सभी फ़ील्ड भरें",
+    "passwordStrength": "पासवर्ड की मजबूती",
+    "weak": "कमजोर",
+    "medium": "मध्यम",
+    "strong": "मजबूत"
+  },
+  "dashboard": {
+    "title": "डैशबोर्ड",
+    "welcome": "वापसी पर स्वागत है",
+    "myCourses": "मेरे पाठ्यक्रम",
+    "inProgress": "प्रगति में",
+    "completed": "पूर्ण",
+    "saved": "सहेजा गया",
+    "numberOfCourses": "पाठ्यक्रमों की संख्या",
+    "chartTitle": "पाठ्यक्रमों की संख्या"
+  },
+  "about": {
+    "title": "हमारे बारे में",
+    "welcomeTag": "हमारे समुदाय में आपका स्वागत है",
+    "subtitle": "मुफ्त, उच्च-गुणवत्ता वाली शिक्षा और मान्यता प्राप्त प्रमाणपत्रों के साथ दुनिया भर के शिक्षार्थियों को सशक्त बनाना।",
+    "welcomeTitle": "स्वागत है!",
+    "welcomeDesc": "यह पहल शुरू की गई थी",
+    "welcomeDesc2": "GitHub से अमूल्य योगदान के साथ",
+    "community": "समुदाय",
+    "missionTitle": "हमारा मिशन",
+    "missionDesc": "हमारा मिशन प्रदान करना है",
+    "missionDesc2": "प्रमाणपत्र के साथ मुफ्त पाठ्यक्रम",
+    "missionDesc3": "शिक्षार्थियों को वैश्विक स्तर पर अपने कौशल और ज्ञान को बढ़ाने में मदद करने के लिए।",
+    "openSourceTitle": "ओपन सोर्स",
+    "openSourceDesc": "यह रिपॉजिटरी ओपन-सोर्स है और उपलब्ध है",
+    "openSourceDesc2": "यहाँ",
+    "openSourceDesc3": "। योगदान देने के लिए स्वतंत्र महसूस करें!"
+  },
+  "course": {
+    "source": "स्रोत",
+    "price": "मूल्य",
+    "free": "मुफ्त",
+    "goToCourse": "पाठ्यक्रम पर जाएं"
+  },
+  "footer": {
+    "proudlyMadeBy": "गर्व से बनाया गया",
+    "and": "और"
+  },
+  "theme": {
+    "switchToDark": "डार्क मोड पर स्विच करें",
+    "switchToLight": "लाइट मोड पर स्विच करें"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "कुछ गलत हो गया",
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "search": "खोजें",
+    "filter": "फ़िल्टर",
+    "sort": "क्रमबद्ध करें",
+    "backToTop": "शीर्ष पर वापस जाएं"
+  },
+  "errorPage": {
+    "title": "404",
+    "message": "आप जिस पृष्ठ की तलाश कर रहे हैं वह नहीं मिला।",
+    "backToHome": "होम पर वापस जाएं"
+  }
+}

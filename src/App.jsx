@@ -8,6 +8,7 @@ import Main from "./components/main";
 import ErrorPage from "./components/ErrorPage";
 import Login from "./components/Login";
 import Signup from "./components/Signup";
+import "./i18n/config";
 
 export default function App() {
   const [isAuth, setIsAuth] = useState(false); // Track login state

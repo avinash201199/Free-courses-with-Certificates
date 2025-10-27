@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "dashboard": "لوحة التحكم",
+    "about": "حول",
+    "login": "تسجيل الدخول",
+    "signup": "التسجيل",
+    "logout": "تسجيل الخروج",
+    "courses": "الدورات",
+    "students": "الطلاب",
+    "library": "المكتبة",
+    "notifications": "الإشعارات",
+    "bookmarks": "الإشارات المرجعية",
+    "menu": "القائمة"
+  },
+  "search": {
+    "placeholder": "البحث..",
+    "noCourses": "لم يتم العثور على دورات"
+  },
+  "main": {
+    "title": "دورات مجانية مع شهادات",
+    "subtitle": "تعلم مهارات جديدة مع دورات معتمدة مجانية",
+    "featuredCourses": "الدورات المميزة",
+    "allCourses": "جميع الدورات"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "signup": "التسجيل",
+    "email": "البريد الإلكتروني",
+    "emailAddress": "عنوان البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "fullName": "الاسم الكامل",
+    "username": "اسم المستخدم",
+    "name": "الاسم",
+    "alreadyHaveAccount": "هل لديك حساب بالفعل؟",
+    "dontHaveAccount": "ليس لديك حساب؟",
+    "loginSuccess": "تم تسجيل الدخول بنجاح!",
+    "signupSuccess": "تم إنشاء الحساب بنجاح!",
+    "allFieldsRequired": "جميع الحقول مطلوبة",
+    "passwordsDontMatch": "كلمات المرور غير متطابقة",
+    "passwordRequirements": "يجب أن تكون كلمة المرور 8 أحرف على الأقل وتتضمن أحرف كبيرة وصغيرة وأرقام وأحرف خاصة.",
+    "pleaseFillAllFields": "يرجى ملء جميع الحقول",
+    "passwordStrength": "قوة كلمة المرور",
+    "weak": "ضعيفة",
+    "medium": "متوسطة",
+    "strong": "قوية"
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "welcome": "مرحبا بعودتك",
+    "myCourses": "دوراتي",
+    "inProgress": "قيد التقدم",
+    "completed": "مكتمل",
+    "saved": "محفوظ",
+    "numberOfCourses": "عدد الدورات",
+    "chartTitle": "عدد الدورات"
+  },
+  "about": {
+    "title": "معلومات عنا",
+    "welcomeTag": "مرحبًا بك في مجتمعنا",
+    "subtitle": "تمكين المتعلمين في جميع أنحاء العالم من خلال التعليم المجاني عالي الجودة والشهادات المعترف بها.",
+    "welcomeTitle": "مرحبًا!",
+    "welcomeDesc": "تم بدء هذه المبادرة بواسطة",
+    "welcomeDesc2": "مع مساهمات قيمة من",
+    "community": "المجتمع",
+    "missionTitle": "مهمتنا",
+    "missionDesc": "مهمتنا هي توفير",
+    "missionDesc2": "دورات مجانية مع شهادات",
+    "missionDesc3": "لمساعدة المتعلمين على تحسين مهاراتهم ومعرفتهم عالميًا.",
+    "openSourceTitle": "مفتوح المصدر",
+    "openSourceDesc": "هذا المستودع مفتوح المصدر ومتاح",
+    "openSourceDesc2": "هنا",
+    "openSourceDesc3": ". لا تتردد في المساهمة!"
+  },
+  "course": {
+    "source": "المصدر",
+    "price": "السعر",
+    "free": "مجاني",
+    "goToCourse": "الذهاب إلى الدورة"
+  },
+  "footer": {
+    "proudlyMadeBy": "صنع بفخر بواسطة",
+    "and": "و"
+  },
+  "theme": {
+    "switchToDark": "التبديل إلى الوضع الداكن",
+    "switchToLight": "التبديل إلى الوضع الفاتح"
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ ما",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "search": "بحث",
+    "filter": "تصفية",
+    "sort": "ترتيب",
+    "backToTop": "العودة إلى الأعلى"
+  },
+  "errorPage": {
+    "title": "404",
+    "message": "الصفحة التي تبحث عنها غير موجودة.",
+    "backToHome": "العودة إلى الصفحة الرئيسية"
+  }
+}

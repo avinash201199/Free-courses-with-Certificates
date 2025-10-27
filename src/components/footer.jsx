@@ -1,7 +1,10 @@
 import React, { useState, useEffect } from "react";
 import "../styles/footer.css";
+import { useTranslation } from 'react-i18next';
+
 export default function Footer() {
     const [isVisible, setIsVisible] = useState(false);
+  const { t } = useTranslation();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -17,7 +20,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer-content">
         <p>
-          Proudly made by{" "}
+          {t('footer.proudlyMadeBy')}{" "}
           <a
             href="https://www.linkedin.com/in/avinash-singh-071b79175/"
             target="_blank"
@@ -33,7 +36,7 @@ export default function Footer() {
           >
             Vansh
           </a>{" "}
-          and{" "}
+          {t('footer.and')}{" "}
           <a
             href="https://github.com/avinash201199/Free-courses-with-Certificates/graphs/contributors"
             target="_blank"
@@ -65,7 +68,7 @@ export default function Footer() {
     className="back-to-top" 
     onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
   >
-    ↑ Back to Top
+    ↑ {t('common.backToTop')}
   </button>
  )}
     </>

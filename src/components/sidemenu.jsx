@@ -1,6 +1,7 @@
 import React from "react";
 import { Link, useNavigate } from "react-router-dom";
 import "../styles/sidemenu.css";
+import { useTranslation } from 'react-i18next';
 
 export default function Sidemenu({
   isAuth,
@@ -9,6 +10,7 @@ export default function Sidemenu({
   toggleSidebar,
 }) {
   const navigate = useNavigate();
+  const { t } = useTranslation();
 
   const handleLogoutClick = () => {
     handleAuth(); // Clears username & sets isAuth = false
@@ -27,7 +29,7 @@ export default function Sidemenu({
       {/* Sidebar Header (visible only when expanded) */}
       {!collapsed && (
         <div className="sidemenu-header">
-          <h1>Free Courses with Certificates</h1>
+          <h1>{t('main.title')}</h1>
         </div>
       )}
 
@@ -36,25 +38,25 @@ export default function Sidemenu({
         <Link to="/dashboard">
           <li className="sidemenu-item">
             <span className="material-symbols-outlined">dashboard</span>
-            {!collapsed && <span>Dashboard</span>}
+            {!collapsed && <span>{t('nav.dashboard')}</span>}
           </li>
         </Link>
 
         <Link to="/">
           <li className="sidemenu-item">
             <span className="material-symbols-outlined">book</span>
-            {!collapsed && <span>Courses</span>}
+            {!collapsed && <span>{t('nav.courses')}</span>}
           </li>
         </Link>
 
         <li className="sidemenu-item">
           <span className="material-symbols-outlined">person</span>
-          {!collapsed && <span>Students</span>}
+          {!collapsed && <span>{t('nav.students')}</span>}
         </li>
 
         <li className="sidemenu-item">
           <span className="material-symbols-outlined">library_books</span>
-          {!collapsed && <span>Library</span>}
+          {!collapsed && <span>{t('nav.library')}</span>}
         </li>
 
         <Link to="/about">
@@ -62,7 +64,7 @@ export default function Sidemenu({
             <span className="material-symbols-outlined">
               sentiment_very_satisfied
             </span>
-            {!collapsed && <span>About</span>}
+            {!collapsed && <span>{t('nav.about')}</span>}
           </li>
         </Link>
 
@@ -80,7 +82,7 @@ export default function Sidemenu({
           <span className="material-symbols-outlined">
             {isAuth ? "logout" : "login"}
           </span>
-          {!collapsed && <span>{isAuth ? "Logout" : "Login"}</span>}
+          {!collapsed && <span>{isAuth ? t('nav.logout') : t('nav.login')}</span>}
         </li>
       </ul>
     </div>

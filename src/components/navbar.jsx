@@ -4,15 +4,18 @@ import { Button } from "react-bootstrap";
 import OutsideAlerter from "./Outsideclick";
 import "../styles/navbar.css";
 import { useTheme } from "../contexts/ThemeContext";
+import { useTranslation } from 'react-i18next';
 
 import {FiDelete} from "react-icons/fi";
 import {GrClear} from "react-icons/gr";
 import {BsSun, BsMoon} from "react-icons/bs";
+import LanguageSwitcher from './LanguageSwitchbar'; // Changed from './LanguageSwitcher' to './LanguageSwitchbar'
 
 export default function Navbar({userName,toggleSideMenu,collapsed}) {
   const [searchTerm, setSearchTerm] = useState("");
   const [searchResults, showSearch] = useState(0);
   const { theme, toggleTheme } = useTheme();
+  const { t } = useTranslation();
 
   const handleClick = () => {
     setSearchTerm("");
@@ -39,7 +42,7 @@ export default function Navbar({userName,toggleSideMenu,collapsed}) {
           <input
             type="text"
             className="search-bar-input"
-            placeholder="Search.."
+            placeholder={t('search.placeholder')}
             id="search"
             onFocus={() => showSearch(1)}
             value={searchTerm}
@@ -68,7 +71,6 @@ export default function Navbar({userName,toggleSideMenu,collapsed}) {
                               style={{ width: "100%" }}
                             >
                               <div className="card-price-button">
-                                {/* <div className="card-title"></div> */}
                                 <a
                                   className="card-button"
                                   href={card.link}
@@ -114,7 +116,7 @@ export default function Navbar({userName,toggleSideMenu,collapsed}) {
           onClick={toggleTheme}
           className="flex items-center justify-center w-8 h-8 transition-all duration-300 rounded-full hover:bg-blue-500 focus:outline-none focus:ring-2 focus:ring-white/50"
           aria-label="Toggle theme"
-          title={theme === 'light' ? 'Switch to dark mode' : 'Switch to light mode'}
+          title={theme === 'light' ? t('theme.switchToDark') : t('theme.switchToLight')}
         >
           {theme === 'light' ? (
             <BsMoon className="w-5 h-5 text-white transition-transform duration-300 hover:scale-110" />
@@ -122,6 +124,9 @@ export default function Navbar({userName,toggleSideMenu,collapsed}) {
             <BsSun className="w-5 h-5 text-white transition-transform duration-300 hover:scale-110 hover:rotate-90" />
           )}
         </button>
+
+        {/* Language Switcher */}
+        <LanguageSwitcher />
 
         <div
           style={{

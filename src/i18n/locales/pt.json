@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "Início",
+    "dashboard": "Painel",
+    "about": "Sobre",
+    "login": "Entrar",
+    "signup": "Cadastrar",
+    "logout": "Sair",
+    "courses": "Cursos",
+    "students": "Estudantes",
+    "library": "Biblioteca",
+    "notifications": "Notificações",
+    "bookmarks": "Favoritos",
+    "menu": "Menu"
+  },
+  "search": {
+    "placeholder": "Pesquisar..",
+    "noCourses": "Nenhum curso encontrado"
+  },
+  "main": {
+    "title": "Cursos Gratuitos com Certificados",
+    "subtitle": "Aprenda novas habilidades com cursos certificados gratuitos",
+    "featuredCourses": "Cursos em Destaque",
+    "allCourses": "Todos os Cursos"
+  },
+  "auth": {
+    "login": "Entrar",
+    "signup": "Cadastrar",
+    "email": "E-mail",
+    "emailAddress": "Endereço de e-mail",
+    "password": "Senha",
+    "confirmPassword": "Confirmar senha",
+    "fullName": "Nome completo",
+    "username": "Nome de usuário",
+    "name": "Nome",
+    "alreadyHaveAccount": "Já tem uma conta?",
+    "dontHaveAccount": "Não tem uma conta?",
+    "loginSuccess": "Login bem-sucedido!",
+    "signupSuccess": "Conta criada com sucesso!",
+    "allFieldsRequired": "Todos os campos são obrigatórios",
+    "passwordsDontMatch": "As senhas não coincidem",
+    "passwordRequirements": "A senha deve ter pelo menos 8 caracteres e incluir maiúsculas, minúsculas, números e caracteres especiais.",
+    "pleaseFillAllFields": "Por favor, preencha todos os campos",
+    "passwordStrength": "Força da senha",
+    "weak": "Fraca",
+    "medium": "Média",
+    "strong": "Forte"
+  },
+  "dashboard": {
+    "title": "Painel",
+    "welcome": "Bem-vindo de volta",
+    "myCourses": "Meus Cursos",
+    "inProgress": "Em andamento",
+    "completed": "Concluído",
+    "saved": "Salvo",
+    "numberOfCourses": "Número de cursos",
+    "chartTitle": "Número de Cursos"
+  },
+  "about": {
+    "title": "Sobre nós",
+    "welcomeTag": "Bem-vindo à nossa comunidade",
+    "subtitle": "Capacitando estudantes em todo o mundo com educação gratuita de alta qualidade e certificados reconhecidos.",
+    "welcomeTitle": "Bem-vindo!",
+    "welcomeDesc": "Esta iniciativa foi iniciada por",
+    "welcomeDesc2": "com contribuições valiosas da",
+    "community": "comunidade",
+    "missionTitle": "Nossa Missão",
+    "missionDesc": "Nossa missão é fornecer",
+    "missionDesc2": "cursos gratuitos com certificados",
+    "missionDesc3": "para ajudar os estudantes a melhorar suas habilidades e conhecimentos globalmente.",
+    "openSourceTitle": "Código Aberto",
+    "openSourceDesc": "Este repositório é de código aberto e está disponível",
+    "openSourceDesc2": "aqui",
+    "openSourceDesc3": ". Sinta-se à vontade para contribuir!"
+  },
+  "course": {
+    "source": "Fonte",
+    "price": "Preço",
+    "free": "Grátis",
+    "goToCourse": "Ir para o Curso"
+  },
+  "footer": {
+    "proudlyMadeBy": "Feito com orgulho por",
+    "and": "e"
+  },
+  "theme": {
+    "switchToDark": "Mudar para modo escuro",
+    "switchToLight": "Mudar para modo claro"
+  },
+  "common": {
+    "loading": "Carregando...",
+    "error": "Algo deu errado",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "search": "Pesquisar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "backToTop": "Voltar ao topo"
+  },
+  "errorPage": {
+    "title": "404",
+    "message": "A página que você está procurando não foi encontrada.",
+    "backToHome": "Voltar para o início"
+  }
+}

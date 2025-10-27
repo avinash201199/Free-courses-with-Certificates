@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "about": "About",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "courses": "Courses",
+    "students": "Students",
+    "library": "Library",
+    "notifications": "Notifications",
+    "bookmarks": "Bookmarks",
+    "menu": "Menu"
+  },
+  "search": {
+    "placeholder": "Search..",
+    "noCourses": "No courses found"
+  },
+  "main": {
+    "title": "Free Courses with Certificates",
+    "subtitle": "Learn new skills with free certified courses",
+    "featuredCourses": "Featured Courses",
+    "allCourses": "All Courses"
+  },
+  "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "email": "Email",
+    "emailAddress": "Email Address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "username": "Username",
+    "name": "Name",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "loginSuccess": "Login successful!",
+    "signupSuccess": "Account created successfully!",
+    "allFieldsRequired": "All fields are required",
+    "passwordsDontMatch": "Passwords do not match",
+    "passwordRequirements": "Password must be at least 8 characters long and include uppercase, lowercase, number, and special character.",
+    "pleaseFillAllFields": "Please fill all fields",
+    "passwordStrength": "Password strength",
+    "weak": "Weak",
+    "medium": "Medium",
+    "strong": "Strong"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back",
+    "myCourses": "My Courses",
+    "inProgress": "In Progress",
+    "completed": "Completed",
+    "saved": "Saved",
+    "numberOfCourses": "Number of courses",
+    "chartTitle": "Number Of Courses"
+  },
+  "about": {
+    "title": "About Us",
+    "welcomeTag": "Welcome to our community",
+    "subtitle": "Empowering learners worldwide with free, high-quality education and recognized certificates.",
+    "welcomeTitle": "Welcome!",
+    "welcomeDesc": "This initiative was started by",
+    "welcomeDesc2": "with invaluable contributions from the GitHub",
+    "community": "community",
+    "missionTitle": "Our Mission",
+    "missionDesc": "Our mission is to provide",
+    "missionDesc2": "free courses with certificates",
+    "missionDesc3": "to help learners enhance their skills and knowledge globally.",
+    "openSourceTitle": "Open Source",
+    "openSourceDesc": "This repository is open-source and available",
+    "openSourceDesc2": "here",
+    "openSourceDesc3": ". Feel free to contribute!"
+  },
+  "course": {
+    "source": "Source",
+    "price": "Price",
+    "free": "Free",
+    "goToCourse": "Go to Course"
+  },
+  "footer": {
+    "proudlyMadeBy": "Proudly made by",
+    "and": "and"
+  },
+  "theme": {
+    "switchToDark": "Switch to dark mode",
+    "switchToLight": "Switch to light mode"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "backToTop": "Back to Top"
+  },
+  "errorPage": {
+    "title": "404",
+    "message": "The page you are looking for was not found.",
+    "backToHome": "Back to Home"
+  }
+}

@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { Eye, EyeOff } from "lucide-react"; // optional: npm install lucide-react
+import { useTranslation } from 'react-i18next';
 
 export default function Signup({ onSignup, setUserName }) {
   const [name, setName] = useState("");
@@ -10,6 +11,7 @@ export default function Signup({ onSignup, setUserName }) {
   const [showPassword, setShowPassword] = useState(false);
   const [showConfirm, setShowConfirm] = useState(false);
   const navigate = useNavigate();
+  const { t } = useTranslation();
 
  
   const getPasswordStrength = (password) => {
@@ -17,9 +19,9 @@ export default function Signup({ onSignup, setUserName }) {
       /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[!@#$%^&*]).{8,}$/;
     const mediumRegex = /^(?=.*[a-z])(?=.*\d).{6,}$/;
 
-    if (strongRegex.test(password)) return "Strong";
-    if (mediumRegex.test(password)) return "Medium";
-    if (password.length > 0) return "Weak";
+    if (strongRegex.test(password)) return t('auth.strong');
+    if (mediumRegex.test(password)) return t('auth.medium');
+    if (password.length > 0) return t('auth.weak');
     return "";
   };
 
@@ -27,21 +29,19 @@ export default function Signup({ onSignup, setUserName }) {
     e.preventDefault();
 
     if (!name || !email || !password || !confirm) {
-      alert("All fields are required");
+      alert(t('auth.allFieldsRequired'));
       return;
     }
 
     if (password !== confirm) {
-      alert("Passwords do not match");
+      alert(t('auth.passwordsDontMatch'));
       return;
     }
 
     const passwordRegex =
       /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[!@#$%^&*]).{8,}$/;
     if (!passwordRegex.test(password)) {
-      alert(
-        "Password must be at least 8 characters long and include uppercase, lowercase, number, and special character."
-      );
+      alert(t('auth.passwordRequirements'));
       return;
     }
 
@@ -53,15 +53,15 @@ export default function Signup({ onSignup, setUserName }) {
 
   const strength = getPasswordStrength(password);
   const strengthColor =
-    strength === "Strong"
+    strength === t('auth.strong')
       ? "text-green-600"
-      : strength === "Medium"
+      : strength === t('auth.medium')
       ? "text-yellow-600"
       : "text-red-600";
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-50">
-      <h2 className="text-3xl font-bold mb-6 text-gray-800">Sign Up</h2>
+      <h2 className="text-3xl font-bold mb-6 text-gray-800">{t('auth.signup')}</h2>
 
       <form
         onSubmit={handleSubmit}
@@ -70,7 +70,7 @@ export default function Signup({ onSignup, setUserName }) {
         {/* Name */}
         <input
           type="text"
-          placeholder="Full Name"
+          placeholder={t('auth.fullName')}
           className="border p-2 rounded focus:outline-none focus:ring-2 focus:ring-green-400"
           value={name}
           onChange={(e) => setName(e.target.value)}
@@ -79,7 +79,7 @@ export default function Signup({ onSignup, setUserName }) {
         {/* Email */}
         <input
           type="email"
-          placeholder="Email Address"
+          placeholder={t('auth.emailAddress')}
           className="border p-2 rounded focus:outline-none focus:ring-2 focus:ring-green-400"
           value={email}
           onChange={(e) => setEmail(e.target.value)}
@@ -89,7 +89,7 @@ export default function Signup({ onSignup, setUserName }) {
         <div className="relative">
           <input
             type={showPassword ? "text" : "password"}
-            placeholder="Password"
+            placeholder={t('auth.password')}
             className="border p-2 rounded w-full focus:outline-none focus:ring-2 focus:ring-green-400"
             value={password}
             onChange={(e) => setPassword(e.target.value)}
@@ -105,7 +105,7 @@ export default function Signup({ onSignup, setUserName }) {
         {/* Password Strength */}
         {strength && (
           <p className={`text-sm font-semibold ${strengthColor}`}>
-            Password strength: {strength}
+            {t('auth.passwordStrength')}: {strength}
           </p>
         )}
 
@@ -113,7 +113,7 @@ export default function Signup({ onSignup, setUserName }) {
         <div className="relative">
           <input
             type={showConfirm ? "text" : "password"}
-            placeholder="Confirm Password"
+            placeholder={t('auth.confirmPassword')}
             className="border p-2 rounded w-full focus:outline-none focus:ring-2 focus:ring-green-400"
             value={confirm}
             onChange={(e) => setConfirm(e.target.value)}
@@ -128,7 +128,7 @@ export default function Signup({ onSignup, setUserName }) {
 
         {/* Already have account */}
         <p className="text-sm text-gray-700">
-          Already have an account?{" "}
+          {t('auth.alreadyHaveAccount')}{" "}
           <span
             onClick={(e) => {
               e.preventDefault();
@@ -136,7 +136,7 @@ export default function Signup({ onSignup, setUserName }) {
             }}
             className="text-blue-600 cursor-pointer underline"
           >
-            Login
+            {t('auth.login')}
           </span>
         </p>
 
@@ -145,7 +145,7 @@ export default function Signup({ onSignup, setUserName }) {
           type="submit"
           className="bg-green-600 hover:bg-green-700 text-white py-2 rounded font-semibold transition"
         >
-          Sign Up
+          {t('auth.signup')}
         </button>
       </form>
     </div>

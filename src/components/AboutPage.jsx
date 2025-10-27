@@ -1,10 +1,12 @@
 import React from "react";
 import { useTheme } from "../contexts/ThemeContext";
 import { useOutletContext } from "react-router-dom";
+import { useTranslation } from 'react-i18next';
 
 function About() {
   const { theme } = useTheme();
   const { sidebarCollapsed } = useOutletContext() || {};
+  const { t } = useTranslation();
 
   const isDark = theme === "dark";
 
@@ -68,7 +70,7 @@ function About() {
               }`}
             >
               <span className="text-sm font-semibold tracking-widest uppercase">
-                Welcome to our community
+                {t('about.welcomeTag')}
               </span>
             </div>
 
@@ -79,7 +81,7 @@ function About() {
                   : "text-gray-900 drop-shadow-sm"
               }`}
             >
-              About{" "}
+              {t('about.title').split(' ')[0]}{" "}
               <span
                 className={`text-transparent bg-clip-text bg-gradient-to-r ${
                   isDark
@@ -87,7 +89,7 @@ function About() {
                     : "from-yellow-500 via-pink-400 to-fuchsia-400"
                 }`}
               >
-                Us
+                {t('about.title').split(' ')[1]}
               </span>
             </h1>
 
@@ -96,8 +98,7 @@ function About() {
                 isDark ? "text-white/90" : "text-gray-700"
               }`}
             >
-              Empowering learners worldwide with free, high-quality education
-              and recognized certificates.
+              {t('about.subtitle')}
             </p>
           </div>
 
@@ -105,10 +106,10 @@ function About() {
           <div className="space-y-6">
             {[
               {
-                title: "Welcome!",
+                title: t('about.welcomeTitle'),
                 desc: (
                   <>
-                    This initiative was started by{" "}
+                    {t('about.welcomeDesc')}{" "}
                     <a
                       className={`font-bold ${
                         isDark
@@ -121,7 +122,7 @@ function About() {
                     >
                       Avinash Singh
                     </a>{" "}
-                    with invaluable contributions from the GitHub{" "}
+                    {t('about.welcomeDesc2')} GitHub{" "}
                     <a
                       className={`font-semibold underline ${
                         isDark
@@ -132,7 +133,7 @@ function About() {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      community
+                      {t('about.community')}
                     </a>{" "}
                     ❤️
                   </>
@@ -142,15 +143,14 @@ function About() {
                   : "from-yellow-300 to-orange-300",
               },
               {
-                title: "Our Mission",
+                title: t('about.missionTitle'),
                 desc: (
                   <>
-                    Our mission is to provide{" "}
+                    {t('about.missionDesc')}{" "}
                     <span className="font-bold text-yellow-400">
-                      free courses with certificates
+                      {t('about.missionDesc2')}
                     </span>{" "}
-                    to help learners enhance their skills and knowledge
-                    globally.
+                    {t('about.missionDesc3')}
                   </>
                 ),
                 iconColor: isDark
@@ -158,10 +158,10 @@ function About() {
                   : "from-blue-300 to-cyan-300",
               },
               {
-                title: "Open Source",
+                title: t('about.openSourceTitle'),
                 desc: (
                   <>
-                    This repository is open-source and available{" "}
+                    {t('about.openSourceDesc')}{" "}
                     <a
                       className={`font-bold underline ${
                         isDark
@@ -172,9 +172,9 @@ function About() {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      here
+                      {t('about.openSourceDesc2')}
                     </a>
-                    . Feel free to contribute!
+                    . {t('about.openSourceDesc3')}
                   </>
                 ),
                 iconColor: isDark
