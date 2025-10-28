@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { BookmarkProvider } from "./context/BookmarkContext";
 import ProtectedRoute from "./components/ProtectedRoute";
 import Layout from "./components/Layout";
 import Dashboard from "./components/Dashboard";
@@ -9,6 +10,7 @@ import ErrorPage from "./components/ErrorPage";
 import Login from "./components/Login";
 import Signup from "./components/Signup";
 import "./i18n/config";
+import Bookmarks from "./components/Bookmarks";
 
 export default function App() {
   const [isAuth, setIsAuth] = useState(false); // Track login state
@@ -50,9 +52,17 @@ export default function App() {
           path: "signup",
           element: <Signup onSignup={setIsAuth} setUserName={setUserName} />,
         },
+        {
+          path: "bookmarks",
+          element: <Bookmarks />,
+        },
       ],
     },
   ]);
 
-  return <RouterProvider router={router} />;
+  return (
+    <BookmarkProvider>
+      <RouterProvider router={router} />
+    </BookmarkProvider>
+  );
 }

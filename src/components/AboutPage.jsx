@@ -12,7 +12,7 @@ function About() {
 
   return (
     <div
-      className={`relative min-h-screen w-full overflow-y-auto transition-colors duration-300 ${
+      className={`relative min-h-screen w-full overflow-x-hidden overflow-y-hidden transition-colors duration-300 ${
         isDark
           ? "bg-gradient-to-b from-slate-900 via-slate-800 to-gray-900"
           : "bg-gradient-to-b from-white via-gray-50 to-gray-100"

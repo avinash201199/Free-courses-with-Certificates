@@ -1,7 +1,11 @@
-import React from "react";
+import React, { useState, useMemo } from "react";
 import Collapsible from "react-collapsible";
 import courses from "../components/data/allcourses.json";
+import CategoryFilter from "./CategoryFilter";
+import BookmarkIcon from "./BookmarkIcon";
+import { useBookmarks } from "../context/BookmarkContext";
 import "../styles/allcourse.css";
+import "../styles/category.css";
 import Footer from "./footer";
 import { useTranslation } from 'react-i18next';
 
@@ -96,6 +100,54 @@ const CourseData = () => {
       <Collapsible
         key={key}
         trigger={displayTitle}
+
+
+export default function Allcourse() {
+  const [selectedCategory, setSelectedCategory] = useState('All');
+  const { toggleBookmark, isBookmarked } = useBookmarks();
+
+  // Extract unique categories
+  const categories = useMemo(() => {
+    const categoryMap = {
+      'Programming': ['JavaScript', 'Python', 'Java', 'C++', 'C#', 'C', 'Go', 'Ruby', 'PHP', 'Kotlin', 'Swift iOS Development'],
+      'Web Development': ['React', 'Angular', 'NodeJS', 'NextJs', 'jQuery', 'Flask', 'Django', 'FastAPI'],
+      'Data Science': ['Machine Learning', 'Data Science', 'Data Visualization', 'Big Data', 'Artificial intelligence'],
+      'Mobile Development': ['Android', 'Flutter', 'Swift iOS Development'],
+      'Cloud & DevOps': ['AWS', 'Cloud Computing', 'Docker', 'Jenkins'],
+      'Database': ['Database and SQL', 'MySQL', 'MongoDB'],
+      'Cybersecurity': ['Cyber Security', 'Ethical Hacking'],
+      'Design': ['UI/UX'],
+      'Business': ['Digital marketing']
+    };
+    
+    return Object.keys(categoryMap);
+  }, []);
+
+  // Filter courses based on selected category
+  const filteredCourses = useMemo(() => {
+    if (selectedCategory === 'All') return courses;
+    
+    const categoryMap = {
+      'Programming': ['JavaScript', 'Python', 'Java', 'C++', 'C#', 'C', 'Go', 'Ruby', 'PHP', 'Kotlin', 'Swift iOS Development'],
+      'Web Development': ['React', 'Angular', 'NodeJS', 'NextJs', 'jQuery', 'Flask', 'Django', 'FastAPI'],
+      'Data Science': ['Machine Learning', 'Data Science', 'Data Visualization', 'Big Data', 'Artificial intelligence'],
+      'Mobile Development': ['Android', 'Flutter', 'Swift iOS Development'],
+      'Cloud & DevOps': ['AWS', 'Cloud Computing', 'Docker', 'Jenkins'],
+      'Database': ['Database and SQL', 'MySQL', 'MongoDB'],
+      'Cybersecurity': ['Cyber Security', 'Ethical Hacking'],
+      'Design': ['UI/UX'],
+      'Business': ['Digital marketing']
+    };
+    
+    const categoryTitles = categoryMap[selectedCategory] || [];
+    return courses.filter(course => categoryTitles.includes(course.title));
+  }, [selectedCategory]);
+
+  const Data = filteredCourses.map((data, key) => {
+    return (
+      <Collapsible
+        key={key}
+        trigger={data.title}
         className="collapse-main"
         transitionTime="100"
       >
@@ -104,8 +156,15 @@ const CourseData = () => {
             <div
               key={cardKey}
               className="col-lg-4 featured-card"
-              style={{ width: "100%" }}
+              style={{ width: "100%", position: "relative" }}
             >
+              <button
+                className={`bookmark-btn ${isBookmarked(card.link) ? 'bookmarked' : ''}`}
+                onClick={() => toggleBookmark({ ...card, category: data.title })}
+                title={isBookmarked(card.link) ? 'Remove from bookmarks' : 'Add to bookmarks'}
+              >
+                <BookmarkIcon isBookmarked={isBookmarked(card.link)} size={24} />
+              </button>
               <div className="card-icon-title">
                 <div className="card-icon">
                   <i className={card.icon}></i>

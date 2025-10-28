@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, useNavigate } from "react-router-dom";
+import { Link, useNavigate, useLocation } from "react-router-dom";
 import "../styles/sidemenu.css";
 import { useTranslation } from 'react-i18next';
 
@@ -11,6 +11,12 @@ export default function Sidemenu({
 }) {
   const navigate = useNavigate();
   const { t } = useTranslation();
+  const location = useLocation();
+
+  const isActive = (path) =>
+    path === "/"
+      ? location.pathname === "/"
+      : location.pathname === path || location.pathname.startsWith(path + "/");
 
   const handleLogoutClick = () => {
     handleAuth(); // Clears username & sets isAuth = false
@@ -36,31 +42,35 @@ export default function Sidemenu({
       {/* Sidebar Menu */}
       <ul className="sidemenu-list">
         <Link to="/dashboard">
-          <li className="sidemenu-item">
+          <li className={`sidemenu-item ${isActive("/dashboard") ? "active" : ""}`}>
             <span className="material-symbols-outlined">dashboard</span>
             {!collapsed && <span>{t('nav.dashboard')}</span>}
           </li>
         </Link>
 
         <Link to="/">
-          <li className="sidemenu-item">
+          <li className={`sidemenu-item ${isActive("/") ? "active" : ""}`}>
             <span className="material-symbols-outlined">book</span>
             {!collapsed && <span>{t('nav.courses')}</span>}
           </li>
         </Link>
 
-        <li className="sidemenu-item">
-          <span className="material-symbols-outlined">person</span>
-          {!collapsed && <span>{t('nav.students')}</span>}
-        </li>
+        <Link to="/">
+          <li className={`sidemenu-item ${isActive("/students") ? "active" : ""}`}>
+            <span className="material-symbols-outlined">person</span>
+            {!collapsed && <span>Students</span>}
+          </li>
+        </Link>
 
-        <li className="sidemenu-item">
-          <span className="material-symbols-outlined">library_books</span>
-          {!collapsed && <span>{t('nav.library')}</span>}
-        </li>
+        <Link to="/">
+          <li className={`sidemenu-item ${isActive("/library") ? "active" : ""}`}>
+            <span className="material-symbols-outlined">library_books</span>
+            {!collapsed && <span>Library</span>}
+          </li>
+        </Link>
 
         <Link to="/about">
-          <li className="sidemenu-item">
+          <li className={`sidemenu-item ${isActive("/about") ? "active" : ""}`}>
             <span className="material-symbols-outlined">
               sentiment_very_satisfied
             </span>
@@ -70,7 +80,7 @@ export default function Sidemenu({
 
         {/* Login / Logout Button */}
         <li
-          className="sidemenu-item auth-button"
+          className={`sidemenu-item auth-button ${isActive("/login") && !isAuth ? "active" : ""}`}
           onClick={() => {
             if (isAuth) {
               handleLogoutClick(); // Logout + redirect
