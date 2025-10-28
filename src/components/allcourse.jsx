@@ -11,78 +11,78 @@ const CourseData = () => {
   // Map course titles to translation keys
   const getTitleKey = (title) => {
     const titleMap = {
-      "AI Tools": "courseCategories.aiTools",
-      "Android": "courseCategories.android",
-      "Angular": "courseCategories.angular",
-      "Database and SQL": "courseCategories.database",
-      "AWS": "courseCategories.aws",
-      "Data Visualization": "courseCategories.dataVisualization",
-      "Digital marketing": "courseCategories.digitalMarketing",
-      "Artificial intelligence": "courseCategories.artificialIntelligence",
-      "Augmented Reality": "courseCategories.augmentedReality",
-      "Back-end Development": "courseCategories.backendDevelopment",
-      "Big Data": "courseCategories.bigData",
-      "Analytics cards": "courseCategories.analytics",
-      "Programming Fundamentals": "courseCategories.programmingFundamentals",
-      "Blockchain Technology": "courseCategories.blockchain",
-      "C": "courseCategories.c",
-      "GitHub Tutorial": "courseCategories.githubTutorial",
-      "C++": "courseCategories.cpp",
-      "C#": "courseCategories.csharp",
-      "JavaScript": "courseCategories.javascript",
-      "jQuery": "courseCategories.jquery",
-      "Kotlin": "courseCategories.kotlin",
-      "Linux": "courseCategories.linux",
-      "Machine Learning": "courseCategories.machineLearning",
-      "MongoDB": "courseCategories.mongodb",
-      "MySQL": "courseCategories.mysql",
-      "NodeJS": "courseCategories.nodejs",
-      "NextJs": "courseCategories.nextjs",
-      "Cloud Computing": "courseCategories.cloudComputing",
-      "Cyber Security": "courseCategories.cyberSecurity",
-      "Data Programming": "courseCategories.dataProgramming",
-      "Data Science": "courseCategories.dataScience",
-      "Dart Programming Language": "courseCategories.dart",
-      "Internet of Things": "courseCategories.iot",
-      "Data Structure & Algorithm": "courseCategories.dsa",
-      "Database Normalization": "courseCategories.databaseNormalization",
-      "Docker": "courseCategories.docker",
-      "Git": "courseCategories.git",
-      "Ethical Hacking": "courseCategories.ethicalHacking",
-      "GitOps": "courseCategories.gitops",
-      "Go": "courseCategories.go",
-      "GraphQL": "courseCategories.graphql",
-      "Java": "courseCategories.java",
-      "Operating System": "courseCategories.operatingSystem",
-      "PHP": "courseCategories.php",
-      "Python": "courseCategories.python",
-      "Python Libraries/Tools": "courseCategories.pythonLibraries",
-      "Quantum Computing": "courseCategories.quantumComputing",
-      "Raspberry Pi": "courseCategories.raspberryPi",
-      "React": "courseCategories.react",
-      "Ruby": "courseCategories.ruby",
-      "Scala": "courseCategories.scala",
-      "Scientific Computing": "courseCategories.scientificComputing",
-      "Software testing": "courseCategories.softwareTesting",
-      "Swift iOS Development": "courseCategories.swift",
-      "Tableau": "courseCategories.tableau",
-      "Flask": "courseCategories.flask",
-      "Typescript": "courseCategories.typescript",
-      "UI/UX": "courseCategories.uiux",
-      "Web Development": "courseCategories.webDevelopment",
-      "Introduction to Computer Science": "courseCategories.computerScience",
-      "Front-end Development": "courseCategories.frontendDevelopment",
-      "Jenkins": "courseCategories.jenkins",
-      "Google Cloud Provider": "courseCategories.googleCloud",
-      "Flutter": "courseCategories.flutter",
-      "Integration Platform": "courseCategories.integrationPlatform",
-      "Web 3.0 and  Blockchain": "courseCategories.web3",
-      "Software Testing/Quality Assurance": "courseCategories.qa",
-      "Django": "courseCategories.django",
-      "FastAPI": "courseCategories.fastapi",
-      "Computer Networking": "courseCategories.networking",
-      "Deep Learning": "courseCategories.deepLearning",
-      "Generative AI": "courseCategories.generativeAi"
+      "AI Tools": "aiTools",
+      "Android": "android",
+      "Angular": "angular",
+      "Database and SQL": "database",
+      "AWS": "aws",
+      "Data Visualization": "dataVisualization",
+      "Digital marketing": "digitalMarketing",
+      "Artificial intelligence": "artificialIntelligence",
+      "Augmented Reality": "augmentedReality",
+      "Back-end Development": "backendDevelopment",
+      "Big Data": "bigData",
+      "Analytics cards": "analytics",
+      "Programming Fundamentals": "programmingFundamentals",
+      "Blockchain Technology": "blockchain",
+      "C": "c",
+      "GitHub Tutorial": "githubTutorial",
+      "C++": "cpp",
+      "C#": "csharp",
+      "JavaScript": "javascript",
+      "jQuery": "jquery",
+      "Kotlin": "kotlin",
+      "Linux": "linux",
+      "Machine Learning": "machineLearning",
+      "MongoDB": "mongodb",
+      "MySQL": "mysql",
+      "NodeJS": "nodejs",
+      "NextJs": "nextjs",
+      "Cloud Computing": "cloudComputing",
+      "Cyber Security": "cyberSecurity",
+      "Data Programming": "dataProgramming",
+      "Data Science": "dataScience",
+      "Dart Programming Language": "dart",
+      "Internet of Things": "iot",
+      "Data Structure & Algorithm": "dsa",
+      "Database Normalization": "databaseNormalization",
+      "Docker": "docker",
+      "Git": "git",
+      "Ethical Hacking": "ethicalHacking",
+      "GitOps": "gitops",
+      "Go": "go",
+      "GraphQL": "graphql",
+      "Java": "java",
+      "Operating System": "operatingSystem",
+      "PHP": "php",
+      "Python": "python",
+      "Python Libraries/Tools": "pythonLibraries",
+      "Quantum Computing": "quantumComputing",
+      "Raspberry Pi": "raspberryPi",
+      "React": "react",
+      "Ruby": "ruby",
+      "Scala": "scala",
+      "Scientific Computing": "scientificComputing",
+      "Software testing": "softwareTesting",
+      "Swift iOS Development": "swift",
+      "Tableau": "tableau",
+      "Flask": "flask",
+      "Typescript": "typescript",
+      "UI/UX": "uiux",
+      "Web Development": "webDevelopment",
+      "Introduction to Computer Science": "computerScience",
+      "Front-end Development": "frontendDevelopment",
+      "Jenkins": "jenkins",
+      "Google Cloud Provider": "googleCloud",
+      "Flutter": "flutter",
+      "Integration Platform": "integrationPlatform",
+      "Web 3.0 and  Blockchain": "web3",
+      "Software Testing/Quality Assurance": "qa",
+      "Django": "django",
+      "FastAPI": "fastapi",
+      "Computer Networking": "networking",
+      "Deep Learning": "deepLearning",
+      "Generative AI": "generativeAi"
     };
     
     return titleMap[title] || null;
@@ -90,7 +90,7 @@ const CourseData = () => {
   
   const Data = courses.map((data, key) => {
     const titleKey = getTitleKey(data.title);
-    const displayTitle = titleKey ? t(titleKey) : data.title;
+    const displayTitle = titleKey ? t(`courseCategories.${titleKey}`) : data.title;
     
     return (
       <Collapsible
@@ -99,10 +99,10 @@ const CourseData = () => {
         className="collapse-main"
         transitionTime="100"
       >
-        {data.cards.map((card, key) => {
+        {data.cards.map((card, cardKey) => {
           return (
             <div
-              key={key}
+              key={cardKey}
               className="col-lg-4 featured-card"
               style={{ width: "100%" }}
             >
@@ -116,7 +116,7 @@ const CourseData = () => {
               </div>
               <div className="card-price-button">
                 <div className="card-price">{t('course.price')}: {t('course.free')}</div>
-                <a className="card-button" href={card.link}>
+                <a className="card-button" href={card.link} target="_blank" rel="noreferrer">
                   {t('course.goToCourse')}
                 </a>
               </div>
