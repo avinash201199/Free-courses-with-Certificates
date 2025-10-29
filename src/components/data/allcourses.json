@@ -366,6 +366,13 @@
         "source": "Udacity",
         "link": "https://www.udacity.com/course/intro-to-backend--ud171"
       }
+      ,
+      {
+        "icon": "fa-solid fa-network-wired",
+        "name": "Microservices Architecture",
+        "source": "Coursera",
+        "link": "https://www.coursera.org/learn/microservices"
+      }
     ]
   },
   {
@@ -938,6 +945,13 @@
         "name": "Cloud Computing for Absolute Beginners - IaaS",
         "source": "Alison",
         "link": "https://alison.com/course/cloud-computing-for-absolute-beginners-iaas"
+      }
+      ,
+      {
+        "icon": "fa-solid fa-cloud-arrow-down",
+        "name": "Cloud Serverless Application",
+        "source": "Great Learning",
+        "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/cloud-serverless-application"
       }
     ]
   },
