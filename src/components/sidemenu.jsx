@@ -20,6 +20,7 @@ export default function Sidemenu({
     handleAuth(); // Clears username & sets isAuth = false
     navigate("/login"); // Redirect to login page
   };
+  
 
   return (
     <div className={`sidemenu-bar ${collapsed ? "collapsed" : "expanded"}`}>
@@ -54,16 +55,12 @@ export default function Sidemenu({
         </Link>
 
         <Link to="/roadmap">
-          <li className="sidemenu-item">
+          <li className={`sidemenu-item ${isActive("/roadmap") ? "active" : ""}`}>
             <span className="material-symbols-outlined">school</span>
             {!collapsed && <span>Learning Roadmap</span>}
           </li>
         </Link>
 
-        <li className="sidemenu-item">
-          <span className="material-symbols-outlined">person</span>
-          {!collapsed && <span>Students</span>}
-        </li>
         <Link to="/">
           <li className={`sidemenu-item ${isActive("/students") ? "active" : ""}`}>
             <span className="material-symbols-outlined">person</span>
