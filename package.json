@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@tremor/react": "^3.8.2",
+    "axios": "^1.13.1",
     "bootstrap": "^5.2.2",
     "framer-motion": "^10.16.4",
     "lucide-react": "^0.279.0",
