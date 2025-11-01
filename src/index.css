@@ -16,6 +16,19 @@
   --sidemenu-width: 80px;
 }
 
+#google_translate_element {
+  position: fixed;
+  top: 80px;
+  right: 10px;
+  z-index: 9999; /* Make sure it stays above all elements */
+}
+
+body, h2, p {
+  margin: 0;
+  padding: 0;
+}
+
+
 .dark {
   background-color: #0f172a;
   --bg-primary: #0f172a;

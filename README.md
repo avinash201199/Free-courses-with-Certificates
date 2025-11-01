@@ -65,6 +65,17 @@ Website- https://www.ev.org.br/cursos/desenvolvendo-aplicacoes-mobile-com-androi
 </details>
 
 <details>
+<summary>Data Science</summary>
+<br>
+Coursera – Data Science Fundamentals with Python and SQL<br>
+Website – https://www.coursera.org/learn/data-science-fundamentals-python-sql<br>
+<br>
+Kaggle – Intro to Data Science<br>
+Website – https://www.kaggle.com/learn/intro-to-data-science<br>
+<br>
+</details>
+
+<details>
 <summary>Angular</summary>
 <br>
 Sololearn - Angular + NestJS<br>
