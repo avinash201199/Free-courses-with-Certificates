@@ -30,28 +30,41 @@ const LearningRoadmap = ({ courses }) => {
     };
 
     return (
-        <div className="p-4 border rounded shadow">
-            <h2 className="text-xl font-bold mb-2">AI Learning Roadmap</h2>
+        <div
+            style={{
+                marginLeft: "var(--sidemenu-width)",
+                transition: "margin-left 0.18s ease",
+                display: "flex",
+                justifyContent: "center",
+                paddingTop: "24px",
+                paddingLeft: "12px",
+                paddingRight: "12px",
+            }}
+        >
+            {/* centered card — max width keeps it centered on large screens */}
+            <div className="w-full max-w-3xl p-6 border rounded shadow bg-white dark:bg-gray-800">
+                <h2 className="text-xl font-bold mb-2">AI Learning Roadmap</h2>
 
-            <input
-                type="text"
-                placeholder="Your goal (e.g., Become Data Scientist)"
-                value={goal}
-                onChange={(e) => setGoal(e.target.value)}
-                className="border p-2 rounded w-full mb-2"
-            />
+                <input
+                    type="text"
+                    placeholder="Your goal (e.g., Become Data Scientist)"
+                    value={goal}
+                    onChange={(e) => setGoal(e.target.value)}
+                    className="border p-2 rounded w-full mb-2"
+                />
 
-            <button
-                onClick={handleGenerate}
-                className="bg-blue-500 text-white px-4 py-2 rounded"
-                disabled={loading}
-            >
-                {loading ? "Generating..." : "Generate Roadmap"}
-            </button>
+                <button
+                    onClick={handleGenerate}
+                    className="bg-blue-500 text-white px-4 py-2 rounded"
+                    disabled={loading}
+                >
+                    {loading ? "Generating..." : "Generate Roadmap"}
+                </button>
 
-            {error && <p className="mt-2 text-red-500">{error}</p>}
+                {error && <p className="mt-2 text-red-500">{error}</p>}
 
-            {roadmap && <pre className="mt-4 p-2 bg-gray-100 rounded">{roadmap}</pre>}
+                {roadmap && <pre className="mt-4 p-2 background-color rounded">{roadmap}</pre>}
+            </div>
         </div>
     );
 };
